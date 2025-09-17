@@ -1,1 +1,9 @@
-{}
+{
+    "shared_FreeToken": {
+        "last_claim_timestamp": "2025-09-17T19:58:01.255012+00:00",
+        "current_token": "FreeToken",
+        "token_expiry_timestamp": "2025-09-20T19:58:01.255012+00:00",
+        "source_alias": "beginner",
+        "is_shared": true
+    }
+}
