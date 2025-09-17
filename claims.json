@@ -11,5 +11,11 @@
         "current_token": "SUBSCRIBER-N624-20250917",
         "token_expiry_timestamp": "2025-09-22T20:05:41.050484+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1225341206943371277": {
+        "last_claim_timestamp": "2025-09-17T21:46:27.529360+00:00",
+        "current_token": "VIP-B1II-20250917",
+        "token_expiry_timestamp": "2025-10-17T21:46:27.529360+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
