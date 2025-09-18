@@ -47,5 +47,11 @@
         "current_token": "INNERCIRCLE-H5VZ-20250918",
         "token_expiry_timestamp": "2025-09-25T07:39:31.621510+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1217646623254122579": {
+        "last_claim_timestamp": "2025-09-18T08:33:37.143557+00:00",
+        "current_token": "BEGINNER-DRQK-20250918",
+        "token_expiry_timestamp": "2025-09-21T08:33:37.143557+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
