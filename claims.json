@@ -35,5 +35,11 @@
         "current_token": "SUBSCRIBER-SAJT-20250918",
         "token_expiry_timestamp": "2025-09-23T01:52:37.391514+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1112003184907534377": {
+        "last_claim_timestamp": "2025-09-18T02:40:42.197839+00:00",
+        "current_token": "BEGINNER-ZZN2-20250918",
+        "token_expiry_timestamp": "2025-09-21T02:40:42.197839+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
