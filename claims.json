@@ -65,5 +65,11 @@
         "current_token": "VIP-5KSO-20250918",
         "token_expiry_timestamp": "2025-10-18T13:25:34.648542+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1396826009462116372": {
+        "last_claim_timestamp": "2025-09-18T15:06:03.529754+00:00",
+        "current_token": "INNERCIRCLE-JCTG-20250918",
+        "token_expiry_timestamp": "2025-09-25T15:06:03.529754+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
