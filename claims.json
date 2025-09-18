@@ -59,5 +59,11 @@
         "current_token": "SUBSCRIBER-X97M-20250918",
         "token_expiry_timestamp": "2025-09-23T08:57:33.986687+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "927932266540326932": {
+        "last_claim_timestamp": "2025-09-18T13:25:34.648542+00:00",
+        "current_token": "VIP-5KSO-20250918",
+        "token_expiry_timestamp": "2025-10-18T13:25:34.648542+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
