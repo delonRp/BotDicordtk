@@ -89,5 +89,11 @@
         "current_token": "INNERCIRCLE-MPU5-20250918",
         "token_expiry_timestamp": "2025-09-25T21:37:29.781112+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1083388050639425566": {
+        "last_claim_timestamp": "2025-09-18T23:10:45.053764+00:00",
+        "current_token": "SUBSCRIBER-XI3F-20250918",
+        "token_expiry_timestamp": "2025-09-23T23:10:45.053764+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
