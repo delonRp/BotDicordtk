@@ -77,5 +77,11 @@
         "current_token": "SUBSCRIBER-KIYH-20250918",
         "token_expiry_timestamp": "2025-09-23T16:15:11.793286+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1285532912720281714": {
+        "last_claim_timestamp": "2025-09-18T18:59:38.563932+00:00",
+        "current_token": "BEGINNER-5KT7-20250918",
+        "token_expiry_timestamp": "2025-09-21T18:59:38.563932+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
