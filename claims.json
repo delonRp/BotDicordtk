@@ -71,5 +71,11 @@
         "current_token": "INNERCIRCLE-JCTG-20250918",
         "token_expiry_timestamp": "2025-09-25T15:06:03.529754+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1401729325148930109": {
+        "last_claim_timestamp": "2025-09-18T16:15:11.793286+00:00",
+        "current_token": "SUBSCRIBER-KIYH-20250918",
+        "token_expiry_timestamp": "2025-09-23T16:15:11.793286+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
