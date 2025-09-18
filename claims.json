@@ -23,5 +23,11 @@
         "current_token": "SUBSCRIBER-NTG6-20250917",
         "token_expiry_timestamp": "2025-09-22T22:15:59.263593+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1205919148543184897": {
+        "last_claim_timestamp": "2025-09-18T01:23:58.729405+00:00",
+        "current_token": "SUBSCRIBER-MSGA-20250918",
+        "token_expiry_timestamp": "2025-09-23T01:23:58.729405+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
