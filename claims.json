@@ -131,5 +131,11 @@
         "current_token": "BEGINNER-CG3T-20250919",
         "token_expiry_timestamp": "2025-09-22T16:00:39.727579+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "815810875834368001": {
+        "last_claim_timestamp": "2025-09-19T18:41:31.200329+00:00",
+        "current_token": "BEGINNER-2JWN-20250919",
+        "token_expiry_timestamp": "2025-09-22T18:41:31.200329+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
