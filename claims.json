@@ -101,5 +101,11 @@
         "current_token": "BEGINNER-A4X8-20250919",
         "token_expiry_timestamp": "2025-09-22T02:30:56.759269+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1363443968586547402": {
+        "last_claim_timestamp": "2025-09-19T03:43:33.868556+00:00",
+        "current_token": "SUBSCRIBER-T8UK-20250919",
+        "token_expiry_timestamp": "2025-09-24T03:43:33.868556+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
