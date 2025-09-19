@@ -125,5 +125,11 @@
         "current_token": "SUBSCRIBER-BDPC-20250919",
         "token_expiry_timestamp": "2025-09-24T14:35:17.976157+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1195227033890988052": {
+        "last_claim_timestamp": "2025-09-19T16:00:39.727579+00:00",
+        "current_token": "BEGINNER-CG3T-20250919",
+        "token_expiry_timestamp": "2025-09-22T16:00:39.727579+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
