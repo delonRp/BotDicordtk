@@ -546,5 +546,11 @@
         "current_token": "BEGINNER-LPD5-20250920",
         "token_expiry_timestamp": "2025-09-23T21:54:16.060409+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1212422148673642496": {
+        "last_claim_timestamp": "2025-09-20T22:20:38.394739+00:00",
+        "current_token": "SUBSCRIBER-28G9-20250920",
+        "token_expiry_timestamp": "2025-09-25T22:20:38.394739+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
