@@ -570,5 +570,12 @@
         "current_token": "BEGINNER-N4U7-20250920",
         "token_expiry_timestamp": "2025-09-23T22:56:52.791147+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_aziziqwerty": {
+        "last_claim_timestamp": "2025-09-20T23:16:24.712084+00:00",
+        "current_token": "aziziqwerty",
+        "token_expiry_timestamp": "2025-10-20T23:16:24.712084+00:00",
+        "source_alias": "forgesyndicate",
+        "is_shared": true
     }
 }
