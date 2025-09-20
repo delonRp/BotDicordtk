@@ -401,5 +401,12 @@
         "current_token": "INNERCIRCLE-K8C9-20250920",
         "token_expiry_timestamp": "2025-09-27T12:44:15.736951+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_pipo": {
+        "last_claim_timestamp": "2025-09-20T12:45:04.794062+00:00",
+        "current_token": "pipo",
+        "token_expiry_timestamp": "2025-10-20T12:45:04.794062+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
