@@ -257,5 +257,11 @@
         "current_token": "BEGINNER-FKSU-20250920",
         "token_expiry_timestamp": "2025-09-23T07:24:26.352982+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1402242860035866726": {
+        "last_claim_timestamp": "2025-09-20T07:49:54.869497+00:00",
+        "current_token": "SUBSCRIBER-FG30-20250920",
+        "token_expiry_timestamp": "2025-09-25T07:49:54.869497+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
