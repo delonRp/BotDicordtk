@@ -275,5 +275,11 @@
         "current_token": "SUBSCRIBER-VJL7-20250920",
         "token_expiry_timestamp": "2025-09-25T08:52:10.075876+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1313761529039949824": {
+        "last_claim_timestamp": "2025-09-20T09:10:28.644268+00:00",
+        "current_token": "BEGINNER-XWCP-20250920",
+        "token_expiry_timestamp": "2025-09-23T09:10:28.644268+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
