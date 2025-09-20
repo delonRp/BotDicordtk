@@ -347,5 +347,11 @@
         "current_token": "BEGINNER-LQBN-20250920",
         "token_expiry_timestamp": "2025-09-23T11:11:19.917649+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1411619787070771281": {
+        "last_claim_timestamp": "2025-09-20T11:19:58.829170+00:00",
+        "current_token": "BEGINNER-0BW0-20250920",
+        "token_expiry_timestamp": "2025-09-23T11:19:58.829170+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
