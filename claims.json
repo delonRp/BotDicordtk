@@ -522,5 +522,11 @@
         "current_token": "INNERCIRCLE-U4P1-20250920",
         "token_expiry_timestamp": "2025-09-27T20:32:54.802815+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1187327987960533013": {
+        "last_claim_timestamp": "2025-09-20T20:50:43.742139+00:00",
+        "current_token": "INNERCIRCLE-RTMY-20250920",
+        "token_expiry_timestamp": "2025-09-27T20:50:43.742139+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
