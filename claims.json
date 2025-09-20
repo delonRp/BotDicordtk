@@ -323,5 +323,11 @@
         "current_token": "BEGINNER-7VFN-20250920",
         "token_expiry_timestamp": "2025-09-23T10:12:04.212830+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1112703503475945593": {
+        "last_claim_timestamp": "2025-09-20T10:43:58.085781+00:00",
+        "current_token": "SUBSCRIBER-3DKN-20250920",
+        "token_expiry_timestamp": "2025-09-25T10:43:58.085781+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
