@@ -528,5 +528,11 @@
         "current_token": "INNERCIRCLE-RTMY-20250920",
         "token_expiry_timestamp": "2025-09-27T20:50:43.742139+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1409189386674765945": {
+        "last_claim_timestamp": "2025-09-20T21:07:42.209917+00:00",
+        "current_token": "SUBSCRIBER-SQJ9-20250920",
+        "token_expiry_timestamp": "2025-09-25T21:07:42.209917+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
