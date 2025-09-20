@@ -438,5 +438,11 @@
         "current_token": "SUBSCRIBER-UF17-20250920",
         "token_expiry_timestamp": "2025-09-25T14:54:15.305844+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1208098963115474975": {
+        "last_claim_timestamp": "2025-09-20T15:30:25.293422+00:00",
+        "current_token": "SUBSCRIBER-80T5-20250920",
+        "token_expiry_timestamp": "2025-09-25T15:30:25.293422+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
