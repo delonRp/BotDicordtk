@@ -143,5 +143,11 @@
         "current_token": "BEGINNER-P6ID-20250919",
         "token_expiry_timestamp": "2025-09-22T19:44:54.815219+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1400089006871416984": {
+        "last_claim_timestamp": "2025-09-20T00:26:26.241915+00:00",
+        "current_token": "BEGINNER-K8TO-20250920",
+        "token_expiry_timestamp": "2025-09-23T00:26:26.241915+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
