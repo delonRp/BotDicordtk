@@ -245,5 +245,11 @@
         "current_token": "BEGINNER-EGVU-20250920",
         "token_expiry_timestamp": "2025-09-23T06:49:12.189899+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1416372516519149648": {
+        "last_claim_timestamp": "2025-09-20T07:00:28.736347+00:00",
+        "current_token": "BEGINNER-VP75-20250920",
+        "token_expiry_timestamp": "2025-09-23T07:00:28.736347+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
