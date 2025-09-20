@@ -426,5 +426,11 @@
         "current_token": "BEGINNER-SP3D-20250920",
         "token_expiry_timestamp": "2025-09-23T13:20:39.142281+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1401129947099304018": {
+        "last_claim_timestamp": "2025-09-20T14:38:38.208734+00:00",
+        "current_token": "BEGINNER-Q47J-20250920",
+        "token_expiry_timestamp": "2025-09-23T14:38:38.208734+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
