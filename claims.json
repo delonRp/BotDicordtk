@@ -474,5 +474,11 @@
         "current_token": "SUBSCRIBER-7SEE-20250920",
         "token_expiry_timestamp": "2025-09-25T16:12:34.367985+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "670638144906985492": {
+        "last_claim_timestamp": "2025-09-20T16:15:34.165975+00:00",
+        "current_token": "SUBSCRIBER-NQKA-20250920",
+        "token_expiry_timestamp": "2025-09-25T16:15:34.165975+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
