@@ -155,5 +155,11 @@
         "current_token": "BEGINNER-EK3W-20250920",
         "token_expiry_timestamp": "2025-09-23T01:56:25.579479+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1400307025530851489": {
+        "last_claim_timestamp": "2025-09-20T02:50:18.751727+00:00",
+        "current_token": "SUBSCRIBER-XGLK-20250920",
+        "token_expiry_timestamp": "2025-09-25T02:50:18.751727+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
