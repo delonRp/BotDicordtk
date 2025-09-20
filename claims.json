@@ -583,5 +583,11 @@
         "current_token": "BEGINNER-0NG2-20250920",
         "token_expiry_timestamp": "2025-09-23T23:30:59.586738+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1404832635754385430": {
+        "last_claim_timestamp": "2025-09-20T23:42:08.610577+00:00",
+        "current_token": "BEGINNER-N31Z-20250920",
+        "token_expiry_timestamp": "2025-09-23T23:42:08.610577+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
