@@ -395,5 +395,11 @@
         "current_token": "SUBSCRIBER-Y2TH-20250920",
         "token_expiry_timestamp": "2025-09-25T12:31:06.152224+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1151370324022136893": {
+        "last_claim_timestamp": "2025-09-20T12:44:15.736951+00:00",
+        "current_token": "INNERCIRCLE-K8C9-20250920",
+        "token_expiry_timestamp": "2025-09-27T12:44:15.736951+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
