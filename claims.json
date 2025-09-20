@@ -191,5 +191,11 @@
         "current_token": "SUBSCRIBER-62E4-20250920",
         "token_expiry_timestamp": "2025-09-25T04:26:13.682739+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1398206610761056337": {
+        "last_claim_timestamp": "2025-09-20T04:28:20.461049+00:00",
+        "current_token": "BEGINNER-NGL4-20250920",
+        "token_expiry_timestamp": "2025-09-23T04:28:20.461049+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
