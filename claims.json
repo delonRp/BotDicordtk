@@ -552,5 +552,11 @@
         "current_token": "SUBSCRIBER-28G9-20250920",
         "token_expiry_timestamp": "2025-09-25T22:20:38.394739+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1388060185385238639": {
+        "last_claim_timestamp": "2025-09-20T22:34:34.546765+00:00",
+        "current_token": "BEGINNER-ORY6-20250920",
+        "token_expiry_timestamp": "2025-09-23T22:34:34.546765+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
