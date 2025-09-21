@@ -613,5 +613,11 @@
         "current_token": "SUBSCRIBER-DS7P-20250921",
         "token_expiry_timestamp": "2025-09-26T01:54:10.052897+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1376039595203887226": {
+        "last_claim_timestamp": "2025-09-21T02:18:45.508215+00:00",
+        "current_token": "BEGINNER-6FBC-20250921",
+        "token_expiry_timestamp": "2025-09-24T02:18:45.508215+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
