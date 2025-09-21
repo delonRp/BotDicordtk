@@ -811,5 +811,11 @@
         "current_token": "SUBSCRIBER-8XL9-20250921",
         "token_expiry_timestamp": "2025-09-26T19:46:37.203154+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1254033373333028889": {
+        "last_claim_timestamp": "2025-09-21T20:53:01.494145+00:00",
+        "current_token": "SUBSCRIBER-R2RP-20250921",
+        "token_expiry_timestamp": "2025-09-26T20:53:01.494145+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
