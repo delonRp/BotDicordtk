@@ -595,5 +595,11 @@
         "current_token": "BEGINNER-92S6-20250921",
         "token_expiry_timestamp": "2025-09-24T01:04:16.385886+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1234893692087697488": {
+        "last_claim_timestamp": "2025-09-21T01:13:30.122028+00:00",
+        "current_token": "INNERCIRCLE-W0YI-20250921",
+        "token_expiry_timestamp": "2025-09-28T01:13:30.122028+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
