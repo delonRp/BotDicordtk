@@ -697,5 +697,11 @@
         "current_token": "INNERCIRCLE-R6FY-20250921",
         "token_expiry_timestamp": "2025-09-28T08:22:21.460026+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1392205823153016925": {
+        "last_claim_timestamp": "2025-09-21T09:00:10.451735+00:00",
+        "current_token": "BEGINNER-SPCO-20250921",
+        "token_expiry_timestamp": "2025-09-24T09:00:10.451735+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
