@@ -757,5 +757,11 @@
         "current_token": "BEGINNER-2RSB-20250921",
         "token_expiry_timestamp": "2025-09-24T14:39:28.587413+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1295351168129830927": {
+        "last_claim_timestamp": "2025-09-21T15:18:54.938958+00:00",
+        "current_token": "BEGINNER-AYZA-20250921",
+        "token_expiry_timestamp": "2025-09-24T15:18:54.938958+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
