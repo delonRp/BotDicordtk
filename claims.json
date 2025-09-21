@@ -601,5 +601,11 @@
         "current_token": "INNERCIRCLE-W0YI-20250921",
         "token_expiry_timestamp": "2025-09-28T01:13:30.122028+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1412652986597117982": {
+        "last_claim_timestamp": "2025-09-21T01:44:00.959414+00:00",
+        "current_token": "INNERCIRCLE-ROD8-20250921",
+        "token_expiry_timestamp": "2025-09-28T01:44:00.959414+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
