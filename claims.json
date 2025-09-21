@@ -685,5 +685,11 @@
         "current_token": "BEGINNER-RG1X-20250921",
         "token_expiry_timestamp": "2025-09-24T08:03:44.083896+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1376076519666880542": {
+        "last_claim_timestamp": "2025-09-21T08:18:56.677125+00:00",
+        "current_token": "INNERCIRCLE-3LMS-20250921",
+        "token_expiry_timestamp": "2025-09-28T08:18:56.677125+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
