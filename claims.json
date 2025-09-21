@@ -799,5 +799,11 @@
         "current_token": "BEGINNER-17H3-20250921",
         "token_expiry_timestamp": "2025-09-24T18:17:15.181110+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1224325141601714248": {
+        "last_claim_timestamp": "2025-09-21T18:29:56.171769+00:00",
+        "current_token": "SUBSCRIBER-J0UE-20250921",
+        "token_expiry_timestamp": "2025-09-26T18:29:56.171769+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
