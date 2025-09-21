@@ -661,5 +661,11 @@
         "current_token": "BEGINNER-ZKFI-20250921",
         "token_expiry_timestamp": "2025-09-24T05:55:29.323300+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1284453465732415553": {
+        "last_claim_timestamp": "2025-09-21T06:18:04.234563+00:00",
+        "current_token": "BEGINNER-00LI-20250921",
+        "token_expiry_timestamp": "2025-09-24T06:18:04.234563+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
