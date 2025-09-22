@@ -956,5 +956,11 @@
         "current_token": "SUBSCRIBER-NFVG-20250922",
         "token_expiry_timestamp": "2025-09-27T15:02:49.472462+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1400653328454782976": {
+        "last_claim_timestamp": "2025-09-22T15:28:35.735917+00:00",
+        "current_token": "SUBSCRIBER-L8RN-20250922",
+        "token_expiry_timestamp": "2025-09-27T15:28:35.735917+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
