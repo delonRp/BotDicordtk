@@ -1005,5 +1005,11 @@
         "current_token": "BEGINNER-TXLF-20250922",
         "token_expiry_timestamp": "2025-09-25T18:01:51.390822+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1402816675916546140": {
+        "last_claim_timestamp": "2025-09-22T19:09:06.286152+00:00",
+        "current_token": "SUBSCRIBER-GN0P-20250922",
+        "token_expiry_timestamp": "2025-09-27T19:09:06.286152+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
