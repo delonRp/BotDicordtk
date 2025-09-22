@@ -835,5 +835,11 @@
         "current_token": "SUBSCRIBER-V72P-20250922",
         "token_expiry_timestamp": "2025-09-27T01:53:12.391685+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1256510831345012849": {
+        "last_claim_timestamp": "2025-09-22T02:30:59.412780+00:00",
+        "current_token": "BEGINNER-Z800-20250922",
+        "token_expiry_timestamp": "2025-09-25T02:30:59.412780+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
