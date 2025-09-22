@@ -1017,5 +1017,11 @@
         "current_token": "SUBSCRIBER-1HM7-20250922",
         "token_expiry_timestamp": "2025-09-27T21:24:57.488617+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1417311435880398908": {
+        "last_claim_timestamp": "2025-09-22T21:26:10.959015+00:00",
+        "current_token": "SUBSCRIBER-UKW3-20250922",
+        "token_expiry_timestamp": "2025-09-27T21:26:10.959015+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
