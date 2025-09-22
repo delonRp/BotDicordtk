@@ -993,5 +993,11 @@
         "current_token": "INNERCIRCLE-VZ9I-20250922",
         "token_expiry_timestamp": "2025-09-29T17:04:18.727947+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1419628988976070657": {
+        "last_claim_timestamp": "2025-09-22T17:43:07.914246+00:00",
+        "current_token": "SUBSCRIBER-W5FP-20250922",
+        "token_expiry_timestamp": "2025-09-27T17:43:07.914246+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
