@@ -981,5 +981,11 @@
         "current_token": "BEGINNER-Q1C6-20250922",
         "token_expiry_timestamp": "2025-09-25T16:20:01.747636+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1380422423517728880": {
+        "last_claim_timestamp": "2025-09-22T16:51:32.855552+00:00",
+        "current_token": "BEGINNER-NZQT-20250922",
+        "token_expiry_timestamp": "2025-09-25T16:51:32.855552+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
