@@ -1029,5 +1029,11 @@
         "current_token": "BEGINNER-ZOK8-20250922",
         "token_expiry_timestamp": "2025-09-25T22:07:01.636969+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1413052776224788480": {
+        "last_claim_timestamp": "2025-09-22T22:22:45.523875+00:00",
+        "current_token": "BEGINNER-12OG-20250922",
+        "token_expiry_timestamp": "2025-09-25T22:22:45.523875+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
