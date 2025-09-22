@@ -987,5 +987,11 @@
         "current_token": "BEGINNER-NZQT-20250922",
         "token_expiry_timestamp": "2025-09-25T16:51:32.855552+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1386170835642875996": {
+        "last_claim_timestamp": "2025-09-22T17:04:18.727947+00:00",
+        "current_token": "INNERCIRCLE-VZ9I-20250922",
+        "token_expiry_timestamp": "2025-09-29T17:04:18.727947+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
