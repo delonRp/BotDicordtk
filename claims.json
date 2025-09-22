@@ -962,5 +962,11 @@
         "current_token": "SUBSCRIBER-L8RN-20250922",
         "token_expiry_timestamp": "2025-09-27T15:28:35.735917+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1303235494133628949": {
+        "last_claim_timestamp": "2025-09-22T15:43:34.373601+00:00",
+        "current_token": "BEGINNER-5J22-20250922",
+        "token_expiry_timestamp": "2025-09-25T15:43:34.373601+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
