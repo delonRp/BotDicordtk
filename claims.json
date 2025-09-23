@@ -1125,5 +1125,12 @@
         "current_token": "SUBSCRIBER-XQUA-20250923",
         "token_expiry_timestamp": "2025-09-28T10:14:31.764927+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_valenbost": {
+        "last_claim_timestamp": "2025-09-23T10:23:03.321013+00:00",
+        "current_token": "valenbost",
+        "token_expiry_timestamp": "2025-09-30T10:23:03.321013+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
