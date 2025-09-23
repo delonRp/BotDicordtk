@@ -1163,5 +1163,11 @@
         "token_expiry_timestamp": "2025-10-03T11:36:19.154707+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1413508754342809630": {
+        "last_claim_timestamp": "2025-09-23T11:37:10.824842+00:00",
+        "current_token": "VIP-FTLY-20250923",
+        "token_expiry_timestamp": "2025-10-23T11:37:10.824842+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
