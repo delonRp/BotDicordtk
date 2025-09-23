@@ -1144,5 +1144,11 @@
         "current_token": "SUBSCRIBER-7VI4-20250923",
         "token_expiry_timestamp": "2025-09-28T11:16:08.649024+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1348332918354870373": {
+        "last_claim_timestamp": "2025-09-23T11:25:58.494461+00:00",
+        "current_token": "SUPPORTER-MOVR-20250923",
+        "token_expiry_timestamp": "2025-10-03T11:25:58.494461+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
