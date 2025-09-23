@@ -1162,5 +1162,12 @@
         "current_token": "SUBSCRIBER-LOK5-20250923",
         "token_expiry_timestamp": "2025-09-28T11:33:20.768989+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_iky": {
+        "last_claim_timestamp": "2025-09-23T11:36:19.154707+00:00",
+        "current_token": "iky",
+        "token_expiry_timestamp": "2025-10-03T11:36:19.154707+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
