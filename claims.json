@@ -1047,5 +1047,11 @@
         "current_token": "BEGINNER-YTHQ-20250923",
         "token_expiry_timestamp": "2025-09-26T00:55:55.712212+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1221131989227143219": {
+        "last_claim_timestamp": "2025-09-23T02:19:14.279605+00:00",
+        "current_token": "BEGINNER-QNSZ-20250923",
+        "token_expiry_timestamp": "2025-09-26T02:19:14.279605+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
