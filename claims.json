@@ -162,12 +162,6 @@
         "token_expiry_timestamp": "2025-09-25T02:50:18.751727+00:00",
         "source_alias": "forgesyndicate"
     },
-    "1348332918354870373": {
-        "last_claim_timestamp": "2025-09-20T03:45:47.093007+00:00",
-        "current_token": "SUBSCRIBER-KCFK-20250920",
-        "token_expiry_timestamp": "2025-09-25T03:45:47.093007+00:00",
-        "source_alias": "forgesyndicate"
-    },
     "1315111649908097116": {
         "last_claim_timestamp": "2025-09-20T03:48:26.108057+00:00",
         "current_token": "BEGINNER-QZPN-20250920",
