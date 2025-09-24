@@ -1330,5 +1330,11 @@
         "token_expiry_timestamp": "2025-10-01T13:22:45.103060+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1416001937811177534": {
+        "last_claim_timestamp": "2025-09-24T13:24:32.213175+00:00",
+        "current_token": "BEGINNER-NUQA-20250924",
+        "token_expiry_timestamp": "2025-09-27T13:24:32.213175+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
