@@ -1336,5 +1336,11 @@
         "current_token": "BEGINNER-NUQA-20250924",
         "token_expiry_timestamp": "2025-09-27T13:24:32.213175+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1377214362422476831": {
+        "last_claim_timestamp": "2025-09-24T13:59:42.598664+00:00",
+        "current_token": "INNERCIRCLE-SO8P-20250924",
+        "token_expiry_timestamp": "2025-10-01T13:59:42.598664+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
