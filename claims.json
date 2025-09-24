@@ -1329,5 +1329,12 @@
         "current_token": "SUPPORTER-138O-20250924",
         "token_expiry_timestamp": "2025-10-04T13:15:09.099568+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_asap": {
+        "last_claim_timestamp": "2025-09-24T13:22:45.103060+00:00",
+        "current_token": "asap",
+        "token_expiry_timestamp": "2025-10-01T13:22:45.103060+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
