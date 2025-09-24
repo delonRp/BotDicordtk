@@ -1243,5 +1243,11 @@
         "current_token": "SUBSCRIBER-DG24-20250924",
         "token_expiry_timestamp": "2025-09-29T02:00:27.798077+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1392130041873305755": {
+        "last_claim_timestamp": "2025-09-24T03:36:24.373133+00:00",
+        "current_token": "BEGINNER-0TYH-20250924",
+        "token_expiry_timestamp": "2025-09-27T03:36:24.373133+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
