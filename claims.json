@@ -1224,5 +1224,11 @@
         "current_token": "BEGINNER-AMXM-20250924",
         "token_expiry_timestamp": "2025-09-27T00:48:58.365913+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1181391961819721784": {
+        "last_claim_timestamp": "2025-09-24T01:33:05.325841+00:00",
+        "current_token": "VIP-OQRG-20250924",
+        "token_expiry_timestamp": "2025-10-24T01:33:05.325841+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
