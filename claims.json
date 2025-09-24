@@ -1372,5 +1372,11 @@
         "current_token": "BEGINNER-PH4W-20250924",
         "token_expiry_timestamp": "2025-09-27T19:11:57.053793+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1019920984184201227": {
+        "last_claim_timestamp": "2025-09-24T19:28:05.627588+00:00",
+        "current_token": "INNERCIRCLE-4IBM-20250924",
+        "token_expiry_timestamp": "2025-10-01T19:28:05.627588+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
