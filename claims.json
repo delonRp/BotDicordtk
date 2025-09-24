@@ -1324,12 +1324,6 @@
         "token_expiry_timestamp": "2025-09-29T13:14:05.492370+00:00",
         "source_alias": "forgesyndicate"
     },
-    "1419141625720082483": {
-        "last_claim_timestamp": "2025-09-24T13:15:09.099568+00:00",
-        "current_token": "SUPPORTER-138O-20250924",
-        "token_expiry_timestamp": "2025-10-04T13:15:09.099568+00:00",
-        "source_alias": "forgesyndicate"
-    },
     "shared_asap": {
         "last_claim_timestamp": "2025-09-24T13:22:45.103060+00:00",
         "current_token": "asap",
