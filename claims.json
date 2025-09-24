@@ -1230,5 +1230,12 @@
         "current_token": "VIP-OQRG-20250924",
         "token_expiry_timestamp": "2025-10-24T01:33:05.325841+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_gacor": {
+        "last_claim_timestamp": "2025-09-24T01:42:27.048275+00:00",
+        "current_token": "gacor",
+        "token_expiry_timestamp": "2025-09-25T01:42:27.048275+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
