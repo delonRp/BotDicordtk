@@ -1275,5 +1275,11 @@
         "token_expiry_timestamp": "2025-09-25T09:30:37.929397+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1418575211640393839": {
+        "last_claim_timestamp": "2025-09-24T09:31:33.358712+00:00",
+        "current_token": "INNERCIRCLE-1BVV-20250924",
+        "token_expiry_timestamp": "2025-10-01T09:31:33.358712+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
