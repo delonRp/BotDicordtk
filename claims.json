@@ -1237,5 +1237,11 @@
         "token_expiry_timestamp": "2025-09-25T01:42:27.048275+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1129172042944630836": {
+        "last_claim_timestamp": "2025-09-24T02:00:27.798077+00:00",
+        "current_token": "SUBSCRIBER-DG24-20250924",
+        "token_expiry_timestamp": "2025-09-29T02:00:27.798077+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
