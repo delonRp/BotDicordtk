@@ -1293,5 +1293,11 @@
         "current_token": "SUBSCRIBER-BZES-20250924",
         "token_expiry_timestamp": "2025-09-29T11:47:33.440914+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1356431377909682356": {
+        "last_claim_timestamp": "2025-09-24T12:11:34.236195+00:00",
+        "current_token": "BEGINNER-JPZJ-20250924",
+        "token_expiry_timestamp": "2025-09-27T12:11:34.236195+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
