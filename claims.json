@@ -1378,5 +1378,11 @@
         "current_token": "BEGINNER-SUQJ-20250924",
         "token_expiry_timestamp": "2025-09-27T21:53:27.599631+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1296020876655071335": {
+        "last_claim_timestamp": "2025-09-25T01:07:21.879033+00:00",
+        "current_token": "INNERCIRCLE-OWEP-20250925",
+        "token_expiry_timestamp": "2025-10-02T01:07:21.879033+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
