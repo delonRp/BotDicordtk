@@ -1414,5 +1414,11 @@
         "current_token": "BEGINNER-DMSR-20250925",
         "token_expiry_timestamp": "2025-09-28T08:37:26.528822+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1002508189461381160": {
+        "last_claim_timestamp": "2025-09-25T08:49:41.632005+00:00",
+        "current_token": "BEGINNER-PL1Q-20250925",
+        "token_expiry_timestamp": "2025-09-28T08:49:41.632005+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
