@@ -1432,5 +1432,11 @@
         "current_token": "BEGINNER-WLPJ-20250925",
         "token_expiry_timestamp": "2025-09-28T10:08:19.469146+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1409572407903260697": {
+        "last_claim_timestamp": "2025-09-25T10:49:09.356625+00:00",
+        "current_token": "BEGINNER-5VXH-20250925",
+        "token_expiry_timestamp": "2025-09-28T10:49:09.356625+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
