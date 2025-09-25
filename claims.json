@@ -1426,5 +1426,11 @@
         "current_token": "SUBSCRIBER-OF8F-20250925",
         "token_expiry_timestamp": "2025-09-30T09:50:39.121260+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1207208719344074772": {
+        "last_claim_timestamp": "2025-09-25T10:08:19.469146+00:00",
+        "current_token": "BEGINNER-WLPJ-20250925",
+        "token_expiry_timestamp": "2025-09-28T10:08:19.469146+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
