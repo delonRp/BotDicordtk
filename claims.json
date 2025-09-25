@@ -1492,5 +1492,11 @@
         "current_token": "SUBSCRIBER-C2TZ-20250925",
         "token_expiry_timestamp": "2025-09-30T16:10:48.421637+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1408727563123036282": {
+        "last_claim_timestamp": "2025-09-25T17:23:57.311265+00:00",
+        "current_token": "BEGINNER-HHX9-20250925",
+        "token_expiry_timestamp": "2025-09-28T17:23:57.311265+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
