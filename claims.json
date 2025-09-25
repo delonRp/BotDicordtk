@@ -1384,5 +1384,11 @@
         "current_token": "INNERCIRCLE-OWEP-20250925",
         "token_expiry_timestamp": "2025-10-02T01:07:21.879033+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "750221051505410119": {
+        "last_claim_timestamp": "2025-09-25T01:07:35.391708+00:00",
+        "current_token": "BEGINNER-MQG6-20250925",
+        "token_expiry_timestamp": "2025-09-28T01:07:35.391708+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
