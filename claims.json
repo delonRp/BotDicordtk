@@ -1480,5 +1480,11 @@
         "current_token": "BEGINNER-W31V-20250925",
         "token_expiry_timestamp": "2025-09-28T14:36:05.553737+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1419739372831506492": {
+        "last_claim_timestamp": "2025-09-25T14:41:50.458136+00:00",
+        "current_token": "SUBSCRIBER-IO96-20250925",
+        "token_expiry_timestamp": "2025-09-30T14:41:50.458136+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
