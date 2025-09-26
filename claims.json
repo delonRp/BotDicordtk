@@ -1516,5 +1516,11 @@
         "current_token": "BEGINNER-QOU4-20250926",
         "token_expiry_timestamp": "2025-09-29T02:57:34.239851+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "782445287855489076": {
+        "last_claim_timestamp": "2025-09-26T04:01:38.470701+00:00",
+        "current_token": "SUBSCRIBER-EXM4-20250926",
+        "token_expiry_timestamp": "2025-10-01T04:01:38.470701+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
