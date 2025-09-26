@@ -1522,5 +1522,11 @@
         "current_token": "SUBSCRIBER-EXM4-20250926",
         "token_expiry_timestamp": "2025-10-01T04:01:38.470701+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1335901722748518495": {
+        "last_claim_timestamp": "2025-09-26T04:07:46.514503+00:00",
+        "current_token": "BEGINNER-OGFN-20250926",
+        "token_expiry_timestamp": "2025-09-29T04:07:46.514503+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
