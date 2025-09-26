@@ -1576,5 +1576,11 @@
         "current_token": "BEGINNER-MGGU-20250926",
         "token_expiry_timestamp": "2025-09-29T12:23:27.276028+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1403944472022224966": {
+        "last_claim_timestamp": "2025-09-26T12:57:28.693518+00:00",
+        "current_token": "SUBSCRIBER-PZCJ-20250926",
+        "token_expiry_timestamp": "2025-10-01T12:57:28.693518+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
