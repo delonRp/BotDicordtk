@@ -1630,5 +1630,11 @@
         "current_token": "SUBSCRIBER-O43C-20250926",
         "token_expiry_timestamp": "2025-10-01T22:59:23.294932+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1243507008078876684": {
+        "last_claim_timestamp": "2025-09-26T23:10:41.139562+00:00",
+        "current_token": "BEGINNER-YFSK-20250926",
+        "token_expiry_timestamp": "2025-09-29T23:10:41.139562+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
