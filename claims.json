@@ -1690,5 +1690,11 @@
         "current_token": "SUPPORTER-TLKS-20250927",
         "token_expiry_timestamp": "2025-10-07T08:43:56.552879+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1406189182589603972": {
+        "last_claim_timestamp": "2025-09-27T09:33:26.666796+00:00",
+        "current_token": "BEGINNER-VOM2-20250927",
+        "token_expiry_timestamp": "2025-09-30T09:33:26.666796+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
