@@ -1799,5 +1799,11 @@
         "current_token": "BEGINNER-TKIF-20250927",
         "token_expiry_timestamp": "2025-09-30T22:00:25.176205+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1313368178507780196": {
+        "last_claim_timestamp": "2025-09-27T23:40:35.127512+00:00",
+        "current_token": "BEGINNER-ELYV-20250927",
+        "token_expiry_timestamp": "2025-09-30T23:40:35.127512+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
