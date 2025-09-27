@@ -1781,5 +1781,11 @@
         "current_token": "BEGINNER-4EPQ-20250927",
         "token_expiry_timestamp": "2025-09-30T17:04:47.126681+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1421193353625731162": {
+        "last_claim_timestamp": "2025-09-27T18:46:54.872525+00:00",
+        "current_token": "BEGINNER-Q4X2-20250927",
+        "token_expiry_timestamp": "2025-09-30T18:46:54.872525+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
