@@ -1696,5 +1696,11 @@
         "current_token": "BEGINNER-VOM2-20250927",
         "token_expiry_timestamp": "2025-09-30T09:33:26.666796+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1418878479696400387": {
+        "last_claim_timestamp": "2025-09-27T09:44:39.366344+00:00",
+        "current_token": "BEGINNER-QK0N-20250927",
+        "token_expiry_timestamp": "2025-09-30T09:44:39.366344+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
