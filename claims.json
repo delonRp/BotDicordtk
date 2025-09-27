@@ -1648,5 +1648,11 @@
         "current_token": "SUBSCRIBER-8DBV-20250927",
         "token_expiry_timestamp": "2025-10-02T00:20:55.121085+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "891343205465993287": {
+        "last_claim_timestamp": "2025-09-27T01:01:23.966343+00:00",
+        "current_token": "BEGINNER-OUEY-20250927",
+        "token_expiry_timestamp": "2025-09-30T01:01:23.966343+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
