@@ -1769,5 +1769,11 @@
         "current_token": "SUBSCRIBER-FWYF-20250927",
         "token_expiry_timestamp": "2025-10-02T15:49:11.665850+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1390150883387641888": {
+        "last_claim_timestamp": "2025-09-27T16:11:23.087686+00:00",
+        "current_token": "BEGINNER-CP2U-20250927",
+        "token_expiry_timestamp": "2025-09-30T16:11:23.087686+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
