@@ -1636,5 +1636,11 @@
         "current_token": "BEGINNER-YFSK-20250926",
         "token_expiry_timestamp": "2025-09-29T23:10:41.139562+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1371436690580836362": {
+        "last_claim_timestamp": "2025-09-27T00:04:35.890749+00:00",
+        "current_token": "SUBSCRIBER-UL7W-20250927",
+        "token_expiry_timestamp": "2025-10-02T00:04:35.890749+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
