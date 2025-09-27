@@ -1775,5 +1775,11 @@
         "current_token": "BEGINNER-CP2U-20250927",
         "token_expiry_timestamp": "2025-09-30T16:11:23.087686+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "977223084463505408": {
+        "last_claim_timestamp": "2025-09-27T17:04:47.126681+00:00",
+        "current_token": "BEGINNER-4EPQ-20250927",
+        "token_expiry_timestamp": "2025-09-30T17:04:47.126681+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
