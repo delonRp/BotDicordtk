@@ -1745,5 +1745,11 @@
         "current_token": "BEGINNER-D69L-20250927",
         "token_expiry_timestamp": "2025-09-30T14:07:01.690530+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1271704535953313827": {
+        "last_claim_timestamp": "2025-09-27T15:07:07.296075+00:00",
+        "current_token": "INNERCIRCLE-2DZE-20250927",
+        "token_expiry_timestamp": "2025-10-04T15:07:07.296075+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
