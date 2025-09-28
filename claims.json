@@ -1913,5 +1913,11 @@
         "current_token": "BEGINNER-EN6D-20250928",
         "token_expiry_timestamp": "2025-10-01T10:51:19.109437+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1313442977397604382": {
+        "last_claim_timestamp": "2025-09-28T10:54:51.582492+00:00",
+        "current_token": "INNERCIRCLE-79EH-20250928",
+        "token_expiry_timestamp": "2025-10-05T10:54:51.582492+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
