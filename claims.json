@@ -1811,5 +1811,11 @@
         "current_token": "BEGINNER-DB4A-20250928",
         "token_expiry_timestamp": "2025-10-01T00:10:41.208252+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1411273167472824410": {
+        "last_claim_timestamp": "2025-09-28T01:10:34.393454+00:00",
+        "current_token": "BEGINNER-MZJE-20250928",
+        "token_expiry_timestamp": "2025-10-01T01:10:34.393454+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
