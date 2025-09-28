@@ -1835,5 +1835,11 @@
         "current_token": "INNERCIRCLE-CSFS-20250928",
         "token_expiry_timestamp": "2025-10-05T04:59:45.969905+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1380545934936637582": {
+        "last_claim_timestamp": "2025-09-28T05:09:45.268254+00:00",
+        "current_token": "INNERCIRCLE-4MZQ-20250928",
+        "token_expiry_timestamp": "2025-10-05T05:09:45.268254+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
