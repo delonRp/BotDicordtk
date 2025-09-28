@@ -1979,5 +1979,11 @@
         "current_token": "BEGINNER-MEKZ-20250928",
         "token_expiry_timestamp": "2025-10-01T15:50:32.934744+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1421493522779078757": {
+        "last_claim_timestamp": "2025-09-28T16:23:05.437780+00:00",
+        "current_token": "BEGINNER-0HED-20250928",
+        "token_expiry_timestamp": "2025-10-01T16:23:05.437780+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
