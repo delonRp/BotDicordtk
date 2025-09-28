@@ -1859,5 +1859,11 @@
         "current_token": "SUBSCRIBER-ITKA-20250928",
         "token_expiry_timestamp": "2025-10-03T06:24:34.206471+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1228676682462920755": {
+        "last_claim_timestamp": "2025-09-28T07:06:34.012904+00:00",
+        "current_token": "INNERCIRCLE-7W8X-20250928",
+        "token_expiry_timestamp": "2025-10-05T07:06:34.012904+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
