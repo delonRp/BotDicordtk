@@ -1949,5 +1949,11 @@
         "current_token": "BEGINNER-H74Y-20250928",
         "token_expiry_timestamp": "2025-10-01T12:57:17.071165+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1281756801775173664": {
+        "last_claim_timestamp": "2025-09-28T13:57:50.416643+00:00",
+        "current_token": "BEGINNER-XIXN-20250928",
+        "token_expiry_timestamp": "2025-10-01T13:57:50.416643+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
