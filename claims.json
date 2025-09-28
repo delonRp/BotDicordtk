@@ -1805,5 +1805,11 @@
         "current_token": "BEGINNER-ELYV-20250927",
         "token_expiry_timestamp": "2025-09-30T23:40:35.127512+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1404420152652595240": {
+        "last_claim_timestamp": "2025-09-28T00:10:41.208252+00:00",
+        "current_token": "BEGINNER-DB4A-20250928",
+        "token_expiry_timestamp": "2025-10-01T00:10:41.208252+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
