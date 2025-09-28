@@ -1871,5 +1871,11 @@
         "current_token": "INNERCIRCLE-VU8J-20250928",
         "token_expiry_timestamp": "2025-10-05T08:07:36.458243+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1322124548153544774": {
+        "last_claim_timestamp": "2025-09-28T08:40:56.166693+00:00",
+        "current_token": "BEGINNER-7WG3-20250928",
+        "token_expiry_timestamp": "2025-10-01T08:40:56.166693+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
