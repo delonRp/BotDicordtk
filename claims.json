@@ -1847,5 +1847,11 @@
         "current_token": "INNERCIRCLE-JNPO-20250928",
         "token_expiry_timestamp": "2025-10-05T05:28:13.613938+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1392354235445936138": {
+        "last_claim_timestamp": "2025-09-28T05:58:12.970984+00:00",
+        "current_token": "BEGINNER-A2A0-20250928",
+        "token_expiry_timestamp": "2025-10-01T05:58:12.970984+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
