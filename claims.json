@@ -1931,5 +1931,11 @@
         "current_token": "BEGINNER-EXB2-20250928",
         "token_expiry_timestamp": "2025-10-01T11:27:41.248244+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1379662805455605793": {
+        "last_claim_timestamp": "2025-09-28T11:34:38.742629+00:00",
+        "current_token": "INNERCIRCLE-ZMQ9-20250928",
+        "token_expiry_timestamp": "2025-10-05T11:34:38.742629+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
