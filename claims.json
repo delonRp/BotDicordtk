@@ -1823,5 +1823,11 @@
         "current_token": "BEGINNER-V3SQ-20250928",
         "token_expiry_timestamp": "2025-10-01T03:29:28.058265+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1395299306965045353": {
+        "last_claim_timestamp": "2025-09-28T03:57:01.230493+00:00",
+        "current_token": "INNERCIRCLE-1PTZ-20250928",
+        "token_expiry_timestamp": "2025-10-05T03:57:01.230493+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
