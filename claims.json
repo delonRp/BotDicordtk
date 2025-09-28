@@ -1955,5 +1955,11 @@
         "current_token": "BEGINNER-XIXN-20250928",
         "token_expiry_timestamp": "2025-10-01T13:57:50.416643+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1075223455429050468": {
+        "last_claim_timestamp": "2025-09-28T13:59:37.260793+00:00",
+        "current_token": "INNERCIRCLE-C7Q4-20250928",
+        "token_expiry_timestamp": "2025-10-05T13:59:37.260793+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
