@@ -1967,5 +1967,11 @@
         "current_token": "BEGINNER-WSLA-20250928",
         "token_expiry_timestamp": "2025-10-01T14:36:35.768914+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1380894058083389582": {
+        "last_claim_timestamp": "2025-09-28T15:08:57.284148+00:00",
+        "current_token": "BEGINNER-1VPI-20250928",
+        "token_expiry_timestamp": "2025-10-01T15:08:57.284148+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
