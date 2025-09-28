@@ -1973,5 +1973,11 @@
         "current_token": "BEGINNER-1VPI-20250928",
         "token_expiry_timestamp": "2025-10-01T15:08:57.284148+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "852225355183685692": {
+        "last_claim_timestamp": "2025-09-28T15:50:32.934744+00:00",
+        "current_token": "BEGINNER-MEKZ-20250928",
+        "token_expiry_timestamp": "2025-10-01T15:50:32.934744+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
