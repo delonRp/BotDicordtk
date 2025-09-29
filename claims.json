@@ -2139,5 +2139,11 @@
         "current_token": "SUBSCRIBER-3NCW-20250929",
         "token_expiry_timestamp": "2025-10-04T20:53:02.502373+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1140170655585812590": {
+        "last_claim_timestamp": "2025-09-29T20:58:47.381308+00:00",
+        "current_token": "BEGINNER-MCCU-20250929",
+        "token_expiry_timestamp": "2025-10-02T20:58:47.381308+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
