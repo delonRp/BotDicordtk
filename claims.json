@@ -2151,5 +2151,11 @@
         "current_token": "BEGINNER-IFAU-20250929",
         "token_expiry_timestamp": "2025-10-02T22:24:22.268058+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1273440414057238559": {
+        "last_claim_timestamp": "2025-09-29T22:33:52.178768+00:00",
+        "current_token": "BEGINNER-BPGW-20250929",
+        "token_expiry_timestamp": "2025-10-02T22:33:52.178768+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
