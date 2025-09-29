@@ -2145,5 +2145,11 @@
         "current_token": "BEGINNER-MCCU-20250929",
         "token_expiry_timestamp": "2025-10-02T20:58:47.381308+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1257302643034816553": {
+        "last_claim_timestamp": "2025-09-29T22:24:22.268058+00:00",
+        "current_token": "BEGINNER-IFAU-20250929",
+        "token_expiry_timestamp": "2025-10-02T22:24:22.268058+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
