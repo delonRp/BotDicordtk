@@ -2015,5 +2015,11 @@
         "current_token": "BEGINNER-9YLT-20250929",
         "token_expiry_timestamp": "2025-10-02T04:02:13.961490+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1384079894476095530": {
+        "last_claim_timestamp": "2025-09-29T04:33:06.038981+00:00",
+        "current_token": "BEGINNER-4CDE-20250929",
+        "token_expiry_timestamp": "2025-10-02T04:33:06.038981+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
