@@ -2115,5 +2115,11 @@
         "current_token": "SUBSCRIBER-UCHH-20250929",
         "token_expiry_timestamp": "2025-10-04T16:05:28.531250+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "829554896223076402": {
+        "last_claim_timestamp": "2025-09-29T17:24:31.538621+00:00",
+        "current_token": "BEGINNER-VRZ5-20250929",
+        "token_expiry_timestamp": "2025-10-02T17:24:31.538621+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
