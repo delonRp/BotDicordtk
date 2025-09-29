@@ -2046,5 +2046,12 @@
         "current_token": "SUBSCRIBER-TPIL-20250929",
         "token_expiry_timestamp": "2025-10-04T09:04:57.077858+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_Maulpempek": {
+        "last_claim_timestamp": "2025-09-29T10:38:02.533920+00:00",
+        "current_token": "Maulpempek",
+        "token_expiry_timestamp": "2025-10-29T10:38:02.533920+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
