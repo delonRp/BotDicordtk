@@ -2021,5 +2021,12 @@
         "current_token": "BEGINNER-4CDE-20250929",
         "token_expiry_timestamp": "2025-10-02T04:33:06.038981+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_asepboy": {
+        "last_claim_timestamp": "2025-09-29T06:15:18.148571+00:00",
+        "current_token": "asepboy",
+        "token_expiry_timestamp": "2025-10-29T06:15:18.148571+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
