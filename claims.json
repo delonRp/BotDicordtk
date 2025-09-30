@@ -2157,5 +2157,12 @@
         "current_token": "BEGINNER-BPGW-20250929",
         "token_expiry_timestamp": "2025-10-02T22:33:52.178768+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_Mancing": {
+        "last_claim_timestamp": "2025-09-30T01:07:26.973494+00:00",
+        "current_token": "Mancing",
+        "token_expiry_timestamp": "2025-10-30T01:07:26.973494+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
