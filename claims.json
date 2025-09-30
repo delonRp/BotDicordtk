@@ -2252,5 +2252,11 @@
         "current_token": "BEGINNER-PSW1-20250930",
         "token_expiry_timestamp": "2025-10-03T12:56:33.953760+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1418777188739842210": {
+        "last_claim_timestamp": "2025-09-30T14:11:00.606693+00:00",
+        "current_token": "BEGINNER-F5YP-20250930",
+        "token_expiry_timestamp": "2025-10-03T14:11:00.606693+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
