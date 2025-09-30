@@ -2264,5 +2264,11 @@
         "current_token": "SUBSCRIBER-8OHA-20250930",
         "token_expiry_timestamp": "2025-10-05T15:40:10.976566+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1413416934153654283": {
+        "last_claim_timestamp": "2025-09-30T18:08:08.127035+00:00",
+        "current_token": "BEGINNER-P8X3-20250930",
+        "token_expiry_timestamp": "2025-10-03T18:08:08.127035+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
