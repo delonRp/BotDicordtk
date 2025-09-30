@@ -2164,5 +2164,12 @@
         "token_expiry_timestamp": "2025-10-30T01:07:26.973494+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "shared_JOT1212": {
+        "last_claim_timestamp": "2025-09-30T02:54:42.597091+00:00",
+        "current_token": "JOT1212",
+        "token_expiry_timestamp": "2025-10-30T02:54:42.597091+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
