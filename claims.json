@@ -2208,5 +2208,12 @@
         "current_token": "SUBSCRIBER-54SN-20250930",
         "token_expiry_timestamp": "2025-10-05T09:18:20.126002+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_cash": {
+        "last_claim_timestamp": "2025-09-30T10:11:06.085011+00:00",
+        "current_token": "cash",
+        "token_expiry_timestamp": "2025-09-30T10:41:06.085011+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
