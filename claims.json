@@ -2202,5 +2202,11 @@
         "current_token": "BEGINNER-5NLI-20250930",
         "token_expiry_timestamp": "2025-10-03T09:01:09.768068+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1210998259703746601": {
+        "last_claim_timestamp": "2025-09-30T09:18:20.126002+00:00",
+        "current_token": "SUBSCRIBER-54SN-20250930",
+        "token_expiry_timestamp": "2025-10-05T09:18:20.126002+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
