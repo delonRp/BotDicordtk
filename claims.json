@@ -2183,5 +2183,11 @@
         "current_token": "INNERCIRCLE-QJEG-20250930",
         "token_expiry_timestamp": "2025-10-07T06:52:39.373484+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1422157716729630821": {
+        "last_claim_timestamp": "2025-09-30T07:00:11.822493+00:00",
+        "current_token": "BEGINNER-MX2X-20250930",
+        "token_expiry_timestamp": "2025-10-03T07:00:11.822493+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
