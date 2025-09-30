@@ -2233,5 +2233,12 @@
         "current_token": "BEGINNER-0XFF-20250930",
         "token_expiry_timestamp": "2025-10-03T10:20:24.209988+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_boost": {
+        "last_claim_timestamp": "2025-09-30T10:38:35.600482+00:00",
+        "current_token": "boost",
+        "token_expiry_timestamp": "2025-10-03T10:38:35.600482+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
