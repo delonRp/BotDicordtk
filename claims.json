@@ -2282,5 +2282,11 @@
         "current_token": "BEGINNER-TYKV-20251001",
         "token_expiry_timestamp": "2025-10-04T00:51:20.441310+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1352544645141237793": {
+        "last_claim_timestamp": "2025-10-01T08:07:01.524387+00:00",
+        "current_token": "SUBSCRIBER-PIFO-20251001",
+        "token_expiry_timestamp": "2025-10-06T08:07:01.524387+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
