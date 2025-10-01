@@ -2294,5 +2294,11 @@
         "current_token": "BEGINNER-IHGK-20251001",
         "token_expiry_timestamp": "2025-10-04T08:23:48.188019+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1323880283510145089": {
+        "last_claim_timestamp": "2025-10-01T09:08:34.256874+00:00",
+        "current_token": "SUBSCRIBER-DHSN-20251001",
+        "token_expiry_timestamp": "2025-10-06T09:08:34.256874+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
