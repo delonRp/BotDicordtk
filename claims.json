@@ -2312,5 +2312,11 @@
         "current_token": "SUBSCRIBER-PIAY-20251001",
         "token_expiry_timestamp": "2025-10-06T09:21:43.847828+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1380429728682479686": {
+        "last_claim_timestamp": "2025-10-01T09:29:17.502448+00:00",
+        "current_token": "SUBSCRIBER-GK3X-20251001",
+        "token_expiry_timestamp": "2025-10-06T09:29:17.502448+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
