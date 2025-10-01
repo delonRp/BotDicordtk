@@ -2288,5 +2288,11 @@
         "current_token": "SUBSCRIBER-PIFO-20251001",
         "token_expiry_timestamp": "2025-10-06T08:07:01.524387+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "772201996056002572": {
+        "last_claim_timestamp": "2025-10-01T08:23:48.188019+00:00",
+        "current_token": "BEGINNER-IHGK-20251001",
+        "token_expiry_timestamp": "2025-10-04T08:23:48.188019+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
