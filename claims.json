@@ -2438,5 +2438,11 @@
         "current_token": "SUBSCRIBER-UEOS-20251003",
         "token_expiry_timestamp": "2025-10-08T14:38:18.530085+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1359850751295488215": {
+        "last_claim_timestamp": "2025-10-03T15:38:43.182407+00:00",
+        "current_token": "BEGINNER-LOCF-20251003",
+        "token_expiry_timestamp": "2025-10-06T15:38:43.182407+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
