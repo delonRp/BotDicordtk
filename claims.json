@@ -2450,5 +2450,11 @@
         "current_token": "BEGINNER-G23I-20251003",
         "token_expiry_timestamp": "2025-10-06T16:22:51.982795+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1323113313697267726": {
+        "last_claim_timestamp": "2025-10-03T20:52:08.641846+00:00",
+        "current_token": "SUBSCRIBER-F3HM-20251003",
+        "token_expiry_timestamp": "2025-10-08T20:52:08.641846+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
