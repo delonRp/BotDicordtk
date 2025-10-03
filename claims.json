@@ -2378,5 +2378,11 @@
         "current_token": "SUBSCRIBER-N1DX-20251003",
         "token_expiry_timestamp": "2025-10-08T07:28:23.801831+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1407449058498576527": {
+        "last_claim_timestamp": "2025-10-03T08:04:48.211190+00:00",
+        "current_token": "BEGINNER-CIJQ-20251003",
+        "token_expiry_timestamp": "2025-10-06T08:04:48.211190+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
