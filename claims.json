@@ -2366,5 +2366,11 @@
         "current_token": "BEGINNER-92P7-20251003",
         "token_expiry_timestamp": "2025-10-06T06:50:50.734541+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1325399001360760963": {
+        "last_claim_timestamp": "2025-10-03T07:20:34.238946+00:00",
+        "current_token": "SUBSCRIBER-QMWZ-20251003",
+        "token_expiry_timestamp": "2025-10-08T07:20:34.238946+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
