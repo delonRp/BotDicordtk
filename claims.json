@@ -2390,5 +2390,11 @@
         "current_token": "VIP-8YEG-20251003",
         "token_expiry_timestamp": "2025-11-02T08:42:44.986061+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1396008980299649187": {
+        "last_claim_timestamp": "2025-10-03T08:46:14.118486+00:00",
+        "current_token": "BEGINNER-SQ5J-20251003",
+        "token_expiry_timestamp": "2025-10-06T08:46:14.118486+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
