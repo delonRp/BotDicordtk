@@ -2408,5 +2408,11 @@
         "current_token": "SUBSCRIBER-V120-20251003",
         "token_expiry_timestamp": "2025-10-08T11:01:28.825582+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1303692579195457607": {
+        "last_claim_timestamp": "2025-10-03T11:04:51.137898+00:00",
+        "current_token": "BEGINNER-5NEU-20251003",
+        "token_expiry_timestamp": "2025-10-06T11:04:51.137898+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
