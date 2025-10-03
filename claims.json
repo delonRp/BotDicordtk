@@ -2396,5 +2396,11 @@
         "current_token": "BEGINNER-SQ5J-20251003",
         "token_expiry_timestamp": "2025-10-06T08:46:14.118486+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1417132978408001587": {
+        "last_claim_timestamp": "2025-10-03T09:31:52.467391+00:00",
+        "current_token": "INNERCIRCLE-UOKJ-20251003",
+        "token_expiry_timestamp": "2025-10-10T09:31:52.467391+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
