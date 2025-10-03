@@ -2330,5 +2330,11 @@
         "current_token": "BEGINNER-CXQI-20251001",
         "token_expiry_timestamp": "2025-10-04T12:16:09.603187+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1393160169671622656": {
+        "last_claim_timestamp": "2025-10-03T02:32:21.614869+00:00",
+        "current_token": "SUBSCRIBER-STCG-20251003",
+        "token_expiry_timestamp": "2025-10-08T02:32:21.614869+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
