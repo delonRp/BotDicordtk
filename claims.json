@@ -2420,5 +2420,11 @@
         "current_token": "SUBSCRIBER-3HGT-20251003",
         "token_expiry_timestamp": "2025-10-08T11:07:24.975270+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1409427260879933515": {
+        "last_claim_timestamp": "2025-10-03T12:28:47.393089+00:00",
+        "current_token": "BEGINNER-20WK-20251003",
+        "token_expiry_timestamp": "2025-10-06T12:28:47.393089+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
