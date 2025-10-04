@@ -2474,5 +2474,11 @@
         "current_token": "BEGINNER-FTWW-20251004",
         "token_expiry_timestamp": "2025-10-07T05:50:01.679700+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1395060405898051739": {
+        "last_claim_timestamp": "2025-10-04T06:47:24.121953+00:00",
+        "current_token": "BEGINNER-GN5F-20251004",
+        "token_expiry_timestamp": "2025-10-07T06:47:24.121953+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
