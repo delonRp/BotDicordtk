@@ -2504,5 +2504,11 @@
         "current_token": "BEGINNER-MDVL-20251004",
         "token_expiry_timestamp": "2025-10-07T10:37:48.650683+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1028543444366413974": {
+        "last_claim_timestamp": "2025-10-04T13:57:38.228956+00:00",
+        "current_token": "BEGINNER-DGYY-20251004",
+        "token_expiry_timestamp": "2025-10-07T13:57:38.228956+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
