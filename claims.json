@@ -2516,5 +2516,11 @@
         "current_token": "SUBSCRIBER-KKLC-20251004",
         "token_expiry_timestamp": "2025-10-09T14:38:22.518526+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1148631575773327401": {
+        "last_claim_timestamp": "2025-10-04T16:43:34.620237+00:00",
+        "current_token": "BEGINNER-8NXD-20251004",
+        "token_expiry_timestamp": "2025-10-07T16:43:34.620237+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
