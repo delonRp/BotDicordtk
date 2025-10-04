@@ -1265,9 +1265,9 @@
         "is_shared": true
     },
     "1418575211640393839": {
-        "last_claim_timestamp": "2025-09-24T09:31:33.358712+00:00",
-        "current_token": "INNERCIRCLE-1BVV-20250924",
-        "token_expiry_timestamp": "2025-10-01T09:31:33.358712+00:00",
+        "last_claim_timestamp": "2025-10-04T20:14:38.956833+00:00",
+        "current_token": "BEGINNER-HJL3-20251004",
+        "token_expiry_timestamp": "2025-10-07T20:14:38.956833+00:00",
         "source_alias": "forgesyndicate"
     },
     "1413029997899157564": {
