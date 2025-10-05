@@ -2565,5 +2565,11 @@
         "current_token": "SUBSCRIBER-UDI9-20251005",
         "token_expiry_timestamp": "2025-10-10T00:32:54.812903+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1423815451615432795": {
+        "last_claim_timestamp": "2025-10-05T02:05:38.065381+00:00",
+        "current_token": "BEGINNER-UCUF-20251005",
+        "token_expiry_timestamp": "2025-10-08T02:05:38.065381+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
