@@ -2685,5 +2685,11 @@
         "current_token": "SUBSCRIBER-ATJT-20251005",
         "token_expiry_timestamp": "2025-10-10T23:05:42.945315+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1418541490451382323": {
+        "last_claim_timestamp": "2025-10-05T23:48:17.267985+00:00",
+        "current_token": "BEGINNER-DLSD-20251005",
+        "token_expiry_timestamp": "2025-10-08T23:48:17.267985+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
