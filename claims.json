@@ -2577,5 +2577,11 @@
         "current_token": "SUBSCRIBER-4JHW-20251005",
         "token_expiry_timestamp": "2025-10-10T03:45:40.006916+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1091306761228664873": {
+        "last_claim_timestamp": "2025-10-05T04:07:19.452569+00:00",
+        "current_token": "SUBSCRIBER-ZSDB-20251005",
+        "token_expiry_timestamp": "2025-10-10T04:07:19.452569+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
