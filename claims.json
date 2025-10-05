@@ -2637,5 +2637,11 @@
         "current_token": "SUBSCRIBER-YI3P-20251005",
         "token_expiry_timestamp": "2025-10-10T11:16:02.914888+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1217039460408229948": {
+        "last_claim_timestamp": "2025-10-05T11:21:59.649635+00:00",
+        "current_token": "SUBSCRIBER-BQYZ-20251005",
+        "token_expiry_timestamp": "2025-10-10T11:21:59.649635+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
