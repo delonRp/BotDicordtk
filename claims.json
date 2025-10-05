@@ -2601,5 +2601,11 @@
         "current_token": "BEGINNER-DGL1-20251005",
         "token_expiry_timestamp": "2025-10-08T05:32:54.871195+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1361582039219966032": {
+        "last_claim_timestamp": "2025-10-05T06:07:53.177970+00:00",
+        "current_token": "SUBSCRIBER-61XE-20251005",
+        "token_expiry_timestamp": "2025-10-10T06:07:53.177970+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
