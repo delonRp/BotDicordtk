@@ -2631,5 +2631,11 @@
         "current_token": "BEGINNER-Q3LY-20251005",
         "token_expiry_timestamp": "2025-10-08T10:53:41.180310+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1397930783502635109": {
+        "last_claim_timestamp": "2025-10-05T11:16:02.914888+00:00",
+        "current_token": "SUBSCRIBER-YI3P-20251005",
+        "token_expiry_timestamp": "2025-10-10T11:16:02.914888+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
