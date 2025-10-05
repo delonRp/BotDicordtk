@@ -2583,5 +2583,11 @@
         "current_token": "SUBSCRIBER-ZSDB-20251005",
         "token_expiry_timestamp": "2025-10-10T04:07:19.452569+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1381898122430644265": {
+        "last_claim_timestamp": "2025-10-05T04:15:34.866629+00:00",
+        "current_token": "BEGINNER-IUU1-20251005",
+        "token_expiry_timestamp": "2025-10-08T04:15:34.866629+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
