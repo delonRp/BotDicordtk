@@ -2655,5 +2655,11 @@
         "current_token": "SUBSCRIBER-EU1C-20251005",
         "token_expiry_timestamp": "2025-10-10T18:06:52.342446+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1380999267199615098": {
+        "last_claim_timestamp": "2025-10-05T18:57:20.648765+00:00",
+        "current_token": "BEGINNER-AI08-20251005",
+        "token_expiry_timestamp": "2025-10-08T18:57:20.648765+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
