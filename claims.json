@@ -2776,5 +2776,11 @@
         "current_token": "BEGINNER-6RUR-20251006",
         "token_expiry_timestamp": "2025-10-09T14:07:59.169382+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1395879455980912782": {
+        "last_claim_timestamp": "2025-10-06T14:23:45.472973+00:00",
+        "current_token": "BEGINNER-L28I-20251006",
+        "token_expiry_timestamp": "2025-10-09T14:23:45.472973+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
