@@ -2782,5 +2782,11 @@
         "current_token": "BEGINNER-L28I-20251006",
         "token_expiry_timestamp": "2025-10-09T14:23:45.472973+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1424752158414471252": {
+        "last_claim_timestamp": "2025-10-06T14:58:32.794121+00:00",
+        "current_token": "SUBSCRIBER-GYZH-20251006",
+        "token_expiry_timestamp": "2025-10-11T14:58:32.794121+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
