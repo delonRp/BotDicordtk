@@ -2794,5 +2794,11 @@
         "current_token": "BEGINNER-CFRC-20251006",
         "token_expiry_timestamp": "2025-10-09T16:06:36.001178+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1382348419535863900": {
+        "last_claim_timestamp": "2025-10-06T22:50:46.014358+00:00",
+        "current_token": "BEGINNER-90LQ-20251006",
+        "token_expiry_timestamp": "2025-10-09T22:50:46.014358+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
