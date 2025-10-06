@@ -2740,5 +2740,11 @@
         "current_token": "SUBSCRIBER-JR18-20251006",
         "token_expiry_timestamp": "2025-10-11T10:07:41.712259+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1319644380138569771": {
+        "last_claim_timestamp": "2025-10-06T10:30:18.621368+00:00",
+        "current_token": "BEGINNER-33SO-20251006",
+        "token_expiry_timestamp": "2025-10-09T10:30:18.621368+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
