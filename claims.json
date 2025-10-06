@@ -2691,5 +2691,11 @@
         "current_token": "BEGINNER-DLSD-20251005",
         "token_expiry_timestamp": "2025-10-08T23:48:17.267985+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1172239836086816782": {
+        "last_claim_timestamp": "2025-10-06T03:12:08.525020+00:00",
+        "current_token": "SUBSCRIBER-C4JF-20251006",
+        "token_expiry_timestamp": "2025-10-11T03:12:08.525020+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
