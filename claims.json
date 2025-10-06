@@ -2788,5 +2788,11 @@
         "current_token": "SUBSCRIBER-GYZH-20251006",
         "token_expiry_timestamp": "2025-10-11T14:58:32.794121+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1291921117614968834": {
+        "last_claim_timestamp": "2025-10-06T16:06:36.001178+00:00",
+        "current_token": "BEGINNER-CFRC-20251006",
+        "token_expiry_timestamp": "2025-10-09T16:06:36.001178+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
