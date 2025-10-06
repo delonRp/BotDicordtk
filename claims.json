@@ -2728,5 +2728,11 @@
         "current_token": "BEGINNER-LY5M-20251006",
         "token_expiry_timestamp": "2025-10-09T09:00:28.139651+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "700607227030929418": {
+        "last_claim_timestamp": "2025-10-06T10:05:57.247494+00:00",
+        "current_token": "SUBSCRIBER-5G49-20251006",
+        "token_expiry_timestamp": "2025-10-11T10:05:57.247494+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
