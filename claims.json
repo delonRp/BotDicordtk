@@ -2872,5 +2872,11 @@
         "current_token": "BEGINNER-2G79-20251007",
         "token_expiry_timestamp": "2025-10-10T15:37:42.229780+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1384271791001960580": {
+        "last_claim_timestamp": "2025-10-07T18:04:20.869323+00:00",
+        "current_token": "SUBSCRIBER-VZ9P-20251007",
+        "token_expiry_timestamp": "2025-10-12T18:04:20.869323+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
