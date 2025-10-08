@@ -2896,5 +2896,12 @@
         "current_token": "BEGINNER-5GT2-20251007",
         "token_expiry_timestamp": "2025-10-10T22:19:36.361845+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_pangeran": {
+        "last_claim_timestamp": "2025-10-08T03:30:27.742232+00:00",
+        "current_token": "pangeran",
+        "token_expiry_timestamp": "2025-11-07T03:30:27.742232+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
