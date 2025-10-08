@@ -2927,5 +2927,11 @@
         "current_token": "BEGINNER-JYO2-20251008",
         "token_expiry_timestamp": "2025-10-11T13:19:19.098533+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "704682296132894720": {
+        "last_claim_timestamp": "2025-10-08T13:28:35.964070+00:00",
+        "current_token": "SUBSCRIBER-82KA-20251008",
+        "token_expiry_timestamp": "2025-10-13T13:28:35.964070+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
