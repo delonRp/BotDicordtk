@@ -2963,5 +2963,11 @@
         "current_token": "SUBSCRIBER-IK04-20251009",
         "token_expiry_timestamp": "2025-10-14T11:40:54.734941+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1359410325652508673": {
+        "last_claim_timestamp": "2025-10-09T11:51:49.380243+00:00",
+        "current_token": "BEGINNER-4BC3-20251009",
+        "token_expiry_timestamp": "2025-10-12T11:51:49.380243+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
