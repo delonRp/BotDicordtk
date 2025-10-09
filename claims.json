@@ -2988,5 +2988,11 @@
         "token_expiry_timestamp": "2025-11-08T17:03:50.943198+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1313764010956558366": {
+        "last_claim_timestamp": "2025-10-09T17:14:35.883872+00:00",
+        "current_token": "SUBSCRIBER-CPG9-20251009",
+        "token_expiry_timestamp": "2025-10-14T17:14:35.883872+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
