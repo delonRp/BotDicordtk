@@ -2994,5 +2994,11 @@
         "current_token": "SUBSCRIBER-CPG9-20251009",
         "token_expiry_timestamp": "2025-10-14T17:14:35.883872+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1354353799174688778": {
+        "last_claim_timestamp": "2025-10-09T19:30:52.295948+00:00",
+        "current_token": "SUBSCRIBER-SH73-20251009",
+        "token_expiry_timestamp": "2025-10-14T19:30:52.295948+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
