@@ -2981,5 +2981,12 @@
         "current_token": "BEGINNER-QIAC-20251009",
         "token_expiry_timestamp": "2025-10-12T16:07:54.053594+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_arrtampan07": {
+        "last_claim_timestamp": "2025-10-09T17:03:50.943198+00:00",
+        "current_token": "arrtampan07",
+        "token_expiry_timestamp": "2025-11-08T17:03:50.943198+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
