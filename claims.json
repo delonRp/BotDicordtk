@@ -3067,5 +3067,11 @@
         "token_expiry_timestamp": "2025-10-20T13:14:34.408807+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "738420862394564720": {
+        "last_claim_timestamp": "2025-10-10T14:50:21.497380+00:00",
+        "current_token": "INNERCIRCLE-4FVI-20251010",
+        "token_expiry_timestamp": "2025-10-17T14:50:21.497380+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
