@@ -3073,5 +3073,11 @@
         "current_token": "INNERCIRCLE-4FVI-20251010",
         "token_expiry_timestamp": "2025-10-17T14:50:21.497380+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1083386005836537898": {
+        "last_claim_timestamp": "2025-10-10T15:01:15.513464+00:00",
+        "current_token": "BEGINNER-C0XQ-20251010",
+        "token_expiry_timestamp": "2025-10-13T15:01:15.513464+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
