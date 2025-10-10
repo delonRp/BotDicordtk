@@ -3133,5 +3133,11 @@
         "current_token": "BEGINNER-2TL3-20251010",
         "token_expiry_timestamp": "2025-10-13T19:10:18.214551+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1381294372825338006": {
+        "last_claim_timestamp": "2025-10-10T20:07:29.719578+00:00",
+        "current_token": "BEGINNER-X5VK-20251010",
+        "token_expiry_timestamp": "2025-10-13T20:07:29.719578+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
