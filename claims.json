@@ -3036,5 +3036,11 @@
         "current_token": "INNERCIRCLE-JE9Q-20251010",
         "token_expiry_timestamp": "2025-10-17T11:19:03.896320+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1046768559755382784": {
+        "last_claim_timestamp": "2025-10-10T11:19:38.871786+00:00",
+        "current_token": "BEGINNER-YMF7-20251010",
+        "token_expiry_timestamp": "2025-10-13T11:19:38.871786+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
