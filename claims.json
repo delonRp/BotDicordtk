@@ -3151,5 +3151,11 @@
         "current_token": "SUBSCRIBER-695U-20251010",
         "token_expiry_timestamp": "2025-10-15T20:51:46.694317+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1036551098414149633": {
+        "last_claim_timestamp": "2025-10-10T22:29:22.109981+00:00",
+        "current_token": "BEGINNER-N6T0-20251010",
+        "token_expiry_timestamp": "2025-10-13T22:29:22.109981+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
