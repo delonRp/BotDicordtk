@@ -3048,5 +3048,11 @@
         "current_token": "INNERCIRCLE-POAL-20251010",
         "token_expiry_timestamp": "2025-10-17T12:36:47.369604+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1408053041722036357": {
+        "last_claim_timestamp": "2025-10-10T12:37:15.414933+00:00",
+        "current_token": "SUBSCRIBER-UJ2N-20251010",
+        "token_expiry_timestamp": "2025-10-15T12:37:15.414933+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
