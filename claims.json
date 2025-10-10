@@ -3060,5 +3060,12 @@
         "current_token": "SUBSCRIBER-3UFL-20251010",
         "token_expiry_timestamp": "2025-10-15T12:52:30.228558+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_henjithegost": {
+        "last_claim_timestamp": "2025-10-10T13:14:34.408807+00:00",
+        "current_token": "henjithegost",
+        "token_expiry_timestamp": "2025-10-20T13:14:34.408807+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
