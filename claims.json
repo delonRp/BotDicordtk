@@ -3024,5 +3024,11 @@
         "current_token": "SUBSCRIBER-IN3N-20251010",
         "token_expiry_timestamp": "2025-10-15T10:09:26.850241+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1416402383650689177": {
+        "last_claim_timestamp": "2025-10-10T11:12:38.744411+00:00",
+        "current_token": "BEGINNER-RTFD-20251010",
+        "token_expiry_timestamp": "2025-10-13T11:12:38.744411+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
