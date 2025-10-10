@@ -3042,5 +3042,11 @@
         "current_token": "BEGINNER-YMF7-20251010",
         "token_expiry_timestamp": "2025-10-13T11:19:38.871786+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1416439117566316655": {
+        "last_claim_timestamp": "2025-10-10T12:36:47.369604+00:00",
+        "current_token": "INNERCIRCLE-POAL-20251010",
+        "token_expiry_timestamp": "2025-10-17T12:36:47.369604+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
