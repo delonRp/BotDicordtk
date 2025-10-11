@@ -2056,5 +2056,11 @@
         "current_token": "SUBSCRIBER-8RKM-20251011",
         "token_expiry_timestamp": "2025-10-16T12:12:01.968383+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1078500488183550103": {
+        "last_claim_timestamp": "2025-10-11T12:26:10.277789+00:00",
+        "current_token": "SUBSCRIBER-MIUW-20251011",
+        "token_expiry_timestamp": "2025-10-16T12:26:10.277789+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
