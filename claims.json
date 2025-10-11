@@ -2050,5 +2050,11 @@
         "current_token": "SUBSCRIBER-QHBV-20251011",
         "token_expiry_timestamp": "2025-10-16T12:05:53.570104+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1389259926748135486": {
+        "last_claim_timestamp": "2025-10-11T12:12:01.968383+00:00",
+        "current_token": "SUBSCRIBER-8RKM-20251011",
+        "token_expiry_timestamp": "2025-10-16T12:12:01.968383+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
