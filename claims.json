@@ -3253,5 +3253,11 @@
         "current_token": "SUBSCRIBER-7UNC-20251011",
         "token_expiry_timestamp": "2025-10-16T04:07:28.421245+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1373589217313292361": {
+        "last_claim_timestamp": "2025-10-11T04:08:49.177800+00:00",
+        "current_token": "SUBSCRIBER-GQ2K-20251011",
+        "token_expiry_timestamp": "2025-10-16T04:08:49.177800+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
