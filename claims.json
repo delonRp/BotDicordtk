@@ -3363,5 +3363,11 @@
         "current_token": "SUBSCRIBER-SO1K-20251011",
         "token_expiry_timestamp": "2025-10-16T09:09:21.284799+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1269960701120876617": {
+        "last_claim_timestamp": "2025-10-11T09:34:47.868700+00:00",
+        "current_token": "SUBSCRIBER-RUMO-20251011",
+        "token_expiry_timestamp": "2025-10-16T09:34:47.868700+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
