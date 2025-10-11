@@ -869,7 +869,10 @@
         "last_claim_timestamp": "2025-09-27T06:55:54.952673+00:00"
     },
     "1419141625720082483": {
-        "last_claim_timestamp": "2025-09-27T08:43:56.552879+00:00"
+        "last_claim_timestamp": "2025-10-11T12:08:43.392011+00:00",
+        "current_token": "SUPPORTER-S8VQ-20251011",
+        "token_expiry_timestamp": "2025-10-21T12:08:43.392011+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1406189182589603972": {
         "last_claim_timestamp": "2025-09-27T09:33:26.666796+00:00"
