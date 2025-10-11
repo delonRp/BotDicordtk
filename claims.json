@@ -3393,5 +3393,12 @@
         "current_token": "BEGINNER-Q5PP-20251011",
         "token_expiry_timestamp": "2025-10-14T11:14:30.579758+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_fger": {
+        "last_claim_timestamp": "2025-10-11T11:38:46.255789+00:00",
+        "current_token": "fger",
+        "token_expiry_timestamp": "2025-10-11T11:39:46.255789+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
