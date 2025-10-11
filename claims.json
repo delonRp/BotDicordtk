@@ -3339,5 +3339,11 @@
         "current_token": "BEGINNER-BO9E-20251011",
         "token_expiry_timestamp": "2025-10-14T08:27:52.118651+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1223193812583714848": {
+        "last_claim_timestamp": "2025-10-11T08:38:09.828128+00:00",
+        "current_token": "SUBSCRIBER-1IRO-20251011",
+        "token_expiry_timestamp": "2025-10-16T08:38:09.828128+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
