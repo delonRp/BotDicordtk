@@ -3193,5 +3193,11 @@
         "current_token": "SUBSCRIBER-O65S-20251011",
         "token_expiry_timestamp": "2025-10-16T00:34:01.003057+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1344317232036974635": {
+        "last_claim_timestamp": "2025-10-11T00:39:03.367052+00:00",
+        "current_token": "BEGINNER-3ORI-20251011",
+        "token_expiry_timestamp": "2025-10-14T00:39:03.367052+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
