@@ -3400,5 +3400,12 @@
         "token_expiry_timestamp": "2025-10-11T11:39:46.255789+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "shared_wdd": {
+        "last_claim_timestamp": "2025-10-11T11:43:56.114085+00:00",
+        "current_token": "wdd",
+        "token_expiry_timestamp": "2025-10-11T11:44:56.114085+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
