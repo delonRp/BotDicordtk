@@ -2137,5 +2137,11 @@
         "current_token": "SUBSCRIBER-6IAJ-20251011",
         "token_expiry_timestamp": "2025-10-16T20:22:30.518243+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1420380535959589007": {
+        "last_claim_timestamp": "2025-10-11T21:01:14.719046+00:00",
+        "current_token": "BEGINNER-ASE7-20251011",
+        "token_expiry_timestamp": "2025-10-14T21:01:14.719046+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
