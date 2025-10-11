@@ -3187,5 +3187,11 @@
         "current_token": "BEGINNER-X5FJ-20251011",
         "token_expiry_timestamp": "2025-10-14T00:03:37.891964+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1417096516912545863": {
+        "last_claim_timestamp": "2025-10-11T00:34:01.003057+00:00",
+        "current_token": "SUBSCRIBER-O65S-20251011",
+        "token_expiry_timestamp": "2025-10-16T00:34:01.003057+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
