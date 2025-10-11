@@ -3314,5 +3314,11 @@
         "current_token": "SUBSCRIBER-IUAT-20251011",
         "token_expiry_timestamp": "2025-10-16T07:29:41.512639+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1279380674234683418": {
+        "last_claim_timestamp": "2025-10-11T07:37:35.229127+00:00",
+        "current_token": "BEGINNER-8H7E-20251011",
+        "token_expiry_timestamp": "2025-10-14T07:37:35.229127+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
