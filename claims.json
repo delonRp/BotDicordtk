@@ -3217,5 +3217,11 @@
         "current_token": "BEGINNER-WZOD-20251011",
         "token_expiry_timestamp": "2025-10-14T01:23:25.038204+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "832454568226193479": {
+        "last_claim_timestamp": "2025-10-11T01:46:10.343994+00:00",
+        "current_token": "SUBSCRIBER-LJTP-20251011",
+        "token_expiry_timestamp": "2025-10-16T01:46:10.343994+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
