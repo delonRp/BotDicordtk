@@ -2131,5 +2131,11 @@
         "current_token": "BEGINNER-ZYL9-20251011",
         "token_expiry_timestamp": "2025-10-14T20:22:06.122083+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "647121139075907635": {
+        "last_claim_timestamp": "2025-10-11T20:22:30.518243+00:00",
+        "current_token": "SUBSCRIBER-6IAJ-20251011",
+        "token_expiry_timestamp": "2025-10-16T20:22:30.518243+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
