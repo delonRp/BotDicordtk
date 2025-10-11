@@ -743,7 +743,10 @@
         "last_claim_timestamp": "2025-10-03T07:50:08.033116+00:00"
     },
     "1049017375896391821": {
-        "last_claim_timestamp": "2025-09-25T11:36:41.562497+00:00"
+        "last_claim_timestamp": "2025-10-11T15:03:35.660911+00:00",
+        "current_token": "SUBSCRIBER-RIEM-20251011",
+        "token_expiry_timestamp": "2025-10-16T15:03:35.660911+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1412294780003684403": {
         "last_claim_timestamp": "2025-09-25T11:38:43.490242+00:00"
