@@ -3296,5 +3296,11 @@
         "current_token": "SUBSCRIBER-DNRE-20251011",
         "token_expiry_timestamp": "2025-10-16T06:05:30.068106+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1408330089019736114": {
+        "last_claim_timestamp": "2025-10-11T07:11:31.585404+00:00",
+        "current_token": "BEGINNER-QUXK-20251011",
+        "token_expiry_timestamp": "2025-10-14T07:11:31.585404+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
