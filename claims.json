@@ -241,7 +241,10 @@
         "last_claim_timestamp": "2025-09-20T16:12:34.367985+00:00"
     },
     "670638144906985492": {
-        "last_claim_timestamp": "2025-09-20T16:15:34.165975+00:00"
+        "last_claim_timestamp": "2025-10-12T01:15:13.163414+00:00",
+        "current_token": "SUBSCRIBER-BQTO-20251012",
+        "token_expiry_timestamp": "2025-10-17T01:15:13.163414+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1167221547967205400": {
         "last_claim_timestamp": "2025-09-20T16:20:39.197190+00:00"
