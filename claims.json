@@ -2314,5 +2314,11 @@
         "current_token": "SUBSCRIBER-PJTR-20251012",
         "token_expiry_timestamp": "2025-10-17T10:10:16.574392+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1258636040835567676": {
+        "last_claim_timestamp": "2025-10-12T10:35:58.518847+00:00",
+        "current_token": "BEGINNER-X3SW-20251012",
+        "token_expiry_timestamp": "2025-10-15T10:35:58.518847+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
