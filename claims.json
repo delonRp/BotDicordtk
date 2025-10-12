@@ -1516,10 +1516,7 @@
         "last_claim_timestamp": "2025-10-07T09:25:29.367498+00:00"
     },
     "1389492445716414504": {
-        "last_claim_timestamp": "2025-10-07T10:58:37.814151+00:00",
-        "current_token": "SUBSCRIBER-XKRZ-20251007",
-        "token_expiry_timestamp": "2025-10-12T10:58:37.814151+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-07T10:58:37.814151+00:00"
     },
     "1346820520397770778": {
         "last_claim_timestamp": "2025-10-07T13:22:38.840917+00:00"
