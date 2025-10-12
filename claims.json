@@ -2242,5 +2242,11 @@
         "current_token": "BEGINNER-HTES-20251012",
         "token_expiry_timestamp": "2025-10-15T05:22:58.953505+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1383263087682916362": {
+        "last_claim_timestamp": "2025-10-12T05:54:31.397316+00:00",
+        "current_token": "SUBSCRIBER-NS1G-20251012",
+        "token_expiry_timestamp": "2025-10-17T05:54:31.397316+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
