@@ -2182,5 +2182,11 @@
         "current_token": "SUBSCRIBER-P5BU-20251012",
         "token_expiry_timestamp": "2025-10-17T01:28:33.593482+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1094744799850025133": {
+        "last_claim_timestamp": "2025-10-12T01:51:26.028067+00:00",
+        "current_token": "SUBSCRIBER-1GD4-20251012",
+        "token_expiry_timestamp": "2025-10-17T01:51:26.028067+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
