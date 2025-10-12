@@ -2152,5 +2152,11 @@
         "current_token": "BEGINNER-LNNK-20251012",
         "token_expiry_timestamp": "2025-10-15T00:26:34.710459+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1412587065824116736": {
+        "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00",
+        "current_token": "BEGINNER-FHK8-20251012",
+        "token_expiry_timestamp": "2025-10-15T00:28:12.445075+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
