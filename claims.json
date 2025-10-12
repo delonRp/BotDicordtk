@@ -2272,5 +2272,11 @@
         "current_token": "SUBSCRIBER-EDZB-20251012",
         "token_expiry_timestamp": "2025-10-17T07:48:15.317627+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1339902048639909988": {
+        "last_claim_timestamp": "2025-10-12T07:57:35.542683+00:00",
+        "current_token": "SUBSCRIBER-G9XW-20251012",
+        "token_expiry_timestamp": "2025-10-17T07:57:35.542683+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
