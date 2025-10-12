@@ -1513,10 +1513,7 @@
         "last_claim_timestamp": "2025-10-07T09:01:55.419885+00:00"
     },
     "723461632600309882": {
-        "last_claim_timestamp": "2025-10-07T09:24:59.057815+00:00",
-        "current_token": "SUBSCRIBER-FJ67-20251007",
-        "token_expiry_timestamp": "2025-10-12T09:24:59.057815+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-07T09:24:59.057815+00:00"
     },
     "1232651788683837482": {
         "last_claim_timestamp": "2025-10-07T09:25:29.367498+00:00"
