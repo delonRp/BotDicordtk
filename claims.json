@@ -2146,5 +2146,11 @@
         "current_token": "BEGINNER-77HT-20251011",
         "token_expiry_timestamp": "2025-10-14T22:06:39.996722+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "481207155920207899": {
+        "last_claim_timestamp": "2025-10-12T00:26:34.710459+00:00",
+        "current_token": "BEGINNER-LNNK-20251012",
+        "token_expiry_timestamp": "2025-10-15T00:26:34.710459+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
