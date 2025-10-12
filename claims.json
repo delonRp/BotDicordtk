@@ -541,7 +541,10 @@
         "last_claim_timestamp": "2025-09-23T02:19:14.279605+00:00"
     },
     "1214258976452120637": {
-        "last_claim_timestamp": "2025-09-30T07:59:59.051750+00:00"
+        "last_claim_timestamp": "2025-10-12T15:43:09.902645+00:00",
+        "current_token": "SUBSCRIBER-FPSC-20251012",
+        "token_expiry_timestamp": "2025-10-17T15:43:09.902645+00:00",
+        "source_alias": "forgesyndicate"
     },
     "732488465073176576": {
         "last_claim_timestamp": "2025-10-01T08:23:39.249306+00:00",
