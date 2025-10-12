@@ -2299,5 +2299,11 @@
         "current_token": "BEGINNER-ZU8M-20251012",
         "token_expiry_timestamp": "2025-10-15T09:34:28.225751+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1344890790450692137": {
+        "last_claim_timestamp": "2025-10-12T09:37:57.077312+00:00",
+        "current_token": "SUBSCRIBER-0KXR-20251012",
+        "token_expiry_timestamp": "2025-10-17T09:37:57.077312+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
