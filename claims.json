@@ -2194,5 +2194,11 @@
         "current_token": "SUBSCRIBER-5EMA-20251012",
         "token_expiry_timestamp": "2025-10-17T01:58:40.587497+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1321324559881998417": {
+        "last_claim_timestamp": "2025-10-12T03:46:58.089940+00:00",
+        "current_token": "BEGINNER-TFIQ-20251012",
+        "token_expiry_timestamp": "2025-10-15T03:46:58.089940+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
