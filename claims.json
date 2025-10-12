@@ -2227,5 +2227,11 @@
         "current_token": "BEGINNER-1UH0-20251012",
         "token_expiry_timestamp": "2025-10-15T04:37:41.748471+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1237694899562745950": {
+        "last_claim_timestamp": "2025-10-12T04:50:00.164841+00:00",
+        "current_token": "BEGINNER-KIMD-20251012",
+        "token_expiry_timestamp": "2025-10-15T04:50:00.164841+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
