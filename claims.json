@@ -425,7 +425,10 @@
         "last_claim_timestamp": "2025-09-22T02:30:59.412780+00:00"
     },
     "761054260594343957": {
-        "last_claim_timestamp": "2025-09-22T03:12:50.282618+00:00"
+        "last_claim_timestamp": "2025-10-12T01:41:23.511291+00:00",
+        "current_token": "VIP-ZJPH-20251012",
+        "token_expiry_timestamp": "2025-11-11T01:41:23.511291+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1320976178894602273": {
         "last_claim_timestamp": "2025-09-22T05:16:14.482119+00:00"
