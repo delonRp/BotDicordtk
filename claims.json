@@ -1188,10 +1188,7 @@
         "is_shared": true
     },
     "1395351233077841920": {
-        "last_claim_timestamp": "2025-10-07T10:19:20.279553+00:00",
-        "current_token": "SUBSCRIBER-XZHT-20251007",
-        "token_expiry_timestamp": "2025-10-12T10:19:20.279553+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-07T10:19:20.279553+00:00"
     },
     "1210998259703746601": {
         "last_claim_timestamp": "2025-09-30T09:18:20.126002+00:00"
