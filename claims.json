@@ -2323,5 +2323,11 @@
         "current_token": "BEGINNER-JP5U-20251012",
         "token_expiry_timestamp": "2025-10-15T13:37:56.084419+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1056415237445783572": {
+        "last_claim_timestamp": "2025-10-12T13:43:31.207656+00:00",
+        "current_token": "SUBSCRIBER-4QLP-20251012",
+        "token_expiry_timestamp": "2025-10-17T13:43:31.207656+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
