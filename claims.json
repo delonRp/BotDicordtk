@@ -2341,5 +2341,11 @@
         "current_token": "SUBSCRIBER-1V4H-20251012",
         "token_expiry_timestamp": "2025-10-17T17:03:28.998618+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "686987325623763075": {
+        "last_claim_timestamp": "2025-10-12T18:39:16.093935+00:00",
+        "current_token": "SUBSCRIBER-BMP4-20251012",
+        "token_expiry_timestamp": "2025-10-17T18:39:16.093935+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
