@@ -1058,7 +1058,10 @@
         "last_claim_timestamp": "2025-09-29T04:02:13.961490+00:00"
     },
     "1384079894476095530": {
-        "last_claim_timestamp": "2025-09-29T04:33:06.038981+00:00"
+        "last_claim_timestamp": "2025-10-13T00:50:34.449917+00:00",
+        "current_token": "SUBSCRIBER-E3Q7-20251013",
+        "token_expiry_timestamp": "2025-10-18T00:50:34.449917+00:00",
+        "source_alias": "forgesyndicate"
     },
     "shared_asepboy": {
         "last_claim_timestamp": "2025-09-29T06:15:18.148571+00:00",
