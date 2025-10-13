@@ -2400,5 +2400,11 @@
         "current_token": "BEGINNER-T7T2-20251013",
         "token_expiry_timestamp": "2025-10-16T05:32:23.415150+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1383784189094006858": {
+        "last_claim_timestamp": "2025-10-13T06:22:26.850917+00:00",
+        "current_token": "SUBSCRIBER-WVWF-20251013",
+        "token_expiry_timestamp": "2025-10-18T06:22:26.850917+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
