@@ -2468,5 +2468,11 @@
         "token_expiry_timestamp": "2025-11-12T14:03:39.784924+00:00",
         "source_alias": "forgesyndicate",
         "is_shared": true
+    },
+    "1420655967271649281": {
+        "last_claim_timestamp": "2025-10-13T16:24:52.173988+00:00",
+        "current_token": "BEGINNER-PWLF-20251013",
+        "token_expiry_timestamp": "2025-10-16T16:24:52.173988+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
