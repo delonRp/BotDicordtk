@@ -2424,5 +2424,11 @@
         "current_token": "SUBSCRIBER-0SAC-20251013",
         "token_expiry_timestamp": "2025-10-18T08:35:03.041591+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1426514189253480520": {
+        "last_claim_timestamp": "2025-10-13T08:38:07.762885+00:00",
+        "current_token": "BEGINNER-Q0C6-20251013",
+        "token_expiry_timestamp": "2025-10-16T08:38:07.762885+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
