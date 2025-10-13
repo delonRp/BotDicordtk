@@ -2406,5 +2406,11 @@
         "current_token": "SUBSCRIBER-WVWF-20251013",
         "token_expiry_timestamp": "2025-10-18T06:22:26.850917+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1315339816363364444": {
+        "last_claim_timestamp": "2025-10-13T07:24:20.415128+00:00",
+        "current_token": "BEGINNER-PVTR-20251013",
+        "token_expiry_timestamp": "2025-10-16T07:24:20.415128+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
