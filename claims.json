@@ -2442,5 +2442,11 @@
         "current_token": "SUBSCRIBER-DDQA-20251013",
         "token_expiry_timestamp": "2025-10-18T08:51:27.161798+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1427193322039939144": {
+        "last_claim_timestamp": "2025-10-13T09:54:04.792731+00:00",
+        "current_token": "BEGINNER-2YKO-20251013",
+        "token_expiry_timestamp": "2025-10-16T09:54:04.792731+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
