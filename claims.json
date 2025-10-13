@@ -2359,5 +2359,11 @@
         "current_token": "SUBSCRIBER-O10D-20251013",
         "token_expiry_timestamp": "2025-10-18T01:09:33.710487+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1301563269139664991": {
+        "last_claim_timestamp": "2025-10-13T01:18:22.953423+00:00",
+        "current_token": "BEGINNER-4LSA-20251013",
+        "token_expiry_timestamp": "2025-10-16T01:18:22.953423+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
