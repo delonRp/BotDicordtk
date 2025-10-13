@@ -2464,5 +2464,12 @@
         "token_expiry_timestamp": "2025-11-12T14:03:15.965806+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "shared_forgesyndicate_udinc": {
+        "last_claim_timestamp": "2025-10-13T14:03:39.784924+00:00",
+        "current_token": "udinc",
+        "token_expiry_timestamp": "2025-11-12T14:03:39.784924+00:00",
+        "source_alias": "forgesyndicate",
+        "is_shared": true
     }
 }
