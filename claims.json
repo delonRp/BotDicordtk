@@ -559,10 +559,7 @@
         "last_claim_timestamp": "2025-09-30T08:19:23.741949+00:00"
     },
     "1270026888064143468": {
-        "last_claim_timestamp": "2025-10-08T17:51:46.800836+00:00",
-        "current_token": "SUBSCRIBER-6F0N-20251008",
-        "token_expiry_timestamp": "2025-10-13T17:51:46.800836+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-08T17:51:46.800836+00:00"
     },
     "1392181114050969722": {
         "last_claim_timestamp": "2025-09-23T07:53:27.692243+00:00"
@@ -1705,16 +1702,10 @@
         "source_alias": "forgesyndicate"
     },
     "1385122526296019085": {
-        "last_claim_timestamp": "2025-10-10T18:26:17.574047+00:00",
-        "current_token": "BEGINNER-85L3-20251010",
-        "token_expiry_timestamp": "2025-10-13T18:26:17.574047+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-10T18:26:17.574047+00:00"
     },
     "1298284251829243964": {
-        "last_claim_timestamp": "2025-10-10T18:44:06.712066+00:00",
-        "current_token": "BEGINNER-22YC-20251010",
-        "token_expiry_timestamp": "2025-10-13T18:44:06.712066+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-10T18:44:06.712066+00:00"
     },
     "1372177203491639386": {
         "last_claim_timestamp": "2025-10-10T18:56:00.637662+00:00",
