@@ -2418,5 +2418,11 @@
         "current_token": "BEGINNER-ISHG-20251013",
         "token_expiry_timestamp": "2025-10-16T08:24:39.878928+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1224117813053227120": {
+        "last_claim_timestamp": "2025-10-13T08:35:03.041591+00:00",
+        "current_token": "SUBSCRIBER-0SAC-20251013",
+        "token_expiry_timestamp": "2025-10-18T08:35:03.041591+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
