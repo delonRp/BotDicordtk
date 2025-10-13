@@ -1140,7 +1140,10 @@
         "source_alias": "forgesyndicate"
     },
     "564673455933358080": {
-        "last_claim_timestamp": "2025-09-29T20:53:02.502373+00:00"
+        "last_claim_timestamp": "2025-10-13T19:11:09.840778+00:00",
+        "current_token": "SUBSCRIBER-EV90-20251013",
+        "token_expiry_timestamp": "2025-10-18T19:11:09.840778+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1140170655585812590": {
         "last_claim_timestamp": "2025-09-29T20:58:47.381308+00:00"
