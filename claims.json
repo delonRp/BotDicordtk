@@ -650,7 +650,10 @@
         "last_claim_timestamp": "2025-09-24T02:00:27.798077+00:00"
     },
     "1392130041873305755": {
-        "last_claim_timestamp": "2025-09-24T03:36:24.373133+00:00"
+        "last_claim_timestamp": "2025-10-14T05:22:07.999791+00:00",
+        "current_token": "BEGINNER-Z4GX-20251014",
+        "token_expiry_timestamp": "2025-10-17T05:22:07.999791+00:00",
+        "source_alias": "forgesyndicate"
     },
     "744012907909611614": {
         "last_claim_timestamp": "2025-09-24T04:23:55.058216+00:00"
