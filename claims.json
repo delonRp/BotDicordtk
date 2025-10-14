@@ -2523,5 +2523,11 @@
         "current_token": "BEGINNER-SUYU-20251014",
         "token_expiry_timestamp": "2025-10-17T14:17:01.346815+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1342512172575752255": {
+        "last_claim_timestamp": "2025-10-14T19:44:24.104899+00:00",
+        "current_token": "BEGINNER-3MO9-20251014",
+        "token_expiry_timestamp": "2025-10-17T19:44:24.104899+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
