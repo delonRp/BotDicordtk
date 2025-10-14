@@ -2531,5 +2531,12 @@
         "current_token": "SUBSCRIBER-AA9A-20251014",
         "token_expiry_timestamp": "2025-10-19T05:30:45.260801+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_vip_1K-MEMBERS": {
+        "last_claim_timestamp": "2025-10-14T05:40:42.077661+00:00",
+        "current_token": "1K-MEMBERS",
+        "token_expiry_timestamp": "2025-10-16T05:40:42.077661+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
