@@ -2510,5 +2510,11 @@
         "current_token": "BEGINNER-HKYC-20251014",
         "token_expiry_timestamp": "2025-10-17T04:54:24.131330+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "784764039233273877": {
+        "last_claim_timestamp": "2025-10-14T04:59:33.685468+00:00",
+        "current_token": "BEGINNER-KIQA-20251014",
+        "token_expiry_timestamp": "2025-10-17T04:59:33.685468+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
