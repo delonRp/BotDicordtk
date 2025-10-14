@@ -2498,5 +2498,11 @@
         "current_token": "BEGINNER-CWA4-20251014",
         "token_expiry_timestamp": "2025-10-17T04:18:12.469825+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1402577337861804095": {
+        "last_claim_timestamp": "2025-10-14T04:34:43.207131+00:00",
+        "current_token": "BEGINNER-PZ87-20251014",
+        "token_expiry_timestamp": "2025-10-17T04:34:43.207131+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
