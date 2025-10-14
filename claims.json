@@ -2516,5 +2516,11 @@
         "current_token": "BEGINNER-KIQA-20251014",
         "token_expiry_timestamp": "2025-10-17T04:59:33.685468+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "912218470911975465": {
+        "last_claim_timestamp": "2025-10-14T05:04:55.188562+00:00",
+        "current_token": "SUBSCRIBER-NUPE-20251014",
+        "token_expiry_timestamp": "2025-10-19T05:04:55.188562+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
