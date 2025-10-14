@@ -2492,5 +2492,11 @@
         "current_token": "SUBSCRIBER-WV32-20251014",
         "token_expiry_timestamp": "2025-10-19T04:06:54.740644+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1242828901907173459": {
+        "last_claim_timestamp": "2025-10-14T04:18:12.469825+00:00",
+        "current_token": "BEGINNER-CWA4-20251014",
+        "token_expiry_timestamp": "2025-10-17T04:18:12.469825+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
