@@ -598,7 +598,10 @@
         "last_claim_timestamp": "2025-09-23T11:30:33.914487+00:00"
     },
     "992322712166989886": {
-        "last_claim_timestamp": "2025-09-23T11:33:20.768989+00:00"
+        "last_claim_timestamp": "2025-10-14T06:10:47.454597+00:00",
+        "current_token": "SUBSCRIBER-HRPY-20251014",
+        "token_expiry_timestamp": "2025-10-19T06:10:47.454597+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1413508754342809630": {
         "last_claim_timestamp": "2025-09-23T11:37:10.824842+00:00",
