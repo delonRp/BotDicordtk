@@ -2531,5 +2531,11 @@
         "current_token": "SUBSCRIBER-C75Z-20251015",
         "token_expiry_timestamp": "2025-10-20T10:22:06.934124+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1407995563856891995": {
+        "last_claim_timestamp": "2025-10-15T11:53:38.567371+00:00",
+        "current_token": "BEGINNER-SIG2-20251015",
+        "token_expiry_timestamp": "2025-10-18T11:53:38.567371+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
