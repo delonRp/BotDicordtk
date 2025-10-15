@@ -2015,16 +2015,10 @@
         "last_claim_timestamp": "2025-10-11T22:06:39.996722+00:00"
     },
     "481207155920207899": {
-        "last_claim_timestamp": "2025-10-12T00:26:34.710459+00:00",
-        "current_token": "BEGINNER-LNNK-20251012",
-        "token_expiry_timestamp": "2025-10-15T00:26:34.710459+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T00:26:34.710459+00:00"
     },
     "1412587065824116736": {
-        "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00",
-        "current_token": "BEGINNER-FHK8-20251012",
-        "token_expiry_timestamp": "2025-10-15T00:28:12.445075+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00"
     },
     "1162919228265988198": {
         "last_claim_timestamp": "2025-10-12T01:28:13.742648+00:00",
