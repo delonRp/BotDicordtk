@@ -2523,5 +2523,12 @@
         "current_token": "SUBSCRIBER-0XJ4-20251015",
         "token_expiry_timestamp": "2025-10-20T08:56:14.992816+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_vip_gibran": {
+        "last_claim_timestamp": "2025-10-15T09:20:13.864011+00:00",
+        "current_token": "gibran",
+        "token_expiry_timestamp": "2025-11-14T09:20:13.864011+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
