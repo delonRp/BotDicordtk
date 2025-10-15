@@ -1632,10 +1632,7 @@
         "last_claim_timestamp": "2025-10-10T07:32:09.269431+00:00"
     },
     "1242868060780757108": {
-        "last_claim_timestamp": "2025-10-10T10:09:26.850241+00:00",
-        "current_token": "SUBSCRIBER-IN3N-20251010",
-        "token_expiry_timestamp": "2025-10-15T10:09:26.850241+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-10T10:09:26.850241+00:00"
     },
     "1416402383650689177": {
         "last_claim_timestamp": "2025-10-10T11:12:38.744411+00:00"
@@ -2135,10 +2132,7 @@
         "source_alias": "forgesyndicate"
     },
     "1242696852915355658": {
-        "last_claim_timestamp": "2025-10-12T09:49:40.132378+00:00",
-        "current_token": "BEGINNER-PZT4-20251012",
-        "token_expiry_timestamp": "2025-10-15T09:49:40.132378+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T09:49:40.132378+00:00"
     },
     "1290902684689502249": {
         "last_claim_timestamp": "2025-10-12T10:10:16.574392+00:00",
@@ -2147,10 +2141,7 @@
         "source_alias": "forgesyndicate"
     },
     "1258636040835567676": {
-        "last_claim_timestamp": "2025-10-12T10:35:58.518847+00:00",
-        "current_token": "BEGINNER-X3SW-20251012",
-        "token_expiry_timestamp": "2025-10-15T10:35:58.518847+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T10:35:58.518847+00:00"
     },
     "1412984424764805143": {
         "last_claim_timestamp": "2025-10-12T10:48:24.436071+00:00",
