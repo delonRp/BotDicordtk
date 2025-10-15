@@ -2534,5 +2534,12 @@
         "current_token": "BEGINNER-SIG2-20251015",
         "token_expiry_timestamp": "2025-10-18T11:53:38.567371+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_vip_bost": {
+        "last_claim_timestamp": "2025-10-15T12:59:19.227542+00:00",
+        "current_token": "bost",
+        "token_expiry_timestamp": "2025-10-18T12:59:19.227542+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
