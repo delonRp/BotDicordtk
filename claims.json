@@ -947,10 +947,7 @@
         "last_claim_timestamp": "2025-09-27T23:40:35.127512+00:00"
     },
     "1404420152652595240": {
-        "last_claim_timestamp": "2025-10-08T01:39:07.043056+00:00",
-        "current_token": "INNERCIRCLE-4BGZ-20251008",
-        "token_expiry_timestamp": "2025-10-15T01:39:07.043056+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-08T01:39:07.043056+00:00"
     },
     "1411273167472824410": {
         "last_claim_timestamp": "2025-09-28T01:10:34.393454+00:00"
@@ -2021,16 +2018,10 @@
         "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00"
     },
     "1162919228265988198": {
-        "last_claim_timestamp": "2025-10-12T01:28:13.742648+00:00",
-        "current_token": "BEGINNER-X0J1-20251012",
-        "token_expiry_timestamp": "2025-10-15T01:28:13.742648+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T01:28:13.742648+00:00"
     },
     "1371619230394613830": {
-        "last_claim_timestamp": "2025-10-12T01:28:30.402841+00:00",
-        "current_token": "BEGINNER-SOLH-20251012",
-        "token_expiry_timestamp": "2025-10-15T01:28:30.402841+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T01:28:30.402841+00:00"
     },
     "1327149835115302964": {
         "last_claim_timestamp": "2025-10-12T01:28:33.593482+00:00",
