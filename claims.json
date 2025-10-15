@@ -2535,5 +2535,11 @@
         "token_expiry_timestamp": "2025-10-18T12:59:19.227542+00:00",
         "source_alias": "vip",
         "is_shared": true
+    },
+    "1040615974132535306": {
+        "last_claim_timestamp": "2025-10-15T14:01:58.029705+00:00",
+        "current_token": "BEGINNER-9LY8-20251015",
+        "token_expiry_timestamp": "2025-10-18T14:01:58.029705+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
