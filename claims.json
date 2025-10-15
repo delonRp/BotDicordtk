@@ -2544,5 +2544,11 @@
         "current_token": "BEGINNER-LBKW-20251015",
         "token_expiry_timestamp": "2025-10-18T17:19:53.323451+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1381679011079389290": {
+        "last_claim_timestamp": "2025-10-15T23:00:32.320524+00:00",
+        "current_token": "SUBSCRIBER-26P7-20251015",
+        "token_expiry_timestamp": "2025-10-20T23:00:32.320524+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
