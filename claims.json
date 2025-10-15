@@ -1696,10 +1696,7 @@
         "last_claim_timestamp": "2025-10-10T18:44:06.712066+00:00"
     },
     "1372177203491639386": {
-        "last_claim_timestamp": "2025-10-10T18:56:00.637662+00:00",
-        "current_token": "SUBSCRIBER-RISN-20251010",
-        "token_expiry_timestamp": "2025-10-15T18:56:00.637662+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-10T18:56:00.637662+00:00"
     },
     "1286946768604626995": {
         "last_claim_timestamp": "2025-10-10T19:10:18.214551+00:00"
@@ -2162,10 +2159,7 @@
         "source_alias": "forgesyndicate"
     },
     "1236882673356505199": {
-        "last_claim_timestamp": "2025-10-12T18:57:05.468047+00:00",
-        "current_token": "BEGINNER-5LNP-20251012",
-        "token_expiry_timestamp": "2025-10-15T18:57:05.468047+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T18:57:05.468047+00:00"
     },
     "1365417416401621132": {
         "last_claim_timestamp": "2025-10-12T19:15:18.858035+00:00",
