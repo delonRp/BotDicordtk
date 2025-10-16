@@ -2579,5 +2579,11 @@
         "current_token": "BEGINNER-ZK7B-20251016",
         "token_expiry_timestamp": "2025-10-19T19:32:07.650938+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "789328576717389834": {
+        "last_claim_timestamp": "2025-10-16T20:28:00.739489+00:00",
+        "current_token": "SUBSCRIBER-0I8K-20251016",
+        "token_expiry_timestamp": "2025-10-21T20:28:00.739489+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
