@@ -1780,16 +1780,10 @@
         "last_claim_timestamp": "2025-10-11T07:11:31.585404+00:00"
     },
     "1165996744220352523": {
-        "last_claim_timestamp": "2025-10-11T07:12:10.675582+00:00",
-        "current_token": "SUBSCRIBER-WDAZ-20251011",
-        "token_expiry_timestamp": "2025-10-16T07:12:10.675582+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T07:12:10.675582+00:00"
     },
     "1374643610967871532": {
-        "last_claim_timestamp": "2025-10-11T07:29:41.512639+00:00",
-        "current_token": "SUBSCRIBER-IUAT-20251011",
-        "token_expiry_timestamp": "2025-10-16T07:29:41.512639+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T07:29:41.512639+00:00"
     },
     "1279380674234683418": {
         "last_claim_timestamp": "2025-10-11T07:37:35.229127+00:00"
@@ -2168,10 +2162,7 @@
         "source_alias": "forgesyndicate"
     },
     "1315339816363364444": {
-        "last_claim_timestamp": "2025-10-13T07:24:20.415128+00:00",
-        "current_token": "BEGINNER-PVTR-20251013",
-        "token_expiry_timestamp": "2025-10-16T07:24:20.415128+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-13T07:24:20.415128+00:00"
     },
     "1364552111320207442": {
         "last_claim_timestamp": "2025-10-13T08:24:39.878928+00:00",
