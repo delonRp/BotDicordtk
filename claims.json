@@ -2543,5 +2543,12 @@
         "current_token": "SUBSCRIBER-0D05-20251016",
         "token_expiry_timestamp": "2025-10-21T13:42:42.576621+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_vip_10days": {
+        "last_claim_timestamp": "2025-10-16T14:05:31.674127+00:00",
+        "current_token": "10days",
+        "token_expiry_timestamp": "2025-10-26T14:05:31.674127+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
