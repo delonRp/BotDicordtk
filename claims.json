@@ -2557,5 +2557,12 @@
         "token_expiry_timestamp": "2025-10-26T14:06:33.017377+00:00",
         "source_alias": "forgesyndicate",
         "is_shared": true
+    },
+    "shared_forgesyndicate_PUTRA": {
+        "last_claim_timestamp": "2025-10-16T14:33:41.810697+00:00",
+        "current_token": "PUTRA",
+        "token_expiry_timestamp": "2025-11-08T14:33:41.810697+00:00",
+        "source_alias": "forgesyndicate",
+        "is_shared": true
     }
 }
