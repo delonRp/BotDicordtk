@@ -2537,5 +2537,11 @@
         "current_token": "SUBSCRIBER-QL09-20251016",
         "token_expiry_timestamp": "2025-10-21T12:38:18.358063+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1142454117466390618": {
+        "last_claim_timestamp": "2025-10-16T13:10:26.046370+00:00",
+        "current_token": "SUBSCRIBER-8QDX-20251016",
+        "token_expiry_timestamp": "2025-10-21T13:10:26.046370+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
