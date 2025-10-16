@@ -2525,5 +2525,11 @@
         "current_token": "SUBSCRIBER-X38E-20251016",
         "token_expiry_timestamp": "2025-10-21T05:11:41.131471+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1398222405566205962": {
+        "last_claim_timestamp": "2025-10-16T07:47:46.377298+00:00",
+        "current_token": "BEGINNER-V0LR-20251016",
+        "token_expiry_timestamp": "2025-10-19T07:47:46.377298+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
