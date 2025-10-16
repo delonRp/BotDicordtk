@@ -2567,5 +2567,11 @@
         "current_token": "BEGINNER-OFFM-20251016",
         "token_expiry_timestamp": "2025-10-19T18:34:06.249662+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1035499369610350604": {
+        "last_claim_timestamp": "2025-10-16T19:20:26.351855+00:00",
+        "current_token": "BEGINNER-6GKE-20251016",
+        "token_expiry_timestamp": "2025-10-19T19:20:26.351855+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
