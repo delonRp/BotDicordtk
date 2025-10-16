@@ -2513,5 +2513,11 @@
         "current_token": "SUBSCRIBER-BP1V-20251016",
         "token_expiry_timestamp": "2025-10-21T08:50:55.424267+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "697038849410334750": {
+        "last_claim_timestamp": "2025-10-16T10:09:38.613085+00:00",
+        "current_token": "BEGINNER-EFOO-20251016",
+        "token_expiry_timestamp": "2025-10-19T10:09:38.613085+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
