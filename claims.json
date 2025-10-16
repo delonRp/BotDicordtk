@@ -1832,22 +1832,13 @@
         "last_claim_timestamp": "2025-10-11T11:14:30.579758+00:00"
     },
     "1048425869875630130": {
-        "last_claim_timestamp": "2025-10-11T12:05:53.570104+00:00",
-        "current_token": "SUBSCRIBER-QHBV-20251011",
-        "token_expiry_timestamp": "2025-10-16T12:05:53.570104+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T12:05:53.570104+00:00"
     },
     "1389259926748135486": {
-        "last_claim_timestamp": "2025-10-11T12:12:01.968383+00:00",
-        "current_token": "SUBSCRIBER-8RKM-20251011",
-        "token_expiry_timestamp": "2025-10-16T12:12:01.968383+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T12:12:01.968383+00:00"
     },
     "1078500488183550103": {
-        "last_claim_timestamp": "2025-10-11T12:26:10.277789+00:00",
-        "current_token": "SUBSCRIBER-MIUW-20251011",
-        "token_expiry_timestamp": "2025-10-16T12:26:10.277789+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T12:26:10.277789+00:00"
     },
     "995778893887852584": {
         "last_claim_timestamp": "2025-10-11T13:04:09.211444+00:00"
