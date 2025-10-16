@@ -1862,10 +1862,7 @@
         "last_claim_timestamp": "2025-10-11T15:35:40.102503+00:00"
     },
     "1360575635273158767": {
-        "last_claim_timestamp": "2025-10-11T17:20:12.839126+00:00",
-        "current_token": "SUBSCRIBER-NLEE-20251011",
-        "token_expiry_timestamp": "2025-10-16T17:20:12.839126+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T17:20:12.839126+00:00"
     },
     "1355503542445539378": {
         "last_claim_timestamp": "2025-10-11T19:16:52.426579+00:00",
