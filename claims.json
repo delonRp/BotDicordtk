@@ -1774,10 +1774,7 @@
         "last_claim_timestamp": "2025-10-11T05:58:08.303081+00:00"
     },
     "1033296466346782830": {
-        "last_claim_timestamp": "2025-10-11T06:05:30.068106+00:00",
-        "current_token": "SUBSCRIBER-DNRE-20251011",
-        "token_expiry_timestamp": "2025-10-16T06:05:30.068106+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T06:05:30.068106+00:00"
     },
     "1408330089019736114": {
         "last_claim_timestamp": "2025-10-11T07:11:31.585404+00:00"
