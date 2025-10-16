@@ -1844,16 +1844,10 @@
         "last_claim_timestamp": "2025-10-11T13:04:09.211444+00:00"
     },
     "1264369197337542741": {
-        "last_claim_timestamp": "2025-10-11T13:13:31.335101+00:00",
-        "current_token": "SUBSCRIBER-FHSH-20251011",
-        "token_expiry_timestamp": "2025-10-16T13:13:31.335101+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T13:13:31.335101+00:00"
     },
     "1333028282005848108": {
-        "last_claim_timestamp": "2025-10-11T13:14:09.198030+00:00",
-        "current_token": "SUBSCRIBER-EF8E-20251011",
-        "token_expiry_timestamp": "2025-10-16T13:14:09.198030+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-11T13:14:09.198030+00:00"
     },
     "1417192933387534466": {
         "last_claim_timestamp": "2025-10-11T13:39:08.019994+00:00"
