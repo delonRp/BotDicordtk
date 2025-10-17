@@ -250,10 +250,7 @@
         "last_claim_timestamp": "2025-09-20T16:12:34.367985+00:00"
     },
     "670638144906985492": {
-        "last_claim_timestamp": "2025-10-12T01:15:13.163414+00:00",
-        "current_token": "SUBSCRIBER-BQTO-20251012",
-        "token_expiry_timestamp": "2025-10-17T01:15:13.163414+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T01:15:13.163414+00:00"
     },
     "1167221547967205400": {
         "last_claim_timestamp": "2025-09-20T16:20:39.197190+00:00"
@@ -1904,10 +1901,7 @@
         "last_claim_timestamp": "2025-10-12T01:28:30.402841+00:00"
     },
     "1327149835115302964": {
-        "last_claim_timestamp": "2025-10-12T01:28:33.593482+00:00",
-        "current_token": "SUBSCRIBER-P5BU-20251012",
-        "token_expiry_timestamp": "2025-10-17T01:28:33.593482+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T01:28:33.593482+00:00"
     },
     "1094744799850025133": {
         "last_claim_timestamp": "2025-10-12T01:51:26.028067+00:00",
@@ -2191,10 +2185,7 @@
         "last_claim_timestamp": "2025-10-13T22:03:11.892384+00:00"
     },
     "1319595753479602176": {
-        "last_claim_timestamp": "2025-10-14T01:22:26.435885+00:00",
-        "current_token": "BEGINNER-VJQI-20251014",
-        "token_expiry_timestamp": "2025-10-17T01:22:26.435885+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-14T01:22:26.435885+00:00"
     },
     "1308441905087905922": {
         "last_claim_timestamp": "2025-10-14T02:49:54.242238+00:00",
