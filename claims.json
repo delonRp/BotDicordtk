@@ -1979,10 +1979,7 @@
         "last_claim_timestamp": "2025-10-12T09:49:40.132378+00:00"
     },
     "1290902684689502249": {
-        "last_claim_timestamp": "2025-10-12T10:10:16.574392+00:00",
-        "current_token": "SUBSCRIBER-PJTR-20251012",
-        "token_expiry_timestamp": "2025-10-17T10:10:16.574392+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T10:10:16.574392+00:00"
     },
     "1258636040835567676": {
         "last_claim_timestamp": "2025-10-12T10:35:58.518847+00:00"
@@ -2209,10 +2206,7 @@
         "source_alias": "forgesyndicate"
     },
     "1399001252150513694": {
-        "last_claim_timestamp": "2025-10-14T10:27:24.548173+00:00",
-        "current_token": "BEGINNER-9D5T-20251014",
-        "token_expiry_timestamp": "2025-10-17T10:27:24.548173+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-14T10:27:24.548173+00:00"
     },
     "1421869879539007628": {
         "last_claim_timestamp": "2025-10-14T14:17:01.346815+00:00",
