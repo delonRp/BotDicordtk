@@ -2609,5 +2609,12 @@
         "current_token": "BEGINNER-ZH88-20251017",
         "token_expiry_timestamp": "2025-10-20T06:00:08.960238+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_vip_5k": {
+        "last_claim_timestamp": "2025-10-17T06:01:39.479390+00:00",
+        "current_token": "5k",
+        "token_expiry_timestamp": "2025-10-19T06:01:39.479390+00:00",
+        "source_alias": "vip",
+        "is_shared": true
     }
 }
