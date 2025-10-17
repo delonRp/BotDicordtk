@@ -1426,7 +1426,10 @@
         "last_claim_timestamp": "2025-10-05T11:16:02.914888+00:00"
     },
     "1217039460408229948": {
-        "last_claim_timestamp": "2025-10-05T11:21:59.649635+00:00"
+        "last_claim_timestamp": "2025-10-17T01:56:29.234962+00:00",
+        "current_token": "SUBSCRIBER-IFMT-20251017",
+        "token_expiry_timestamp": "2025-10-22T01:56:29.234962+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1418809229632081980": {
         "last_claim_timestamp": "2025-10-05T14:56:41.117355+00:00"
