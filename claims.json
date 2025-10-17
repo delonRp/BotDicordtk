@@ -395,7 +395,10 @@
         "last_claim_timestamp": "2025-09-21T14:39:28.587413+00:00"
     },
     "1295351168129830927": {
-        "last_claim_timestamp": "2025-09-21T15:18:54.938958+00:00"
+        "last_claim_timestamp": "2025-10-17T02:36:18.583400+00:00",
+        "current_token": "BEGINNER-GQSK-20251017",
+        "token_expiry_timestamp": "2025-10-20T02:36:18.583400+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1261209194799960166": {
         "last_claim_timestamp": "2025-09-21T16:30:53.004449+00:00"
