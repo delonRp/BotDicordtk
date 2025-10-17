@@ -2635,5 +2635,11 @@
         "current_token": "SUBSCRIBER-LF0G-20251017",
         "token_expiry_timestamp": "2025-10-22T09:00:14.249037+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1374138736920629321": {
+        "last_claim_timestamp": "2025-10-17T10:28:32.619905+00:00",
+        "current_token": "BEGINNER-8SUL-20251017",
+        "token_expiry_timestamp": "2025-10-20T10:28:32.619905+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
