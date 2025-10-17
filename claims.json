@@ -2638,5 +2638,11 @@
         "current_token": "SUBSCRIBER-M6UT-20251017",
         "token_expiry_timestamp": "2025-10-22T15:13:21.292285+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1368924483599208521": {
+        "last_claim_timestamp": "2025-10-17T15:16:58.942120+00:00",
+        "current_token": "SUBSCRIBER-KDAW-20251017",
+        "token_expiry_timestamp": "2025-10-22T15:16:58.942120+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
