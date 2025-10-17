@@ -2635,5 +2635,11 @@
         "current_token": "SUBSCRIBER-FS9M-20251017",
         "token_expiry_timestamp": "2025-10-22T07:28:52.254189+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1422926993632137216": {
+        "last_claim_timestamp": "2025-10-17T08:24:09.075460+00:00",
+        "current_token": "SUBSCRIBER-0MD6-20251017",
+        "token_expiry_timestamp": "2025-10-22T08:24:09.075460+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
