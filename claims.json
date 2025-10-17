@@ -1644,10 +1644,7 @@
         "last_claim_timestamp": "2025-10-10T11:12:38.744411+00:00"
     },
     "1227117561087266828": {
-        "last_claim_timestamp": "2025-10-10T11:19:03.896320+00:00",
-        "current_token": "INNERCIRCLE-JE9Q-20251010",
-        "token_expiry_timestamp": "2025-10-17T11:19:03.896320+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-10T11:19:03.896320+00:00"
     },
     "1046768559755382784": {
         "last_claim_timestamp": "2025-10-10T11:19:38.871786+00:00"
