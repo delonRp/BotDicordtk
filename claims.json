@@ -2635,5 +2635,11 @@
         "current_token": "SUBSCRIBER-NVZL-20251017",
         "token_expiry_timestamp": "2025-10-22T11:09:37.263634+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1428549082997063752": {
+        "last_claim_timestamp": "2025-10-17T12:53:37.415013+00:00",
+        "current_token": "BEGINNER-YZI4-20251017",
+        "token_expiry_timestamp": "2025-10-20T12:53:37.415013+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
