@@ -2635,5 +2635,11 @@
         "current_token": "SUBSCRIBER-KDAW-20251017",
         "token_expiry_timestamp": "2025-10-22T15:16:58.942120+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1423283656973090856": {
+        "last_claim_timestamp": "2025-10-17T18:46:24.562332+00:00",
+        "current_token": "BEGINNER-IIG2-20251017",
+        "token_expiry_timestamp": "2025-10-20T18:46:24.562332+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
