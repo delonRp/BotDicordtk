@@ -2647,5 +2647,11 @@
         "current_token": "BEGINNER-30FP-20251017",
         "token_expiry_timestamp": "2025-10-20T23:11:42.404437+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1169927341162639441": {
+        "last_claim_timestamp": "2025-10-17T23:24:34.266820+00:00",
+        "current_token": "BEGINNER-AC90-20251017",
+        "token_expiry_timestamp": "2025-10-20T23:24:34.266820+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
