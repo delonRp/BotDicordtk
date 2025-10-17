@@ -2632,5 +2632,11 @@
         "current_token": "BEGINNER-YZI4-20251017",
         "token_expiry_timestamp": "2025-10-20T12:53:37.415013+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1318627510363361305": {
+        "last_claim_timestamp": "2025-10-17T15:13:21.292285+00:00",
+        "current_token": "SUBSCRIBER-M6UT-20251017",
+        "token_expiry_timestamp": "2025-10-22T15:13:21.292285+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
