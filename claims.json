@@ -1955,22 +1955,13 @@
         "last_claim_timestamp": "2025-10-12T07:37:45.763027+00:00"
     },
     "1422953884468379731": {
-        "last_claim_timestamp": "2025-10-12T07:48:15.317627+00:00",
-        "current_token": "SUBSCRIBER-EDZB-20251012",
-        "token_expiry_timestamp": "2025-10-17T07:48:15.317627+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T07:48:15.317627+00:00"
     },
     "1339902048639909988": {
-        "last_claim_timestamp": "2025-10-12T07:57:35.542683+00:00",
-        "current_token": "SUBSCRIBER-G9XW-20251012",
-        "token_expiry_timestamp": "2025-10-17T07:57:35.542683+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T07:57:35.542683+00:00"
     },
     "1387713341530574929": {
-        "last_claim_timestamp": "2025-10-12T08:28:57.415395+00:00",
-        "current_token": "SUBSCRIBER-FX2Z-20251012",
-        "token_expiry_timestamp": "2025-10-17T08:28:57.415395+00:00",
-        "source_alias": "forgesyndicate"
+        "last_claim_timestamp": "2025-10-12T08:28:57.415395+00:00"
     },
     "1317561919334518814": {
         "last_claim_timestamp": "2025-10-12T08:54:23.813781+00:00",
