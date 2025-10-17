@@ -2620,5 +2620,11 @@
         "token_expiry_timestamp": "2025-10-19T06:14:43.062033+00:00",
         "source_alias": "forgesyndicate",
         "is_shared": true
+    },
+    "785567430465683476": {
+        "last_claim_timestamp": "2025-10-17T07:07:00.829348+00:00",
+        "current_token": "SUBSCRIBER-2QOJ-20251017",
+        "token_expiry_timestamp": "2025-10-22T07:07:00.829348+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
