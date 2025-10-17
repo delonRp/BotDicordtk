@@ -2603,5 +2603,11 @@
         "current_token": "BEGINNER-EFQC-20251017",
         "token_expiry_timestamp": "2025-10-20T05:57:07.542034+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1257724304036986991": {
+        "last_claim_timestamp": "2025-10-17T06:00:08.960238+00:00",
+        "current_token": "BEGINNER-ZH88-20251017",
+        "token_expiry_timestamp": "2025-10-20T06:00:08.960238+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
