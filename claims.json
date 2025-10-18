@@ -2644,5 +2644,11 @@
         "current_token": "SUBSCRIBER-L7QW-20251018",
         "token_expiry_timestamp": "2025-10-23T05:06:01.185636+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1095729378647871528": {
+        "last_claim_timestamp": "2025-10-18T06:03:02.650088+00:00",
+        "current_token": "BEGINNER-ZEI7-20251018",
+        "token_expiry_timestamp": "2025-10-21T06:03:02.650088+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
