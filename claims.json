@@ -1435,7 +1435,10 @@
         "last_claim_timestamp": "2025-10-05T20:47:01.707647+00:00"
     },
     "1372933289245151352": {
-        "last_claim_timestamp": "2025-10-05T21:55:29.669919+00:00"
+        "last_claim_timestamp": "2025-10-18T17:26:08.492918+00:00",
+        "current_token": "SUBSCRIBER-O3WM-20251018",
+        "token_expiry_timestamp": "2025-10-23T17:26:08.492918+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1208503331685802068": {
         "last_claim_timestamp": "2025-10-05T22:20:00.300918+00:00"
