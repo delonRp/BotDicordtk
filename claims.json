@@ -2659,5 +2659,11 @@
         "current_token": "SUBSCRIBER-BSDK-20251018",
         "token_expiry_timestamp": "2025-10-23T06:51:29.440968+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1371053837103796225": {
+        "last_claim_timestamp": "2025-10-18T07:13:26.463206+00:00",
+        "current_token": "SUBSCRIBER-UQ19-20251018",
+        "token_expiry_timestamp": "2025-10-23T07:13:26.463206+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
