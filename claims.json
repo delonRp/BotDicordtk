@@ -2653,5 +2653,11 @@
         "current_token": "BEGINNER-C45K-20251018",
         "token_expiry_timestamp": "2025-10-21T06:20:49.986860+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1424244754266325012": {
+        "last_claim_timestamp": "2025-10-18T06:51:29.440968+00:00",
+        "current_token": "SUBSCRIBER-BSDK-20251018",
+        "token_expiry_timestamp": "2025-10-23T06:51:29.440968+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
