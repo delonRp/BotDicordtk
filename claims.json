@@ -2677,5 +2677,12 @@
         "current_token": "SUBSCRIBER-83UD-20251018",
         "token_expiry_timestamp": "2025-10-23T07:14:16.517481+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "shared_forgesyndicate_Scaramel": {
+        "last_claim_timestamp": "2025-10-18T07:37:14.111804+00:00",
+        "current_token": "Scaramel",
+        "token_expiry_timestamp": "2025-11-17T07:37:14.111804+00:00",
+        "source_alias": "forgesyndicate",
+        "is_shared": true
     }
 }
