@@ -1799,7 +1799,10 @@
         "last_claim_timestamp": "2025-10-11T08:17:15.912993+00:00"
     },
     "1407727522879246486": {
-        "last_claim_timestamp": "2025-10-11T08:27:52.118651+00:00"
+        "last_claim_timestamp": "2025-10-18T08:38:40.451245+00:00",
+        "current_token": "SUBSCRIBER-YG33-20251018",
+        "token_expiry_timestamp": "2025-10-23T08:38:40.451245+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1223193812583714848": {
         "last_claim_timestamp": "2025-10-11T08:38:09.828128+00:00"
