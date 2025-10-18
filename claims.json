@@ -1221,7 +1221,10 @@
         "last_claim_timestamp": "2025-09-30T20:22:45.577841+00:00"
     },
     "1392110073681154260": {
-        "last_claim_timestamp": "2025-10-01T00:51:20.441310+00:00"
+        "last_claim_timestamp": "2025-10-18T17:04:53.948144+00:00",
+        "current_token": "SUBSCRIBER-MP9M-20251018",
+        "token_expiry_timestamp": "2025-10-23T17:04:53.948144+00:00",
+        "source_alias": "forgesyndicate"
     },
     "1352544645141237793": {
         "last_claim_timestamp": "2025-10-01T08:07:01.524387+00:00"
