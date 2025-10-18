@@ -2709,5 +2709,11 @@
         "current_token": "BEGINNER-VTSK-20251018",
         "token_expiry_timestamp": "2025-10-21T09:44:34.739793+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1422601821293117611": {
+        "last_claim_timestamp": "2025-10-18T10:34:41.934307+00:00",
+        "current_token": "SUBSCRIBER-WL1B-20251018",
+        "token_expiry_timestamp": "2025-10-23T10:34:41.934307+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
