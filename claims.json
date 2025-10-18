@@ -1580,7 +1580,10 @@
         "last_claim_timestamp": "2025-10-08T11:32:04.870501+00:00"
     },
     "1425008043224993915": {
-        "last_claim_timestamp": "2025-10-08T13:19:19.098533+00:00"
+        "last_claim_timestamp": "2025-10-18T07:54:58.695256+00:00",
+        "current_token": "SUBSCRIBER-8REW-20251018",
+        "token_expiry_timestamp": "2025-10-23T07:54:58.695256+00:00",
+        "source_alias": "forgesyndicate"
     },
     "704682296132894720": {
         "last_claim_timestamp": "2025-10-08T13:28:35.964070+00:00"
