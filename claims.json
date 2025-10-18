@@ -2700,5 +2700,11 @@
         "current_token": "BEGINNER-C8PJ-20251018",
         "token_expiry_timestamp": "2025-10-21T07:58:47.590522+00:00",
         "source_alias": "forgesyndicate"
+    },
+    "1397922663573225604": {
+        "last_claim_timestamp": "2025-10-18T09:33:01.535627+00:00",
+        "current_token": "SUBSCRIBER-NFAI-20251018",
+        "token_expiry_timestamp": "2025-10-23T09:33:01.535627+00:00",
+        "source_alias": "forgesyndicate"
     }
 }
