@@ -2775,5 +2775,11 @@
         "current_token": "BEGINNER-NYWJ-20251019",
         "token_expiry_timestamp": "2025-10-22T01:03:03.406607+00:00",
         "source_alias": "bassic"
+    },
+    "1427272509606330451": {
+        "last_claim_timestamp": "2025-10-19T01:05:45.057796+00:00",
+        "current_token": "BEGINNER-YA6V-20251019",
+        "token_expiry_timestamp": "2025-10-22T01:05:45.057796+00:00",
+        "source_alias": "bassic"
     }
 }
