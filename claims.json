@@ -1769,7 +1769,10 @@
         "last_claim_timestamp": "2025-10-11T05:23:07.044668+00:00"
     },
     "1406156214278291637": {
-        "last_claim_timestamp": "2025-10-11T05:33:47.347842+00:00"
+        "last_claim_timestamp": "2025-10-19T00:55:06.965766+00:00",
+        "current_token": "SUBSCRIBER-FNA1-20251019",
+        "token_expiry_timestamp": "2025-10-24T00:55:06.965766+00:00",
+        "source_alias": "bassic"
     },
     "1314501744394506242": {
         "last_claim_timestamp": "2025-10-11T05:58:08.303081+00:00"
