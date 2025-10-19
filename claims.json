@@ -1372,10 +1372,7 @@
         "last_claim_timestamp": "2025-10-13T12:18:47.778161+00:00"
     },
     "801341249587380234": {
-        "last_claim_timestamp": "2025-10-14T14:05:02.603096+00:00",
-        "current_token": "SUBSCRIBER-EGMF-20251014",
-        "token_expiry_timestamp": "2025-10-19T14:05:02.603096+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-14T14:05:02.603096+00:00"
     },
     "1148631575773327401": {
         "last_claim_timestamp": "2025-10-04T16:43:34.620237+00:00"
