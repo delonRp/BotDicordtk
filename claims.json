@@ -2733,5 +2733,11 @@
         "current_token": "BEGINNER-CKCT-20251019",
         "token_expiry_timestamp": "2025-10-22T00:21:06.796456+00:00",
         "source_alias": "bassic"
+    },
+    "1427274288645279796": {
+        "last_claim_timestamp": "2025-10-19T00:27:50.240265+00:00",
+        "current_token": "SUBSCRIBER-HYNC-20251019",
+        "token_expiry_timestamp": "2025-10-24T00:27:50.240265+00:00",
+        "source_alias": "bassic"
     }
 }
