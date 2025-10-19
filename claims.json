@@ -2763,5 +2763,11 @@
         "current_token": "BEGINNER-UONL-20251019",
         "token_expiry_timestamp": "2025-10-22T00:57:49.365181+00:00",
         "source_alias": "bassic"
+    },
+    "1391747910617792533": {
+        "last_claim_timestamp": "2025-10-19T01:00:08.972571+00:00",
+        "current_token": "SUBSCRIBER-TTH8-20251019",
+        "token_expiry_timestamp": "2025-10-24T01:00:08.972571+00:00",
+        "source_alias": "bassic"
     }
 }
