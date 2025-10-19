@@ -1086,7 +1086,10 @@
         "last_claim_timestamp": "2025-09-28T23:25:14.372166+00:00"
     },
     "1272696551596097647": {
-        "last_claim_timestamp": "2025-09-29T00:22:00.448236+00:00"
+        "last_claim_timestamp": "2025-10-19T15:09:33.569024+00:00",
+        "current_token": "SUBSCRIBER-TX9M-20251019",
+        "token_expiry_timestamp": "2025-10-24T15:09:33.569024+00:00",
+        "source_alias": "bassic"
     },
     "1336098234380058836": {
         "last_claim_timestamp": "2025-09-29T03:43:45.443371+00:00"
