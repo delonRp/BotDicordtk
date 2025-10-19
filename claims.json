@@ -2873,17 +2873,7 @@
         "last_claim_timestamp": "2025-10-16T15:57:16.266586+00:00"
     },
     "1426478204025176127": {
-        "last_claim_timestamp": "2025-10-16T18:34:06.249662+00:00",
-        "current_token": "BEGINNER-OFFM-20251016",
-        "token_expiry_timestamp": "2025-10-19T18:34:06.249662+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-OFFM-20251016",
-                "expiry_timestamp": "2025-10-19T18:34:06.249662+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T18:34:06.249662+00:00"
     },
     "1035499369610350604": {
         "last_claim_timestamp": "2025-10-16T19:20:26.351855+00:00",
