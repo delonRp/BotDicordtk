@@ -2884,5 +2884,11 @@
         "current_token": "SUBSCRIBER-447E-20251019",
         "token_expiry_timestamp": "2025-10-24T16:11:12.096675+00:00",
         "source_alias": "bassic"
+    },
+    "1416731838881206322": {
+        "last_claim_timestamp": "2025-10-19T16:20:38.271850+00:00",
+        "current_token": "BEGINNER-S5K4-20251019",
+        "token_expiry_timestamp": "2025-10-22T16:20:38.271850+00:00",
+        "source_alias": "bassic"
     }
 }
