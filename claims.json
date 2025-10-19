@@ -2838,5 +2838,11 @@
         "current_token": "SUBSCRIBER-SW76-20251019",
         "token_expiry_timestamp": "2025-10-24T04:54:01.926249+00:00",
         "source_alias": "bassic"
+    },
+    "1394606460083638332": {
+        "last_claim_timestamp": "2025-10-19T05:30:58.082717+00:00",
+        "current_token": "BEGINNER-2W3K-20251019",
+        "token_expiry_timestamp": "2025-10-22T05:30:58.082717+00:00",
+        "source_alias": "bassic"
     }
 }
