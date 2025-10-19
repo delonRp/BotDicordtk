@@ -3894,5 +3894,18 @@
         "current_token": "BEGINNER-A5DP-20251019",
         "token_expiry_timestamp": "2025-10-22T17:33:26.485259+00:00",
         "source_alias": "bassic"
+    },
+    "760327978189455381": {
+        "tokens": [
+            {
+                "token": "BEGINNER-2ADJ-20251019",
+                "expiry_timestamp": "2025-10-22T19:51:13.359921+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-19T19:51:13.359921+00:00",
+        "current_token": "BEGINNER-2ADJ-20251019",
+        "token_expiry_timestamp": "2025-10-22T19:51:13.359921+00:00",
+        "source_alias": "bassic"
     }
 }
