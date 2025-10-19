@@ -2727,5 +2727,11 @@
         "current_token": "SUBSCRIBER-48TV-20251018",
         "token_expiry_timestamp": "2025-10-23T22:56:09.895551+00:00",
         "source_alias": "bassic"
+    },
+    "1091113500899823676": {
+        "last_claim_timestamp": "2025-10-19T00:21:06.796456+00:00",
+        "current_token": "BEGINNER-CKCT-20251019",
+        "token_expiry_timestamp": "2025-10-22T00:21:06.796456+00:00",
+        "source_alias": "bassic"
     }
 }
