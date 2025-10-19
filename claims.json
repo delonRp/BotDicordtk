@@ -1132,7 +1132,10 @@
         "last_claim_timestamp": "2025-10-12T13:38:12.939669+00:00"
     },
     "1362327398401577030": {
-        "last_claim_timestamp": "2025-10-09T10:44:55.846148+00:00"
+        "last_claim_timestamp": "2025-10-19T05:41:59.114872+00:00",
+        "current_token": "VIP-XRVK-20251019",
+        "token_expiry_timestamp": "2025-11-18T05:41:59.114872+00:00",
+        "source_alias": "bassic"
     },
     "1400608761269190736": {
         "last_claim_timestamp": "2025-09-29T13:32:33.325498+00:00"
