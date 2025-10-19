@@ -2085,7 +2085,19 @@
         "last_claim_timestamp": "2025-10-13T09:54:04.792731+00:00"
     },
     "1217773626410008643": {
-        "last_claim_timestamp": "2025-10-13T10:40:10.570990+00:00"
+        "last_claim_timestamp": "2025-10-13T10:40:10.570990+00:00",
+        "tokens": [
+            {
+                "token": "Nhoman",
+                "expiry_timestamp": "2025-11-18T14:09:00.230079+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "Nhoman",
+        "token_expiry_timestamp": "2025-11-18T14:09:00.230079+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "767239002021298196": {
         "last_claim_timestamp": "2025-10-13T11:36:48.909523+00:00"
