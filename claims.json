@@ -805,11 +805,17 @@
                 "expiry_timestamp": "2025-10-19T05:52:11.260883+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "test2",
+                "expiry_timestamp": "2025-10-19T01:56:17.892906+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "minggu",
-        "token_expiry_timestamp": "2025-10-19T05:52:11.260883+00:00",
-        "source_alias": "vip",
+        "current_token": "test2",
+        "token_expiry_timestamp": "2025-10-19T01:56:17.892906+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1335901722748518495": {
