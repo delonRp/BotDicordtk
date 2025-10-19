@@ -1279,10 +1279,7 @@
         "last_claim_timestamp": "2025-10-03T06:50:50.734541+00:00"
     },
     "1325399001360760963": {
-        "last_claim_timestamp": "2025-10-14T08:28:28.726179+00:00",
-        "current_token": "SUBSCRIBER-ZGL4-20251014",
-        "token_expiry_timestamp": "2025-10-19T08:28:28.726179+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-14T08:28:28.726179+00:00"
     },
     "1294428120073633895": {
         "last_claim_timestamp": "2025-10-03T07:28:23.801831+00:00"
@@ -2287,10 +2284,7 @@
         "source_alias": "bassic"
     },
     "1398222405566205962": {
-        "last_claim_timestamp": "2025-10-16T07:47:46.377298+00:00",
-        "current_token": "BEGINNER-V0LR-20251016",
-        "token_expiry_timestamp": "2025-10-19T07:47:46.377298+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-16T07:47:46.377298+00:00"
     },
     "1397197531213070377": {
         "last_claim_timestamp": "2025-10-16T08:17:29.049256+00:00",
