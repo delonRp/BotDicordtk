@@ -2156,10 +2156,7 @@
         "last_claim_timestamp": "2025-10-14T05:30:45.260801+00:00"
     },
     "1401418139127779520": {
-        "last_claim_timestamp": "2025-10-14T08:56:51.427231+00:00",
-        "current_token": "SUBSCRIBER-RQ89-20251014",
-        "token_expiry_timestamp": "2025-10-19T08:56:51.427231+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-14T08:56:51.427231+00:00"
     },
     "1399001252150513694": {
         "last_claim_timestamp": "2025-10-14T10:27:24.548173+00:00"
