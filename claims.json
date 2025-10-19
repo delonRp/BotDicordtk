@@ -608,10 +608,7 @@
         "last_claim_timestamp": "2025-09-23T11:30:33.914487+00:00"
     },
     "992322712166989886": {
-        "last_claim_timestamp": "2025-10-14T06:10:47.454597+00:00",
-        "current_token": "SUBSCRIBER-HRPY-20251014",
-        "token_expiry_timestamp": "2025-10-19T06:10:47.454597+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-14T06:10:47.454597+00:00"
     },
     "1413508754342809630": {
         "last_claim_timestamp": "2025-09-23T11:37:10.824842+00:00",
@@ -803,12 +800,6 @@
     "782445287855489076": {
         "last_claim_timestamp": "2025-10-18T21:15:19.113561+00:00",
         "tokens": [
-            {
-                "token": "minggu",
-                "expiry_timestamp": "2025-10-19T05:52:11.260883+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
             {
                 "token": "raa",
                 "expiry_timestamp": "2025-11-18T03:41:44.953967+00:00",
@@ -2489,20 +2480,6 @@
         "current_token": "BEGINNER-ZH88-20251017",
         "token_expiry_timestamp": "2025-10-20T06:00:08.960238+00:00",
         "source_alias": "bassic"
-    },
-    "shared_vip_5k": {
-        "last_claim_timestamp": "2025-10-17T06:01:39.479390+00:00",
-        "current_token": "5k",
-        "token_expiry_timestamp": "2025-10-19T06:01:39.479390+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
-    "shared_bassic_5k": {
-        "last_claim_timestamp": "2025-10-17T06:14:43.062033+00:00",
-        "current_token": "5k",
-        "token_expiry_timestamp": "2025-10-19T06:14:43.062033+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
     },
     "785567430465683476": {
         "last_claim_timestamp": "2025-10-17T07:07:00.829348+00:00",
