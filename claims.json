@@ -2782,5 +2782,11 @@
         "current_token": "SUBSCRIBER-REHR-20251019",
         "token_expiry_timestamp": "2025-10-24T01:23:54.433954+00:00",
         "source_alias": "bassic"
+    },
+    "1289025811201916990": {
+        "last_claim_timestamp": "2025-10-19T01:37:29.048576+00:00",
+        "current_token": "SUBSCRIBER-D21W-20251019",
+        "token_expiry_timestamp": "2025-10-24T01:37:29.048576+00:00",
+        "source_alias": "bassic"
     }
 }
