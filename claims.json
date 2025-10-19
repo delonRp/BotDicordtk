@@ -2793,9 +2793,18 @@
     },
     "873637693790232597": {
         "last_claim_timestamp": "2025-10-19T01:23:54.433954+00:00",
-        "current_token": "SUBSCRIBER-REHR-20251019",
-        "token_expiry_timestamp": "2025-10-24T01:23:54.433954+00:00",
-        "source_alias": "bassic"
+        "current_token": "monlon30d",
+        "token_expiry_timestamp": "2025-11-18T01:54:55.892337+00:00",
+        "source_alias": "bassic",
+        "tokens": [
+            {
+                "token": "monlon30d",
+                "expiry_timestamp": "2025-11-18T01:54:55.892337+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "assigned_by_admin": 782445287855489076
     },
     "1289025811201916990": {
         "last_claim_timestamp": "2025-10-19T01:37:29.048576+00:00",
