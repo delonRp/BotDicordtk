@@ -2878,5 +2878,11 @@
         "current_token": "SUBSCRIBER-SYTT-20251019",
         "token_expiry_timestamp": "2025-10-24T11:01:21.563286+00:00",
         "source_alias": "bassic"
+    },
+    "1317707073706000445": {
+        "last_claim_timestamp": "2025-10-19T16:11:12.096675+00:00",
+        "current_token": "SUBSCRIBER-447E-20251019",
+        "token_expiry_timestamp": "2025-10-24T16:11:12.096675+00:00",
+        "source_alias": "bassic"
     }
 }
