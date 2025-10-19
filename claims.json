@@ -2825,5 +2825,11 @@
         "current_token": "BEGINNER-HC1X-20251019",
         "token_expiry_timestamp": "2025-10-22T01:55:00.788546+00:00",
         "source_alias": "bassic"
+    },
+    "1421392025902907407": {
+        "last_claim_timestamp": "2025-10-19T01:58:12.526131+00:00",
+        "current_token": "BEGINNER-VH5J-20251019",
+        "token_expiry_timestamp": "2025-10-22T01:58:12.526131+00:00",
+        "source_alias": "bassic"
     }
 }
