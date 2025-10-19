@@ -2908,17 +2908,7 @@
         ]
     },
     "1278316043693068288": {
-        "last_claim_timestamp": "2025-10-16T20:40:01.204693+00:00",
-        "current_token": "BEGINNER-MJNR-20251016",
-        "token_expiry_timestamp": "2025-10-19T20:40:01.204693+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-MJNR-20251016",
-                "expiry_timestamp": "2025-10-19T20:40:01.204693+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T20:40:01.204693+00:00"
     },
     "1299193302322774039": {
         "last_claim_timestamp": "2025-10-16T22:31:38.661619+00:00",
