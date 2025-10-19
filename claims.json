@@ -2769,5 +2769,11 @@
         "current_token": "SUBSCRIBER-TTH8-20251019",
         "token_expiry_timestamp": "2025-10-24T01:00:08.972571+00:00",
         "source_alias": "bassic"
+    },
+    "1243091411986022401": {
+        "last_claim_timestamp": "2025-10-19T01:03:03.406607+00:00",
+        "current_token": "BEGINNER-NYWJ-20251019",
+        "token_expiry_timestamp": "2025-10-22T01:03:03.406607+00:00",
+        "source_alias": "bassic"
     }
 }
