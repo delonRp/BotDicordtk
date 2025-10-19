@@ -34,11 +34,17 @@
                 "expiry_timestamp": "2025-11-18T14:10:07.326557+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "indowibu",
+                "expiry_timestamp": "2025-11-18T14:10:30.524567+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "indowibu",
-        "token_expiry_timestamp": "2025-11-18T14:10:07.326557+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-11-18T14:10:30.524567+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1396826009462116372": {
