@@ -2832,5 +2832,11 @@
         "current_token": "BEGINNER-WYDG-20251019",
         "token_expiry_timestamp": "2025-10-22T04:11:37.691944+00:00",
         "source_alias": "bassic"
+    },
+    "1231669713373888592": {
+        "last_claim_timestamp": "2025-10-19T04:54:01.926249+00:00",
+        "current_token": "SUBSCRIBER-SW76-20251019",
+        "token_expiry_timestamp": "2025-10-24T04:54:01.926249+00:00",
+        "source_alias": "bassic"
     }
 }
