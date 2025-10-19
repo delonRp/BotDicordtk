@@ -2828,5 +2828,11 @@
         "current_token": "BEGINNER-VH5J-20251019",
         "token_expiry_timestamp": "2025-10-22T01:58:12.526131+00:00",
         "source_alias": "bassic"
+    },
+    "shared_bassic_tetetet": {
+        "current_token": "tetetet",
+        "token_expiry_timestamp": "2025-10-19T02:50:26.595671+00:00",
+        "source_alias": "bassic",
+        "is_shared": true
     }
 }
