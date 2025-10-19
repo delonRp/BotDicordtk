@@ -483,7 +483,10 @@
         "is_shared": true
     },
     "1407669610538602586": {
-        "last_claim_timestamp": "2025-09-22T14:07:31.434080+00:00"
+        "last_claim_timestamp": "2025-10-19T00:18:44.218527+00:00",
+        "current_token": "SUBSCRIBER-8B4V-20251019",
+        "token_expiry_timestamp": "2025-10-24T00:18:44.218527+00:00",
+        "source_alias": "bassic"
     },
     "1370716664823287808": {
         "last_claim_timestamp": "2025-09-30T11:56:27.216380+00:00"
