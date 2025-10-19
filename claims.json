@@ -27,7 +27,19 @@
         "last_claim_timestamp": "2025-09-18T08:57:33.986687+00:00"
     },
     "927932266540326932": {
-        "last_claim_timestamp": "2025-09-18T13:25:34.648542+00:00"
+        "last_claim_timestamp": "2025-09-18T13:25:34.648542+00:00",
+        "tokens": [
+            {
+                "token": "indowibu",
+                "expiry_timestamp": "2025-11-18T14:10:07.326557+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "indowibu",
+        "token_expiry_timestamp": "2025-11-18T14:10:07.326557+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1396826009462116372": {
         "last_claim_timestamp": "2025-09-18T15:06:03.529754+00:00"
