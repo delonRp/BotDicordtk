@@ -2842,5 +2842,11 @@
         "current_token": "SUBSCRIBER-4MSR-20251019",
         "token_expiry_timestamp": "2025-10-24T07:07:31.543723+00:00",
         "source_alias": "bassic"
+    },
+    "1387807082241069067": {
+        "last_claim_timestamp": "2025-10-19T07:13:58.248362+00:00",
+        "current_token": "BEGINNER-H4KH-20251019",
+        "token_expiry_timestamp": "2025-10-22T07:13:58.248362+00:00",
+        "source_alias": "bassic"
     }
 }
