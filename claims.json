@@ -2911,17 +2911,7 @@
         "last_claim_timestamp": "2025-10-16T20:40:01.204693+00:00"
     },
     "1299193302322774039": {
-        "last_claim_timestamp": "2025-10-16T22:31:38.661619+00:00",
-        "current_token": "BEGINNER-EVRG-20251016",
-        "token_expiry_timestamp": "2025-10-19T22:31:38.661619+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-EVRG-20251016",
-                "expiry_timestamp": "2025-10-19T22:31:38.661619+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T22:31:38.661619+00:00"
     },
     "1417086574600130591": {
         "last_claim_timestamp": "2025-10-16T23:11:29.473113+00:00",
