@@ -1718,7 +1718,10 @@
         "last_claim_timestamp": "2025-10-10T22:29:22.109981+00:00"
     },
     "1373216206961774594": {
-        "last_claim_timestamp": "2025-10-10T22:52:14.254048+00:00"
+        "last_claim_timestamp": "2025-10-19T07:38:19.820613+00:00",
+        "current_token": "SUBSCRIBER-PXW6-20251019",
+        "token_expiry_timestamp": "2025-10-24T07:38:19.820613+00:00",
+        "source_alias": "bassic"
     },
     "1226357127354777630": {
         "last_claim_timestamp": "2025-10-10T22:57:10.766459+00:00"
