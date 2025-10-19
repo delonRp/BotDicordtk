@@ -2845,5 +2845,11 @@
         "current_token": "BEGINNER-H4KH-20251019",
         "token_expiry_timestamp": "2025-10-22T07:13:58.248362+00:00",
         "source_alias": "bassic"
+    },
+    "1216623646190342196": {
+        "last_claim_timestamp": "2025-10-19T08:51:32.721716+00:00",
+        "current_token": "SUBSCRIBER-GSLL-20251019",
+        "token_expiry_timestamp": "2025-10-24T08:51:32.721716+00:00",
+        "source_alias": "bassic"
     }
 }
