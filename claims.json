@@ -2739,5 +2739,11 @@
         "current_token": "SUBSCRIBER-HYNC-20251019",
         "token_expiry_timestamp": "2025-10-24T00:27:50.240265+00:00",
         "source_alias": "bassic"
+    },
+    "1232888020882030689": {
+        "last_claim_timestamp": "2025-10-19T00:40:14.646018+00:00",
+        "current_token": "BEGINNER-XUBU-20251019",
+        "token_expiry_timestamp": "2025-10-22T00:40:14.646018+00:00",
+        "source_alias": "bassic"
     }
 }
