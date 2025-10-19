@@ -2757,5 +2757,11 @@
         "current_token": "SUBSCRIBER-V6CP-20251019",
         "token_expiry_timestamp": "2025-10-24T00:47:42.701036+00:00",
         "source_alias": "bassic"
+    },
+    "1266318987579359302": {
+        "last_claim_timestamp": "2025-10-19T00:57:49.365181+00:00",
+        "current_token": "BEGINNER-UONL-20251019",
+        "token_expiry_timestamp": "2025-10-22T00:57:49.365181+00:00",
+        "source_alias": "bassic"
     }
 }
