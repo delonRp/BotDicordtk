@@ -2841,5 +2841,11 @@
         "current_token": "BEGINNER-2W3K-20251019",
         "token_expiry_timestamp": "2025-10-22T05:30:58.082717+00:00",
         "source_alias": "bassic"
+    },
+    "1227937191888683028": {
+        "last_claim_timestamp": "2025-10-19T05:58:10.994482+00:00",
+        "current_token": "SUBSCRIBER-Y022-20251019",
+        "token_expiry_timestamp": "2025-10-24T05:58:10.994482+00:00",
+        "source_alias": "bassic"
     }
 }
