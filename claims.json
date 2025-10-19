@@ -2781,5 +2781,11 @@
         "current_token": "BEGINNER-YA6V-20251019",
         "token_expiry_timestamp": "2025-10-22T01:05:45.057796+00:00",
         "source_alias": "bassic"
+    },
+    "873637693790232597": {
+        "last_claim_timestamp": "2025-10-19T01:23:54.433954+00:00",
+        "current_token": "SUBSCRIBER-REHR-20251019",
+        "token_expiry_timestamp": "2025-10-24T01:23:54.433954+00:00",
+        "source_alias": "bassic"
     }
 }
