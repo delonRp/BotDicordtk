@@ -2802,5 +2802,11 @@
         "current_token": "SUBSCRIBER-D21W-20251019",
         "token_expiry_timestamp": "2025-10-24T01:37:29.048576+00:00",
         "source_alias": "bassic"
+    },
+    "1226035726420934666": {
+        "last_claim_timestamp": "2025-10-19T01:54:23.867840+00:00",
+        "current_token": "SUBSCRIBER-Q7Y4-20251019",
+        "token_expiry_timestamp": "2025-10-24T01:54:23.867840+00:00",
+        "source_alias": "bassic"
     }
 }
