@@ -3881,5 +3881,18 @@
         "current_token": "SUBSCRIBER-XHSK-20251019",
         "token_expiry_timestamp": "2025-10-24T17:18:11.016349+00:00",
         "source_alias": "bassic"
+    },
+    "1122422395114881084": {
+        "tokens": [
+            {
+                "token": "BEGINNER-A5DP-20251019",
+                "expiry_timestamp": "2025-10-22T17:33:26.485259+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-19T17:33:26.485259+00:00",
+        "current_token": "BEGINNER-A5DP-20251019",
+        "token_expiry_timestamp": "2025-10-22T17:33:26.485259+00:00",
+        "source_alias": "bassic"
     }
 }
