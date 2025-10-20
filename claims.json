@@ -3856,5 +3856,18 @@
         "current_token": "BEGINNER-QIF3-20251020",
         "token_expiry_timestamp": "2025-10-23T16:21:37.054807+00:00",
         "source_alias": "bassic"
+    },
+    "1423267978576662550": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-59IZ-20251020",
+                "expiry_timestamp": "2025-10-25T16:29:11.145457+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T16:29:11.145457+00:00",
+        "current_token": "SUBSCRIBER-59IZ-20251020",
+        "token_expiry_timestamp": "2025-10-25T16:29:11.145457+00:00",
+        "source_alias": "bassic"
     }
 }
