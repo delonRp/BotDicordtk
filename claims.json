@@ -1944,13 +1944,6 @@
     "1327225510849282132": {
         "last_claim_timestamp": "2025-10-10T12:52:30.228558+00:00"
     },
-    "shared_henjithegost": {
-        "last_claim_timestamp": "2025-10-10T13:14:34.408807+00:00",
-        "current_token": "henjithegost",
-        "token_expiry_timestamp": "2025-10-20T13:14:34.408807+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "738420862394564720": {
         "last_claim_timestamp": "2025-10-10T14:50:21.497380+00:00"
     },
