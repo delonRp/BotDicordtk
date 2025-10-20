@@ -595,7 +595,17 @@
         "is_shared": true
     },
     "886629309568151654": {
-        "last_claim_timestamp": "2025-09-22T16:20:01.747636+00:00"
+        "last_claim_timestamp": "2025-10-20T13:14:18.331927+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-768G-20251020",
+                "expiry_timestamp": "2025-10-23T13:14:18.331927+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-768G-20251020",
+        "token_expiry_timestamp": "2025-10-23T13:14:18.331927+00:00",
+        "source_alias": "bassic"
     },
     "1380422423517728880": {
         "last_claim_timestamp": "2025-09-22T16:51:32.855552+00:00"
