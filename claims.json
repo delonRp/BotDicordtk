@@ -3879,5 +3879,18 @@
         "current_token": "SUBSCRIBER-PKK7-20251020",
         "token_expiry_timestamp": "2025-10-25T01:58:24.224901+00:00",
         "source_alias": "bassic"
+    },
+    "1362754242758185013": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4G64-20251020",
+                "expiry_timestamp": "2025-10-23T03:50:38.945210+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T03:50:38.945210+00:00",
+        "current_token": "BEGINNER-4G64-20251020",
+        "token_expiry_timestamp": "2025-10-23T03:50:38.945210+00:00",
+        "source_alias": "bassic"
     }
 }
