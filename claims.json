@@ -3004,17 +3004,7 @@
         ]
     },
     "1423283656973090856": {
-        "last_claim_timestamp": "2025-10-17T18:46:24.562332+00:00",
-        "current_token": "BEGINNER-IIG2-20251017",
-        "token_expiry_timestamp": "2025-10-20T18:46:24.562332+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-IIG2-20251017",
-                "expiry_timestamp": "2025-10-20T18:46:24.562332+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T18:46:24.562332+00:00"
     },
     "1428822065925980312": {
         "last_claim_timestamp": "2025-10-17T19:10:58.616581+00:00",
