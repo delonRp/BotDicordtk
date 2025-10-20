@@ -2241,7 +2241,17 @@
         "last_claim_timestamp": "2025-10-11T19:16:52.426579+00:00"
     },
     "1421135602631577660": {
-        "last_claim_timestamp": "2025-10-11T19:31:25.902566+00:00"
+        "last_claim_timestamp": "2025-10-20T02:01:20.593983+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-LESD-20251020",
+                "expiry_timestamp": "2025-10-25T02:01:20.593983+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-LESD-20251020",
+        "token_expiry_timestamp": "2025-10-25T02:01:20.593983+00:00",
+        "source_alias": "bassic"
     },
     "1250386476118839358": {
         "last_claim_timestamp": "2025-10-11T20:04:03.847108+00:00"
