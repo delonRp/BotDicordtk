@@ -249,13 +249,6 @@
     "1151370324022136893": {
         "last_claim_timestamp": "2025-09-29T14:20:25.332820+00:00"
     },
-    "shared_pipo": {
-        "last_claim_timestamp": "2025-09-20T12:45:04.794062+00:00",
-        "current_token": "pipo",
-        "token_expiry_timestamp": "2025-10-20T12:45:04.794062+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1383380266336387144": {
         "last_claim_timestamp": "2025-09-20T12:58:58.051240+00:00"
     },
@@ -2959,17 +2952,7 @@
         ]
     },
     "1428549082997063752": {
-        "last_claim_timestamp": "2025-10-17T12:53:37.415013+00:00",
-        "current_token": "BEGINNER-YZI4-20251017",
-        "token_expiry_timestamp": "2025-10-20T12:53:37.415013+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-YZI4-20251017",
-                "expiry_timestamp": "2025-10-20T12:53:37.415013+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T12:53:37.415013+00:00"
     },
     "1318627510363361305": {
         "last_claim_timestamp": "2025-10-17T15:13:21.292285+00:00",
