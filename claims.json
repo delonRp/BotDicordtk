@@ -205,7 +205,17 @@
         "last_claim_timestamp": "2025-09-20T10:02:12.113009+00:00"
     },
     "1397372127857999935": {
-        "last_claim_timestamp": "2025-10-10T10:58:12.405703+00:00"
+        "last_claim_timestamp": "2025-10-20T14:18:39.396605+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EEZV-20251020",
+                "expiry_timestamp": "2025-10-25T14:18:39.396605+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-EEZV-20251020",
+        "token_expiry_timestamp": "2025-10-25T14:18:39.396605+00:00",
+        "source_alias": "bassic"
     },
     "1053962333711519765": {
         "last_claim_timestamp": "2025-09-20T10:12:04.212830+00:00"
