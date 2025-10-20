@@ -3894,5 +3894,18 @@
         "current_token": "SUBSCRIBER-HO83-20251020",
         "token_expiry_timestamp": "2025-10-25T23:40:13.885474+00:00",
         "source_alias": "bassic"
+    },
+    "1422634602983591936": {
+        "tokens": [
+            {
+                "token": "BEGINNER-8BYX-20251020",
+                "expiry_timestamp": "2025-10-23T23:40:33.797137+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T23:40:33.797137+00:00",
+        "current_token": "BEGINNER-8BYX-20251020",
+        "token_expiry_timestamp": "2025-10-23T23:40:33.797137+00:00",
+        "source_alias": "bassic"
     }
 }
