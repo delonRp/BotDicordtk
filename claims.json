@@ -340,13 +340,6 @@
     "1336164519906639943": {
         "last_claim_timestamp": "2025-09-20T22:56:52.791147+00:00"
     },
-    "shared_aziziqwerty": {
-        "last_claim_timestamp": "2025-09-20T23:16:24.712084+00:00",
-        "current_token": "aziziqwerty",
-        "token_expiry_timestamp": "2025-10-20T23:16:24.712084+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
-    },
     "1309145263914487808": {
         "last_claim_timestamp": "2025-09-20T23:30:59.586738+00:00"
     },
@@ -2599,17 +2592,7 @@
         "last_claim_timestamp": "2025-10-15T17:19:53.323451+00:00"
     },
     "1381679011079389290": {
-        "last_claim_timestamp": "2025-10-15T23:00:32.320524+00:00",
-        "current_token": "SUBSCRIBER-26P7-20251015",
-        "token_expiry_timestamp": "2025-10-20T23:00:32.320524+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-26P7-20251015",
-                "expiry_timestamp": "2025-10-20T23:00:32.320524+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-15T23:00:32.320524+00:00"
     },
     "1363710773146292318": {
         "last_claim_timestamp": "2025-10-16T00:05:46.086611+00:00"
@@ -3016,30 +2999,10 @@
         "last_claim_timestamp": "2025-10-17T22:13:47.897162+00:00"
     },
     "1310085992090435619": {
-        "last_claim_timestamp": "2025-10-17T23:11:42.404437+00:00",
-        "current_token": "BEGINNER-30FP-20251017",
-        "token_expiry_timestamp": "2025-10-20T23:11:42.404437+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-30FP-20251017",
-                "expiry_timestamp": "2025-10-20T23:11:42.404437+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T23:11:42.404437+00:00"
     },
     "1169927341162639441": {
-        "last_claim_timestamp": "2025-10-17T23:24:34.266820+00:00",
-        "current_token": "BEGINNER-AC90-20251017",
-        "token_expiry_timestamp": "2025-10-20T23:24:34.266820+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-AC90-20251017",
-                "expiry_timestamp": "2025-10-20T23:24:34.266820+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T23:24:34.266820+00:00"
     },
     "1193871756755214467": {
         "last_claim_timestamp": "2025-10-18T05:06:01.185636+00:00",
