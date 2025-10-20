@@ -2580,17 +2580,7 @@
         "last_claim_timestamp": "2025-10-15T14:31:09.126416+00:00"
     },
     "760286943757598730": {
-        "last_claim_timestamp": "2025-10-15T14:33:17.941994+00:00",
-        "current_token": "SUBSCRIBER-ETTC-20251015",
-        "token_expiry_timestamp": "2025-10-20T14:33:17.941994+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ETTC-20251015",
-                "expiry_timestamp": "2025-10-20T14:33:17.941994+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-15T14:33:17.941994+00:00"
     },
     "1055519556027826196": {
         "last_claim_timestamp": "2025-10-15T17:02:17.805042+00:00"
