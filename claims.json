@@ -2388,17 +2388,7 @@
         "last_claim_timestamp": "2025-10-13T08:38:07.762885+00:00"
     },
     "1397754629399515176": {
-        "last_claim_timestamp": "2025-10-13T08:42:51.175382+00:00",
-        "current_token": "INNERCIRCLE-S0JB-20251013",
-        "token_expiry_timestamp": "2025-10-20T08:42:51.175382+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-S0JB-20251013",
-                "expiry_timestamp": "2025-10-20T08:42:51.175382+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-13T08:42:51.175382+00:00"
     },
     "1420423666314772501": {
         "last_claim_timestamp": "2025-10-13T08:51:27.161798+00:00"
@@ -2532,17 +2522,7 @@
         "last_claim_timestamp": "2025-10-15T07:02:30.480847+00:00"
     },
     "1098653812413186120": {
-        "last_claim_timestamp": "2025-10-15T08:56:14.992816+00:00",
-        "current_token": "SUBSCRIBER-0XJ4-20251015",
-        "token_expiry_timestamp": "2025-10-20T08:56:14.992816+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-0XJ4-20251015",
-                "expiry_timestamp": "2025-10-20T08:56:14.992816+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-15T08:56:14.992816+00:00"
     },
     "shared_vip_gibran": {
         "last_claim_timestamp": "2025-10-15T09:20:13.864011+00:00",
