@@ -3843,5 +3843,18 @@
         "current_token": "SUBSCRIBER-CAST-20251020",
         "token_expiry_timestamp": "2025-10-25T15:30:08.494169+00:00",
         "source_alias": "bassic"
+    },
+    "1425891205543104675": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QIF3-20251020",
+                "expiry_timestamp": "2025-10-23T16:21:37.054807+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T16:21:37.054807+00:00",
+        "current_token": "BEGINNER-QIF3-20251020",
+        "token_expiry_timestamp": "2025-10-23T16:21:37.054807+00:00",
+        "source_alias": "bassic"
     }
 }
