@@ -3881,5 +3881,18 @@
         "current_token": "SUBSCRIBER-C2KA-20251020",
         "token_expiry_timestamp": "2025-10-25T21:45:11.909045+00:00",
         "source_alias": "bassic"
+    },
+    "750685709475774524": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HO83-20251020",
+                "expiry_timestamp": "2025-10-25T23:40:13.885474+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T23:40:13.885474+00:00",
+        "current_token": "SUBSCRIBER-HO83-20251020",
+        "token_expiry_timestamp": "2025-10-25T23:40:13.885474+00:00",
+        "source_alias": "bassic"
     }
 }
