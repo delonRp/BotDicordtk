@@ -3820,5 +3820,18 @@
         "current_token": "SUBSCRIBER-3S1Q-20251020",
         "token_expiry_timestamp": "2025-10-25T13:04:37.417070+00:00",
         "source_alias": "bassic"
+    },
+    "701655695535374348": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-CAST-20251020",
+                "expiry_timestamp": "2025-10-25T15:30:08.494169+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T15:30:08.494169+00:00",
+        "current_token": "SUBSCRIBER-CAST-20251020",
+        "token_expiry_timestamp": "2025-10-25T15:30:08.494169+00:00",
+        "source_alias": "bassic"
     }
 }
