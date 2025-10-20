@@ -3818,5 +3818,18 @@
         "current_token": "SUBSCRIBER-SJAZ-20251020",
         "token_expiry_timestamp": "2025-10-25T06:40:34.045655+00:00",
         "source_alias": "bassic"
+    },
+    "1212301702292836353": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-D608-20251020",
+                "expiry_timestamp": "2025-10-25T09:39:22.721511+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T09:39:22.721511+00:00",
+        "current_token": "SUBSCRIBER-D608-20251020",
+        "token_expiry_timestamp": "2025-10-25T09:39:22.721511+00:00",
+        "source_alias": "bassic"
     }
 }
