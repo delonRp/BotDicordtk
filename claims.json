@@ -3872,5 +3872,18 @@
         "current_token": "SUBSCRIBER-OTNE-20251020",
         "token_expiry_timestamp": "2025-10-25T17:46:11.002034+00:00",
         "source_alias": "bassic"
+    },
+    "1296152561715253391": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-YWEK-20251020",
+                "expiry_timestamp": "2025-10-25T19:25:36.807342+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-20T19:25:36.807342+00:00",
+        "current_token": "SUBSCRIBER-YWEK-20251020",
+        "token_expiry_timestamp": "2025-10-25T19:25:36.807342+00:00",
+        "source_alias": "bassic"
     }
 }
