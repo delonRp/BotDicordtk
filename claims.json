@@ -3080,17 +3080,7 @@
         ]
     },
     "1161552585900175380": {
-        "last_claim_timestamp": "2025-10-18T18:05:54.562834+00:00",
-        "current_token": "BEGINNER-B4GX-20251018",
-        "token_expiry_timestamp": "2025-10-21T18:05:54.562834+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-B4GX-20251018",
-                "expiry_timestamp": "2025-10-21T18:05:54.562834+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-18T18:05:54.562834+00:00"
     },
     "1371210202631901226": {
         "last_claim_timestamp": "2025-10-18T22:56:09.895551+00:00",
