@@ -3882,5 +3882,18 @@
         "current_token": "BEGINNER-MHTW-20251021",
         "token_expiry_timestamp": "2025-10-24T15:19:18.525465+00:00",
         "source_alias": "bassic"
+    },
+    "1429871609342197912": {
+        "tokens": [
+            {
+                "token": "BEGINNER-KGM0-20251021",
+                "expiry_timestamp": "2025-10-24T17:21:45.142257+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T17:21:45.142257+00:00",
+        "current_token": "BEGINNER-KGM0-20251021",
+        "token_expiry_timestamp": "2025-10-24T17:21:45.142257+00:00",
+        "source_alias": "bassic"
     }
 }
