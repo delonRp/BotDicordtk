@@ -3907,5 +3907,18 @@
         "current_token": "BEGINNER-CIWK-20251021",
         "token_expiry_timestamp": "2025-10-24T07:07:04.845123+00:00",
         "source_alias": "bassic"
+    },
+    "1303244774593138790": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6RM7-20251021",
+                "expiry_timestamp": "2025-10-26T10:25:32.173997+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T10:25:32.173997+00:00",
+        "current_token": "SUBSCRIBER-6RM7-20251021",
+        "token_expiry_timestamp": "2025-10-26T10:25:32.173997+00:00",
+        "source_alias": "bassic"
     }
 }
