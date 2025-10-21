@@ -3944,5 +3944,18 @@
         "current_token": "SUBSCRIBER-0D45-20251021",
         "token_expiry_timestamp": "2025-10-26T11:17:46.760098+00:00",
         "source_alias": "bassic"
+    },
+    "1388537244314374356": {
+        "tokens": [
+            {
+                "token": "BEGINNER-6HWT-20251021",
+                "expiry_timestamp": "2025-10-24T11:32:03.973822+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00",
+        "current_token": "BEGINNER-6HWT-20251021",
+        "token_expiry_timestamp": "2025-10-24T11:32:03.973822+00:00",
+        "source_alias": "bassic"
     }
 }
