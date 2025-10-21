@@ -12,17 +12,7 @@
         "last_claim_timestamp": "2025-10-04T11:35:40.443086+00:00"
     },
     "1112003184907534377": {
-        "last_claim_timestamp": "2025-10-14T13:30:13.606417+00:00",
-        "current_token": "INNERCIRCLE-3GF7-20251014",
-        "token_expiry_timestamp": "2025-10-21T13:30:13.606417+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-3GF7-20251014",
-                "expiry_timestamp": "2025-10-21T13:30:13.606417+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-14T13:30:13.606417+00:00"
     },
     "896616619504177162": {
         "last_claim_timestamp": "2025-09-18T07:39:31.621510+00:00"
@@ -2665,30 +2655,10 @@
         "last_claim_timestamp": "2025-10-16T12:38:18.358063+00:00"
     },
     "1142454117466390618": {
-        "last_claim_timestamp": "2025-10-16T13:10:26.046370+00:00",
-        "current_token": "SUBSCRIBER-8QDX-20251016",
-        "token_expiry_timestamp": "2025-10-21T13:10:26.046370+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-8QDX-20251016",
-                "expiry_timestamp": "2025-10-21T13:10:26.046370+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T13:10:26.046370+00:00"
     },
     "1422461806810497024": {
-        "last_claim_timestamp": "2025-10-16T13:42:42.576621+00:00",
-        "current_token": "SUBSCRIBER-0D05-20251016",
-        "token_expiry_timestamp": "2025-10-21T13:42:42.576621+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-0D05-20251016",
-                "expiry_timestamp": "2025-10-21T13:42:42.576621+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T13:42:42.576621+00:00"
     },
     "shared_vip_10days": {
         "last_claim_timestamp": "2025-10-16T14:05:31.674127+00:00",
