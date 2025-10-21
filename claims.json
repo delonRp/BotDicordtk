@@ -2682,17 +2682,7 @@
         "is_shared": true
     },
     "857814245228281856": {
-        "last_claim_timestamp": "2025-10-16T14:45:12.792236+00:00",
-        "current_token": "SUBSCRIBER-HF8V-20251016",
-        "token_expiry_timestamp": "2025-10-21T14:45:12.792236+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-HF8V-20251016",
-                "expiry_timestamp": "2025-10-21T14:45:12.792236+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T14:45:12.792236+00:00"
     },
     "855031060382482433": {
         "last_claim_timestamp": "2025-10-16T15:11:16.040889+00:00"
