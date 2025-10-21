@@ -3944,5 +3944,18 @@
         "current_token": "SUBSCRIBER-DSFJ-20251021",
         "token_expiry_timestamp": "2025-10-26T06:51:23.157779+00:00",
         "source_alias": "bassic"
+    },
+    "1111798121933049886": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CIWK-20251021",
+                "expiry_timestamp": "2025-10-24T07:07:04.845123+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T07:07:04.845123+00:00",
+        "current_token": "BEGINNER-CIWK-20251021",
+        "token_expiry_timestamp": "2025-10-24T07:07:04.845123+00:00",
+        "source_alias": "bassic"
     }
 }
