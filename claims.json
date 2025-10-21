@@ -2646,30 +2646,10 @@
         "last_claim_timestamp": "2025-10-16T07:47:46.377298+00:00"
     },
     "1397197531213070377": {
-        "last_claim_timestamp": "2025-10-16T08:17:29.049256+00:00",
-        "current_token": "SUBSCRIBER-VBXF-20251016",
-        "token_expiry_timestamp": "2025-10-21T08:17:29.049256+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-VBXF-20251016",
-                "expiry_timestamp": "2025-10-21T08:17:29.049256+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T08:17:29.049256+00:00"
     },
     "1345093377405878312": {
-        "last_claim_timestamp": "2025-10-16T08:50:55.424267+00:00",
-        "current_token": "SUBSCRIBER-BP1V-20251016",
-        "token_expiry_timestamp": "2025-10-21T08:50:55.424267+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-BP1V-20251016",
-                "expiry_timestamp": "2025-10-21T08:50:55.424267+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T08:50:55.424267+00:00"
     },
     "697038849410334750": {
         "last_claim_timestamp": "2025-10-16T10:09:38.613085+00:00"
@@ -3080,17 +3060,7 @@
         "is_shared": true
     },
     "1311873572263694367": {
-        "last_claim_timestamp": "2025-10-18T07:58:47.590522+00:00",
-        "current_token": "BEGINNER-C8PJ-20251018",
-        "token_expiry_timestamp": "2025-10-21T07:58:47.590522+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-C8PJ-20251018",
-                "expiry_timestamp": "2025-10-21T07:58:47.590522+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-18T07:58:47.590522+00:00"
     },
     "1397922663573225604": {
         "last_claim_timestamp": "2025-10-18T09:33:01.535627+00:00",
