@@ -3869,5 +3869,18 @@
         "current_token": "BEGINNER-6HWT-20251021",
         "token_expiry_timestamp": "2025-10-24T11:32:03.973822+00:00",
         "source_alias": "bassic"
+    },
+    "1429061536558874766": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MHTW-20251021",
+                "expiry_timestamp": "2025-10-24T15:19:18.525465+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T15:19:18.525465+00:00",
+        "current_token": "BEGINNER-MHTW-20251021",
+        "token_expiry_timestamp": "2025-10-24T15:19:18.525465+00:00",
+        "source_alias": "bassic"
     }
 }
