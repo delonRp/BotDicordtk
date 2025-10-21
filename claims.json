@@ -3893,5 +3893,18 @@
         "current_token": "BEGINNER-WTKM-20251021",
         "token_expiry_timestamp": "2025-10-24T00:43:17.904893+00:00",
         "source_alias": "bassic"
+    },
+    "1428572926646423583": {
+        "tokens": [
+            {
+                "token": "BEGINNER-5RT0-20251021",
+                "expiry_timestamp": "2025-10-24T00:49:04.743626+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T00:49:04.743626+00:00",
+        "current_token": "BEGINNER-5RT0-20251021",
+        "token_expiry_timestamp": "2025-10-24T00:49:04.743626+00:00",
+        "source_alias": "bassic"
     }
 }
