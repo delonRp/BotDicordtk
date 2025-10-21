@@ -1070,16 +1070,23 @@
     },
     "1419141625720082483": {
         "last_claim_timestamp": "2025-10-11T12:08:43.392011+00:00",
-        "current_token": "SUPPORTER-S8VQ-20251011",
-        "token_expiry_timestamp": "2025-10-21T12:08:43.392011+00:00",
-        "source_alias": "bassic",
+        "current_token": "ASEPGANTENG",
+        "token_expiry_timestamp": "4763-09-17T12:37:40.079111+00:00",
+        "source_alias": "vip",
         "tokens": [
             {
                 "token": "SUPPORTER-S8VQ-20251011",
                 "expiry_timestamp": "2025-10-21T12:08:43.392011+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ASEPGANTENG",
+                "expiry_timestamp": "4763-09-17T12:37:40.079111+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
-        ]
+        ],
+        "assigned_by_admin": 782445287855489076
     },
     "1406189182589603972": {
         "last_claim_timestamp": "2025-09-27T09:33:26.666796+00:00"
