@@ -440,17 +440,7 @@
         "last_claim_timestamp": "2025-09-21T17:21:30.846034+00:00"
     },
     "1416830403993665749": {
-        "last_claim_timestamp": "2025-10-16T09:54:50.273086+00:00",
-        "current_token": "SUBSCRIBER-ZCYE-20251016",
-        "token_expiry_timestamp": "2025-10-21T09:54:50.273086+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ZCYE-20251016",
-                "expiry_timestamp": "2025-10-21T09:54:50.273086+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-16T09:54:50.273086+00:00"
     },
     "1401891943088259132": {
         "last_claim_timestamp": "2025-09-21T18:17:15.181110+00:00"
@@ -3076,17 +3066,7 @@
         ]
     },
     "993485274183114824": {
-        "last_claim_timestamp": "2025-10-18T09:44:34.739793+00:00",
-        "current_token": "BEGINNER-VTSK-20251018",
-        "token_expiry_timestamp": "2025-10-21T09:44:34.739793+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-VTSK-20251018",
-                "expiry_timestamp": "2025-10-21T09:44:34.739793+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-18T09:44:34.739793+00:00"
     },
     "1422601821293117611": {
         "last_claim_timestamp": "2025-10-18T10:34:41.934307+00:00",
