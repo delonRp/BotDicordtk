@@ -3922,5 +3922,18 @@
         "current_token": "SUBSCRIBER-VPPB-20251021",
         "token_expiry_timestamp": "2025-10-26T03:47:15.236775+00:00",
         "source_alias": "bassic"
+    },
+    "1257222184426930229": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-IQA1-20251021",
+                "expiry_timestamp": "2025-10-26T04:17:34.079957+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-21T04:17:34.079957+00:00",
+        "current_token": "SUBSCRIBER-IQA1-20251021",
+        "token_expiry_timestamp": "2025-10-26T04:17:34.079957+00:00",
+        "source_alias": "bassic"
     }
 }
