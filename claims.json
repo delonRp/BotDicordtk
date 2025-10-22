@@ -3864,5 +3864,18 @@
         "current_token": "BEGINNER-VHJA-20251022",
         "token_expiry_timestamp": "2025-10-25T10:12:19.550266+00:00",
         "source_alias": "bassic"
+    },
+    "1424727545273651263": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OZ59-20251022",
+                "expiry_timestamp": "2025-10-25T11:09:45.670815+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T11:09:45.670815+00:00",
+        "current_token": "BEGINNER-OZ59-20251022",
+        "token_expiry_timestamp": "2025-10-25T11:09:45.670815+00:00",
+        "source_alias": "bassic"
     }
 }
