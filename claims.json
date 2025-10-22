@@ -3839,5 +3839,18 @@
         "current_token": "SUBSCRIBER-C7NO-20251022",
         "token_expiry_timestamp": "2025-10-27T20:06:15.050302+00:00",
         "source_alias": "bassic"
+    },
+    "1379711908869046394": {
+        "tokens": [
+            {
+                "token": "BEGINNER-M99J-20251022",
+                "expiry_timestamp": "2025-10-25T23:06:17.330942+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T23:06:17.330942+00:00",
+        "current_token": "BEGINNER-M99J-20251022",
+        "token_expiry_timestamp": "2025-10-25T23:06:17.330942+00:00",
+        "source_alias": "bassic"
     }
 }
