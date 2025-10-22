@@ -3163,17 +3163,7 @@
         "last_claim_timestamp": "2025-10-19T01:58:12.526131+00:00"
     },
     "1393480179875315767": {
-        "last_claim_timestamp": "2025-10-19T04:11:37.691944+00:00",
-        "current_token": "BEGINNER-WYDG-20251019",
-        "token_expiry_timestamp": "2025-10-22T04:11:37.691944+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-WYDG-20251019",
-                "expiry_timestamp": "2025-10-22T04:11:37.691944+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-19T04:11:37.691944+00:00"
     },
     "1231669713373888592": {
         "last_claim_timestamp": "2025-10-19T04:54:01.926249+00:00",
