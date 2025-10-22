@@ -2726,33 +2726,13 @@
         "last_claim_timestamp": "2025-10-17T06:00:08.960238+00:00"
     },
     "785567430465683476": {
-        "last_claim_timestamp": "2025-10-17T07:07:00.829348+00:00",
-        "current_token": "SUBSCRIBER-2QOJ-20251017",
-        "token_expiry_timestamp": "2025-10-22T07:07:00.829348+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-2QOJ-20251017",
-                "expiry_timestamp": "2025-10-22T07:07:00.829348+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T07:07:00.829348+00:00"
     },
     "909832563948924940": {
         "last_claim_timestamp": "2025-10-17T07:15:38.958797+00:00"
     },
     "1415873230857703566": {
-        "last_claim_timestamp": "2025-10-17T07:28:52.254189+00:00",
-        "current_token": "SUBSCRIBER-FS9M-20251017",
-        "token_expiry_timestamp": "2025-10-22T07:28:52.254189+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-FS9M-20251017",
-                "expiry_timestamp": "2025-10-22T07:28:52.254189+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-17T07:28:52.254189+00:00"
     },
     "1422926993632137216": {
         "last_claim_timestamp": "2025-10-17T08:24:09.075460+00:00",
@@ -3191,17 +3171,7 @@
         ]
     },
     "1387807082241069067": {
-        "last_claim_timestamp": "2025-10-19T07:13:58.248362+00:00",
-        "current_token": "BEGINNER-H4KH-20251019",
-        "token_expiry_timestamp": "2025-10-22T07:13:58.248362+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-H4KH-20251019",
-                "expiry_timestamp": "2025-10-22T07:13:58.248362+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-19T07:13:58.248362+00:00"
     },
     "1216623646190342196": {
         "last_claim_timestamp": "2025-10-19T08:51:32.721716+00:00",
