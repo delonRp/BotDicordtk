@@ -3825,5 +3825,18 @@
         "current_token": "BEGINNER-VCO2-20251022",
         "token_expiry_timestamp": "2025-10-25T09:10:21.312136+00:00",
         "source_alias": "bassic"
+    },
+    "1420753571754020955": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-GBKZ-20251022",
+                "expiry_timestamp": "2025-10-27T09:18:46.869106+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T09:18:46.869106+00:00",
+        "current_token": "SUBSCRIBER-GBKZ-20251022",
+        "token_expiry_timestamp": "2025-10-27T09:18:46.869106+00:00",
+        "source_alias": "bassic"
     }
 }
