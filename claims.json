@@ -3838,5 +3838,18 @@
         "current_token": "SUBSCRIBER-GBKZ-20251022",
         "token_expiry_timestamp": "2025-10-27T09:18:46.869106+00:00",
         "source_alias": "bassic"
+    },
+    "1241087123549851713": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-VXOM-20251022",
+                "expiry_timestamp": "2025-10-27T09:48:01.811034+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T09:48:01.811034+00:00",
+        "current_token": "SUBSCRIBER-VXOM-20251022",
+        "token_expiry_timestamp": "2025-10-27T09:48:01.811034+00:00",
+        "source_alias": "bassic"
     }
 }
