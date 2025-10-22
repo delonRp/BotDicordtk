@@ -580,13 +580,6 @@
     "1303235494133628949": {
         "last_claim_timestamp": "2025-09-22T15:43:34.373601+00:00"
     },
-    "shared_Rapz": {
-        "last_claim_timestamp": "2025-09-22T16:15:13.011788+00:00",
-        "current_token": "Rapz",
-        "token_expiry_timestamp": "2025-10-22T16:15:13.011788+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
-    },
     "886629309568151654": {
         "last_claim_timestamp": "2025-10-20T13:14:18.331927+00:00",
         "tokens": [
@@ -3173,17 +3166,7 @@
         ]
     },
     "1416731838881206322": {
-        "last_claim_timestamp": "2025-10-19T16:20:38.271850+00:00",
-        "current_token": "BEGINNER-S5K4-20251019",
-        "token_expiry_timestamp": "2025-10-22T16:20:38.271850+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "BEGINNER-S5K4-20251019",
-                "expiry_timestamp": "2025-10-22T16:20:38.271850+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-19T16:20:38.271850+00:00"
     },
     "1378282109843537951": {
         "tokens": [
