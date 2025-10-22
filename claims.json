@@ -3851,5 +3851,18 @@
         "current_token": "SUBSCRIBER-VXOM-20251022",
         "token_expiry_timestamp": "2025-10-27T09:48:01.811034+00:00",
         "source_alias": "bassic"
+    },
+    "1108675346783551541": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VHJA-20251022",
+                "expiry_timestamp": "2025-10-25T10:12:19.550266+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T10:12:19.550266+00:00",
+        "current_token": "BEGINNER-VHJA-20251022",
+        "token_expiry_timestamp": "2025-10-25T10:12:19.550266+00:00",
+        "source_alias": "bassic"
     }
 }
