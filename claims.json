@@ -3836,5 +3836,18 @@
         "current_token": "BEGINNER-1WEQ-20251022",
         "token_expiry_timestamp": "2025-10-25T05:49:31.894212+00:00",
         "source_alias": "bassic"
+    },
+    "1404429258222211170": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-R5SH-20251022",
+                "expiry_timestamp": "2025-10-27T06:00:56.042534+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T06:00:56.042534+00:00",
+        "current_token": "SUBSCRIBER-R5SH-20251022",
+        "token_expiry_timestamp": "2025-10-27T06:00:56.042534+00:00",
+        "source_alias": "bassic"
     }
 }
