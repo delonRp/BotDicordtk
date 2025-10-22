@@ -3901,5 +3901,18 @@
         "current_token": "SUBSCRIBER-HRFS-20251021",
         "token_expiry_timestamp": "2025-10-26T23:05:56.559145+00:00",
         "source_alias": "bassic"
+    },
+    "962428241585512449": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7A30-20251022",
+                "expiry_timestamp": "2025-10-25T00:15:20.036397+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-22T00:15:20.036397+00:00",
+        "current_token": "BEGINNER-7A30-20251022",
+        "token_expiry_timestamp": "2025-10-25T00:15:20.036397+00:00",
+        "source_alias": "bassic"
     }
 }
