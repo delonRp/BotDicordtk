@@ -3835,5 +3835,18 @@
         "current_token": "BEGINNER-P83J-20251023",
         "token_expiry_timestamp": "2025-10-26T01:33:58.434502+00:00",
         "source_alias": "bassic"
+    },
+    "1346642221348290630": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZJK7-20251023",
+                "expiry_timestamp": "2025-10-28T06:06:23.124754+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-23T06:06:23.124754+00:00",
+        "current_token": "SUBSCRIBER-ZJK7-20251023",
+        "token_expiry_timestamp": "2025-10-28T06:06:23.124754+00:00",
+        "source_alias": "bassic"
     }
 }
