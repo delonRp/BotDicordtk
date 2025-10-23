@@ -2786,17 +2786,7 @@
         "last_claim_timestamp": "2025-10-18T07:58:47.590522+00:00"
     },
     "1397922663573225604": {
-        "last_claim_timestamp": "2025-10-18T09:33:01.535627+00:00",
-        "current_token": "SUBSCRIBER-NFAI-20251018",
-        "token_expiry_timestamp": "2025-10-23T09:33:01.535627+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NFAI-20251018",
-                "expiry_timestamp": "2025-10-23T09:33:01.535627+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-18T09:33:01.535627+00:00"
     },
     "993485274183114824": {
         "last_claim_timestamp": "2025-10-18T09:44:34.739793+00:00"
