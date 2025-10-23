@@ -3352,12 +3352,19 @@
                 "token": "SUBSCRIBER-IQA1-20251021",
                 "expiry_timestamp": "2025-10-26T04:17:34.079957+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "aaikiw",
+                "expiry_timestamp": "2025-10-26T12:10:13.753502+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-10-21T04:17:34.079957+00:00",
-        "current_token": "SUBSCRIBER-IQA1-20251021",
-        "token_expiry_timestamp": "2025-10-26T04:17:34.079957+00:00",
-        "source_alias": "bassic"
+        "current_token": "aaikiw",
+        "token_expiry_timestamp": "2025-10-26T12:10:13.753502+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1380796050050256966": {
         "tokens": [
