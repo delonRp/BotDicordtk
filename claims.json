@@ -2800,17 +2800,7 @@
     },
     "1367769721835098178": {},
     "1424244754266325012": {
-        "last_claim_timestamp": "2025-10-18T06:51:29.440968+00:00",
-        "current_token": "SUBSCRIBER-BSDK-20251018",
-        "token_expiry_timestamp": "2025-10-23T06:51:29.440968+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-BSDK-20251018",
-                "expiry_timestamp": "2025-10-23T06:51:29.440968+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-18T06:51:29.440968+00:00"
     },
     "1371053837103796225": {
         "last_claim_timestamp": "2025-10-18T07:13:26.463206+00:00",
