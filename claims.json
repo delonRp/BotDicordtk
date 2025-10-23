@@ -703,7 +703,17 @@
         "last_claim_timestamp": "2025-09-23T13:39:49.939853+00:00"
     },
     "1398737300430524561": {
-        "last_claim_timestamp": "2025-10-15T18:42:31.162927+00:00"
+        "last_claim_timestamp": "2025-10-23T21:12:51.209128+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-WUNY-20251023",
+                "expiry_timestamp": "2025-10-26T21:12:51.209128+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-WUNY-20251023",
+        "token_expiry_timestamp": "2025-10-26T21:12:51.209128+00:00",
+        "source_alias": "bassic"
     },
     "1345385372397342732": {
         "last_claim_timestamp": "2025-09-23T17:26:40.709494+00:00"
