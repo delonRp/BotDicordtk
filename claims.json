@@ -2955,7 +2955,19 @@
         "token_expiry_timestamp": "2025-10-25T15:30:08.494169+00:00",
         "source_alias": "bassic"
     },
-    "1425891205543104675": {},
+    "1425891205543104675": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-P5TQ-20251024",
+                "expiry_timestamp": "2025-10-31T10:09:54.023220+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T10:09:54.023220+00:00",
+        "current_token": "INNERCIRCLE-P5TQ-20251024",
+        "token_expiry_timestamp": "2025-10-31T10:09:54.023220+00:00",
+        "source_alias": "bassic"
+    },
     "1423267978576662550": {
         "tokens": [
             {
