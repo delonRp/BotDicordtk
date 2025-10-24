@@ -3585,5 +3585,18 @@
         "current_token": "BEGINNER-MBPZ-20251024",
         "token_expiry_timestamp": "2025-10-27T07:51:54.306299+00:00",
         "source_alias": "bassic"
+    },
+    "759047845797691434": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-Z17U-20251024",
+                "expiry_timestamp": "2025-10-29T07:52:16.176117+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T07:52:16.176117+00:00",
+        "current_token": "SUBSCRIBER-Z17U-20251024",
+        "token_expiry_timestamp": "2025-10-29T07:52:16.176117+00:00",
+        "source_alias": "bassic"
     }
 }
