@@ -3602,5 +3602,18 @@
         "current_token": "BEGINNER-F4F5-20251024",
         "token_expiry_timestamp": "2025-10-27T14:19:46.993028+00:00",
         "source_alias": "bassic"
+    },
+    "1401172975985754123": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VXQ4-20251024",
+                "expiry_timestamp": "2025-10-27T17:03:37.980306+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T17:03:37.980306+00:00",
+        "current_token": "BEGINNER-VXQ4-20251024",
+        "token_expiry_timestamp": "2025-10-27T17:03:37.980306+00:00",
+        "source_alias": "bassic"
     }
 }
