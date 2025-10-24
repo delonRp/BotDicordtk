@@ -3579,5 +3579,18 @@
         "current_token": "BEGINNER-ZYCL-20251024",
         "token_expiry_timestamp": "2025-10-27T06:17:21.792669+00:00",
         "source_alias": "bassic"
+    },
+    "1310566414968422412": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XZ7W-20251024",
+                "expiry_timestamp": "2025-10-29T06:44:07.226049+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T06:44:07.226049+00:00",
+        "current_token": "SUBSCRIBER-XZ7W-20251024",
+        "token_expiry_timestamp": "2025-10-29T06:44:07.226049+00:00",
+        "source_alias": "bassic"
     }
 }
