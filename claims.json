@@ -2815,17 +2815,7 @@
         "last_claim_timestamp": "2025-10-19T08:51:32.721716+00:00"
     },
     "893482423222927391": {
-        "last_claim_timestamp": "2025-10-19T11:01:21.563286+00:00",
-        "current_token": "SUBSCRIBER-SYTT-20251019",
-        "token_expiry_timestamp": "2025-10-24T11:01:21.563286+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-SYTT-20251019",
-                "expiry_timestamp": "2025-10-24T11:01:21.563286+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-19T11:01:21.563286+00:00"
     },
     "1317707073706000445": {
         "last_claim_timestamp": "2025-10-19T16:11:12.096675+00:00",
@@ -3147,17 +3137,7 @@
         "source_alias": "bassic"
     },
     "1408797197646041098": {
-        "tokens": [
-            {
-                "token": "BEGINNER-TW80-20251021",
-                "expiry_timestamp": "2025-10-24T11:06:39.737180+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-21T11:06:39.737180+00:00",
-        "current_token": "BEGINNER-TW80-20251021",
-        "token_expiry_timestamp": "2025-10-24T11:06:39.737180+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-21T11:06:39.737180+00:00"
     },
     "1406149343014293586": {
         "tokens": [
@@ -3173,17 +3153,7 @@
         "source_alias": "bassic"
     },
     "1388537244314374356": {
-        "tokens": [
-            {
-                "token": "BEGINNER-6HWT-20251021",
-                "expiry_timestamp": "2025-10-24T11:32:03.973822+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00",
-        "current_token": "BEGINNER-6HWT-20251021",
-        "token_expiry_timestamp": "2025-10-24T11:32:03.973822+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00"
     },
     "1429061536558874766": {
         "tokens": [
