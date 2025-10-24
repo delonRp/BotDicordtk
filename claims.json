@@ -1750,7 +1750,17 @@
         "is_shared": true
     },
     "1313764010956558366": {
-        "last_claim_timestamp": "2025-10-09T17:14:35.883872+00:00"
+        "last_claim_timestamp": "2025-10-24T10:30:02.732908+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-E1XB-20251024",
+                "expiry_timestamp": "2025-10-29T10:30:02.732908+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-E1XB-20251024",
+        "token_expiry_timestamp": "2025-10-29T10:30:02.732908+00:00",
+        "source_alias": "bassic"
     },
     "1354353799174688778": {
         "last_claim_timestamp": "2025-10-09T19:30:52.295948+00:00"
