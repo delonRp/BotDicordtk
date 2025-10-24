@@ -3630,5 +3630,18 @@
         "current_token": "BEGINNER-SG1W-20251023",
         "token_expiry_timestamp": "2025-10-26T23:43:00.733940+00:00",
         "source_alias": "bassic"
+    },
+    "1388177432669847714": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IR7L-20251024",
+                "expiry_timestamp": "2025-10-27T01:00:26.000653+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T01:00:26.000653+00:00",
+        "current_token": "BEGINNER-IR7L-20251024",
+        "token_expiry_timestamp": "2025-10-27T01:00:26.000653+00:00",
+        "source_alias": "bassic"
     }
 }
