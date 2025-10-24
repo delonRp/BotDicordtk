@@ -2575,7 +2575,17 @@
         "last_claim_timestamp": "2025-10-17T07:07:00.829348+00:00"
     },
     "909832563948924940": {
-        "last_claim_timestamp": "2025-10-17T07:15:38.958797+00:00"
+        "last_claim_timestamp": "2025-10-24T08:29:24.681627+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VJOM-20251024",
+                "expiry_timestamp": "2025-10-31T08:29:24.681627+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-VJOM-20251024",
+        "token_expiry_timestamp": "2025-10-31T08:29:24.681627+00:00",
+        "source_alias": "bassic"
     },
     "1415873230857703566": {
         "last_claim_timestamp": "2025-10-17T07:28:52.254189+00:00"
