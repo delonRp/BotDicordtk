@@ -2819,17 +2819,7 @@
         "last_claim_timestamp": "2025-10-19T19:53:35.980381+00:00"
     },
     "1420481930456989696": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-LKCW-20251019",
-                "expiry_timestamp": "2025-10-24T20:09:42.096817+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-19T20:09:42.096817+00:00",
-        "current_token": "SUBSCRIBER-LKCW-20251019",
-        "token_expiry_timestamp": "2025-10-24T20:09:42.096817+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-19T20:09:42.096817+00:00"
     },
     "1374505957039800491": {
         "tokens": [
