@@ -3566,5 +3566,18 @@
         "current_token": "BEGINNER-SFGZ-20251024",
         "token_expiry_timestamp": "2025-10-27T02:43:32.767569+00:00",
         "source_alias": "bassic"
+    },
+    "1042824634803953664": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ZYCL-20251024",
+                "expiry_timestamp": "2025-10-27T06:17:21.792669+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-24T06:17:21.792669+00:00",
+        "current_token": "BEGINNER-ZYCL-20251024",
+        "token_expiry_timestamp": "2025-10-27T06:17:21.792669+00:00",
+        "source_alias": "bassic"
     }
 }
