@@ -2670,7 +2670,19 @@
     "1371053837103796225": {
         "last_claim_timestamp": "2025-10-18T07:13:26.463206+00:00"
     },
-    "1284119277116330087": {},
+    "1284119277116330087": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-JAKN-20251025",
+                "expiry_timestamp": "2025-10-30T00:23:59.063845+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T00:23:59.063845+00:00",
+        "current_token": "SUBSCRIBER-JAKN-20251025",
+        "token_expiry_timestamp": "2025-10-30T00:23:59.063845+00:00",
+        "source_alias": "bassic"
+    },
     "shared_bassic_Scaramel": {
         "last_claim_timestamp": "2025-10-18T07:37:14.111804+00:00",
         "current_token": "Scaramel",
