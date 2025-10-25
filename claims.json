@@ -3633,5 +3633,18 @@
         "current_token": "BEGINNER-Q4OX-20251025",
         "token_expiry_timestamp": "2025-10-28T12:14:03.428209+00:00",
         "source_alias": "bassic"
+    },
+    "1071680850535653408": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BQ58-20251025",
+                "expiry_timestamp": "2025-10-30T12:56:02.921490+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T12:56:02.921490+00:00",
+        "current_token": "SUBSCRIBER-BQ58-20251025",
+        "token_expiry_timestamp": "2025-10-30T12:56:02.921490+00:00",
+        "source_alias": "bassic"
     }
 }
