@@ -2844,17 +2844,7 @@
         "last_claim_timestamp": "2025-10-20T19:38:57.036959+00:00"
     },
     "1246488055507062886": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-C2KA-20251020",
-                "expiry_timestamp": "2025-10-25T21:45:11.909045+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-20T21:45:11.909045+00:00",
-        "current_token": "SUBSCRIBER-C2KA-20251020",
-        "token_expiry_timestamp": "2025-10-25T21:45:11.909045+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-20T21:45:11.909045+00:00"
     },
     "750685709475774524": {
         "tokens": [
