@@ -2835,17 +2835,7 @@
         "last_claim_timestamp": "2025-10-20T16:29:11.145457+00:00"
     },
     "1380585096490254348": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OTNE-20251020",
-                "expiry_timestamp": "2025-10-25T17:46:11.002034+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-20T17:46:11.002034+00:00",
-        "current_token": "SUBSCRIBER-OTNE-20251020",
-        "token_expiry_timestamp": "2025-10-25T17:46:11.002034+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-20T17:46:11.002034+00:00"
     },
     "1296152561715253391": {
         "tokens": [
