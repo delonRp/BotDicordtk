@@ -2838,30 +2838,10 @@
         "last_claim_timestamp": "2025-10-20T17:46:11.002034+00:00"
     },
     "1296152561715253391": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-YWEK-20251020",
-                "expiry_timestamp": "2025-10-25T19:25:36.807342+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-20T19:25:36.807342+00:00",
-        "current_token": "SUBSCRIBER-YWEK-20251020",
-        "token_expiry_timestamp": "2025-10-25T19:25:36.807342+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-20T19:25:36.807342+00:00"
     },
     "1413181938067570740": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-WYCJ-20251020",
-                "expiry_timestamp": "2025-10-25T19:38:57.036959+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-20T19:38:57.036959+00:00",
-        "current_token": "SUBSCRIBER-WYCJ-20251020",
-        "token_expiry_timestamp": "2025-10-25T19:38:57.036959+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-20T19:38:57.036959+00:00"
     },
     "1246488055507062886": {
         "tokens": [
