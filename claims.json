@@ -3646,5 +3646,18 @@
         "current_token": "SUBSCRIBER-OSKN-20251025",
         "token_expiry_timestamp": "2025-10-30T01:23:52.439192+00:00",
         "source_alias": "bassic"
+    },
+    "1343041958574166106": {
+        "tokens": [
+            {
+                "token": "BEGINNER-DAGR-20251025",
+                "expiry_timestamp": "2025-10-28T01:35:51.456490+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T01:35:51.456490+00:00",
+        "current_token": "BEGINNER-DAGR-20251025",
+        "token_expiry_timestamp": "2025-10-28T01:35:51.456490+00:00",
+        "source_alias": "bassic"
     }
 }
