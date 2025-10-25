@@ -1815,7 +1815,17 @@
         "last_claim_timestamp": "2025-10-10T20:43:27.948754+00:00"
     },
     "921210174646145046": {
-        "last_claim_timestamp": "2025-10-10T20:51:46.694317+00:00"
+        "last_claim_timestamp": "2025-10-25T07:51:05.792429+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-RLJD-20251025",
+                "expiry_timestamp": "2025-10-30T07:51:05.792429+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-RLJD-20251025",
+        "token_expiry_timestamp": "2025-10-30T07:51:05.792429+00:00",
+        "source_alias": "bassic"
     },
     "1036551098414149633": {
         "last_claim_timestamp": "2025-10-10T22:29:22.109981+00:00"
