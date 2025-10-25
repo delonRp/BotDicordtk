@@ -3625,5 +3625,18 @@
         "current_token": "SUBSCRIBER-AMQ2-20251025",
         "token_expiry_timestamp": "2025-10-30T06:13:22.729703+00:00",
         "source_alias": "bassic"
+    },
+    "1378361004777406558": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-5TMI-20251025",
+                "expiry_timestamp": "2025-10-30T07:53:57.290540+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T07:53:57.290540+00:00",
+        "current_token": "SUBSCRIBER-5TMI-20251025",
+        "token_expiry_timestamp": "2025-10-30T07:53:57.290540+00:00",
+        "source_alias": "bassic"
     }
 }
