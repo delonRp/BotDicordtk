@@ -3628,5 +3628,18 @@
         "current_token": "BEGINNER-T25R-20251025",
         "token_expiry_timestamp": "2025-10-28T18:51:40.079286+00:00",
         "source_alias": "bassic"
+    },
+    "988001045575778364": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-CRS9-20251025",
+                "expiry_timestamp": "2025-10-30T19:01:11.440825+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T19:01:11.440825+00:00",
+        "current_token": "SUBSCRIBER-CRS9-20251025",
+        "token_expiry_timestamp": "2025-10-30T19:01:11.440825+00:00",
+        "source_alias": "bassic"
     }
 }
