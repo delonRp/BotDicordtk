@@ -3622,5 +3622,18 @@
         "current_token": "BEGINNER-CC26-20251025",
         "token_expiry_timestamp": "2025-10-28T04:21:58.989231+00:00",
         "source_alias": "bassic"
+    },
+    "1359429457823400077": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-AMQ2-20251025",
+                "expiry_timestamp": "2025-10-30T06:13:22.729703+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-25T06:13:22.729703+00:00",
+        "current_token": "SUBSCRIBER-AMQ2-20251025",
+        "token_expiry_timestamp": "2025-10-30T06:13:22.729703+00:00",
+        "source_alias": "bassic"
     }
 }
