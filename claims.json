@@ -1286,13 +1286,6 @@
     "1422157716729630821": {
         "last_claim_timestamp": "2025-09-30T07:00:11.822493+00:00"
     },
-    "shared_Remi1233": {
-        "last_claim_timestamp": "2025-09-30T08:44:42.721348+00:00",
-        "current_token": "Remi1233",
-        "token_expiry_timestamp": "2025-10-25T08:44:42.721348+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1395351233077841920": {
         "last_claim_timestamp": "2025-10-07T10:19:20.279553+00:00"
     },
