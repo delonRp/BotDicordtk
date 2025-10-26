@@ -3620,5 +3620,18 @@
         "current_token": "BEGINNER-XNLK-20251026",
         "token_expiry_timestamp": "2025-10-29T16:58:50.319831+00:00",
         "source_alias": "bassic"
+    },
+    "1394004494567866378": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IDVY-20251026",
+                "expiry_timestamp": "2025-10-29T17:36:53.348985+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-26T17:36:53.348985+00:00",
+        "current_token": "BEGINNER-IDVY-20251026",
+        "token_expiry_timestamp": "2025-10-29T17:36:53.348985+00:00",
+        "source_alias": "bassic"
     }
 }
