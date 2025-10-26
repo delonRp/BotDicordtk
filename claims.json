@@ -3633,5 +3633,18 @@
         "current_token": "BEGINNER-IDVY-20251026",
         "token_expiry_timestamp": "2025-10-29T17:36:53.348985+00:00",
         "source_alias": "bassic"
+    },
+    "662564194062958592": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CDRC-20251026",
+                "expiry_timestamp": "2025-10-29T17:46:42.997441+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-26T17:46:42.997441+00:00",
+        "current_token": "BEGINNER-CDRC-20251026",
+        "token_expiry_timestamp": "2025-10-29T17:46:42.997441+00:00",
+        "source_alias": "bassic"
     }
 }
