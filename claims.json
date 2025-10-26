@@ -2857,11 +2857,6 @@
     "1257222184426930229": {
         "tokens": [
             {
-                "token": "SUBSCRIBER-IQA1-20251021",
-                "expiry_timestamp": "2025-10-26T04:17:34.079957+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "aaikiw",
                 "expiry_timestamp": "2025-10-26T12:10:13.753502+00:00",
                 "source_alias": "vip",
@@ -2875,17 +2870,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1380796050050256966": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-6541-20251021",
-                "expiry_timestamp": "2025-10-26T04:41:50.463605+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-21T04:41:50.463605+00:00",
-        "current_token": "SUBSCRIBER-6541-20251021",
-        "token_expiry_timestamp": "2025-10-26T04:41:50.463605+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-21T04:41:50.463605+00:00"
     },
     "1122658792665006191": {
         "last_claim_timestamp": "2025-10-21T05:52:20.523625+00:00"
