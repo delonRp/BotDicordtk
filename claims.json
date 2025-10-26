@@ -3614,5 +3614,18 @@
         "current_token": "BEGINNER-PJYN-20251026",
         "token_expiry_timestamp": "2025-10-29T08:34:40.127048+00:00",
         "source_alias": "bassic"
+    },
+    "1174393969489219718": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ZQWV-20251026",
+                "expiry_timestamp": "2025-10-29T11:02:08.255962+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-26T11:02:08.255962+00:00",
+        "current_token": "BEGINNER-ZQWV-20251026",
+        "token_expiry_timestamp": "2025-10-29T11:02:08.255962+00:00",
+        "source_alias": "bassic"
     }
 }
