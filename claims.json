@@ -692,17 +692,7 @@
         "source_alias": "bassic"
     },
     "1413029997899157564": {
-        "last_claim_timestamp": "2025-10-21T11:18:10.705538+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-GH8X-20251021",
-                "expiry_timestamp": "2025-10-26T11:18:10.705538+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-GH8X-20251021",
-        "token_expiry_timestamp": "2025-10-26T11:18:10.705538+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-21T11:18:10.705538+00:00"
     },
     "1288387098591891599": {
         "last_claim_timestamp": "2025-09-24T11:47:33.440914+00:00"
@@ -2908,17 +2898,7 @@
         "last_claim_timestamp": "2025-10-21T11:06:39.737180+00:00"
     },
     "1406149343014293586": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-0D45-20251021",
-                "expiry_timestamp": "2025-10-26T11:17:46.760098+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-21T11:17:46.760098+00:00",
-        "current_token": "SUBSCRIBER-0D45-20251021",
-        "token_expiry_timestamp": "2025-10-26T11:17:46.760098+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-21T11:17:46.760098+00:00"
     },
     "1388537244314374356": {
         "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00"
