@@ -3598,5 +3598,18 @@
         "current_token": "BEGINNER-XTUE-20251026",
         "token_expiry_timestamp": "2025-10-29T04:23:39.256612+00:00",
         "source_alias": "bassic"
+    },
+    "1249982008919064587": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PGDX-20251026",
+                "expiry_timestamp": "2025-10-29T05:15:17.164800+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-26T05:15:17.164800+00:00",
+        "current_token": "BEGINNER-PGDX-20251026",
+        "token_expiry_timestamp": "2025-10-29T05:15:17.164800+00:00",
+        "source_alias": "bassic"
     }
 }
