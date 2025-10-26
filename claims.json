@@ -2395,17 +2395,7 @@
         "last_claim_timestamp": "2025-10-16T11:37:25.686049+00:00"
     },
     "1051094381014306866": {
-        "last_claim_timestamp": "2025-10-23T14:46:31.378738+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-70QQ-20251023",
-                "expiry_timestamp": "2025-10-26T14:46:31.378738+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-70QQ-20251023",
-        "token_expiry_timestamp": "2025-10-26T14:46:31.378738+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-23T14:46:31.378738+00:00"
     },
     "1176091495200210987": {
         "last_claim_timestamp": "2025-10-16T11:59:10.569340+00:00"
@@ -2418,20 +2408,6 @@
     },
     "1422461806810497024": {
         "last_claim_timestamp": "2025-10-16T13:42:42.576621+00:00"
-    },
-    "shared_vip_10days": {
-        "last_claim_timestamp": "2025-10-16T14:05:31.674127+00:00",
-        "current_token": "10days",
-        "token_expiry_timestamp": "2025-10-26T14:05:31.674127+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
-    "shared_bassic_10days": {
-        "last_claim_timestamp": "2025-10-16T14:06:33.017377+00:00",
-        "current_token": "10days",
-        "token_expiry_timestamp": "2025-10-26T14:06:33.017377+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
     },
     "shared_bassic_PUTRA": {
         "last_claim_timestamp": "2025-10-16T14:33:41.810697+00:00",
