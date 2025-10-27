@@ -629,17 +629,7 @@
         "last_claim_timestamp": "2025-09-23T17:26:40.709494+00:00"
     },
     "707549941199011841": {
-        "last_claim_timestamp": "2025-10-24T12:45:37.825574+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-ZREG-20251024",
-                "expiry_timestamp": "2025-10-27T12:45:37.825574+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-ZREG-20251024",
-        "token_expiry_timestamp": "2025-10-27T12:45:37.825574+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-24T12:45:37.825574+00:00"
     },
     "1391149048651583508": {
         "last_claim_timestamp": "2025-09-23T22:33:48.747507+00:00"
