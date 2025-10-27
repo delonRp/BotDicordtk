@@ -3553,5 +3553,18 @@
         "current_token": "SUBSCRIBER-6ZWM-20251027",
         "token_expiry_timestamp": "2025-11-01T08:49:14.012525+00:00",
         "source_alias": "bassic"
+    },
+    "804982498719170570": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ORLS-20251027",
+                "expiry_timestamp": "2025-10-30T12:44:17.049638+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T12:44:17.049638+00:00",
+        "current_token": "BEGINNER-ORLS-20251027",
+        "token_expiry_timestamp": "2025-10-30T12:44:17.049638+00:00",
+        "source_alias": "bassic"
     }
 }
