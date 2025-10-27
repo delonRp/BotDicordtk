@@ -3552,5 +3552,18 @@
         "current_token": "SUBSCRIBER-6DGP-20251027",
         "token_expiry_timestamp": "2025-11-01T14:55:40.030194+00:00",
         "source_alias": "bassic"
+    },
+    "1397514991707357214": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KM13-20251027",
+                "expiry_timestamp": "2025-11-01T16:28:57.633597+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T16:28:57.633597+00:00",
+        "current_token": "SUBSCRIBER-KM13-20251027",
+        "token_expiry_timestamp": "2025-11-01T16:28:57.633597+00:00",
+        "source_alias": "bassic"
     }
 }
