@@ -2528,7 +2528,17 @@
         "last_claim_timestamp": "2025-10-17T21:30:34.168330+00:00"
     },
     "1127506481672106004": {
-        "last_claim_timestamp": "2025-10-17T22:13:47.897162+00:00"
+        "last_claim_timestamp": "2025-10-27T14:44:55.454899+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-6VGA-20251027",
+                "expiry_timestamp": "2025-11-03T14:44:55.454899+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-6VGA-20251027",
+        "token_expiry_timestamp": "2025-11-03T14:44:55.454899+00:00",
+        "source_alias": "bassic"
     },
     "1310085992090435619": {
         "last_claim_timestamp": "2025-10-17T23:11:42.404437+00:00"
