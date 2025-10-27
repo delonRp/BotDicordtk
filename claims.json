@@ -3549,5 +3549,18 @@
         "current_token": "SUBSCRIBER-HD5V-20251027",
         "token_expiry_timestamp": "2025-11-01T06:49:06.411556+00:00",
         "source_alias": "bassic"
+    },
+    "1264643082641473588": {
+        "tokens": [
+            {
+                "token": "BEGINNER-6BQC-20251027",
+                "expiry_timestamp": "2025-10-30T08:28:51.751646+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T08:28:51.751646+00:00",
+        "current_token": "BEGINNER-6BQC-20251027",
+        "token_expiry_timestamp": "2025-10-30T08:28:51.751646+00:00",
+        "source_alias": "bassic"
     }
 }
