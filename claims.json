@@ -3536,5 +3536,18 @@
         "current_token": "BEGINNER-CDRC-20251026",
         "token_expiry_timestamp": "2025-10-29T17:46:42.997441+00:00",
         "source_alias": "bassic"
+    },
+    "1269460955469975602": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HD5V-20251027",
+                "expiry_timestamp": "2025-11-01T06:49:06.411556+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T06:49:06.411556+00:00",
+        "current_token": "SUBSCRIBER-HD5V-20251027",
+        "token_expiry_timestamp": "2025-11-01T06:49:06.411556+00:00",
+        "source_alias": "bassic"
     }
 }
