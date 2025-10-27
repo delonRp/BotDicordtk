@@ -1875,7 +1875,17 @@
         "last_claim_timestamp": "2025-10-11T09:34:47.868700+00:00"
     },
     "1250035118223921198": {
-        "last_claim_timestamp": "2025-10-11T09:37:05.989157+00:00"
+        "last_claim_timestamp": "2025-10-27T20:51:06.605189+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-DZFJ-20251027",
+                "expiry_timestamp": "2025-10-30T20:51:06.605189+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-DZFJ-20251027",
+        "token_expiry_timestamp": "2025-10-30T20:51:06.605189+00:00",
+        "source_alias": "bassic"
     },
     "1404196320532631725": {
         "last_claim_timestamp": "2025-10-18T11:16:45.482038+00:00"
