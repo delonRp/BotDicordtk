@@ -3016,17 +3016,7 @@
         "last_claim_timestamp": "2025-10-23T23:43:00.733940+00:00"
     },
     "1388177432669847714": {
-        "tokens": [
-            {
-                "token": "BEGINNER-IR7L-20251024",
-                "expiry_timestamp": "2025-10-27T01:00:26.000653+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-24T01:00:26.000653+00:00",
-        "current_token": "BEGINNER-IR7L-20251024",
-        "token_expiry_timestamp": "2025-10-27T01:00:26.000653+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-24T01:00:26.000653+00:00"
     },
     "1389998922142974064": {
         "tokens": [
