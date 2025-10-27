@@ -3565,5 +3565,18 @@
         "current_token": "INNERCIRCLE-27XX-20251027",
         "token_expiry_timestamp": "2025-11-03T08:46:08.842781+00:00",
         "source_alias": "bassic"
+    },
+    "1124279991211925594": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6ZWM-20251027",
+                "expiry_timestamp": "2025-11-01T08:49:14.012525+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T08:49:14.012525+00:00",
+        "current_token": "SUBSCRIBER-6ZWM-20251027",
+        "token_expiry_timestamp": "2025-11-01T08:49:14.012525+00:00",
+        "source_alias": "bassic"
     }
 }
