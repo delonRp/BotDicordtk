@@ -3620,5 +3620,18 @@
         "current_token": "BEGINNER-G4IB-20251027",
         "token_expiry_timestamp": "2025-10-30T17:42:23.286583+00:00",
         "source_alias": "bassic"
+    },
+    "1192552233775145015": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-SOZY-20251027",
+                "expiry_timestamp": "2025-11-01T18:06:15.468814+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T18:06:15.468814+00:00",
+        "current_token": "SUBSCRIBER-SOZY-20251027",
+        "token_expiry_timestamp": "2025-11-01T18:06:15.468814+00:00",
+        "source_alias": "bassic"
     }
 }
