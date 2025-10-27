@@ -3591,5 +3591,18 @@
         "current_token": "SUBSCRIBER-WHXA-20251027",
         "token_expiry_timestamp": "2025-11-01T17:12:37.968535+00:00",
         "source_alias": "bassic"
+    },
+    "1040573988449030175": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IHSV-20251027",
+                "expiry_timestamp": "2025-10-30T17:32:45.423613+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-27T17:32:45.423613+00:00",
+        "current_token": "BEGINNER-IHSV-20251027",
+        "token_expiry_timestamp": "2025-10-30T17:32:45.423613+00:00",
+        "source_alias": "bassic"
     }
 }
