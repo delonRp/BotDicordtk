@@ -3626,5 +3626,18 @@
         "current_token": "BEGINNER-1GOD-20251027",
         "token_expiry_timestamp": "2025-10-30T21:29:45.075000+00:00",
         "source_alias": "bassic"
+    },
+    "1414249905417097418": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4404-20251028",
+                "expiry_timestamp": "2025-10-31T00:08:45.744512+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-28T00:08:45.744512+00:00",
+        "current_token": "BEGINNER-4404-20251028",
+        "token_expiry_timestamp": "2025-10-31T00:08:45.744512+00:00",
+        "source_alias": "bassic"
     }
 }
