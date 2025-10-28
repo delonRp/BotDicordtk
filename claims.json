@@ -3671,5 +3671,18 @@
         "current_token": "SUBSCRIBER-1HU2-20251028",
         "token_expiry_timestamp": "2025-11-02T07:16:57.565353+00:00",
         "source_alias": "bassic"
+    },
+    "1165328711172751370": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PXTN-20251028",
+                "expiry_timestamp": "2025-10-31T08:59:12.423897+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-28T08:59:12.423897+00:00",
+        "current_token": "BEGINNER-PXTN-20251028",
+        "token_expiry_timestamp": "2025-10-31T08:59:12.423897+00:00",
+        "source_alias": "bassic"
     }
 }
