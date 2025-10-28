@@ -3706,5 +3706,18 @@
         "current_token": "SUBSCRIBER-53QN-20251028",
         "token_expiry_timestamp": "2025-11-02T10:37:32.303201+00:00",
         "source_alias": "bassic"
+    },
+    "1191017197565390928": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-IS96-20251028",
+                "expiry_timestamp": "2025-11-04T11:45:10.810995+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-28T11:45:10.810995+00:00",
+        "current_token": "INNERCIRCLE-IS96-20251028",
+        "token_expiry_timestamp": "2025-11-04T11:45:10.810995+00:00",
+        "source_alias": "bassic"
     }
 }
