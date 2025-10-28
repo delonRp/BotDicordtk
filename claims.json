@@ -3719,5 +3719,18 @@
         "current_token": "INNERCIRCLE-IS96-20251028",
         "token_expiry_timestamp": "2025-11-04T11:45:10.810995+00:00",
         "source_alias": "bassic"
+    },
+    "761001113880363059": {
+        "tokens": [
+            {
+                "token": "BEGINNER-H49G-20251028",
+                "expiry_timestamp": "2025-10-31T11:52:39.272751+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-28T11:52:39.272751+00:00",
+        "current_token": "BEGINNER-H49G-20251028",
+        "token_expiry_timestamp": "2025-10-31T11:52:39.272751+00:00",
+        "source_alias": "bassic"
     }
 }
