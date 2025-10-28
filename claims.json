@@ -2949,17 +2949,7 @@
         "last_claim_timestamp": "2025-10-23T06:06:23.124754+00:00"
     },
     "988807386812788807": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-IOYQ-20251023",
-                "expiry_timestamp": "2025-10-28T15:15:43.300436+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-23T15:15:43.300436+00:00",
-        "current_token": "SUBSCRIBER-IOYQ-20251023",
-        "token_expiry_timestamp": "2025-10-28T15:15:43.300436+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-23T15:15:43.300436+00:00"
     },
     "1357783655216582819": {
         "last_claim_timestamp": "2025-10-23T20:25:11.611640+00:00"
