@@ -1990,7 +1990,17 @@
         "last_claim_timestamp": "2025-10-12T04:22:10.470150+00:00"
     },
     "1075045103418212354": {
-        "last_claim_timestamp": "2025-10-12T04:34:51.654822+00:00"
+        "last_claim_timestamp": "2025-10-29T08:39:16.960028+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-Z8MB-20251029",
+                "expiry_timestamp": "2025-11-03T08:39:16.960028+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-Z8MB-20251029",
+        "token_expiry_timestamp": "2025-11-03T08:39:16.960028+00:00",
+        "source_alias": "bassic"
     },
     "707242540545474601": {
         "last_claim_timestamp": "2025-10-12T04:37:41.748471+00:00"
