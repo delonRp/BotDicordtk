@@ -1142,13 +1142,6 @@
     "1414026462759092258": {
         "last_claim_timestamp": "2025-09-29T09:04:57.077858+00:00"
     },
-    "shared_Maulpempek": {
-        "last_claim_timestamp": "2025-09-29T10:38:02.533920+00:00",
-        "current_token": "Maulpempek",
-        "token_expiry_timestamp": "2025-10-29T10:38:02.533920+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1308816125412245564": {
         "last_claim_timestamp": "2025-09-29T11:00:54.432641+00:00"
     },
@@ -1661,17 +1654,7 @@
         "is_shared": true
     },
     "1313764010956558366": {
-        "last_claim_timestamp": "2025-10-24T10:30:02.732908+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-E1XB-20251024",
-                "expiry_timestamp": "2025-10-29T10:30:02.732908+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-E1XB-20251024",
-        "token_expiry_timestamp": "2025-10-29T10:30:02.732908+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-24T10:30:02.732908+00:00"
     },
     "1354353799174688778": {
         "last_claim_timestamp": "2025-10-09T19:30:52.295948+00:00"
@@ -3228,17 +3211,7 @@
         "last_claim_timestamp": "2025-10-26T08:34:40.127048+00:00"
     },
     "1174393969489219718": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ZQWV-20251026",
-                "expiry_timestamp": "2025-10-29T11:02:08.255962+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-26T11:02:08.255962+00:00",
-        "current_token": "BEGINNER-ZQWV-20251026",
-        "token_expiry_timestamp": "2025-10-29T11:02:08.255962+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-26T11:02:08.255962+00:00"
     },
     "1418255579796738258": {
         "tokens": [
