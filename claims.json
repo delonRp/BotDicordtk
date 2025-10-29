@@ -3710,5 +3710,18 @@
         "current_token": "SUBSCRIBER-2G6K-20251029",
         "token_expiry_timestamp": "2025-11-03T07:16:13.214563+00:00",
         "source_alias": "bassic"
+    },
+    "1187894583850434655": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-7RX2-20251029",
+                "expiry_timestamp": "2025-11-03T07:24:30.187337+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T07:24:30.187337+00:00",
+        "current_token": "SUBSCRIBER-7RX2-20251029",
+        "token_expiry_timestamp": "2025-11-03T07:24:30.187337+00:00",
+        "source_alias": "bassic"
     }
 }
