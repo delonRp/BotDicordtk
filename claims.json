@@ -3726,5 +3726,18 @@
         "current_token": "BEGINNER-7LLC-20251029",
         "token_expiry_timestamp": "2025-11-01T07:29:00.289035+00:00",
         "source_alias": "bassic"
+    },
+    "1429390909820375122": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XJ96-20251029",
+                "expiry_timestamp": "2025-11-03T09:10:24.001888+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T09:10:24.001888+00:00",
+        "current_token": "SUBSCRIBER-XJ96-20251029",
+        "token_expiry_timestamp": "2025-11-03T09:10:24.001888+00:00",
+        "source_alias": "bassic"
     }
 }
