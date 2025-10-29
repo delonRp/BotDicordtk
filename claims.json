@@ -2743,7 +2743,17 @@
         "last_claim_timestamp": "2025-10-19T06:06:39.361593+00:00"
     },
     "1220013898107846829": {
-        "last_claim_timestamp": "2025-10-19T07:07:31.543723+00:00"
+        "last_claim_timestamp": "2025-10-29T09:10:36.479074+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-4L9F-20251029",
+                "expiry_timestamp": "2025-11-03T09:10:36.479074+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-4L9F-20251029",
+        "token_expiry_timestamp": "2025-11-03T09:10:36.479074+00:00",
+        "source_alias": "bassic"
     },
     "1387807082241069067": {
         "last_claim_timestamp": "2025-10-19T07:13:58.248362+00:00"
