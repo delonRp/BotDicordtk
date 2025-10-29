@@ -3701,5 +3701,18 @@
         "current_token": "BEGINNER-XSW2-20251028",
         "token_expiry_timestamp": "2025-10-31T23:07:34.350803+00:00",
         "source_alias": "bassic"
+    },
+    "1377618967866114138": {
+        "tokens": [
+            {
+                "token": "BEGINNER-INFW-20251029",
+                "expiry_timestamp": "2025-11-01T06:59:22.925128+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T06:59:22.925128+00:00",
+        "current_token": "BEGINNER-INFW-20251029",
+        "token_expiry_timestamp": "2025-11-01T06:59:22.925128+00:00",
+        "source_alias": "bassic"
     }
 }
