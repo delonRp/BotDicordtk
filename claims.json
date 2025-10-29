@@ -3759,5 +3759,18 @@
         "current_token": "SUBSCRIBER-XJ96-20251029",
         "token_expiry_timestamp": "2025-11-03T09:10:24.001888+00:00",
         "source_alias": "bassic"
+    },
+    "1232335739849674793": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XKVI-20251029",
+                "expiry_timestamp": "2025-11-03T09:18:26.172309+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T09:18:26.172309+00:00",
+        "current_token": "SUBSCRIBER-XKVI-20251029",
+        "token_expiry_timestamp": "2025-11-03T09:18:26.172309+00:00",
+        "source_alias": "bassic"
     }
 }
