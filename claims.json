@@ -1158,13 +1158,6 @@
     "1119159786366312478": {
         "last_claim_timestamp": "2025-09-29T11:56:45.642111+00:00"
     },
-    "shared_naninu": {
-        "last_claim_timestamp": "2025-09-29T12:11:52.431883+00:00",
-        "current_token": "naninu",
-        "token_expiry_timestamp": "2025-10-29T12:11:52.431883+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "shared_naninu17": {
         "last_claim_timestamp": "2025-09-29T12:12:51.686218+00:00",
         "current_token": "naninu17",
@@ -3234,17 +3227,7 @@
         "last_claim_timestamp": "2025-10-26T11:02:08.255962+00:00"
     },
     "1418255579796738258": {
-        "tokens": [
-            {
-                "token": "BEGINNER-2F7Y-20251026",
-                "expiry_timestamp": "2025-10-29T12:01:09.699867+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-26T12:01:09.699867+00:00",
-        "current_token": "BEGINNER-2F7Y-20251026",
-        "token_expiry_timestamp": "2025-10-29T12:01:09.699867+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-26T12:01:09.699867+00:00"
     },
     "259095298679242753": {
         "tokens": [
