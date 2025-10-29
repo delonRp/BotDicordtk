@@ -3816,5 +3816,18 @@
         "current_token": "SUBSCRIBER-KLF4-20251029",
         "token_expiry_timestamp": "2025-11-03T13:38:27.865487+00:00",
         "source_alias": "bassic"
+    },
+    "1321041908499353663": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QSEK-20251029",
+                "expiry_timestamp": "2025-11-03T13:45:19.772266+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T13:45:19.772266+00:00",
+        "current_token": "SUBSCRIBER-QSEK-20251029",
+        "token_expiry_timestamp": "2025-11-03T13:45:19.772266+00:00",
+        "source_alias": "bassic"
     }
 }
