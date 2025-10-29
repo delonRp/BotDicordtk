@@ -3803,5 +3803,18 @@
         "current_token": "BEGINNER-STK2-20251029",
         "token_expiry_timestamp": "2025-11-01T12:02:00.117273+00:00",
         "source_alias": "bassic"
+    },
+    "1340587488506413067": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KLF4-20251029",
+                "expiry_timestamp": "2025-11-03T13:38:27.865487+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T13:38:27.865487+00:00",
+        "current_token": "SUBSCRIBER-KLF4-20251029",
+        "token_expiry_timestamp": "2025-11-03T13:38:27.865487+00:00",
+        "source_alias": "bassic"
     }
 }
