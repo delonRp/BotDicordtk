@@ -3832,5 +3832,18 @@
         "current_token": "BEGINNER-EM4T-20251029",
         "token_expiry_timestamp": "2025-11-01T14:14:07.207439+00:00",
         "source_alias": "bassic"
+    },
+    "1428728672147214408": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BJ7Z-20251029",
+                "expiry_timestamp": "2025-11-03T15:26:02.052062+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T15:26:02.052062+00:00",
+        "current_token": "SUBSCRIBER-BJ7Z-20251029",
+        "token_expiry_timestamp": "2025-11-03T15:26:02.052062+00:00",
+        "source_alias": "bassic"
     }
 }
