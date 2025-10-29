@@ -2009,7 +2009,17 @@
         "last_claim_timestamp": "2025-10-12T04:37:41.748471+00:00"
     },
     "1237694899562745950": {
-        "last_claim_timestamp": "2025-10-21T08:01:27.403745+00:00"
+        "last_claim_timestamp": "2025-10-29T12:11:31.283015+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-TP9U-20251029",
+                "expiry_timestamp": "2025-11-03T12:11:31.283015+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-TP9U-20251029",
+        "token_expiry_timestamp": "2025-11-03T12:11:31.283015+00:00",
+        "source_alias": "bassic"
     },
     "1369752904868561089": {
         "last_claim_timestamp": "2025-10-12T04:57:06.293614+00:00"
