@@ -1123,13 +1123,6 @@
     "1384079894476095530": {
         "last_claim_timestamp": "2025-10-13T00:50:34.449917+00:00"
     },
-    "shared_asepboy": {
-        "last_claim_timestamp": "2025-09-29T06:15:18.148571+00:00",
-        "current_token": "asepboy",
-        "token_expiry_timestamp": "2025-10-29T06:15:18.148571+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1401113171145658449": {
         "last_claim_timestamp": "2025-09-29T08:39:11.089888+00:00"
     },
@@ -2980,17 +2973,7 @@
         "last_claim_timestamp": "2025-10-24T06:17:21.792669+00:00"
     },
     "1310566414968422412": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-XZ7W-20251024",
-                "expiry_timestamp": "2025-10-29T06:44:07.226049+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-24T06:44:07.226049+00:00",
-        "current_token": "SUBSCRIBER-XZ7W-20251024",
-        "token_expiry_timestamp": "2025-10-29T06:44:07.226049+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-24T06:44:07.226049+00:00"
     },
     "1373492602464243782": {
         "last_claim_timestamp": "2025-10-24T07:51:54.306299+00:00"
