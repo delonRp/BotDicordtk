@@ -1158,13 +1158,6 @@
     "1119159786366312478": {
         "last_claim_timestamp": "2025-09-29T11:56:45.642111+00:00"
     },
-    "shared_naninu17": {
-        "last_claim_timestamp": "2025-09-29T12:12:51.686218+00:00",
-        "current_token": "naninu17",
-        "token_expiry_timestamp": "2025-10-29T12:12:51.686218+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1417484049840209980": {
         "last_claim_timestamp": "2025-10-12T13:38:12.939669+00:00"
     },
