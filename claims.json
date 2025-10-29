@@ -3785,5 +3785,18 @@
         "current_token": "BEGINNER-F9HM-20251029",
         "token_expiry_timestamp": "2025-11-01T09:23:57.614927+00:00",
         "source_alias": "bassic"
+    },
+    "1402354988906320014": {
+        "tokens": [
+            {
+                "token": "BEGINNER-EJFK-20251029",
+                "expiry_timestamp": "2025-11-01T10:45:19.458268+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-29T10:45:19.458268+00:00",
+        "current_token": "BEGINNER-EJFK-20251029",
+        "token_expiry_timestamp": "2025-11-01T10:45:19.458268+00:00",
+        "source_alias": "bassic"
     }
 }
