@@ -3913,5 +3913,18 @@
         "current_token": "BEGINNER-I8AD-20251030",
         "token_expiry_timestamp": "2025-11-02T16:04:05.316788+00:00",
         "source_alias": "bassic"
+    },
+    "1393642697415458816": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-9F5W-20251030",
+                "expiry_timestamp": "2025-11-04T16:51:37.892532+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-30T16:51:37.892532+00:00",
+        "current_token": "SUBSCRIBER-9F5W-20251030",
+        "token_expiry_timestamp": "2025-11-04T16:51:37.892532+00:00",
+        "source_alias": "bassic"
     }
 }
