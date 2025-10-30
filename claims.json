@@ -3057,17 +3057,7 @@
         "last_claim_timestamp": "2025-10-24T22:40:17.087287+00:00"
     },
     "1347065696193871955": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OSKN-20251025",
-                "expiry_timestamp": "2025-10-30T01:23:52.439192+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-25T01:23:52.439192+00:00",
-        "current_token": "SUBSCRIBER-OSKN-20251025",
-        "token_expiry_timestamp": "2025-10-30T01:23:52.439192+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-25T01:23:52.439192+00:00"
     },
     "1343041958574166106": {
         "last_claim_timestamp": "2025-10-25T01:35:51.456490+00:00"
