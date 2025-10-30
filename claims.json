@@ -3915,5 +3915,18 @@
         "current_token": "BEGINNER-XG9J-20251030",
         "token_expiry_timestamp": "2025-11-02T20:40:01.215710+00:00",
         "source_alias": "bassic"
+    },
+    "986117670132924488": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-TR80-20251030",
+                "expiry_timestamp": "2025-11-04T21:01:40.583457+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-30T21:01:40.583457+00:00",
+        "current_token": "SUBSCRIBER-TR80-20251030",
+        "token_expiry_timestamp": "2025-11-04T21:01:40.583457+00:00",
+        "source_alias": "bassic"
     }
 }
