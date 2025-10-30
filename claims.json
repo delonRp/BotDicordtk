@@ -3901,5 +3901,18 @@
         "current_token": "SUBSCRIBER-IBS0-20251030",
         "token_expiry_timestamp": "2025-11-04T07:57:26.727460+00:00",
         "source_alias": "bassic"
+    },
+    "1418510220392398958": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-Q7YU-20251030",
+                "expiry_timestamp": "2025-11-04T09:11:30.609255+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-30T09:11:30.609255+00:00",
+        "current_token": "SUBSCRIBER-Q7YU-20251030",
+        "token_expiry_timestamp": "2025-11-04T09:11:30.609255+00:00",
+        "source_alias": "bassic"
     }
 }
