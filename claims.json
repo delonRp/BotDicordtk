@@ -3283,17 +3283,7 @@
         "source_alias": "bassic"
     },
     "1391082146634010727": {
-        "tokens": [
-            {
-                "token": "BEGINNER-1GOD-20251027",
-                "expiry_timestamp": "2025-10-30T21:29:45.075000+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T21:29:45.075000+00:00",
-        "current_token": "BEGINNER-1GOD-20251027",
-        "token_expiry_timestamp": "2025-10-30T21:29:45.075000+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T21:29:45.075000+00:00"
     },
     "1414249905417097418": {
         "tokens": [
