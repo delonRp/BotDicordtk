@@ -1207,13 +1207,6 @@
     "1273440414057238559": {
         "last_claim_timestamp": "2025-10-11T04:40:01.032396+00:00"
     },
-    "shared_Mancing": {
-        "last_claim_timestamp": "2025-09-30T01:07:26.973494+00:00",
-        "current_token": "Mancing",
-        "token_expiry_timestamp": "2025-10-30T01:07:26.973494+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "shared_JOT1212": {
         "last_claim_timestamp": "2025-09-30T02:54:42.597091+00:00",
         "current_token": "JOT1212",
@@ -2587,17 +2580,7 @@
         "source_alias": "bassic"
     },
     "1284119277116330087": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-JAKN-20251025",
-                "expiry_timestamp": "2025-10-30T00:23:59.063845+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-25T00:23:59.063845+00:00",
-        "current_token": "SUBSCRIBER-JAKN-20251025",
-        "token_expiry_timestamp": "2025-10-30T00:23:59.063845+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-25T00:23:59.063845+00:00"
     },
     "shared_bassic_Scaramel": {
         "last_claim_timestamp": "2025-10-18T07:37:14.111804+00:00",
