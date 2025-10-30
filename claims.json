@@ -1207,13 +1207,6 @@
     "1273440414057238559": {
         "last_claim_timestamp": "2025-10-11T04:40:01.032396+00:00"
     },
-    "shared_JOT1212": {
-        "last_claim_timestamp": "2025-09-30T02:54:42.597091+00:00",
-        "current_token": "JOT1212",
-        "token_expiry_timestamp": "2025-10-30T02:54:42.597091+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1422448641137971200": {
         "last_claim_timestamp": "2025-09-30T05:20:15.010608+00:00"
     },
