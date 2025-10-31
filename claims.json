@@ -3971,5 +3971,18 @@
         "current_token": "BEGINNER-BXLS-20251031",
         "token_expiry_timestamp": "2025-11-03T17:22:05.531865+00:00",
         "source_alias": "bassic"
+    },
+    "1233116096324833291": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-9D5C-20251031",
+                "expiry_timestamp": "2025-11-05T18:06:25.990646+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T18:06:25.990646+00:00",
+        "current_token": "SUBSCRIBER-9D5C-20251031",
+        "token_expiry_timestamp": "2025-11-05T18:06:25.990646+00:00",
+        "source_alias": "bassic"
     }
 }
