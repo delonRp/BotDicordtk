@@ -3907,5 +3907,18 @@
         "current_token": "BEGINNER-W9EZ-20251031",
         "token_expiry_timestamp": "2025-11-03T08:26:38.311820+00:00",
         "source_alias": "bassic"
+    },
+    "1279795684127543327": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MVVV-20251031",
+                "expiry_timestamp": "2025-11-05T08:28:02.730577+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T08:28:02.730577+00:00",
+        "current_token": "SUBSCRIBER-MVVV-20251031",
+        "token_expiry_timestamp": "2025-11-05T08:28:02.730577+00:00",
+        "source_alias": "bassic"
     }
 }
