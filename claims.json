@@ -3903,5 +3903,18 @@
         "current_token": "BEGINNER-FEKX-20251031",
         "token_expiry_timestamp": "2025-11-03T10:07:12.048863+00:00",
         "source_alias": "bassic"
+    },
+    "1139907386287595560": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-VFZ8-20251031",
+                "expiry_timestamp": "2025-11-05T10:15:59.113991+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T10:15:59.113991+00:00",
+        "current_token": "SUBSCRIBER-VFZ8-20251031",
+        "token_expiry_timestamp": "2025-11-05T10:15:59.113991+00:00",
+        "source_alias": "bassic"
     }
 }
