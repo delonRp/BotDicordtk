@@ -2895,7 +2895,17 @@
         "last_claim_timestamp": "2025-10-21T11:06:39.737180+00:00"
     },
     "1406149343014293586": {
-        "last_claim_timestamp": "2025-10-21T11:17:46.760098+00:00"
+        "last_claim_timestamp": "2025-10-31T10:00:20.941325+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZVQY-20251031",
+                "expiry_timestamp": "2025-11-05T10:00:20.941325+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-ZVQY-20251031",
+        "token_expiry_timestamp": "2025-11-05T10:00:20.941325+00:00",
+        "source_alias": "bassic"
     },
     "1388537244314374356": {
         "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00"
