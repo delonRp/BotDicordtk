@@ -3906,5 +3906,18 @@
         "current_token": "SUBSCRIBER-VFZ8-20251031",
         "token_expiry_timestamp": "2025-11-05T10:15:59.113991+00:00",
         "source_alias": "bassic"
+    },
+    "403355036920578048": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-2UUM-20251031",
+                "expiry_timestamp": "2025-11-05T11:26:58.763894+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T11:26:58.763894+00:00",
+        "current_token": "SUBSCRIBER-2UUM-20251031",
+        "token_expiry_timestamp": "2025-11-05T11:26:58.763894+00:00",
+        "source_alias": "bassic"
     }
 }
