@@ -3932,5 +3932,18 @@
         "current_token": "SUBSCRIBER-PZVT-20251031",
         "token_expiry_timestamp": "2025-11-05T13:03:07.137128+00:00",
         "source_alias": "bassic"
+    },
+    "1429107261841604784": {
+        "tokens": [
+            {
+                "token": "BEGINNER-F4JR-20251031",
+                "expiry_timestamp": "2025-11-03T14:29:18.052158+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T14:29:18.052158+00:00",
+        "current_token": "BEGINNER-F4JR-20251031",
+        "token_expiry_timestamp": "2025-11-03T14:29:18.052158+00:00",
+        "source_alias": "bassic"
     }
 }
