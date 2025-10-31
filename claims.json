@@ -2467,16 +2467,21 @@
         "source_alias": "bassic"
     },
     "909832563948924940": {
-        "last_claim_timestamp": "2025-10-24T08:29:24.681627+00:00",
+        "last_claim_timestamp": "2025-10-31T08:51:51.119913+00:00",
         "tokens": [
             {
                 "token": "INNERCIRCLE-VJOM-20251024",
                 "expiry_timestamp": "2025-10-31T08:29:24.681627+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "INNERCIRCLE-8KIB-20251031",
+                "expiry_timestamp": "2025-11-07T08:51:51.119913+00:00",
+                "source_alias": "bassic"
             }
         ],
-        "current_token": "INNERCIRCLE-VJOM-20251024",
-        "token_expiry_timestamp": "2025-10-31T08:29:24.681627+00:00",
+        "current_token": "INNERCIRCLE-8KIB-20251031",
+        "token_expiry_timestamp": "2025-11-07T08:51:51.119913+00:00",
         "source_alias": "bassic"
     },
     "1415873230857703566": {
