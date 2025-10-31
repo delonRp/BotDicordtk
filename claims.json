@@ -3894,5 +3894,18 @@
         "current_token": "SUBSCRIBER-BVRB-20251031",
         "token_expiry_timestamp": "2025-11-05T07:45:58.127107+00:00",
         "source_alias": "bassic"
+    },
+    "1376095326850781286": {
+        "tokens": [
+            {
+                "token": "BEGINNER-W9EZ-20251031",
+                "expiry_timestamp": "2025-11-03T08:26:38.311820+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-10-31T08:26:38.311820+00:00",
+        "current_token": "BEGINNER-W9EZ-20251031",
+        "token_expiry_timestamp": "2025-11-03T08:26:38.311820+00:00",
+        "source_alias": "bassic"
     }
 }
