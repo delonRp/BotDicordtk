@@ -4004,5 +4004,18 @@
         "current_token": "SUBSCRIBER-UOVT-20251101",
         "token_expiry_timestamp": "2025-11-06T12:42:50.227703+00:00",
         "source_alias": "bassic"
+    },
+    "1399267276934615042": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4WCH-20251101",
+                "expiry_timestamp": "2025-11-04T13:33:37.517882+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-01T13:33:37.517882+00:00",
+        "current_token": "BEGINNER-4WCH-20251101",
+        "token_expiry_timestamp": "2025-11-04T13:33:37.517882+00:00",
+        "source_alias": "bassic"
     }
 }
