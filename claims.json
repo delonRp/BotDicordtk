@@ -3875,12 +3875,18 @@
                 "expiry_timestamp": "2053-03-18T10:55:37.668879+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "magic",
+                "expiry_timestamp": "2053-03-18T10:56:37.293782+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-10-31T11:26:58.763894+00:00",
         "current_token": "magic",
-        "token_expiry_timestamp": "2053-03-18T10:55:37.668879+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2053-03-18T10:56:37.293782+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1033555175140495451": {
