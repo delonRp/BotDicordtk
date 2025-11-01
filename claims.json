@@ -3405,12 +3405,18 @@
                 "expiry_timestamp": "2025-12-31T08:34:51.424364+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "pici",
+                "expiry_timestamp": "2025-12-31T08:35:27.764851+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-10-29T07:16:13.214563+00:00",
         "current_token": "pici",
-        "token_expiry_timestamp": "2025-12-31T08:34:51.424364+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-31T08:35:27.764851+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1187894583850434655": {
