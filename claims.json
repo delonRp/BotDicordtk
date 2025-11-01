@@ -4025,5 +4025,18 @@
         "current_token": "BEGINNER-ETH8-20251101",
         "token_expiry_timestamp": "2025-11-04T08:20:14.292030+00:00",
         "source_alias": "bassic"
+    },
+    "1419532470386163795": {
+        "tokens": [
+            {
+                "token": "BEGINNER-14PC-20251101",
+                "expiry_timestamp": "2025-11-04T10:07:59.611921+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-01T10:07:59.611921+00:00",
+        "current_token": "BEGINNER-14PC-20251101",
+        "token_expiry_timestamp": "2025-11-04T10:07:59.611921+00:00",
+        "source_alias": "bassic"
     }
 }
