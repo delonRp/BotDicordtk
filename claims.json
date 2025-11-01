@@ -3869,12 +3869,19 @@
                 "token": "SUBSCRIBER-2UUM-20251031",
                 "expiry_timestamp": "2025-11-05T11:26:58.763894+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "magic",
+                "expiry_timestamp": "2053-03-18T10:55:37.668879+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-10-31T11:26:58.763894+00:00",
-        "current_token": "SUBSCRIBER-2UUM-20251031",
-        "token_expiry_timestamp": "2025-11-05T11:26:58.763894+00:00",
-        "source_alias": "bassic"
+        "current_token": "magic",
+        "token_expiry_timestamp": "2053-03-18T10:55:37.668879+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1033555175140495451": {
         "tokens": [
