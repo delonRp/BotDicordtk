@@ -4006,5 +4006,18 @@
         "current_token": "SUBSCRIBER-ZM4O-20251101",
         "token_expiry_timestamp": "2025-11-06T06:46:02.544268+00:00",
         "source_alias": "bassic"
+    },
+    "1400066012363096157": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ETH8-20251101",
+                "expiry_timestamp": "2025-11-04T08:20:14.292030+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-01T08:20:14.292030+00:00",
+        "current_token": "BEGINNER-ETH8-20251101",
+        "token_expiry_timestamp": "2025-11-04T08:20:14.292030+00:00",
+        "source_alias": "bassic"
     }
 }
