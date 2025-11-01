@@ -3194,33 +3194,13 @@
         "last_claim_timestamp": "2025-10-27T17:32:45.423613+00:00"
     },
     "982993125813403678": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-91HI-20251027",
-                "expiry_timestamp": "2025-11-01T17:41:36.873070+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T17:41:36.873070+00:00",
-        "current_token": "SUBSCRIBER-91HI-20251027",
-        "token_expiry_timestamp": "2025-11-01T17:41:36.873070+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T17:41:36.873070+00:00"
     },
     "1235962951526256705": {
         "last_claim_timestamp": "2025-10-27T17:42:23.286583+00:00"
     },
     "1192552233775145015": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-SOZY-20251027",
-                "expiry_timestamp": "2025-11-01T18:06:15.468814+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T18:06:15.468814+00:00",
-        "current_token": "SUBSCRIBER-SOZY-20251027",
-        "token_expiry_timestamp": "2025-11-01T18:06:15.468814+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T18:06:15.468814+00:00"
     },
     "1391082146634010727": {
         "last_claim_timestamp": "2025-10-27T21:29:45.075000+00:00"
@@ -3502,17 +3482,7 @@
         "last_claim_timestamp": "2025-10-29T17:12:07.995262+00:00"
     },
     "1374655307879415840": {
-        "tokens": [
-            {
-                "token": "BEGINNER-U7QH-20251029",
-                "expiry_timestamp": "2025-11-01T18:03:07.045857+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T18:03:07.045857+00:00",
-        "current_token": "BEGINNER-U7QH-20251029",
-        "token_expiry_timestamp": "2025-11-01T18:03:07.045857+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T18:03:07.045857+00:00"
     },
     "1415196371127898212": {
         "tokens": [
