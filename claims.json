@@ -3172,33 +3172,13 @@
         "last_claim_timestamp": "2025-10-27T14:55:40.030194+00:00"
     },
     "1397514991707357214": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-KM13-20251027",
-                "expiry_timestamp": "2025-11-01T16:28:57.633597+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T16:28:57.633597+00:00",
-        "current_token": "SUBSCRIBER-KM13-20251027",
-        "token_expiry_timestamp": "2025-11-01T16:28:57.633597+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T16:28:57.633597+00:00"
     },
     "1282378102311489548": {
         "last_claim_timestamp": "2025-10-27T16:42:08.299932+00:00"
     },
     "1335136641324421193": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-WHXA-20251027",
-                "expiry_timestamp": "2025-11-01T17:12:37.968535+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T17:12:37.968535+00:00",
-        "current_token": "SUBSCRIBER-WHXA-20251027",
-        "token_expiry_timestamp": "2025-11-01T17:12:37.968535+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T17:12:37.968535+00:00"
     },
     "1040573988449030175": {
         "last_claim_timestamp": "2025-10-27T17:32:45.423613+00:00"
@@ -3509,17 +3489,7 @@
         "source_alias": "bassic"
     },
     "1349486157662130199": {
-        "tokens": [
-            {
-                "token": "BEGINNER-FV61-20251029",
-                "expiry_timestamp": "2025-11-01T17:12:07.995262+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T17:12:07.995262+00:00",
-        "current_token": "BEGINNER-FV61-20251029",
-        "token_expiry_timestamp": "2025-11-01T17:12:07.995262+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T17:12:07.995262+00:00"
     },
     "1374655307879415840": {
         "tokens": [
