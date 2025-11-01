@@ -3141,17 +3141,7 @@
         "last_claim_timestamp": "2025-10-26T17:46:42.997441+00:00"
     },
     "1269460955469975602": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-HD5V-20251027",
-                "expiry_timestamp": "2025-11-01T06:49:06.411556+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-27T06:49:06.411556+00:00",
-        "current_token": "SUBSCRIBER-HD5V-20251027",
-        "token_expiry_timestamp": "2025-11-01T06:49:06.411556+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-27T06:49:06.411556+00:00"
     },
     "1264643082641473588": {
         "last_claim_timestamp": "2025-10-27T08:28:51.751646+00:00"
@@ -3401,17 +3391,7 @@
         "last_claim_timestamp": "2025-10-28T23:07:34.350803+00:00"
     },
     "1377618967866114138": {
-        "tokens": [
-            {
-                "token": "BEGINNER-INFW-20251029",
-                "expiry_timestamp": "2025-11-01T06:59:22.925128+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T06:59:22.925128+00:00",
-        "current_token": "BEGINNER-INFW-20251029",
-        "token_expiry_timestamp": "2025-11-01T06:59:22.925128+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T06:59:22.925128+00:00"
     },
     "1066918321112494161": {
         "tokens": [
