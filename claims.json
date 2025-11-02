@@ -4052,5 +4052,18 @@
         "current_token": "BEGINNER-F4LI-20251102",
         "token_expiry_timestamp": "2025-11-05T13:22:27.915249+00:00",
         "source_alias": "bassic"
+    },
+    "1267829805081034855": {
+        "tokens": [
+            {
+                "token": "BEGINNER-X3AD-20251102",
+                "expiry_timestamp": "2025-11-05T13:27:29.426556+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T13:27:29.426556+00:00",
+        "current_token": "BEGINNER-X3AD-20251102",
+        "token_expiry_timestamp": "2025-11-05T13:27:29.426556+00:00",
+        "source_alias": "bassic"
     }
 }
