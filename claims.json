@@ -3991,5 +3991,18 @@
         "current_token": "SUBSCRIBER-ZAJY-20251102",
         "token_expiry_timestamp": "2025-11-07T06:02:34.597490+00:00",
         "source_alias": "bassic"
+    },
+    "926204092945162331": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-92T1-20251102",
+                "expiry_timestamp": "2025-11-07T07:17:04.635929+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T07:17:04.635929+00:00",
+        "current_token": "SUBSCRIBER-92T1-20251102",
+        "token_expiry_timestamp": "2025-11-07T07:17:04.635929+00:00",
+        "source_alias": "bassic"
     }
 }
