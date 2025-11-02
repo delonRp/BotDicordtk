@@ -3213,17 +3213,7 @@
         "last_claim_timestamp": "2025-10-28T09:45:19.325534+00:00"
     },
     "1287707893872726018": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-53QN-20251028",
-                "expiry_timestamp": "2025-11-02T10:37:32.303201+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-28T10:37:32.303201+00:00",
-        "current_token": "SUBSCRIBER-53QN-20251028",
-        "token_expiry_timestamp": "2025-11-02T10:37:32.303201+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-28T10:37:32.303201+00:00"
     },
     "1191017197565390928": {
         "tokens": [
