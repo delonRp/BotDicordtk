@@ -3987,5 +3987,18 @@
         "current_token": "BEGINNER-VMI7-20251102",
         "token_expiry_timestamp": "2025-11-05T07:17:36.072928+00:00",
         "source_alias": "bassic"
+    },
+    "1247089450685562901": {
+        "tokens": [
+            {
+                "token": "BEGINNER-HWNZ-20251102",
+                "expiry_timestamp": "2025-11-05T09:58:53.272078+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T09:58:53.272078+00:00",
+        "current_token": "BEGINNER-HWNZ-20251102",
+        "token_expiry_timestamp": "2025-11-05T09:58:53.272078+00:00",
+        "source_alias": "bassic"
     }
 }
