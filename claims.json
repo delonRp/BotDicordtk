@@ -4057,5 +4057,18 @@
         "current_token": "SUBSCRIBER-3LML-20251102",
         "token_expiry_timestamp": "2025-11-07T20:47:02.215100+00:00",
         "source_alias": "bassic"
+    },
+    "1416112121241927852": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RNHO-20251102",
+                "expiry_timestamp": "2025-11-05T20:50:40.190330+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T20:50:40.190330+00:00",
+        "current_token": "BEGINNER-RNHO-20251102",
+        "token_expiry_timestamp": "2025-11-05T20:50:40.190330+00:00",
+        "source_alias": "bassic"
     }
 }
