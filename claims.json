@@ -4004,5 +4004,18 @@
         "current_token": "SUBSCRIBER-92T1-20251102",
         "token_expiry_timestamp": "2025-11-07T07:17:04.635929+00:00",
         "source_alias": "bassic"
+    },
+    "1434424840202354771": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VMI7-20251102",
+                "expiry_timestamp": "2025-11-05T07:17:36.072928+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T07:17:36.072928+00:00",
+        "current_token": "BEGINNER-VMI7-20251102",
+        "token_expiry_timestamp": "2025-11-05T07:17:36.072928+00:00",
+        "source_alias": "bassic"
     }
 }
