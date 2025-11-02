@@ -3182,17 +3182,7 @@
         "last_claim_timestamp": "2025-10-28T00:57:38.621182+00:00"
     },
     "917327700178386974": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QIYN-20251028",
-                "expiry_timestamp": "2025-11-02T02:11:17.249955+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-28T02:11:17.249955+00:00",
-        "current_token": "SUBSCRIBER-QIYN-20251028",
-        "token_expiry_timestamp": "2025-11-02T02:11:17.249955+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-28T02:11:17.249955+00:00"
     },
     "1297782738815811616": {
         "tokens": [
