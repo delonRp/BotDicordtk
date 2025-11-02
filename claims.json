@@ -4036,5 +4036,18 @@
         "current_token": "SUBSCRIBER-ERZM-20251102",
         "token_expiry_timestamp": "2025-11-07T12:36:28.053865+00:00",
         "source_alias": "bassic"
+    },
+    "1418276745664004219": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-JJ4M-20251102",
+                "expiry_timestamp": "2025-11-07T13:05:50.170336+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T13:05:50.170336+00:00",
+        "current_token": "SUBSCRIBER-JJ4M-20251102",
+        "token_expiry_timestamp": "2025-11-07T13:05:50.170336+00:00",
+        "source_alias": "bassic"
     }
 }
