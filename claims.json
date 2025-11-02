@@ -4073,5 +4073,18 @@
         "current_token": "SUBSCRIBER-3ICG-20251102",
         "token_expiry_timestamp": "2025-11-07T21:14:19.748816+00:00",
         "source_alias": "bassic"
+    },
+    "1422858865711644683": {
+        "tokens": [
+            {
+                "token": "BEGINNER-1KLZ-20251102",
+                "expiry_timestamp": "2025-11-05T21:36:57.634386+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T21:36:57.634386+00:00",
+        "current_token": "BEGINNER-1KLZ-20251102",
+        "token_expiry_timestamp": "2025-11-05T21:36:57.634386+00:00",
+        "source_alias": "bassic"
     }
 }
