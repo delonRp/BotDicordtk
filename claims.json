@@ -4039,5 +4039,18 @@
         "current_token": "SUBSCRIBER-JJ4M-20251102",
         "token_expiry_timestamp": "2025-11-07T13:05:50.170336+00:00",
         "source_alias": "bassic"
+    },
+    "1389135796388237403": {
+        "tokens": [
+            {
+                "token": "BEGINNER-F4LI-20251102",
+                "expiry_timestamp": "2025-11-05T13:22:27.915249+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T13:22:27.915249+00:00",
+        "current_token": "BEGINNER-F4LI-20251102",
+        "token_expiry_timestamp": "2025-11-05T13:22:27.915249+00:00",
+        "source_alias": "bassic"
     }
 }
