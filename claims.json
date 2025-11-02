@@ -4058,5 +4058,18 @@
         "current_token": "SUBSCRIBER-7SJK-20251102",
         "token_expiry_timestamp": "2025-11-07T13:41:46.467239+00:00",
         "source_alias": "bassic"
+    },
+    "1079670980198277130": {
+        "tokens": [
+            {
+                "token": "BEGINNER-W5Y4-20251102",
+                "expiry_timestamp": "2025-11-05T16:55:44.314595+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T16:55:44.314595+00:00",
+        "current_token": "BEGINNER-W5Y4-20251102",
+        "token_expiry_timestamp": "2025-11-05T16:55:44.314595+00:00",
+        "source_alias": "bassic"
     }
 }
