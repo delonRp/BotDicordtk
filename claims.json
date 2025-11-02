@@ -3989,5 +3989,18 @@
         "current_token": "SUBSCRIBER-5IDA-20251102",
         "token_expiry_timestamp": "2025-11-07T00:08:58.163742+00:00",
         "source_alias": "bassic"
+    },
+    "1125441080993792000": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-06KN-20251102",
+                "expiry_timestamp": "2025-11-07T00:29:54.124451+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T00:29:54.124451+00:00",
+        "current_token": "SUBSCRIBER-06KN-20251102",
+        "token_expiry_timestamp": "2025-11-07T00:29:54.124451+00:00",
+        "source_alias": "bassic"
     }
 }
