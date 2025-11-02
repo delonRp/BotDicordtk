@@ -4086,5 +4086,18 @@
         "current_token": "BEGINNER-1KLZ-20251102",
         "token_expiry_timestamp": "2025-11-05T21:36:57.634386+00:00",
         "source_alias": "bassic"
+    },
+    "1365805800966193253": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NB9P-20251102",
+                "expiry_timestamp": "2025-11-05T22:41:53.799397+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-02T22:41:53.799397+00:00",
+        "current_token": "BEGINNER-NB9P-20251102",
+        "token_expiry_timestamp": "2025-11-05T22:41:53.799397+00:00",
+        "source_alias": "bassic"
     }
 }
