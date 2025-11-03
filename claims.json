@@ -3526,17 +3526,7 @@
         "source_alias": "bassic"
     },
     "1270254356448546888": {
-        "tokens": [
-            {
-                "token": "BEGINNER-MB4O-20251031",
-                "expiry_timestamp": "2025-11-03T03:15:42.316002+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-31T03:15:42.316002+00:00",
-        "current_token": "BEGINNER-MB4O-20251031",
-        "token_expiry_timestamp": "2025-11-03T03:15:42.316002+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T03:15:42.316002+00:00"
     },
     "1389278094086504482": {
         "tokens": [
