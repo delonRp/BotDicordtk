@@ -4192,5 +4192,18 @@
         "current_token": "SUBSCRIBER-JGLK-20251103",
         "token_expiry_timestamp": "2025-11-08T12:54:30.305917+00:00",
         "source_alias": "bassic"
+    },
+    "511584748817088512": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VOYA-20251103",
+                "expiry_timestamp": "2025-11-06T13:26:26.605506+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T13:26:26.605506+00:00",
+        "current_token": "BEGINNER-VOYA-20251103",
+        "token_expiry_timestamp": "2025-11-06T13:26:26.605506+00:00",
+        "source_alias": "bassic"
     }
 }
