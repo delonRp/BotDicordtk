@@ -4207,5 +4207,18 @@
         "current_token": "SUBSCRIBER-MB8Y-20251103",
         "token_expiry_timestamp": "2025-11-08T08:07:00.768038+00:00",
         "source_alias": "bassic"
+    },
+    "1226908693723877407": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-YG7G-20251103",
+                "expiry_timestamp": "2025-11-08T09:05:54.198711+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T09:05:54.198711+00:00",
+        "current_token": "SUBSCRIBER-YG7G-20251103",
+        "token_expiry_timestamp": "2025-11-08T09:05:54.198711+00:00",
+        "source_alias": "bassic"
     }
 }
