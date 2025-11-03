@@ -4122,5 +4122,18 @@
         "current_token": "SUBSCRIBER-YSOG-20251103",
         "token_expiry_timestamp": "2025-11-08T01:45:00.956595+00:00",
         "source_alias": "bassic"
+    },
+    "1329755215720742983": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-PG00-20251103",
+                "expiry_timestamp": "2025-11-08T02:02:42.757387+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T02:02:42.757387+00:00",
+        "current_token": "SUBSCRIBER-PG00-20251103",
+        "token_expiry_timestamp": "2025-11-08T02:02:42.757387+00:00",
+        "source_alias": "bassic"
     }
 }
