@@ -1373,13 +1373,6 @@
     "1144605706692067328": {
         "last_claim_timestamp": "2025-10-04T18:49:34.718940+00:00"
     },
-    "shared_41162": {
-        "last_claim_timestamp": "2025-10-04T22:33:41.519993+00:00",
-        "current_token": "41162",
-        "token_expiry_timestamp": "2025-11-03T22:33:41.519993+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "852751141980733500": {
         "last_claim_timestamp": "2025-10-04T23:21:37.013036+00:00"
     },
@@ -2724,17 +2717,7 @@
         "last_claim_timestamp": "2025-10-21T00:49:04.743626+00:00"
     },
     "1010359950196879361": {
-        "last_claim_timestamp": "2025-10-29T23:07:21.932619+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NH5T-20251029",
-                "expiry_timestamp": "2025-11-03T23:07:21.932619+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-NH5T-20251029",
-        "token_expiry_timestamp": "2025-11-03T23:07:21.932619+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T23:07:21.932619+00:00"
     },
     "1411865068974637096": {
         "last_claim_timestamp": "2025-10-21T03:47:15.236775+00:00"
