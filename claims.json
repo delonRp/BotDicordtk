@@ -4096,12 +4096,18 @@
                 "expiry_timestamp": "2025-12-03T02:40:02.187788+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 856022445747994664
+            },
+            {
+                "token": "farel",
+                "expiry_timestamp": "2025-12-03T02:40:30.420099+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 856022445747994664
             }
         ],
         "last_claim_timestamp": "2025-11-02T21:36:57.634386+00:00",
         "current_token": "farel",
-        "token_expiry_timestamp": "2025-12-03T02:40:02.187788+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-03T02:40:30.420099+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 856022445747994664
     },
     "1365805800966193253": {
