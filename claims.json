@@ -4213,5 +4213,18 @@
         "current_token": "SUBSCRIBER-WPOB-20251103",
         "token_expiry_timestamp": "2025-11-08T07:24:08.544292+00:00",
         "source_alias": "bassic"
+    },
+    "1400780754220482712": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MB8Y-20251103",
+                "expiry_timestamp": "2025-11-08T08:07:00.768038+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T08:07:00.768038+00:00",
+        "current_token": "SUBSCRIBER-MB8Y-20251103",
+        "token_expiry_timestamp": "2025-11-08T08:07:00.768038+00:00",
+        "source_alias": "bassic"
     }
 }
