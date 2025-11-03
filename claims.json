@@ -4190,5 +4190,18 @@
         "current_token": "SUBSCRIBER-LKLN-20251103",
         "token_expiry_timestamp": "2025-11-08T05:24:02.656204+00:00",
         "source_alias": "bassic"
+    },
+    "1349597463169859595": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-WPOB-20251103",
+                "expiry_timestamp": "2025-11-08T07:24:08.544292+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T07:24:08.544292+00:00",
+        "current_token": "SUBSCRIBER-WPOB-20251103",
+        "token_expiry_timestamp": "2025-11-08T07:24:08.544292+00:00",
+        "source_alias": "bassic"
     }
 }
