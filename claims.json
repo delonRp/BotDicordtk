@@ -4109,5 +4109,18 @@
         "current_token": "BEGINNER-NB9P-20251102",
         "token_expiry_timestamp": "2025-11-05T22:41:53.799397+00:00",
         "source_alias": "bassic"
+    },
+    "1313656889346756712": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-YSOG-20251103",
+                "expiry_timestamp": "2025-11-08T01:45:00.956595+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T01:45:00.956595+00:00",
+        "current_token": "SUBSCRIBER-YSOG-20251103",
+        "token_expiry_timestamp": "2025-11-08T01:45:00.956595+00:00",
+        "source_alias": "bassic"
     }
 }
