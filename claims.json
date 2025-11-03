@@ -3500,17 +3500,7 @@
         "source_alias": "bassic"
     },
     "1360782369036042280": {
-        "tokens": [
-            {
-                "token": "BEGINNER-BXLS-20251031",
-                "expiry_timestamp": "2025-11-03T17:22:05.531865+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-31T17:22:05.531865+00:00",
-        "current_token": "BEGINNER-BXLS-20251031",
-        "token_expiry_timestamp": "2025-11-03T17:22:05.531865+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T17:22:05.531865+00:00"
     },
     "1233116096324833291": {
         "tokens": [
