@@ -645,17 +645,7 @@
         "last_claim_timestamp": "2025-09-23T17:26:40.709494+00:00"
     },
     "707549941199011841": {
-        "last_claim_timestamp": "2025-10-31T17:37:37.500842+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-BGDP-20251031",
-                "expiry_timestamp": "2025-11-03T17:37:37.500842+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-BGDP-20251031",
-        "token_expiry_timestamp": "2025-11-03T17:37:37.500842+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T17:37:37.500842+00:00"
     },
     "1391149048651583508": {
         "last_claim_timestamp": "2025-09-23T22:33:48.747507+00:00"
@@ -1549,17 +1539,7 @@
         "last_claim_timestamp": "2025-10-07T09:01:55.419885+00:00"
     },
     "723461632600309882": {
-        "last_claim_timestamp": "2025-10-29T17:52:33.112877+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-2H2G-20251029",
-                "expiry_timestamp": "2025-11-03T17:52:33.112877+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-2H2G-20251029",
-        "token_expiry_timestamp": "2025-11-03T17:52:33.112877+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T17:52:33.112877+00:00"
     },
     "1232651788683837482": {
         "last_claim_timestamp": "2025-10-07T09:25:29.367498+00:00"
