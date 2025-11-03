@@ -4151,5 +4151,18 @@
         "current_token": "SUBSCRIBER-NYQH-20251103",
         "token_expiry_timestamp": "2025-11-08T03:48:10.287884+00:00",
         "source_alias": "bassic"
+    },
+    "691316107780292690": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Q0BO-20251103",
+                "expiry_timestamp": "2025-11-06T03:59:21.913963+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-03T03:59:21.913963+00:00",
+        "current_token": "BEGINNER-Q0BO-20251103",
+        "token_expiry_timestamp": "2025-11-06T03:59:21.913963+00:00",
+        "source_alias": "bassic"
     }
 }
