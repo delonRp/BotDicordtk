@@ -2258,17 +2258,7 @@
         "last_claim_timestamp": "2025-10-15T06:38:08.832722+00:00"
     },
     "1262345061748703272": {
-        "last_claim_timestamp": "2025-10-31T13:50:56.540656+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-K3MP-20251031",
-                "expiry_timestamp": "2025-11-03T13:50:56.540656+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-K3MP-20251031",
-        "token_expiry_timestamp": "2025-11-03T13:50:56.540656+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T13:50:56.540656+00:00"
     },
     "1098653812413186120": {
         "last_claim_timestamp": "2025-10-15T08:56:14.992816+00:00"
@@ -3258,30 +3248,10 @@
         "last_claim_timestamp": "2025-10-29T12:02:00.117273+00:00"
     },
     "1340587488506413067": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-KLF4-20251029",
-                "expiry_timestamp": "2025-11-03T13:38:27.865487+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T13:38:27.865487+00:00",
-        "current_token": "SUBSCRIBER-KLF4-20251029",
-        "token_expiry_timestamp": "2025-11-03T13:38:27.865487+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T13:38:27.865487+00:00"
     },
     "1321041908499353663": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QSEK-20251029",
-                "expiry_timestamp": "2025-11-03T13:45:19.772266+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T13:45:19.772266+00:00",
-        "current_token": "SUBSCRIBER-QSEK-20251029",
-        "token_expiry_timestamp": "2025-11-03T13:45:19.772266+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-29T13:45:19.772266+00:00"
     },
     "1432815051378786464": {
         "last_claim_timestamp": "2025-10-29T14:14:07.207439+00:00"
@@ -3534,17 +3504,7 @@
         "source_alias": "bassic"
     },
     "1429107261841604784": {
-        "tokens": [
-            {
-                "token": "BEGINNER-F4JR-20251031",
-                "expiry_timestamp": "2025-11-03T14:29:18.052158+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-31T14:29:18.052158+00:00",
-        "current_token": "BEGINNER-F4JR-20251031",
-        "token_expiry_timestamp": "2025-11-03T14:29:18.052158+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T14:29:18.052158+00:00"
     },
     "1423937074456694827": {
         "tokens": [
