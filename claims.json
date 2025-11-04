@@ -1937,7 +1937,17 @@
         "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00"
     },
     "1162919228265988198": {
-        "last_claim_timestamp": "2025-10-12T01:28:13.742648+00:00"
+        "last_claim_timestamp": "2025-11-04T03:59:04.579099+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-GNVF-20251104",
+                "expiry_timestamp": "2025-11-07T03:59:04.579099+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-GNVF-20251104",
+        "token_expiry_timestamp": "2025-11-07T03:59:04.579099+00:00",
+        "source_alias": "bassic"
     },
     "1371619230394613830": {
         "last_claim_timestamp": "2025-10-12T01:28:30.402841+00:00"
