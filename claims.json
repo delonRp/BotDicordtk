@@ -171,17 +171,7 @@
         "last_claim_timestamp": "2025-09-20T10:02:12.113009+00:00"
     },
     "1397372127857999935": {
-        "last_claim_timestamp": "2025-10-30T03:58:46.415285+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-F3ST-20251030",
-                "expiry_timestamp": "2025-11-04T03:58:46.415285+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-F3ST-20251030",
-        "token_expiry_timestamp": "2025-11-04T03:58:46.415285+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-30T03:58:46.415285+00:00"
     },
     "1053962333711519765": {
         "last_claim_timestamp": "2025-09-20T10:12:04.212830+00:00"
@@ -3495,17 +3485,7 @@
         "last_claim_timestamp": "2025-11-01T03:03:54.141846+00:00"
     },
     "1343509627098103860": {
-        "tokens": [
-            {
-                "token": "BEGINNER-JMQJ-20251101",
-                "expiry_timestamp": "2025-11-04T03:41:58.507381+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-01T03:41:58.507381+00:00",
-        "current_token": "BEGINNER-JMQJ-20251101",
-        "token_expiry_timestamp": "2025-11-04T03:41:58.507381+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-01T03:41:58.507381+00:00"
     },
     "852011370836656138": {
         "tokens": [
