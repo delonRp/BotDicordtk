@@ -3242,17 +3242,7 @@
         "last_claim_timestamp": "2025-10-30T20:40:01.215710+00:00"
     },
     "986117670132924488": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-TR80-20251030",
-                "expiry_timestamp": "2025-11-04T21:01:40.583457+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-30T21:01:40.583457+00:00",
-        "current_token": "SUBSCRIBER-TR80-20251030",
-        "token_expiry_timestamp": "2025-11-04T21:01:40.583457+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-30T21:01:40.583457+00:00"
     },
     "1270254356448546888": {
         "last_claim_timestamp": "2025-10-31T03:15:42.316002+00:00"
