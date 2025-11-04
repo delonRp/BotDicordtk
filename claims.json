@@ -4089,5 +4089,18 @@
         "current_token": "BEGINNER-VDSB-20251104",
         "token_expiry_timestamp": "2025-11-07T09:05:23.610229+00:00",
         "source_alias": "bassic"
+    },
+    "1431965638297129093": {
+        "tokens": [
+            {
+                "token": "BEGINNER-1LZ1-20251104",
+                "expiry_timestamp": "2025-11-07T10:22:45.697950+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-04T10:22:45.697950+00:00",
+        "current_token": "BEGINNER-1LZ1-20251104",
+        "token_expiry_timestamp": "2025-11-07T10:22:45.697950+00:00",
+        "source_alias": "bassic"
     }
 }
