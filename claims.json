@@ -3472,17 +3472,7 @@
         "source_alias": "bassic"
     },
     "1319121809072980042": {
-        "tokens": [
-            {
-                "token": "BEGINNER-LUFO-20251101",
-                "expiry_timestamp": "2025-11-04T03:03:54.141846+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-01T03:03:54.141846+00:00",
-        "current_token": "BEGINNER-LUFO-20251101",
-        "token_expiry_timestamp": "2025-11-04T03:03:54.141846+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-01T03:03:54.141846+00:00"
     },
     "1343509627098103860": {
         "tokens": [
