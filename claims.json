@@ -4078,5 +4078,18 @@
         "current_token": "BEGINNER-7HIF-20251105",
         "token_expiry_timestamp": "2025-11-08T03:46:23.467273+00:00",
         "source_alias": "bassic"
+    },
+    "1235886504577073204": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6UUA-20251105",
+                "expiry_timestamp": "2025-11-10T06:59:45.413781+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-05T06:59:45.413781+00:00",
+        "current_token": "SUBSCRIBER-6UUA-20251105",
+        "token_expiry_timestamp": "2025-11-10T06:59:45.413781+00:00",
+        "source_alias": "bassic"
     }
 }
