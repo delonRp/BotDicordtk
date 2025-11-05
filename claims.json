@@ -2836,7 +2836,17 @@
         "source_alias": "bassic"
     },
     "1340811478688862361": {
-        "last_claim_timestamp": "2025-10-24T08:53:19.115662+00:00"
+        "last_claim_timestamp": "2025-11-05T15:02:40.558291+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-ECHP-20251105",
+                "expiry_timestamp": "2025-11-08T15:02:40.558291+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-ECHP-20251105",
+        "token_expiry_timestamp": "2025-11-08T15:02:40.558291+00:00",
+        "source_alias": "bassic"
     },
     "1246000483789705341": {
         "last_claim_timestamp": "2025-10-31T14:59:36.026471+00:00",
