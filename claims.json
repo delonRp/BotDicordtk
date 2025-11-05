@@ -4072,5 +4072,18 @@
         "current_token": "BEGINNER-XPWV-20251105",
         "token_expiry_timestamp": "2025-11-08T02:06:25.109463+00:00",
         "source_alias": "bassic"
+    },
+    "1352667775360958496": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-SGAD-20251105",
+                "expiry_timestamp": "2025-11-10T02:13:22.701906+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-05T02:13:22.701906+00:00",
+        "current_token": "SUBSCRIBER-SGAD-20251105",
+        "token_expiry_timestamp": "2025-11-10T02:13:22.701906+00:00",
+        "source_alias": "bassic"
     }
 }
