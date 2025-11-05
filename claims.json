@@ -2704,17 +2704,7 @@
         "last_claim_timestamp": "2025-10-21T11:06:39.737180+00:00"
     },
     "1406149343014293586": {
-        "last_claim_timestamp": "2025-10-31T10:00:20.941325+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ZVQY-20251031",
-                "expiry_timestamp": "2025-11-05T10:00:20.941325+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-ZVQY-20251031",
-        "token_expiry_timestamp": "2025-11-05T10:00:20.941325+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T10:00:20.941325+00:00"
     },
     "1388537244314374356": {
         "last_claim_timestamp": "2025-10-21T11:32:03.973822+00:00"
@@ -3250,17 +3240,7 @@
         "last_claim_timestamp": "2025-10-31T10:07:12.048863+00:00"
     },
     "1139907386287595560": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-VFZ8-20251031",
-                "expiry_timestamp": "2025-11-05T10:15:59.113991+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-31T10:15:59.113991+00:00",
-        "current_token": "SUBSCRIBER-VFZ8-20251031",
-        "token_expiry_timestamp": "2025-11-05T10:15:59.113991+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T10:15:59.113991+00:00"
     },
     "403355036920578048": {
         "tokens": [
@@ -3478,30 +3458,10 @@
         "last_claim_timestamp": "2025-11-02T07:17:36.072928+00:00"
     },
     "1247089450685562901": {
-        "tokens": [
-            {
-                "token": "BEGINNER-HWNZ-20251102",
-                "expiry_timestamp": "2025-11-05T09:58:53.272078+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T09:58:53.272078+00:00",
-        "current_token": "BEGINNER-HWNZ-20251102",
-        "token_expiry_timestamp": "2025-11-05T09:58:53.272078+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-02T09:58:53.272078+00:00"
     },
     "1426819553572163646": {
-        "tokens": [
-            {
-                "token": "BEGINNER-YAHO-20251102",
-                "expiry_timestamp": "2025-11-05T10:00:10.946318+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T10:00:10.946318+00:00",
-        "current_token": "BEGINNER-YAHO-20251102",
-        "token_expiry_timestamp": "2025-11-05T10:00:10.946318+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-02T10:00:10.946318+00:00"
     },
     "917169359753982014": {
         "tokens": [
