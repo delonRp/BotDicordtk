@@ -4025,5 +4025,18 @@
         "current_token": "SUBSCRIBER-7V3Q-20251105",
         "token_expiry_timestamp": "2025-11-10T15:48:06.171371+00:00",
         "source_alias": "bassic"
+    },
+    "1363377572649373798": {
+        "tokens": [
+            {
+                "token": "BEGINNER-EDKL-20251105",
+                "expiry_timestamp": "2025-11-08T16:34:30.473882+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-05T16:34:30.473882+00:00",
+        "current_token": "BEGINNER-EDKL-20251105",
+        "token_expiry_timestamp": "2025-11-08T16:34:30.473882+00:00",
+        "source_alias": "bassic"
     }
 }
