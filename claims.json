@@ -4085,5 +4085,18 @@
         "current_token": "SUBSCRIBER-SGAD-20251105",
         "token_expiry_timestamp": "2025-11-10T02:13:22.701906+00:00",
         "source_alias": "bassic"
+    },
+    "1421496906290565183": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7HIF-20251105",
+                "expiry_timestamp": "2025-11-08T03:46:23.467273+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-05T03:46:23.467273+00:00",
+        "current_token": "BEGINNER-7HIF-20251105",
+        "token_expiry_timestamp": "2025-11-08T03:46:23.467273+00:00",
+        "source_alias": "bassic"
     }
 }
