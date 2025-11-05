@@ -4091,5 +4091,18 @@
         "current_token": "SUBSCRIBER-6UUA-20251105",
         "token_expiry_timestamp": "2025-11-10T06:59:45.413781+00:00",
         "source_alias": "bassic"
+    },
+    "1347801934844657764": {
+        "tokens": [
+            {
+                "token": "BEGINNER-89OE-20251105",
+                "expiry_timestamp": "2025-11-08T07:12:04.757872+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-05T07:12:04.757872+00:00",
+        "current_token": "BEGINNER-89OE-20251105",
+        "token_expiry_timestamp": "2025-11-08T07:12:04.757872+00:00",
+        "source_alias": "bassic"
     }
 }
