@@ -3473,17 +3473,7 @@
         "source_alias": "bassic"
     },
     "1315514969818796095": {
-        "tokens": [
-            {
-                "token": "BEGINNER-WNTW-20251102",
-                "expiry_timestamp": "2025-11-05T01:12:41.767821+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T01:12:41.767821+00:00",
-        "current_token": "BEGINNER-WNTW-20251102",
-        "token_expiry_timestamp": "2025-11-05T01:12:41.767821+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-02T01:12:41.767821+00:00"
     },
     "1433956614892818445": {
         "tokens": [
