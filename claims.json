@@ -3280,17 +3280,7 @@
         "last_claim_timestamp": "2025-10-31T14:29:18.052158+00:00"
     },
     "1423937074456694827": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-MLHK-20251031",
-                "expiry_timestamp": "2025-11-05T15:14:29.737316+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-10-31T15:14:29.737316+00:00",
-        "current_token": "SUBSCRIBER-MLHK-20251031",
-        "token_expiry_timestamp": "2025-11-05T15:14:29.737316+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-10-31T15:14:29.737316+00:00"
     },
     "1360782369036042280": {
         "last_claim_timestamp": "2025-10-31T17:22:05.531865+00:00"
