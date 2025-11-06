@@ -3995,5 +3995,18 @@
         "current_token": "SUBSCRIBER-8UUP-20251106",
         "token_expiry_timestamp": "2025-11-11T04:05:45.593714+00:00",
         "source_alias": "bassic"
+    },
+    "1032688205436297238": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VRQT-20251106",
+                "expiry_timestamp": "2025-11-09T05:01:58.561692+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-06T05:01:58.561692+00:00",
+        "current_token": "BEGINNER-VRQT-20251106",
+        "token_expiry_timestamp": "2025-11-09T05:01:58.561692+00:00",
+        "source_alias": "bassic"
     }
 }
