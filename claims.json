@@ -1402,17 +1402,7 @@
         "last_claim_timestamp": "2025-10-06T04:17:59.663029+00:00"
     },
     "1159619407312584787": {
-        "last_claim_timestamp": "2025-11-01T17:14:03.481130+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-MBNK-20251101",
-                "expiry_timestamp": "2025-11-06T17:14:03.481130+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-MBNK-20251101",
-        "token_expiry_timestamp": "2025-11-06T17:14:03.481130+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-01T17:14:03.481130+00:00"
     },
     "1294532930118483978": {
         "last_claim_timestamp": "2025-10-06T09:00:28.139651+00:00"
