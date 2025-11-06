@@ -3132,7 +3132,17 @@
         "assigned_by_admin": 782445287855489076
     },
     "1187894583850434655": {
-        "last_claim_timestamp": "2025-10-29T07:24:30.187337+00:00"
+        "last_claim_timestamp": "2025-11-06T08:29:48.445000+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-PTXH-20251106",
+                "expiry_timestamp": "2025-11-11T08:29:48.445000+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-PTXH-20251106",
+        "token_expiry_timestamp": "2025-11-11T08:29:48.445000+00:00",
+        "source_alias": "bassic"
     },
     "1412692444084047883": {
         "last_claim_timestamp": "2025-10-29T07:29:00.289035+00:00"
