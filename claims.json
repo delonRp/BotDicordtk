@@ -4008,5 +4008,18 @@
         "current_token": "BEGINNER-VRQT-20251106",
         "token_expiry_timestamp": "2025-11-09T05:01:58.561692+00:00",
         "source_alias": "bassic"
+    },
+    "1422948478622892073": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-W81I-20251106",
+                "expiry_timestamp": "2025-11-11T06:23:09.268007+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-06T06:23:09.268007+00:00",
+        "current_token": "SUBSCRIBER-W81I-20251106",
+        "token_expiry_timestamp": "2025-11-11T06:23:09.268007+00:00",
+        "source_alias": "bassic"
     }
 }
