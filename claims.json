@@ -4044,5 +4044,18 @@
         "current_token": "BEGINNER-312E-20251106",
         "token_expiry_timestamp": "2025-11-09T10:16:32.421585+00:00",
         "source_alias": "bassic"
+    },
+    "1359007410500407468": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-Q665-20251106",
+                "expiry_timestamp": "2025-11-11T10:33:12.944058+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-06T10:33:12.944058+00:00",
+        "current_token": "SUBSCRIBER-Q665-20251106",
+        "token_expiry_timestamp": "2025-11-11T10:33:12.944058+00:00",
+        "source_alias": "bassic"
     }
 }
