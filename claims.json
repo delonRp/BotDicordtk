@@ -1805,7 +1805,17 @@
         "last_claim_timestamp": "2025-10-19T06:52:26.356783+00:00"
     },
     "1370784487323209876": {
-        "last_claim_timestamp": "2025-10-26T06:51:02.549677+00:00"
+        "last_claim_timestamp": "2025-11-06T13:57:20.849639+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HCAD-20251106",
+                "expiry_timestamp": "2025-11-11T13:57:20.849639+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-HCAD-20251106",
+        "token_expiry_timestamp": "2025-11-11T13:57:20.849639+00:00",
+        "source_alias": "bassic"
     },
     "1304355195215675483": {
         "last_claim_timestamp": "2025-10-11T14:17:26.508089+00:00"
