@@ -4083,5 +4083,18 @@
         "current_token": "SUBSCRIBER-KW7K-20251106",
         "token_expiry_timestamp": "2025-11-11T11:47:35.867598+00:00",
         "source_alias": "bassic"
+    },
+    "1255109561006686302": {
+        "tokens": [
+            {
+                "token": "BEGINNER-XERZ-20251106",
+                "expiry_timestamp": "2025-11-09T15:15:17.646174+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-06T15:15:17.646174+00:00",
+        "current_token": "BEGINNER-XERZ-20251106",
+        "token_expiry_timestamp": "2025-11-09T15:15:17.646174+00:00",
+        "source_alias": "bassic"
     }
 }
