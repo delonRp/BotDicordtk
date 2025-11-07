@@ -4035,5 +4035,18 @@
         "current_token": "SUBSCRIBER-G5CX-20251107",
         "token_expiry_timestamp": "2025-11-12T12:07:46.616291+00:00",
         "source_alias": "bassic"
+    },
+    "1258703399290142823": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-WGAR-20251107",
+                "expiry_timestamp": "2025-11-12T14:36:48.504486+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-07T14:36:48.504486+00:00",
+        "current_token": "SUBSCRIBER-WGAR-20251107",
+        "token_expiry_timestamp": "2025-11-12T14:36:48.504486+00:00",
+        "source_alias": "bassic"
     }
 }
