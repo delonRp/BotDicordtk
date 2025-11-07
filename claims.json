@@ -4048,5 +4048,18 @@
         "current_token": "SUBSCRIBER-WGAR-20251107",
         "token_expiry_timestamp": "2025-11-12T14:36:48.504486+00:00",
         "source_alias": "bassic"
+    },
+    "1424182037283213383": {
+        "tokens": [
+            {
+                "token": "BEGINNER-EB46-20251107",
+                "expiry_timestamp": "2025-11-10T14:42:20.871245+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-07T14:42:20.871245+00:00",
+        "current_token": "BEGINNER-EB46-20251107",
+        "token_expiry_timestamp": "2025-11-10T14:42:20.871245+00:00",
+        "source_alias": "bassic"
     }
 }
