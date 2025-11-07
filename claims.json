@@ -4058,5 +4058,18 @@
         "current_token": "BEGINNER-61J8-20251107",
         "token_expiry_timestamp": "2025-11-10T02:22:52.552743+00:00",
         "source_alias": "bassic"
+    },
+    "1372428387028566016": {
+        "tokens": [
+            {
+                "token": "BEGINNER-AFSA-20251107",
+                "expiry_timestamp": "2025-11-10T07:46:45.962720+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-07T07:46:45.962720+00:00",
+        "current_token": "BEGINNER-AFSA-20251107",
+        "token_expiry_timestamp": "2025-11-10T07:46:45.962720+00:00",
+        "source_alias": "bassic"
     }
 }
