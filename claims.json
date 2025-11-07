@@ -4074,5 +4074,18 @@
         "current_token": "SUBSCRIBER-ZEFT-20251107",
         "token_expiry_timestamp": "2025-11-12T14:48:18.738093+00:00",
         "source_alias": "bassic"
+    },
+    "1262407868032880680": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-57IG-20251107",
+                "expiry_timestamp": "2025-11-12T14:52:41.738623+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-07T14:52:41.738623+00:00",
+        "current_token": "SUBSCRIBER-57IG-20251107",
+        "token_expiry_timestamp": "2025-11-12T14:52:41.738623+00:00",
+        "source_alias": "bassic"
     }
 }
