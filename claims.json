@@ -1345,17 +1345,7 @@
         "last_claim_timestamp": "2025-10-05T04:56:58.237810+00:00"
     },
     "1111882994072944711": {
-        "last_claim_timestamp": "2025-11-04T01:05:17.871724+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-81QM-20251104",
-                "expiry_timestamp": "2025-11-07T01:05:17.871724+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-81QM-20251104",
-        "token_expiry_timestamp": "2025-11-07T01:05:17.871724+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-04T01:05:17.871724+00:00"
     },
     "1361582039219966032": {
         "last_claim_timestamp": "2025-10-05T06:07:53.177970+00:00"
@@ -3382,30 +3372,10 @@
         "last_claim_timestamp": "2025-11-01T23:34:10.796954+00:00"
     },
     "817659184535437344": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-5IDA-20251102",
-                "expiry_timestamp": "2025-11-07T00:08:58.163742+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T00:08:58.163742+00:00",
-        "current_token": "SUBSCRIBER-5IDA-20251102",
-        "token_expiry_timestamp": "2025-11-07T00:08:58.163742+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-02T00:08:58.163742+00:00"
     },
     "1125441080993792000": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-06KN-20251102",
-                "expiry_timestamp": "2025-11-07T00:29:54.124451+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T00:29:54.124451+00:00",
-        "current_token": "SUBSCRIBER-06KN-20251102",
-        "token_expiry_timestamp": "2025-11-07T00:29:54.124451+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-02T00:29:54.124451+00:00"
     },
     "1315514969818796095": {
         "last_claim_timestamp": "2025-11-02T01:12:41.767821+00:00"
