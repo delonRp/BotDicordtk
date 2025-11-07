@@ -736,7 +736,19 @@
         "last_claim_timestamp": "2025-09-25T10:49:09.356625+00:00"
     },
     "1403738197795799112": {
-        "last_claim_timestamp": "2025-10-03T07:50:08.033116+00:00"
+        "last_claim_timestamp": "2025-10-03T07:50:08.033116+00:00",
+        "tokens": [
+            {
+                "token": "pangeran",
+                "expiry_timestamp": "2026-01-06T09:41:53.988008+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "pangeran",
+        "token_expiry_timestamp": "2026-01-06T09:41:53.988008+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1049017375896391821": {
         "last_claim_timestamp": "2025-10-11T15:03:35.660911+00:00"
