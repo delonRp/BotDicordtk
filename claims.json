@@ -4093,5 +4093,18 @@
         "current_token": "BEGINNER-WUUC-20251107",
         "token_expiry_timestamp": "2025-11-10T21:25:45.779103+00:00",
         "source_alias": "bassic"
+    },
+    "1390621949440557078": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-DWG9-20251107",
+                "expiry_timestamp": "2025-11-12T22:56:37.891810+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-07T22:56:37.891810+00:00",
+        "current_token": "SUBSCRIBER-DWG9-20251107",
+        "token_expiry_timestamp": "2025-11-12T22:56:37.891810+00:00",
+        "source_alias": "bassic"
     }
 }
