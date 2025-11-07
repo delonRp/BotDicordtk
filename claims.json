@@ -1491,13 +1491,6 @@
     "925181989806571601": {
         "last_claim_timestamp": "2025-10-07T22:19:36.361845+00:00"
     },
-    "shared_pangeran": {
-        "last_claim_timestamp": "2025-10-08T03:30:27.742232+00:00",
-        "current_token": "pangeran",
-        "token_expiry_timestamp": "2025-11-07T03:30:27.742232+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1413171724664705044": {
         "last_claim_timestamp": "2025-10-08T06:01:46.346050+00:00"
     },
@@ -1847,17 +1840,7 @@
         "last_claim_timestamp": "2025-10-12T00:28:12.445075+00:00"
     },
     "1162919228265988198": {
-        "last_claim_timestamp": "2025-11-04T03:59:04.579099+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-GNVF-20251104",
-                "expiry_timestamp": "2025-11-07T03:59:04.579099+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-GNVF-20251104",
-        "token_expiry_timestamp": "2025-11-07T03:59:04.579099+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-04T03:59:04.579099+00:00"
     },
     "1371619230394613830": {
         "last_claim_timestamp": "2025-10-12T01:28:30.402841+00:00"
