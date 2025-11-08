@@ -4075,5 +4075,18 @@
         "current_token": "SUBSCRIBER-OF5V-20251108",
         "token_expiry_timestamp": "2025-11-13T09:51:50.037254+00:00",
         "source_alias": "bassic"
+    },
+    "745467359497814261": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-NGG5-20251108",
+                "expiry_timestamp": "2025-11-13T10:21:31.606609+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-08T10:21:31.606609+00:00",
+        "current_token": "SUBSCRIBER-NGG5-20251108",
+        "token_expiry_timestamp": "2025-11-13T10:21:31.606609+00:00",
+        "source_alias": "bassic"
     }
 }
