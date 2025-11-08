@@ -4074,5 +4074,18 @@
         "current_token": "BEGINNER-QGYC-20251108",
         "token_expiry_timestamp": "2025-11-11T13:58:13.243849+00:00",
         "source_alias": "bassic"
+    },
+    "1436014929944772649": {
+        "tokens": [
+            {
+                "token": "BEGINNER-8PXS-20251108",
+                "expiry_timestamp": "2025-11-11T14:49:50.841788+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-08T14:49:50.841788+00:00",
+        "current_token": "BEGINNER-8PXS-20251108",
+        "token_expiry_timestamp": "2025-11-11T14:49:50.841788+00:00",
+        "source_alias": "bassic"
     }
 }
