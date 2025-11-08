@@ -3129,12 +3129,6 @@
         "tokens": [
             {
                 "token": "boost",
-                "expiry_timestamp": "2025-11-08T08:38:19.127234+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "boost",
                 "expiry_timestamp": "2025-11-11T08:38:41.094238+00:00",
                 "source_alias": "bassic",
                 "assigned_by_admin": 782445287855489076
@@ -3508,17 +3502,7 @@
         "last_claim_timestamp": "2025-11-03T08:07:00.768038+00:00"
     },
     "1226908693723877407": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-YG7G-20251103",
-                "expiry_timestamp": "2025-11-08T09:05:54.198711+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-03T09:05:54.198711+00:00",
-        "current_token": "SUBSCRIBER-YG7G-20251103",
-        "token_expiry_timestamp": "2025-11-08T09:05:54.198711+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-03T09:05:54.198711+00:00"
     },
     "1421072928321179698": {
         "tokens": [
