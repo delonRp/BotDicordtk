@@ -1558,13 +1558,6 @@
     "1361592746145480774": {
         "last_claim_timestamp": "2025-10-09T16:07:54.053594+00:00"
     },
-    "shared_arrtampan07": {
-        "last_claim_timestamp": "2025-10-09T17:03:50.943198+00:00",
-        "current_token": "arrtampan07",
-        "token_expiry_timestamp": "2025-11-08T17:03:50.943198+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "1313764010956558366": {
         "last_claim_timestamp": "2025-11-04T15:53:27.239734+00:00",
         "tokens": [
@@ -3610,17 +3603,7 @@
         "source_alias": "bassic"
     },
     "1363377572649373798": {
-        "tokens": [
-            {
-                "token": "BEGINNER-EDKL-20251105",
-                "expiry_timestamp": "2025-11-08T16:34:30.473882+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-05T16:34:30.473882+00:00",
-        "current_token": "BEGINNER-EDKL-20251105",
-        "token_expiry_timestamp": "2025-11-08T16:34:30.473882+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-05T16:34:30.473882+00:00"
     },
     "1405336929565675650": {
         "tokens": [
