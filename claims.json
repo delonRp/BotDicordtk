@@ -4051,5 +4051,18 @@
         "current_token": "SUBSCRIBER-KA34-20251108",
         "token_expiry_timestamp": "2025-11-13T13:09:35.868396+00:00",
         "source_alias": "bassic"
+    },
+    "1175757131199287428": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QGYC-20251108",
+                "expiry_timestamp": "2025-11-11T13:58:13.243849+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-08T13:58:13.243849+00:00",
+        "current_token": "BEGINNER-QGYC-20251108",
+        "token_expiry_timestamp": "2025-11-11T13:58:13.243849+00:00",
+        "source_alias": "bassic"
     }
 }
