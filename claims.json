@@ -3245,7 +3245,17 @@
         "last_claim_timestamp": "2025-10-29T22:44:41.892297+00:00"
     },
     "1119008283160744110": {
-        "last_claim_timestamp": "2025-10-30T00:25:48.327038+00:00"
+        "last_claim_timestamp": "2025-11-08T10:25:18.897335+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-IKFC-20251108",
+                "expiry_timestamp": "2025-11-13T10:25:18.897335+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-IKFC-20251108",
+        "token_expiry_timestamp": "2025-11-13T10:25:18.897335+00:00",
+        "source_alias": "bassic"
     },
     "1224553374553210930": {
         "last_claim_timestamp": "2025-10-30T00:37:41.425604+00:00"
