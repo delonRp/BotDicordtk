@@ -4092,5 +4092,18 @@
         "current_token": "SUBSCRIBER-EMJM-20251108",
         "token_expiry_timestamp": "2025-11-13T02:55:58.946390+00:00",
         "source_alias": "bassic"
+    },
+    "1418459422379872256": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Z6UY-20251108",
+                "expiry_timestamp": "2025-11-11T07:15:16.078577+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-08T07:15:16.078577+00:00",
+        "current_token": "BEGINNER-Z6UY-20251108",
+        "token_expiry_timestamp": "2025-11-11T07:15:16.078577+00:00",
+        "source_alias": "bassic"
     }
 }
