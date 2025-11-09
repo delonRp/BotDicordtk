@@ -4165,5 +4165,18 @@
         "current_token": "BEGINNER-B2LT-20251109",
         "token_expiry_timestamp": "2025-11-12T17:14:05.939126+00:00",
         "source_alias": "bassic"
+    },
+    "1312709089146699810": {
+        "tokens": [
+            {
+                "token": "BEGINNER-X5K7-20251109",
+                "expiry_timestamp": "2025-11-12T19:22:17.287701+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-09T19:22:17.287701+00:00",
+        "current_token": "BEGINNER-X5K7-20251109",
+        "token_expiry_timestamp": "2025-11-12T19:22:17.287701+00:00",
+        "source_alias": "bassic"
     }
 }
