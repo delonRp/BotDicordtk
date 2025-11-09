@@ -4153,5 +4153,18 @@
         "current_token": "BEGINNER-MOOK-20251109",
         "token_expiry_timestamp": "2025-11-12T06:00:20.285442+00:00",
         "source_alias": "bassic"
+    },
+    "1166383851413716994": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-FSBT-20251109",
+                "expiry_timestamp": "2025-11-14T09:39:04.758166+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-09T09:39:04.758166+00:00",
+        "current_token": "SUBSCRIBER-FSBT-20251109",
+        "token_expiry_timestamp": "2025-11-14T09:39:04.758166+00:00",
+        "source_alias": "bassic"
     }
 }
