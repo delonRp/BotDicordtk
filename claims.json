@@ -3488,17 +3488,7 @@
         "last_claim_timestamp": "2025-11-04T05:21:46.474797+00:00"
     },
     "1090324020471288009": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OFIJ-20251104",
-                "expiry_timestamp": "2025-11-09T06:12:05.820984+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-04T06:12:05.820984+00:00",
-        "current_token": "SUBSCRIBER-OFIJ-20251104",
-        "token_expiry_timestamp": "2025-11-09T06:12:05.820984+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-04T06:12:05.820984+00:00"
     },
     "1194868598720704593": {
         "last_claim_timestamp": "2025-11-04T08:00:22.079114+00:00"
