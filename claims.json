@@ -4159,5 +4159,18 @@
         "current_token": "SUBSCRIBER-KY32-20251109",
         "token_expiry_timestamp": "2025-11-14T13:31:40.000712+00:00",
         "source_alias": "bassic"
+    },
+    "1245667710923182080": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-2EAU-20251109",
+                "expiry_timestamp": "2025-11-14T15:19:25.109064+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-09T15:19:25.109064+00:00",
+        "current_token": "SUBSCRIBER-2EAU-20251109",
+        "token_expiry_timestamp": "2025-11-14T15:19:25.109064+00:00",
+        "source_alias": "bassic"
     }
 }
