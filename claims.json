@@ -4177,5 +4177,18 @@
         "current_token": "BEGINNER-KMB8-20251110",
         "token_expiry_timestamp": "2025-11-13T06:38:19.587362+00:00",
         "source_alias": "bassic"
+    },
+    "928862318278877193": {
+        "tokens": [
+            {
+                "token": "BEGINNER-R7AH-20251110",
+                "expiry_timestamp": "2025-11-13T07:33:22.088587+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-10T07:33:22.088587+00:00",
+        "current_token": "BEGINNER-R7AH-20251110",
+        "token_expiry_timestamp": "2025-11-13T07:33:22.088587+00:00",
+        "source_alias": "bassic"
     }
 }
