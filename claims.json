@@ -1737,13 +1737,6 @@
     "1279380674234683418": {
         "last_claim_timestamp": "2025-10-11T07:37:35.229127+00:00"
     },
-    "shared_PUTRA": {
-        "last_claim_timestamp": "2025-10-11T08:08:54.126550+00:00",
-        "current_token": "PUTRA",
-        "token_expiry_timestamp": "2025-11-10T08:08:54.126550+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
     "866841238748528681": {
         "last_claim_timestamp": "2025-10-11T08:17:15.912993+00:00"
     },
