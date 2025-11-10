@@ -4128,5 +4128,18 @@
         "current_token": "BEGINNER-X5K7-20251109",
         "token_expiry_timestamp": "2025-11-12T19:22:17.287701+00:00",
         "source_alias": "bassic"
+    },
+    "1371134741264470058": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KR77-20251110",
+                "expiry_timestamp": "2025-11-15T03:13:56.569214+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-10T03:13:56.569214+00:00",
+        "current_token": "SUBSCRIBER-KR77-20251110",
+        "token_expiry_timestamp": "2025-11-15T03:13:56.569214+00:00",
+        "source_alias": "bassic"
     }
 }
