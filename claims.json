@@ -4186,5 +4186,18 @@
         "current_token": "SUBSCRIBER-TC0Z-20251110",
         "token_expiry_timestamp": "2025-11-15T09:09:01.119546+00:00",
         "source_alias": "bassic"
+    },
+    "1365950979245346928": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ONTD-20251110",
+                "expiry_timestamp": "2025-11-13T10:16:40.216224+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-10T10:16:40.216224+00:00",
+        "current_token": "BEGINNER-ONTD-20251110",
+        "token_expiry_timestamp": "2025-11-13T10:16:40.216224+00:00",
+        "source_alias": "bassic"
     }
 }
