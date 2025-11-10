@@ -4161,5 +4161,18 @@
         "current_token": "SUBSCRIBER-KR77-20251110",
         "token_expiry_timestamp": "2025-11-15T03:13:56.569214+00:00",
         "source_alias": "bassic"
+    },
+    "1182153544137183332": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-4N0N-20251110",
+                "expiry_timestamp": "2025-11-15T04:02:44.711475+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-10T04:02:44.711475+00:00",
+        "current_token": "SUBSCRIBER-4N0N-20251110",
+        "token_expiry_timestamp": "2025-11-15T04:02:44.711475+00:00",
+        "source_alias": "bassic"
     }
 }
