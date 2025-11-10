@@ -2162,17 +2162,7 @@
         "last_claim_timestamp": "2025-10-15T06:34:30.162557+00:00"
     },
     "1371774097339715617": {
-        "last_claim_timestamp": "2025-11-07T04:33:29.284097+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-SKLX-20251107",
-                "expiry_timestamp": "2025-11-10T04:33:29.284097+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-SKLX-20251107",
-        "token_expiry_timestamp": "2025-11-10T04:33:29.284097+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-07T04:33:29.284097+00:00"
     },
     "1262345061748703272": {
         "last_claim_timestamp": "2025-11-09T13:51:11.020662+00:00",
