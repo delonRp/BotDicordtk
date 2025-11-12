@@ -3873,5 +3873,18 @@
         "current_token": "BEGINNER-ONTD-20251110",
         "token_expiry_timestamp": "2025-11-13T10:16:40.216224+00:00",
         "source_alias": "bassic"
+    },
+    "1167511189434150922": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VVD9-20251112",
+                "expiry_timestamp": "2025-11-15T03:37:48.597533+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T03:37:48.597533+00:00",
+        "current_token": "BEGINNER-VVD9-20251112",
+        "token_expiry_timestamp": "2025-11-15T03:37:48.597533+00:00",
+        "source_alias": "bassic"
     }
 }
