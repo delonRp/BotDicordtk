@@ -4030,5 +4030,18 @@
         "current_token": "BEGINNER-BBSC-20251112",
         "token_expiry_timestamp": "2025-11-15T09:45:51.995301+00:00",
         "source_alias": "bassic"
+    },
+    "1433423355951841392": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-RAQH-20251112",
+                "expiry_timestamp": "2025-11-17T11:48:33.368148+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T11:48:33.368148+00:00",
+        "current_token": "SUBSCRIBER-RAQH-20251112",
+        "token_expiry_timestamp": "2025-11-17T11:48:33.368148+00:00",
+        "source_alias": "bassic"
     }
 }
