@@ -3994,5 +3994,18 @@
         "current_token": "BEGINNER-R8NR-20251112",
         "token_expiry_timestamp": "2025-11-15T08:04:36.756714+00:00",
         "source_alias": "bassic"
+    },
+    "1408050111598170194": {
+        "tokens": [
+            {
+                "token": "BEGINNER-HBZ7-20251112",
+                "expiry_timestamp": "2025-11-15T08:30:24.113857+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T08:30:24.113857+00:00",
+        "current_token": "BEGINNER-HBZ7-20251112",
+        "token_expiry_timestamp": "2025-11-15T08:30:24.113857+00:00",
+        "source_alias": "bassic"
     }
 }
