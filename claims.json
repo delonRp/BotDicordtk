@@ -4072,5 +4072,18 @@
         "current_token": "BEGINNER-0QFD-20251112",
         "token_expiry_timestamp": "2025-11-15T13:01:03.061568+00:00",
         "source_alias": "bassic"
+    },
+    "1054438662802247730": {
+        "tokens": [
+            {
+                "token": "BEGINNER-YHML-20251112",
+                "expiry_timestamp": "2025-11-15T13:05:51.059310+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T13:05:51.059310+00:00",
+        "current_token": "BEGINNER-YHML-20251112",
+        "token_expiry_timestamp": "2025-11-15T13:05:51.059310+00:00",
+        "source_alias": "bassic"
     }
 }
