@@ -811,11 +811,17 @@
                 "expiry_timestamp": "2025-11-17T15:45:15.870734+00:00",
                 "source_alias": "bassic",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "mineral",
+                "expiry_timestamp": "2025-11-15T07:46:02.341725+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "free",
-        "token_expiry_timestamp": "2025-11-17T15:45:15.870734+00:00",
-        "source_alias": "bassic",
+        "current_token": "mineral",
+        "token_expiry_timestamp": "2025-11-15T07:46:02.341725+00:00",
+        "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
     },
     "1335901722748518495": {
