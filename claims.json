@@ -2074,20 +2074,6 @@
     "1355444918469918813": {
         "last_claim_timestamp": "2025-10-13T12:29:52.186536+00:00"
     },
-    "shared_vip_udinc": {
-        "last_claim_timestamp": "2025-10-13T14:03:15.965806+00:00",
-        "current_token": "udinc",
-        "token_expiry_timestamp": "2025-11-12T14:03:15.965806+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
-    "shared_bassic_udinc": {
-        "last_claim_timestamp": "2025-10-13T14:03:39.784924+00:00",
-        "current_token": "udinc",
-        "token_expiry_timestamp": "2025-11-12T14:03:39.784924+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
-    },
     "1420655967271649281": {
         "last_claim_timestamp": "2025-10-13T16:24:52.173988+00:00"
     },
