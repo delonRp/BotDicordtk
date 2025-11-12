@@ -4046,5 +4046,18 @@
         "current_token": "BEGINNER-L0LB-20251112",
         "token_expiry_timestamp": "2025-11-15T11:58:53.578795+00:00",
         "source_alias": "bassic"
+    },
+    "1201686705703505942": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-0EO6-20251112",
+                "expiry_timestamp": "2025-11-17T12:56:00.525602+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T12:56:00.525602+00:00",
+        "current_token": "SUBSCRIBER-0EO6-20251112",
+        "token_expiry_timestamp": "2025-11-17T12:56:00.525602+00:00",
+        "source_alias": "bassic"
     }
 }
