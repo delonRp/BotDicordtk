@@ -3696,30 +3696,10 @@
         "source_alias": "bassic"
     },
     "973577422115061830": {
-        "tokens": [
-            {
-                "token": "BEGINNER-RX44-20251109",
-                "expiry_timestamp": "2025-11-12T05:45:37.901824+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-09T05:45:37.901824+00:00",
-        "current_token": "BEGINNER-RX44-20251109",
-        "token_expiry_timestamp": "2025-11-12T05:45:37.901824+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-09T05:45:37.901824+00:00"
     },
     "1262283717913608232": {
-        "tokens": [
-            {
-                "token": "BEGINNER-MOOK-20251109",
-                "expiry_timestamp": "2025-11-12T06:00:20.285442+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-09T06:00:20.285442+00:00",
-        "current_token": "BEGINNER-MOOK-20251109",
-        "token_expiry_timestamp": "2025-11-12T06:00:20.285442+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-09T06:00:20.285442+00:00"
     },
     "1166383851413716994": {
         "tokens": [
