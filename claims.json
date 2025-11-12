@@ -3879,5 +3879,18 @@
         "current_token": "SUBSCRIBER-DKRT-20251112",
         "token_expiry_timestamp": "2025-11-17T07:24:30.538599+00:00",
         "source_alias": "bassic"
+    },
+    "1253336920478715904": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-8J16-20251112",
+                "expiry_timestamp": "2025-11-19T07:24:52.677798+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T07:24:52.677798+00:00",
+        "current_token": "INNERCIRCLE-8J16-20251112",
+        "token_expiry_timestamp": "2025-11-19T07:24:52.677798+00:00",
+        "source_alias": "bassic"
     }
 }
