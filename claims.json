@@ -3229,7 +3229,17 @@
         "last_claim_timestamp": "2025-11-02T00:08:58.163742+00:00"
     },
     "1125441080993792000": {
-        "last_claim_timestamp": "2025-11-02T00:29:54.124451+00:00"
+        "last_claim_timestamp": "2025-11-12T07:49:14.111477+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-FSYB-20251112",
+                "expiry_timestamp": "2025-11-17T07:49:14.111477+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-FSYB-20251112",
+        "token_expiry_timestamp": "2025-11-17T07:49:14.111477+00:00",
+        "source_alias": "bassic"
     },
     "1315514969818796095": {
         "last_claim_timestamp": "2025-11-02T01:12:41.767821+00:00"
