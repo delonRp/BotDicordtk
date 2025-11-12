@@ -4054,5 +4054,18 @@
         "current_token": "SUBSCRIBER-19M1-20251112",
         "token_expiry_timestamp": "2025-11-17T13:45:42.746131+00:00",
         "source_alias": "bassic"
+    },
+    "977718505321422868": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-C14D-20251112",
+                "expiry_timestamp": "2025-11-17T17:23:24.650340+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T17:23:24.650340+00:00",
+        "current_token": "SUBSCRIBER-C14D-20251112",
+        "token_expiry_timestamp": "2025-11-17T17:23:24.650340+00:00",
+        "source_alias": "bassic"
     }
 }
