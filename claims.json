@@ -4085,5 +4085,18 @@
         "current_token": "BEGINNER-YHML-20251112",
         "token_expiry_timestamp": "2025-11-15T13:05:51.059310+00:00",
         "source_alias": "bassic"
+    },
+    "1433456264926724250": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-19M1-20251112",
+                "expiry_timestamp": "2025-11-17T13:45:42.746131+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T13:45:42.746131+00:00",
+        "current_token": "SUBSCRIBER-19M1-20251112",
+        "token_expiry_timestamp": "2025-11-17T13:45:42.746131+00:00",
+        "source_alias": "bassic"
     }
 }
