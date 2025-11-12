@@ -3866,5 +3866,18 @@
         "current_token": "BEGINNER-VVD9-20251112",
         "token_expiry_timestamp": "2025-11-15T03:37:48.597533+00:00",
         "source_alias": "bassic"
+    },
+    "1335168530496094280": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-DKRT-20251112",
+                "expiry_timestamp": "2025-11-17T07:24:30.538599+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-12T07:24:30.538599+00:00",
+        "current_token": "SUBSCRIBER-DKRT-20251112",
+        "token_expiry_timestamp": "2025-11-17T07:24:30.538599+00:00",
+        "source_alias": "bassic"
     }
 }
