@@ -4066,5 +4066,18 @@
         "current_token": "BEGINNER-IL85-20251112",
         "token_expiry_timestamp": "2025-11-15T23:35:38.395815+00:00",
         "source_alias": "bassic"
+    },
+    "1423612937620426862": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QINA-20251113",
+                "expiry_timestamp": "2025-11-16T02:02:15.123824+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T02:02:15.123824+00:00",
+        "current_token": "BEGINNER-QINA-20251113",
+        "token_expiry_timestamp": "2025-11-16T02:02:15.123824+00:00",
+        "source_alias": "bassic"
     }
 }
