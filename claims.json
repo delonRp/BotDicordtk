@@ -3616,17 +3616,7 @@
         "last_claim_timestamp": "2025-11-08T19:04:29.821991+00:00"
     },
     "940092173888659456": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NUBU-20251108",
-                "expiry_timestamp": "2025-11-13T20:02:10.080878+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-08T20:02:10.080878+00:00",
-        "current_token": "SUBSCRIBER-NUBU-20251108",
-        "token_expiry_timestamp": "2025-11-13T20:02:10.080878+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-08T20:02:10.080878+00:00"
     },
     "1434528032982302870": {
         "last_claim_timestamp": "2025-11-09T02:30:55.810650+00:00"
