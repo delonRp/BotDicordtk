@@ -3577,17 +3577,7 @@
         "last_claim_timestamp": "2025-11-07T22:56:37.891810+00:00"
     },
     "1328314763326918751": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-RNOT-20251107",
-                "expiry_timestamp": "2025-11-12T23:57:06.826348+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-07T23:57:06.826348+00:00",
-        "current_token": "SUBSCRIBER-RNOT-20251107",
-        "token_expiry_timestamp": "2025-11-12T23:57:06.826348+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-07T23:57:06.826348+00:00"
     },
     "1431722145532088391": {
         "tokens": [
