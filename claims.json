@@ -132,17 +132,7 @@
         "last_claim_timestamp": "2025-09-20T06:22:29.992801+00:00"
     },
     "1332295045386207243": {
-        "last_claim_timestamp": "2025-11-06T22:53:32.059798+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-MOXZ-20251106",
-                "expiry_timestamp": "2025-11-13T22:53:32.059798+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-MOXZ-20251106",
-        "token_expiry_timestamp": "2025-11-13T22:53:32.059798+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-06T22:53:32.059798+00:00"
     },
     "1389831379159875624": {
         "last_claim_timestamp": "2025-09-20T06:49:12.189899+00:00"
