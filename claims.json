@@ -4097,5 +4097,18 @@
         "current_token": "BEGINNER-4DT3-20251113",
         "token_expiry_timestamp": "2025-11-16T08:27:19.490886+00:00",
         "source_alias": "bassic"
+    },
+    "941655034431680553": {
+        "tokens": [
+            {
+                "token": "BEGINNER-KCBT-20251113",
+                "expiry_timestamp": "2025-11-16T09:27:21.063673+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T09:27:21.063673+00:00",
+        "current_token": "BEGINNER-KCBT-20251113",
+        "token_expiry_timestamp": "2025-11-16T09:27:21.063673+00:00",
+        "source_alias": "bassic"
     }
 }
