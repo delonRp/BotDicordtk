@@ -3230,11 +3230,17 @@
                 "expiry_timestamp": "2299-08-28T05:16:25.836516+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "mada",
+                "expiry_timestamp": "2299-08-28T05:16:56.490419+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "mada",
-        "token_expiry_timestamp": "2299-08-28T05:16:25.836516+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-08-28T05:16:56.490419+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1400066012363096157": {
