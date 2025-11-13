@@ -4081,5 +4081,18 @@
         "current_token": "BEGINNER-OUNZ-20251113",
         "token_expiry_timestamp": "2025-11-16T07:05:44.920026+00:00",
         "source_alias": "bassic"
+    },
+    "1425416046852182019": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-LB8E-20251113",
+                "expiry_timestamp": "2025-11-18T07:17:30.490848+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T07:17:30.490848+00:00",
+        "current_token": "SUBSCRIBER-LB8E-20251113",
+        "token_expiry_timestamp": "2025-11-18T07:17:30.490848+00:00",
+        "source_alias": "bassic"
     }
 }
