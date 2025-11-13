@@ -4113,5 +4113,18 @@
         "current_token": "BEGINNER-NQ00-20251113",
         "token_expiry_timestamp": "2025-11-16T10:00:49.112790+00:00",
         "source_alias": "bassic"
+    },
+    "1418829861958586449": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-NWVX-20251113",
+                "expiry_timestamp": "2025-11-18T10:55:48.065646+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T10:55:48.065646+00:00",
+        "current_token": "SUBSCRIBER-NWVX-20251113",
+        "token_expiry_timestamp": "2025-11-18T10:55:48.065646+00:00",
+        "source_alias": "bassic"
     }
 }
