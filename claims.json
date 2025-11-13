@@ -4065,5 +4065,18 @@
         "current_token": "SUBSCRIBER-7PLJ-20251113",
         "token_expiry_timestamp": "2025-11-18T02:33:25.254118+00:00",
         "source_alias": "bassic"
+    },
+    "1393998705610199250": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-M284-20251113",
+                "expiry_timestamp": "2025-11-18T06:00:19.000203+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T06:00:19.000203+00:00",
+        "current_token": "SUBSCRIBER-M284-20251113",
+        "token_expiry_timestamp": "2025-11-18T06:00:19.000203+00:00",
+        "source_alias": "bassic"
     }
 }
