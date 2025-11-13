@@ -4059,5 +4059,18 @@
         "current_token": "BEGINNER-QINA-20251113",
         "token_expiry_timestamp": "2025-11-16T02:02:15.123824+00:00",
         "source_alias": "bassic"
+    },
+    "1117710058583760917": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-7PLJ-20251113",
+                "expiry_timestamp": "2025-11-18T02:33:25.254118+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-13T02:33:25.254118+00:00",
+        "current_token": "SUBSCRIBER-7PLJ-20251113",
+        "token_expiry_timestamp": "2025-11-18T02:33:25.254118+00:00",
+        "source_alias": "bassic"
     }
 }
