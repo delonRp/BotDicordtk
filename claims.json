@@ -4108,5 +4108,18 @@
         "current_token": "BEGINNER-N7O7-20251114",
         "token_expiry_timestamp": "2025-11-17T09:16:58.346165+00:00",
         "source_alias": "bassic"
+    },
+    "1414867817324351490": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SNM4-20251114",
+                "expiry_timestamp": "2025-11-17T09:50:08.419085+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-14T09:50:08.419085+00:00",
+        "current_token": "BEGINNER-SNM4-20251114",
+        "token_expiry_timestamp": "2025-11-17T09:50:08.419085+00:00",
+        "source_alias": "bassic"
     }
 }
