@@ -4123,5 +4123,18 @@
         "current_token": "BEGINNER-5JCQ-20251114",
         "token_expiry_timestamp": "2025-11-17T14:52:55.080367+00:00",
         "source_alias": "bassic"
+    },
+    "1317131071439114242": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-GTEH-20251114",
+                "expiry_timestamp": "2025-11-19T15:28:45.436784+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-14T15:28:45.436784+00:00",
+        "current_token": "SUBSCRIBER-GTEH-20251114",
+        "token_expiry_timestamp": "2025-11-19T15:28:45.436784+00:00",
+        "source_alias": "bassic"
     }
 }
