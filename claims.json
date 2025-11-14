@@ -4136,5 +4136,18 @@
         "current_token": "SUBSCRIBER-GTEH-20251114",
         "token_expiry_timestamp": "2025-11-19T15:28:45.436784+00:00",
         "source_alias": "bassic"
+    },
+    "1438446620218757120": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KUQY-20251114",
+                "expiry_timestamp": "2025-11-19T17:48:12.191974+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-14T17:48:12.191974+00:00",
+        "current_token": "SUBSCRIBER-KUQY-20251114",
+        "token_expiry_timestamp": "2025-11-19T17:48:12.191974+00:00",
+        "source_alias": "bassic"
     }
 }
