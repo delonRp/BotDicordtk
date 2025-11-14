@@ -4152,5 +4152,18 @@
         "current_token": "BEGINNER-6U2V-20251114",
         "token_expiry_timestamp": "2025-11-17T19:14:54.897322+00:00",
         "source_alias": "bassic"
+    },
+    "1241235135802638386": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QW4N-20251114",
+                "expiry_timestamp": "2025-11-19T23:12:35.513708+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-14T23:12:35.513708+00:00",
+        "current_token": "SUBSCRIBER-QW4N-20251114",
+        "token_expiry_timestamp": "2025-11-19T23:12:35.513708+00:00",
+        "source_alias": "bassic"
     }
 }
