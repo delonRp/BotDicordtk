@@ -2161,20 +2161,6 @@
     "1098653812413186120": {
         "last_claim_timestamp": "2025-10-15T08:56:14.992816+00:00"
     },
-    "shared_vip_gibran": {
-        "last_claim_timestamp": "2025-10-15T09:20:13.864011+00:00",
-        "current_token": "gibran",
-        "token_expiry_timestamp": "2025-11-14T09:20:13.864011+00:00",
-        "source_alias": "vip",
-        "is_shared": true
-    },
-    "shared_bassic_gibran": {
-        "last_claim_timestamp": "2025-10-15T09:20:32.867008+00:00",
-        "current_token": "gibran",
-        "token_expiry_timestamp": "2025-11-14T09:20:32.867008+00:00",
-        "source_alias": "bassic",
-        "is_shared": true
-    },
     "1405879547156758558": {
         "last_claim_timestamp": "2025-10-15T10:05:18.001378+00:00"
     },
@@ -3627,17 +3613,7 @@
         "last_claim_timestamp": "2025-11-09T06:00:20.285442+00:00"
     },
     "1166383851413716994": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-FSBT-20251109",
-                "expiry_timestamp": "2025-11-14T09:39:04.758166+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-09T09:39:04.758166+00:00",
-        "current_token": "SUBSCRIBER-FSBT-20251109",
-        "token_expiry_timestamp": "2025-11-14T09:39:04.758166+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-09T09:39:04.758166+00:00"
     },
     "836451543661412382": {
         "tokens": [
