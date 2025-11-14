@@ -3514,7 +3514,17 @@
         "last_claim_timestamp": "2025-11-06T02:32:38.776425+00:00"
     },
     "1204829132249112589": {
-        "last_claim_timestamp": "2025-11-06T03:54:26.853580+00:00"
+        "last_claim_timestamp": "2025-11-14T03:11:10.327252+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-UTOT-20251114",
+                "expiry_timestamp": "2025-11-19T03:11:10.327252+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-UTOT-20251114",
+        "token_expiry_timestamp": "2025-11-19T03:11:10.327252+00:00",
+        "source_alias": "bassic"
     },
     "1383703925630439476": {
         "last_claim_timestamp": "2025-11-06T04:05:45.593714+00:00"
