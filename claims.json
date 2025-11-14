@@ -4102,5 +4102,18 @@
         "current_token": "SUBSCRIBER-ZXSK-20251114",
         "token_expiry_timestamp": "2025-11-19T08:03:28.080305+00:00",
         "source_alias": "bassic"
+    },
+    "1433425188564762627": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-3V3R-20251114",
+                "expiry_timestamp": "2025-11-19T08:22:12.858895+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-14T08:22:12.858895+00:00",
+        "current_token": "SUBSCRIBER-3V3R-20251114",
+        "token_expiry_timestamp": "2025-11-19T08:22:12.858895+00:00",
+        "source_alias": "bassic"
     }
 }
