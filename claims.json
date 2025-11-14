@@ -3622,17 +3622,7 @@
         "last_claim_timestamp": "2025-11-09T02:30:55.810650+00:00"
     },
     "1302428677761667105": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-DAKZ-20251109",
-                "expiry_timestamp": "2025-11-14T02:47:18.335950+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-09T02:47:18.335950+00:00",
-        "current_token": "SUBSCRIBER-DAKZ-20251109",
-        "token_expiry_timestamp": "2025-11-14T02:47:18.335950+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-09T02:47:18.335950+00:00"
     },
     "789834127067185163": {
         "last_claim_timestamp": "2025-11-09T03:07:21.819007+00:00"
