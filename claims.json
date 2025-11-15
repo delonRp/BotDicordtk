@@ -4266,5 +4266,18 @@
         "current_token": "BEGINNER-QGNG-20251115",
         "token_expiry_timestamp": "2025-11-18T14:50:18.394219+00:00",
         "source_alias": "bassic"
+    },
+    "1351564412183515207": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OFXB-20251115",
+                "expiry_timestamp": "2025-11-18T16:27:28.417026+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T16:27:28.417026+00:00",
+        "current_token": "BEGINNER-OFXB-20251115",
+        "token_expiry_timestamp": "2025-11-18T16:27:28.417026+00:00",
+        "source_alias": "bassic"
     }
 }
