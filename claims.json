@@ -4237,5 +4237,18 @@
         "current_token": "BEGINNER-X73J-20251115",
         "token_expiry_timestamp": "2025-11-18T13:26:18.093965+00:00",
         "source_alias": "bassic"
+    },
+    "1268966693749657748": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QEVL-20251115",
+                "expiry_timestamp": "2025-11-18T13:46:49.803302+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T13:46:49.803302+00:00",
+        "current_token": "BEGINNER-QEVL-20251115",
+        "token_expiry_timestamp": "2025-11-18T13:46:49.803302+00:00",
+        "source_alias": "bassic"
     }
 }
