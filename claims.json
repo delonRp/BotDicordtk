@@ -4279,5 +4279,18 @@
         "current_token": "BEGINNER-OFXB-20251115",
         "token_expiry_timestamp": "2025-11-18T16:27:28.417026+00:00",
         "source_alias": "bassic"
+    },
+    "1022782819736485908": {
+        "tokens": [
+            {
+                "token": "BEGINNER-553T-20251115",
+                "expiry_timestamp": "2025-11-18T20:01:30.612639+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T20:01:30.612639+00:00",
+        "current_token": "BEGINNER-553T-20251115",
+        "token_expiry_timestamp": "2025-11-18T20:01:30.612639+00:00",
+        "source_alias": "bassic"
     }
 }
