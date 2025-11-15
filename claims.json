@@ -4250,5 +4250,18 @@
         "current_token": "BEGINNER-QEVL-20251115",
         "token_expiry_timestamp": "2025-11-18T13:46:49.803302+00:00",
         "source_alias": "bassic"
+    },
+    "1422493833282981900": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RDOM-20251115",
+                "expiry_timestamp": "2025-11-18T13:57:28.410903+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T13:57:28.410903+00:00",
+        "current_token": "BEGINNER-RDOM-20251115",
+        "token_expiry_timestamp": "2025-11-18T13:57:28.410903+00:00",
+        "source_alias": "bassic"
     }
 }
