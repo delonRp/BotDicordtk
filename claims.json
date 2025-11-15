@@ -4224,5 +4224,18 @@
         "current_token": "BEGINNER-UXA2-20251115",
         "token_expiry_timestamp": "2025-11-18T10:41:21.214952+00:00",
         "source_alias": "bassic"
+    },
+    "1093054758673186936": {
+        "tokens": [
+            {
+                "token": "BEGINNER-X73J-20251115",
+                "expiry_timestamp": "2025-11-18T13:26:18.093965+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T13:26:18.093965+00:00",
+        "current_token": "BEGINNER-X73J-20251115",
+        "token_expiry_timestamp": "2025-11-18T13:26:18.093965+00:00",
+        "source_alias": "bassic"
     }
 }
