@@ -4253,5 +4253,18 @@
         "current_token": "BEGINNER-RDOM-20251115",
         "token_expiry_timestamp": "2025-11-18T13:57:28.410903+00:00",
         "source_alias": "bassic"
+    },
+    "1434787743371755602": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QGNG-20251115",
+                "expiry_timestamp": "2025-11-18T14:50:18.394219+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T14:50:18.394219+00:00",
+        "current_token": "BEGINNER-QGNG-20251115",
+        "token_expiry_timestamp": "2025-11-18T14:50:18.394219+00:00",
+        "source_alias": "bassic"
     }
 }
