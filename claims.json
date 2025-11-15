@@ -4246,5 +4246,18 @@
         "current_token": "SUBSCRIBER-AQFK-20251115",
         "token_expiry_timestamp": "2025-11-20T04:35:44.421329+00:00",
         "source_alias": "bassic"
+    },
+    "1046423823265845248": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-Q7T4-20251115",
+                "expiry_timestamp": "2025-11-20T05:57:32.903378+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T05:57:32.903378+00:00",
+        "current_token": "SUBSCRIBER-Q7T4-20251115",
+        "token_expiry_timestamp": "2025-11-20T05:57:32.903378+00:00",
+        "source_alias": "bassic"
     }
 }
