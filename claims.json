@@ -4204,5 +4204,18 @@
         "current_token": "BEGINNER-ZNO2-20251115",
         "token_expiry_timestamp": "2025-11-18T03:07:41.029835+00:00",
         "source_alias": "bassic"
+    },
+    "1438419789646139506": {
+        "tokens": [
+            {
+                "token": "BEGINNER-DKP7-20251115",
+                "expiry_timestamp": "2025-11-18T03:24:57.379554+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-15T03:24:57.379554+00:00",
+        "current_token": "BEGINNER-DKP7-20251115",
+        "token_expiry_timestamp": "2025-11-18T03:24:57.379554+00:00",
+        "source_alias": "bassic"
     }
 }
