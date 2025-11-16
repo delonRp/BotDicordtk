@@ -4412,5 +4412,18 @@
         "current_token": "SUBSCRIBER-PB82-20251116",
         "token_expiry_timestamp": "2025-11-21T19:04:56.424795+00:00",
         "source_alias": "bassic"
+    },
+    "569524663114399746": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HFIM-20251116",
+                "expiry_timestamp": "2025-11-21T21:57:39.407494+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-16T21:57:39.407494+00:00",
+        "current_token": "SUBSCRIBER-HFIM-20251116",
+        "token_expiry_timestamp": "2025-11-21T21:57:39.407494+00:00",
+        "source_alias": "bassic"
     }
 }
