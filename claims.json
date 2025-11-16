@@ -4425,5 +4425,18 @@
         "current_token": "SUBSCRIBER-HFIM-20251116",
         "token_expiry_timestamp": "2025-11-21T21:57:39.407494+00:00",
         "source_alias": "bassic"
+    },
+    "1235057585560883284": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-DGE6-20251116",
+                "expiry_timestamp": "2025-11-21T22:49:27.350883+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-16T22:49:27.350883+00:00",
+        "current_token": "SUBSCRIBER-DGE6-20251116",
+        "token_expiry_timestamp": "2025-11-21T22:49:27.350883+00:00",
+        "source_alias": "bassic"
     }
 }
