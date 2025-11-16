@@ -4354,5 +4354,18 @@
         "current_token": "SUBSCRIBER-EMMS-20251116",
         "token_expiry_timestamp": "2025-11-21T05:31:53.669139+00:00",
         "source_alias": "bassic"
+    },
+    "1161613494840463390": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6VKC-20251116",
+                "expiry_timestamp": "2025-11-21T06:49:04.330611+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-16T06:49:04.330611+00:00",
+        "current_token": "SUBSCRIBER-6VKC-20251116",
+        "token_expiry_timestamp": "2025-11-21T06:49:04.330611+00:00",
+        "source_alias": "bassic"
     }
 }
