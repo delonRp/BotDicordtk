@@ -4386,5 +4386,18 @@
         "current_token": "BEGINNER-ERUS-20251116",
         "token_expiry_timestamp": "2025-11-19T17:16:07.272548+00:00",
         "source_alias": "bassic"
+    },
+    "1344116154729234462": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ABD3-20251116",
+                "expiry_timestamp": "2025-11-21T17:16:45.002884+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-16T17:16:45.002884+00:00",
+        "current_token": "SUBSCRIBER-ABD3-20251116",
+        "token_expiry_timestamp": "2025-11-21T17:16:45.002884+00:00",
+        "source_alias": "bassic"
     }
 }
