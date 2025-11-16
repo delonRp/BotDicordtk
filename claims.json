@@ -3836,17 +3836,7 @@
         "source_alias": "bassic"
     },
     "1375359028221182023": {
-        "tokens": [
-            {
-                "token": "BEGINNER-OUNZ-20251113",
-                "expiry_timestamp": "2025-11-16T07:05:44.920026+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-13T07:05:44.920026+00:00",
-        "current_token": "BEGINNER-OUNZ-20251113",
-        "token_expiry_timestamp": "2025-11-16T07:05:44.920026+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-13T07:05:44.920026+00:00"
     },
     "1425416046852182019": {
         "tokens": [
