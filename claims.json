@@ -578,17 +578,7 @@
         "last_claim_timestamp": "2025-09-30T08:19:23.741949+00:00"
     },
     "1270026888064143468": {
-        "last_claim_timestamp": "2025-11-09T01:27:42.998642+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-8PI8-20251109",
-                "expiry_timestamp": "2025-11-16T01:27:42.998642+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-8PI8-20251109",
-        "token_expiry_timestamp": "2025-11-16T01:27:42.998642+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-09T01:27:42.998642+00:00"
     },
     "1392181114050969722": {
         "last_claim_timestamp": "2025-09-23T07:53:27.692243+00:00"
@@ -3807,17 +3797,7 @@
         "last_claim_timestamp": "2025-11-12T23:35:38.395815+00:00"
     },
     "1423612937620426862": {
-        "tokens": [
-            {
-                "token": "BEGINNER-QINA-20251113",
-                "expiry_timestamp": "2025-11-16T02:02:15.123824+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-13T02:02:15.123824+00:00",
-        "current_token": "BEGINNER-QINA-20251113",
-        "token_expiry_timestamp": "2025-11-16T02:02:15.123824+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-13T02:02:15.123824+00:00"
     },
     "1117710058583760917": {
         "tokens": [
