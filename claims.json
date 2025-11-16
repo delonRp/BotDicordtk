@@ -4341,5 +4341,18 @@
         "current_token": "BEGINNER-Z4E2-20251116",
         "token_expiry_timestamp": "2025-11-19T04:34:43.108591+00:00",
         "source_alias": "bassic"
+    },
+    "1144957839706701894": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EMMS-20251116",
+                "expiry_timestamp": "2025-11-21T05:31:53.669139+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-16T05:31:53.669139+00:00",
+        "current_token": "SUBSCRIBER-EMMS-20251116",
+        "token_expiry_timestamp": "2025-11-21T05:31:53.669139+00:00",
+        "source_alias": "bassic"
     }
 }
