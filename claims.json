@@ -4379,5 +4379,18 @@
         "current_token": "SUBSCRIBER-DGE6-20251116",
         "token_expiry_timestamp": "2025-11-21T22:49:27.350883+00:00",
         "source_alias": "bassic"
+    },
+    "1038615787302297600": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-CS9C-20251117",
+                "expiry_timestamp": "2025-11-22T08:04:58.321163+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-17T08:04:58.321163+00:00",
+        "current_token": "SUBSCRIBER-CS9C-20251117",
+        "token_expiry_timestamp": "2025-11-22T08:04:58.321163+00:00",
+        "source_alias": "bassic"
     }
 }
