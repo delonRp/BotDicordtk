@@ -4362,5 +4362,18 @@
         "current_token": "SUBSCRIBER-CS9C-20251117",
         "token_expiry_timestamp": "2025-11-22T08:04:58.321163+00:00",
         "source_alias": "bassic"
+    },
+    "1393101876798689420": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-PV50-20251117",
+                "expiry_timestamp": "2025-11-22T09:41:37.990185+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-17T09:41:37.990185+00:00",
+        "current_token": "SUBSCRIBER-PV50-20251117",
+        "token_expiry_timestamp": "2025-11-22T09:41:37.990185+00:00",
+        "source_alias": "bassic"
     }
 }
