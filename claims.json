@@ -3822,17 +3822,7 @@
         "source_alias": "bassic"
     },
     "857787300564959282": {
-        "tokens": [
-            {
-                "token": "BEGINNER-6U2V-20251114",
-                "expiry_timestamp": "2025-11-17T19:14:54.897322+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-14T19:14:54.897322+00:00",
-        "current_token": "BEGINNER-6U2V-20251114",
-        "token_expiry_timestamp": "2025-11-17T19:14:54.897322+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-14T19:14:54.897322+00:00"
     },
     "1241235135802638386": {
         "tokens": [
