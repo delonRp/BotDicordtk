@@ -4361,5 +4361,18 @@
         "current_token": "SUBSCRIBER-ATGM-20251117",
         "token_expiry_timestamp": "2025-11-22T14:48:52.389726+00:00",
         "source_alias": "bassic"
+    },
+    "1345533820706750577": {
+        "tokens": [
+            {
+                "token": "BEGINNER-M46C-20251117",
+                "expiry_timestamp": "2025-11-20T16:27:01.034005+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-17T16:27:01.034005+00:00",
+        "current_token": "BEGINNER-M46C-20251117",
+        "token_expiry_timestamp": "2025-11-20T16:27:01.034005+00:00",
+        "source_alias": "bassic"
     }
 }
