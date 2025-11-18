@@ -1128,17 +1128,7 @@
         "last_claim_timestamp": "2025-10-12T13:38:12.939669+00:00"
     },
     "1362327398401577030": {
-        "last_claim_timestamp": "2025-10-19T05:41:59.114872+00:00",
-        "current_token": "VIP-XRVK-20251019",
-        "token_expiry_timestamp": "2025-11-18T05:41:59.114872+00:00",
-        "source_alias": "bassic",
-        "tokens": [
-            {
-                "token": "VIP-XRVK-20251019",
-                "expiry_timestamp": "2025-11-18T05:41:59.114872+00:00",
-                "source_alias": "bassic"
-            }
-        ]
+        "last_claim_timestamp": "2025-10-19T05:41:59.114872+00:00"
     },
     "1400608761269190736": {
         "last_claim_timestamp": "2025-09-29T13:32:33.325498+00:00"
@@ -3646,17 +3636,7 @@
         "last_claim_timestamp": "2025-11-13T02:33:25.254118+00:00"
     },
     "1393998705610199250": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-M284-20251113",
-                "expiry_timestamp": "2025-11-18T06:00:19.000203+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-13T06:00:19.000203+00:00",
-        "current_token": "SUBSCRIBER-M284-20251113",
-        "token_expiry_timestamp": "2025-11-18T06:00:19.000203+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-13T06:00:19.000203+00:00"
     },
     "1375359028221182023": {
         "last_claim_timestamp": "2025-11-13T07:05:44.920026+00:00"
