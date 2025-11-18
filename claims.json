@@ -4288,5 +4288,18 @@
         "current_token": "BEGINNER-QNQW-20251118",
         "token_expiry_timestamp": "2025-11-21T13:14:34.669587+00:00",
         "source_alias": "bassic"
+    },
+    "1405879194495484006": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RFXB-20251118",
+                "expiry_timestamp": "2025-11-21T13:30:08.574082+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-18T13:30:08.574082+00:00",
+        "current_token": "BEGINNER-RFXB-20251118",
+        "token_expiry_timestamp": "2025-11-21T13:30:08.574082+00:00",
+        "source_alias": "bassic"
     }
 }
