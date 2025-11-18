@@ -4275,5 +4275,18 @@
         "current_token": "BEGINNER-HB9N-20251118",
         "token_expiry_timestamp": "2025-11-21T12:40:52.941032+00:00",
         "source_alias": "bassic"
+    },
+    "1374801022060335168": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QNQW-20251118",
+                "expiry_timestamp": "2025-11-21T13:14:34.669587+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-18T13:14:34.669587+00:00",
+        "current_token": "BEGINNER-QNQW-20251118",
+        "token_expiry_timestamp": "2025-11-21T13:14:34.669587+00:00",
+        "source_alias": "bassic"
     }
 }
