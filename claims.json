@@ -4296,5 +4296,18 @@
         "current_token": "BEGINNER-M46C-20251117",
         "token_expiry_timestamp": "2025-11-20T16:27:01.034005+00:00",
         "source_alias": "bassic"
+    },
+    "1218104605632757851": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZC4Q-20251118",
+                "expiry_timestamp": "2025-11-23T02:37:39.377392+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-18T02:37:39.377392+00:00",
+        "current_token": "SUBSCRIBER-ZC4Q-20251118",
+        "token_expiry_timestamp": "2025-11-23T02:37:39.377392+00:00",
+        "source_alias": "bassic"
     }
 }
