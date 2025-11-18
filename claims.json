@@ -4266,5 +4266,18 @@
         "current_token": "SUBSCRIBER-TX6I-20251118",
         "token_expiry_timestamp": "2025-11-23T16:16:00.746347+00:00",
         "source_alias": "bassic"
+    },
+    "1339238339445915680": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OUS9-20251118",
+                "expiry_timestamp": "2025-11-21T17:19:09.706966+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-18T17:19:09.706966+00:00",
+        "current_token": "BEGINNER-OUS9-20251118",
+        "token_expiry_timestamp": "2025-11-21T17:19:09.706966+00:00",
+        "source_alias": "bassic"
     }
 }
