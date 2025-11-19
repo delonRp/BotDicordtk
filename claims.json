@@ -3657,17 +3657,7 @@
         "last_claim_timestamp": "2025-11-14T15:28:45.436784+00:00"
     },
     "1438446620218757120": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-KUQY-20251114",
-                "expiry_timestamp": "2025-11-19T17:48:12.191974+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-14T17:48:12.191974+00:00",
-        "current_token": "SUBSCRIBER-KUQY-20251114",
-        "token_expiry_timestamp": "2025-11-19T17:48:12.191974+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-14T17:48:12.191974+00:00"
     },
     "857787300564959282": {
         "last_claim_timestamp": "2025-11-14T19:14:54.897322+00:00"
@@ -3865,17 +3855,7 @@
         "source_alias": "bassic"
     },
     "1223478974844375044": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ERUS-20251116",
-                "expiry_timestamp": "2025-11-19T17:16:07.272548+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-16T17:16:07.272548+00:00",
-        "current_token": "BEGINNER-ERUS-20251116",
-        "token_expiry_timestamp": "2025-11-19T17:16:07.272548+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-16T17:16:07.272548+00:00"
     },
     "1344116154729234462": {
         "tokens": [
