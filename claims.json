@@ -3869,17 +3869,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1369683911592116336": {
-        "tokens": [
-            {
-                "token": "BEGINNER-P3IC-20251116",
-                "expiry_timestamp": "2025-11-19T10:40:14.076974+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-16T10:40:14.076974+00:00",
-        "current_token": "BEGINNER-P3IC-20251116",
-        "token_expiry_timestamp": "2025-11-19T10:40:14.076974+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-16T10:40:14.076974+00:00"
     },
     "1130043108843864174": {
         "tokens": [
