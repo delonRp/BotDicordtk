@@ -3330,17 +3330,7 @@
         "last_claim_timestamp": "2025-11-05T15:48:06.171371+00:00"
     },
     "1363377572649373798": {
-        "last_claim_timestamp": "2025-11-16T14:40:39.123521+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-SAWQ-20251116",
-                "expiry_timestamp": "2025-11-19T14:40:39.123521+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-SAWQ-20251116",
-        "token_expiry_timestamp": "2025-11-19T14:40:39.123521+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-16T14:40:39.123521+00:00"
     },
     "1405336929565675650": {
         "last_claim_timestamp": "2025-11-05T18:02:21.036729+00:00"
