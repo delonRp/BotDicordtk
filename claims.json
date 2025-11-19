@@ -4259,5 +4259,18 @@
         "current_token": "BEGINNER-IYZ5-20251119",
         "token_expiry_timestamp": "2025-11-22T22:40:26.481345+00:00",
         "source_alias": "bassic"
+    },
+    "1121752802083995649": {
+        "tokens": [
+            {
+                "token": "BEGINNER-3GVE-20251119",
+                "expiry_timestamp": "2025-11-22T22:42:59.413274+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-19T22:42:59.413274+00:00",
+        "current_token": "BEGINNER-3GVE-20251119",
+        "token_expiry_timestamp": "2025-11-22T22:42:59.413274+00:00",
+        "source_alias": "bassic"
     }
 }
