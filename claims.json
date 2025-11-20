@@ -4242,5 +4242,19 @@
         "current_token": "BEGINNER-3GVE-20251119",
         "token_expiry_timestamp": "2025-11-22T22:42:59.413274+00:00",
         "source_alias": "bassic"
+    },
+    "1410973748458426439": {
+        "tokens": [
+            {
+                "token": "elon",
+                "expiry_timestamp": "2025-12-20T03:29:19.484373+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "elon",
+        "token_expiry_timestamp": "2025-12-20T03:29:19.484373+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
