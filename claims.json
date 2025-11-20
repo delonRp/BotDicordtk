@@ -4242,5 +4242,18 @@
         "token_expiry_timestamp": "2025-12-20T03:29:42.615225+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1336001294145683540": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-IMC6-20251120",
+                "expiry_timestamp": "2025-11-25T04:40:39.708004+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-20T04:40:39.708004+00:00",
+        "current_token": "SUBSCRIBER-IMC6-20251120",
+        "token_expiry_timestamp": "2025-11-25T04:40:39.708004+00:00",
+        "source_alias": "bassic"
     }
 }
