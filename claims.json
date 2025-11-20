@@ -4201,5 +4201,18 @@
         "current_token": "BEGINNER-UUR4-20251120",
         "token_expiry_timestamp": "2025-11-23T09:27:39.835171+00:00",
         "source_alias": "bassic"
+    },
+    "1416513498514722897": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SM37-20251120",
+                "expiry_timestamp": "2025-11-23T16:38:34.412314+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-20T16:38:34.412314+00:00",
+        "current_token": "BEGINNER-SM37-20251120",
+        "token_expiry_timestamp": "2025-11-23T16:38:34.412314+00:00",
+        "source_alias": "bassic"
     }
 }
