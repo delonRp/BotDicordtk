@@ -4261,5 +4261,18 @@
         "current_token": "SUBSCRIBER-SEHN-20251121",
         "token_expiry_timestamp": "2025-11-26T09:23:36.233798+00:00",
         "source_alias": "bassic"
+    },
+    "1428679925929611316": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6TJ4-20251121",
+                "expiry_timestamp": "2025-11-26T10:28:13.888211+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T10:28:13.888211+00:00",
+        "current_token": "SUBSCRIBER-6TJ4-20251121",
+        "token_expiry_timestamp": "2025-11-26T10:28:13.888211+00:00",
+        "source_alias": "bassic"
     }
 }
