@@ -4206,5 +4206,18 @@
         "current_token": "BEGINNER-J4MK-20251121",
         "token_expiry_timestamp": "2025-11-24T04:26:12.849817+00:00",
         "source_alias": "bassic"
+    },
+    "1415828806815580231": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-WVLL-20251121",
+                "expiry_timestamp": "2025-11-26T04:51:03.140968+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T04:51:03.140968+00:00",
+        "current_token": "SUBSCRIBER-WVLL-20251121",
+        "token_expiry_timestamp": "2025-11-26T04:51:03.140968+00:00",
+        "source_alias": "bassic"
     }
 }
