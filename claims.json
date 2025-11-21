@@ -4235,5 +4235,18 @@
         "current_token": "SUBSCRIBER-XOT2-20251121",
         "token_expiry_timestamp": "2025-11-26T08:39:10.182177+00:00",
         "source_alias": "bassic"
+    },
+    "1033278758771236875": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ISTO-20251121",
+                "expiry_timestamp": "2025-11-26T09:18:22.552162+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T09:18:22.552162+00:00",
+        "current_token": "SUBSCRIBER-ISTO-20251121",
+        "token_expiry_timestamp": "2025-11-26T09:18:22.552162+00:00",
+        "source_alias": "bassic"
     }
 }
