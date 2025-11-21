@@ -4287,5 +4287,18 @@
         "current_token": "BEGINNER-OLU3-20251121",
         "token_expiry_timestamp": "2025-11-24T10:45:59.969848+00:00",
         "source_alias": "bassic"
+    },
+    "751747255756914690": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CHSU-20251121",
+                "expiry_timestamp": "2025-11-24T10:46:38.532672+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T10:46:38.532672+00:00",
+        "current_token": "BEGINNER-CHSU-20251121",
+        "token_expiry_timestamp": "2025-11-24T10:46:38.532672+00:00",
+        "source_alias": "bassic"
     }
 }
