@@ -588,17 +588,7 @@
         "last_claim_timestamp": "2025-09-23T11:16:08.649024+00:00"
     },
     "1348332918354870373": {
-        "last_claim_timestamp": "2025-11-16T10:21:07.931814+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-9SUD-20251116",
-                "expiry_timestamp": "2025-11-21T10:21:07.931814+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-9SUD-20251116",
-        "token_expiry_timestamp": "2025-11-21T10:21:07.931814+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-16T10:21:07.931814+00:00"
     },
     "1409086908251770966": {
         "last_claim_timestamp": "2025-09-23T11:30:33.914487+00:00"
@@ -2590,17 +2580,7 @@
         "last_claim_timestamp": "2025-10-22T09:48:01.811034+00:00"
     },
     "1108675346783551541": {
-        "last_claim_timestamp": "2025-11-18T10:34:19.904110+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-DANM-20251118",
-                "expiry_timestamp": "2025-11-21T10:34:19.904110+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-DANM-20251118",
-        "token_expiry_timestamp": "2025-11-21T10:34:19.904110+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-18T10:34:19.904110+00:00"
     },
     "1424727545273651263": {
         "last_claim_timestamp": "2025-10-22T11:09:45.670815+00:00"
@@ -3827,17 +3807,7 @@
         "source_alias": "bassic"
     },
     "1323224086549233767": {
-        "tokens": [
-            {
-                "token": "BEGINNER-X8RV-20251118",
-                "expiry_timestamp": "2025-11-21T10:34:09.429667+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-18T10:34:09.429667+00:00",
-        "current_token": "BEGINNER-X8RV-20251118",
-        "token_expiry_timestamp": "2025-11-21T10:34:09.429667+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-18T10:34:09.429667+00:00"
     },
     "1393083414097428590": {
         "tokens": [
