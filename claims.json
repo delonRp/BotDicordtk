@@ -4258,5 +4258,18 @@
         "current_token": "SUBSCRIBER-8M4H-20251121",
         "token_expiry_timestamp": "2025-11-26T16:18:24.007696+00:00",
         "source_alias": "bassic"
+    },
+    "1434086960627974204": {
+        "tokens": [
+            {
+                "token": "BEGINNER-554V-20251121",
+                "expiry_timestamp": "2025-11-24T17:32:24.810504+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T17:32:24.810504+00:00",
+        "current_token": "BEGINNER-554V-20251121",
+        "token_expiry_timestamp": "2025-11-24T17:32:24.810504+00:00",
+        "source_alias": "bassic"
     }
 }
