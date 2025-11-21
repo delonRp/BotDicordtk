@@ -3829,17 +3829,7 @@
         "last_claim_timestamp": "2025-11-18T11:47:20.871616+00:00"
     },
     "1378554504667988089": {
-        "tokens": [
-            {
-                "token": "BEGINNER-HB9N-20251118",
-                "expiry_timestamp": "2025-11-21T12:40:52.941032+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-18T12:40:52.941032+00:00",
-        "current_token": "BEGINNER-HB9N-20251118",
-        "token_expiry_timestamp": "2025-11-21T12:40:52.941032+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-18T12:40:52.941032+00:00"
     },
     "1374801022060335168": {
         "tokens": [
