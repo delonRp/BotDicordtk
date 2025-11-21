@@ -4252,5 +4252,18 @@
         "current_token": "SUBSCRIBER-C3FP-20251121",
         "token_expiry_timestamp": "2025-11-26T13:50:41.627928+00:00",
         "source_alias": "bassic"
+    },
+    "638899860669464576": {
+        "tokens": [
+            {
+                "token": "BEGINNER-II48-20251121",
+                "expiry_timestamp": "2025-11-24T15:07:38.535700+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T15:07:38.535700+00:00",
+        "current_token": "BEGINNER-II48-20251121",
+        "token_expiry_timestamp": "2025-11-24T15:07:38.535700+00:00",
+        "source_alias": "bassic"
     }
 }
