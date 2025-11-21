@@ -4248,5 +4248,18 @@
         "current_token": "SUBSCRIBER-ISTO-20251121",
         "token_expiry_timestamp": "2025-11-26T09:18:22.552162+00:00",
         "source_alias": "bassic"
+    },
+    "1401861434547114114": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-SEHN-20251121",
+                "expiry_timestamp": "2025-11-26T09:23:36.233798+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T09:23:36.233798+00:00",
+        "current_token": "SUBSCRIBER-SEHN-20251121",
+        "token_expiry_timestamp": "2025-11-26T09:23:36.233798+00:00",
+        "source_alias": "bassic"
     }
 }
