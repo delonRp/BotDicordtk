@@ -4180,5 +4180,18 @@
         "current_token": "SUBSCRIBER-I6PI-20251121",
         "token_expiry_timestamp": "2025-11-26T04:03:12.149917+00:00",
         "source_alias": "bassic"
+    },
+    "1421124621918539797": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ZDX3-20251121",
+                "expiry_timestamp": "2025-11-24T04:21:44.242338+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T04:21:44.242338+00:00",
+        "current_token": "BEGINNER-ZDX3-20251121",
+        "token_expiry_timestamp": "2025-11-24T04:21:44.242338+00:00",
+        "source_alias": "bassic"
     }
 }
