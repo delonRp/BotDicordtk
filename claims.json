@@ -4193,5 +4193,18 @@
         "current_token": "BEGINNER-ZDX3-20251121",
         "token_expiry_timestamp": "2025-11-24T04:21:44.242338+00:00",
         "source_alias": "bassic"
+    },
+    "1439942974828970154": {
+        "tokens": [
+            {
+                "token": "BEGINNER-J4MK-20251121",
+                "expiry_timestamp": "2025-11-24T04:26:12.849817+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T04:26:12.849817+00:00",
+        "current_token": "BEGINNER-J4MK-20251121",
+        "token_expiry_timestamp": "2025-11-24T04:26:12.849817+00:00",
+        "source_alias": "bassic"
     }
 }
