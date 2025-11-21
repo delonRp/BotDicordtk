@@ -863,11 +863,17 @@
                 "expiry_timestamp": "2025-12-01T12:36:05.800002+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "ceban",
+                "expiry_timestamp": "2025-12-01T12:36:25.927486+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "ceban",
-        "token_expiry_timestamp": "2025-12-01T12:36:05.800002+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-01T12:36:25.927486+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1370417446422450386": {
