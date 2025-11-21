@@ -4209,5 +4209,18 @@
         "current_token": "SUBSCRIBER-WVLL-20251121",
         "token_expiry_timestamp": "2025-11-26T04:51:03.140968+00:00",
         "source_alias": "bassic"
+    },
+    "907501323547734048": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-US8B-20251121",
+                "expiry_timestamp": "2025-11-26T06:08:20.467148+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-21T06:08:20.467148+00:00",
+        "current_token": "SUBSCRIBER-US8B-20251121",
+        "token_expiry_timestamp": "2025-11-26T06:08:20.467148+00:00",
+        "source_alias": "bassic"
     }
 }
