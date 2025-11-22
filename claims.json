@@ -4257,5 +4257,18 @@
         "current_token": "SUBSCRIBER-QJBT-20251122",
         "token_expiry_timestamp": "2025-11-27T04:21:11.667434+00:00",
         "source_alias": "bassic"
+    },
+    "1211633899545829387": {
+        "tokens": [
+            {
+                "token": "BEGINNER-2KFO-20251122",
+                "expiry_timestamp": "2025-11-25T07:14:26.094569+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-22T07:14:26.094569+00:00",
+        "current_token": "BEGINNER-2KFO-20251122",
+        "token_expiry_timestamp": "2025-11-25T07:14:26.094569+00:00",
+        "source_alias": "bassic"
     }
 }
