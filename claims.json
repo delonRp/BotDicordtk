@@ -3810,17 +3810,7 @@
         "source_alias": "bassic"
     },
     "1357498343063949312": {
-        "tokens": [
-            {
-                "token": "BEGINNER-VRD3-20251118",
-                "expiry_timestamp": "2025-11-21T23:24:59.359588+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-18T23:24:59.359588+00:00",
-        "current_token": "BEGINNER-VRD3-20251118",
-        "token_expiry_timestamp": "2025-11-21T23:24:59.359588+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-18T23:24:59.359588+00:00"
     },
     "1256574345308803158": {
         "tokens": [
