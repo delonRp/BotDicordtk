@@ -4243,5 +4243,18 @@
         "current_token": "BEGINNER-WPXN-20251122",
         "token_expiry_timestamp": "2025-11-25T12:33:12.549587+00:00",
         "source_alias": "bassic"
+    },
+    "1203203979857633333": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-256J-20251122",
+                "expiry_timestamp": "2025-11-27T12:54:44.833573+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-22T12:54:44.833573+00:00",
+        "current_token": "SUBSCRIBER-256J-20251122",
+        "token_expiry_timestamp": "2025-11-27T12:54:44.833573+00:00",
+        "source_alias": "bassic"
     }
 }
