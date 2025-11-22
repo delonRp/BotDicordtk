@@ -4249,5 +4249,18 @@
         "current_token": "SUBSCRIBER-WH7X-20251122",
         "token_expiry_timestamp": "2025-11-27T16:04:01.288358+00:00",
         "source_alias": "bassic"
+    },
+    "899969650702553178": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-I720-20251122",
+                "expiry_timestamp": "2025-11-27T17:03:02.828490+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-22T17:03:02.828490+00:00",
+        "current_token": "SUBSCRIBER-I720-20251122",
+        "token_expiry_timestamp": "2025-11-27T17:03:02.828490+00:00",
+        "source_alias": "bassic"
     }
 }
