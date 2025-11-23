@@ -4360,5 +4360,18 @@
         "current_token": "BEGINNER-4TZW-20251123",
         "token_expiry_timestamp": "2025-11-26T07:24:25.923198+00:00",
         "source_alias": "bassic"
+    },
+    "1336614484369866802": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XEKQ-20251123",
+                "expiry_timestamp": "2025-11-28T08:13:08.383724+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T08:13:08.383724+00:00",
+        "current_token": "SUBSCRIBER-XEKQ-20251123",
+        "token_expiry_timestamp": "2025-11-28T08:13:08.383724+00:00",
+        "source_alias": "bassic"
     }
 }
