@@ -4389,5 +4389,18 @@
         "current_token": "BEGINNER-HWFX-20251123",
         "token_expiry_timestamp": "2025-11-26T09:45:37.939017+00:00",
         "source_alias": "bassic"
+    },
+    "1384336475851591823": {
+        "tokens": [
+            {
+                "token": "BEGINNER-P7UT-20251123",
+                "expiry_timestamp": "2025-11-26T11:24:20.557092+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T11:24:20.557092+00:00",
+        "current_token": "BEGINNER-P7UT-20251123",
+        "token_expiry_timestamp": "2025-11-26T11:24:20.557092+00:00",
+        "source_alias": "bassic"
     }
 }
