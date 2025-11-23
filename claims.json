@@ -4397,5 +4397,18 @@
         "current_token": "SUBSCRIBER-THKI-20251123",
         "token_expiry_timestamp": "2025-11-28T18:25:05.325764+00:00",
         "source_alias": "bassic"
+    },
+    "1321707768352210976": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QF0B-20251123",
+                "expiry_timestamp": "2025-11-28T20:02:39.244682+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T20:02:39.244682+00:00",
+        "current_token": "SUBSCRIBER-QF0B-20251123",
+        "token_expiry_timestamp": "2025-11-28T20:02:39.244682+00:00",
+        "source_alias": "bassic"
     }
 }
