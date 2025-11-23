@@ -3872,17 +3872,7 @@
         "last_claim_timestamp": "2025-11-20T16:38:34.412314+00:00"
     },
     "1310652240834592840": {
-        "tokens": [
-            {
-                "token": "BEGINNER-NRWN-20251120",
-                "expiry_timestamp": "2025-11-23T20:23:35.426321+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-20T20:23:35.426321+00:00",
-        "current_token": "BEGINNER-NRWN-20251120",
-        "token_expiry_timestamp": "2025-11-23T20:23:35.426321+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-20T20:23:35.426321+00:00"
     },
     "1092074958773031013": {
         "tokens": [
