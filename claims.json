@@ -4258,5 +4258,18 @@
         "current_token": "BEGINNER-E5CW-20251123",
         "token_expiry_timestamp": "2025-11-26T00:05:41.789982+00:00",
         "source_alias": "bassic"
+    },
+    "1440621531351748659": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ZXBY-20251123",
+                "expiry_timestamp": "2025-11-26T00:19:27.377413+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T00:19:27.377413+00:00",
+        "current_token": "BEGINNER-ZXBY-20251123",
+        "token_expiry_timestamp": "2025-11-26T00:19:27.377413+00:00",
+        "source_alias": "bassic"
     }
 }
