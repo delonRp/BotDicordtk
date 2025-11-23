@@ -4395,5 +4395,18 @@
         "current_token": "SUBSCRIBER-T6SD-20251123",
         "token_expiry_timestamp": "2025-11-28T14:49:17.900269+00:00",
         "source_alias": "bassic"
+    },
+    "1249153347047526472": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZJBC-20251123",
+                "expiry_timestamp": "2025-11-28T15:10:12.586507+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T15:10:12.586507+00:00",
+        "current_token": "SUBSCRIBER-ZJBC-20251123",
+        "token_expiry_timestamp": "2025-11-28T15:10:12.586507+00:00",
+        "source_alias": "bassic"
     }
 }
