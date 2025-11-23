@@ -4382,5 +4382,18 @@
         "current_token": "BEGINNER-P7UT-20251123",
         "token_expiry_timestamp": "2025-11-26T11:24:20.557092+00:00",
         "source_alias": "bassic"
+    },
+    "1178445318824677477": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-T6SD-20251123",
+                "expiry_timestamp": "2025-11-28T14:49:17.900269+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T14:49:17.900269+00:00",
+        "current_token": "SUBSCRIBER-T6SD-20251123",
+        "token_expiry_timestamp": "2025-11-28T14:49:17.900269+00:00",
+        "source_alias": "bassic"
     }
 }
