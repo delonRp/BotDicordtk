@@ -4400,5 +4400,18 @@
         "current_token": "SUBSCRIBER-QF0B-20251123",
         "token_expiry_timestamp": "2025-11-28T20:02:39.244682+00:00",
         "source_alias": "bassic"
+    },
+    "444887302490161163": {
+        "tokens": [
+            {
+                "token": "BEGINNER-T34Z-20251123",
+                "expiry_timestamp": "2025-11-26T21:31:27.751083+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T21:31:27.751083+00:00",
+        "current_token": "BEGINNER-T34Z-20251123",
+        "token_expiry_timestamp": "2025-11-26T21:31:27.751083+00:00",
+        "source_alias": "bassic"
     }
 }
