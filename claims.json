@@ -4334,5 +4334,18 @@
         "current_token": "SUBSCRIBER-KD6T-20251123",
         "token_expiry_timestamp": "2025-11-28T03:26:57.905938+00:00",
         "source_alias": "bassic"
+    },
+    "1418687761334141042": {
+        "tokens": [
+            {
+                "token": "BEGINNER-HSRV-20251123",
+                "expiry_timestamp": "2025-11-26T05:22:18.375404+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00",
+        "current_token": "BEGINNER-HSRV-20251123",
+        "token_expiry_timestamp": "2025-11-26T05:22:18.375404+00:00",
+        "source_alias": "bassic"
     }
 }
