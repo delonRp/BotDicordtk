@@ -482,11 +482,18 @@
                 "token": "VIP-SGAW-20251113",
                 "expiry_timestamp": "2025-12-13T04:03:33.435253+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "iqshuf2511",
+                "expiry_timestamp": "4763-10-21T07:33:17.540127+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "VIP-SGAW-20251113",
-        "token_expiry_timestamp": "2025-12-13T04:03:33.435253+00:00",
-        "source_alias": "bassic"
+        "current_token": "iqshuf2511",
+        "token_expiry_timestamp": "4763-10-21T07:33:17.540127+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1391691923994968115": {
         "last_claim_timestamp": "2025-09-22T12:38:07.665647+00:00"
