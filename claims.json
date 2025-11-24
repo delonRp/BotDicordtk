@@ -3775,17 +3775,7 @@
         "last_claim_timestamp": "2025-11-19T04:22:56.798046+00:00"
     },
     "1077559076327784508": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-AU75-20251119",
-                "expiry_timestamp": "2025-11-24T10:23:43.525144+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-19T10:23:43.525144+00:00",
-        "current_token": "SUBSCRIBER-AU75-20251119",
-        "token_expiry_timestamp": "2025-11-24T10:23:43.525144+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-19T10:23:43.525144+00:00"
     },
     "1408735235650359347": {
         "tokens": [
@@ -3975,30 +3965,10 @@
         "source_alias": "bassic"
     },
     "1267739221725024261": {
-        "tokens": [
-            {
-                "token": "BEGINNER-OLU3-20251121",
-                "expiry_timestamp": "2025-11-24T10:45:59.969848+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-21T10:45:59.969848+00:00",
-        "current_token": "BEGINNER-OLU3-20251121",
-        "token_expiry_timestamp": "2025-11-24T10:45:59.969848+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-21T10:45:59.969848+00:00"
     },
     "751747255756914690": {
-        "tokens": [
-            {
-                "token": "BEGINNER-CHSU-20251121",
-                "expiry_timestamp": "2025-11-24T10:46:38.532672+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-21T10:46:38.532672+00:00",
-        "current_token": "BEGINNER-CHSU-20251121",
-        "token_expiry_timestamp": "2025-11-24T10:46:38.532672+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-21T10:46:38.532672+00:00"
     },
     "1125997353531347076": {
         "tokens": [
