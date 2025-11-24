@@ -137,7 +137,17 @@
         "last_claim_timestamp": "2025-09-20T07:49:54.869497+00:00"
     },
     "1364718716918567002": {
-        "last_claim_timestamp": "2025-11-16T01:12:41.199643+00:00"
+        "last_claim_timestamp": "2025-11-24T10:15:50.577028+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-JQIS-20251124",
+                "expiry_timestamp": "2025-11-29T10:15:50.577028+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-JQIS-20251124",
+        "token_expiry_timestamp": "2025-11-29T10:15:50.577028+00:00",
+        "source_alias": "bassic"
     },
     "1198418923931041805": {
         "last_claim_timestamp": "2025-09-20T08:52:10.075876+00:00"
