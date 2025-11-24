@@ -3528,7 +3528,17 @@
         "last_claim_timestamp": "2025-11-14T08:22:12.858895+00:00"
     },
     "1081744141798621246": {
-        "last_claim_timestamp": "2025-11-14T09:16:58.346165+00:00"
+        "last_claim_timestamp": "2025-11-24T00:26:08.155966+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QFZP-20251124",
+                "expiry_timestamp": "2025-11-29T00:26:08.155966+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-QFZP-20251124",
+        "token_expiry_timestamp": "2025-11-29T00:26:08.155966+00:00",
+        "source_alias": "bassic"
     },
     "1414867817324351490": {
         "last_claim_timestamp": "2025-11-14T09:50:08.419085+00:00"
