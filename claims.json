@@ -488,11 +488,17 @@
                 "expiry_timestamp": "4763-10-21T07:33:17.540127+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "iqshuf2511",
+                "expiry_timestamp": "4763-10-21T07:33:40.161591+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "iqshuf2511",
-        "token_expiry_timestamp": "4763-10-21T07:33:17.540127+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "4763-10-21T07:33:40.161591+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1391691923994968115": {
