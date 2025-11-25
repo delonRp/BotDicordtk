@@ -4434,5 +4434,18 @@
         "current_token": "BEGINNER-G2PV-20251125",
         "token_expiry_timestamp": "2025-11-28T07:24:46.664318+00:00",
         "source_alias": "bassic"
+    },
+    "1358081804170432603": {
+        "tokens": [
+            {
+                "token": "BEGINNER-JXPD-20251125",
+                "expiry_timestamp": "2025-11-28T15:12:31.396981+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-25T15:12:31.396981+00:00",
+        "current_token": "BEGINNER-JXPD-20251125",
+        "token_expiry_timestamp": "2025-11-28T15:12:31.396981+00:00",
+        "source_alias": "bassic"
     }
 }
