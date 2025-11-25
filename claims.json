@@ -4164,12 +4164,19 @@
                 "token": "BEGINNER-HSRV-20251123",
                 "expiry_timestamp": "2025-11-26T05:22:18.375404+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "3d",
+                "expiry_timestamp": "2025-11-28T02:39:33.137260+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00",
-        "current_token": "BEGINNER-HSRV-20251123",
-        "token_expiry_timestamp": "2025-11-26T05:22:18.375404+00:00",
-        "source_alias": "bassic"
+        "current_token": "3d",
+        "token_expiry_timestamp": "2025-11-28T02:39:33.137260+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "831401969281007617": {
         "tokens": [
