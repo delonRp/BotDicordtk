@@ -4447,5 +4447,18 @@
         "current_token": "BEGINNER-JXPD-20251125",
         "token_expiry_timestamp": "2025-11-28T15:12:31.396981+00:00",
         "source_alias": "bassic"
+    },
+    "1208843677070401536": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-00RA-20251125",
+                "expiry_timestamp": "2025-11-30T18:52:15.475712+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-25T18:52:15.475712+00:00",
+        "current_token": "SUBSCRIBER-00RA-20251125",
+        "token_expiry_timestamp": "2025-11-30T18:52:15.475712+00:00",
+        "source_alias": "bassic"
     }
 }
