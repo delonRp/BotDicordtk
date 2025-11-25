@@ -3071,7 +3071,19 @@
         "last_claim_timestamp": "2025-11-02T01:50:10.996849+00:00"
     },
     "1313810376197935154": {
-        "last_claim_timestamp": "2025-11-02T06:02:34.597490+00:00"
+        "last_claim_timestamp": "2025-11-02T06:02:34.597490+00:00",
+        "tokens": [
+            {
+                "token": "3d",
+                "expiry_timestamp": "2025-11-28T02:40:20.785334+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "3d",
+        "token_expiry_timestamp": "2025-11-28T02:40:20.785334+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "926204092945162331": {
         "last_claim_timestamp": "2025-11-02T07:17:04.635929+00:00"
