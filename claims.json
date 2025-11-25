@@ -4197,12 +4197,19 @@
                 "token": "SUBSCRIBER-XEKQ-20251123",
                 "expiry_timestamp": "2025-11-28T08:13:08.383724+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "3d",
+                "expiry_timestamp": "2025-11-28T02:39:54.523697+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-11-23T08:13:08.383724+00:00",
-        "current_token": "SUBSCRIBER-XEKQ-20251123",
-        "token_expiry_timestamp": "2025-11-28T08:13:08.383724+00:00",
-        "source_alias": "bassic"
+        "current_token": "3d",
+        "token_expiry_timestamp": "2025-11-28T02:39:54.523697+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1382344808953024573": {
         "tokens": [
