@@ -3302,17 +3302,7 @@
         "last_claim_timestamp": "2025-11-06T06:23:09.268007+00:00"
     },
     "1380954047472734340": {
-        "last_claim_timestamp": "2025-11-22T04:47:38.633768+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-1WDE-20251122",
-                "expiry_timestamp": "2025-11-25T04:47:38.633768+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-1WDE-20251122",
-        "token_expiry_timestamp": "2025-11-25T04:47:38.633768+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-22T04:47:38.633768+00:00"
     },
     "1359007410500407468": {
         "last_claim_timestamp": "2025-11-06T10:33:12.944058+00:00"
@@ -3503,17 +3493,7 @@
         "last_claim_timestamp": "2025-11-12T11:58:53.578795+00:00"
     },
     "1201686705703505942": {
-        "last_claim_timestamp": "2025-11-20T04:41:22.796044+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-8RLB-20251120",
-                "expiry_timestamp": "2025-11-25T04:41:22.796044+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-8RLB-20251120",
-        "token_expiry_timestamp": "2025-11-25T04:41:22.796044+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-20T04:41:22.796044+00:00"
     },
     "1231462627759095930": {
         "last_claim_timestamp": "2025-11-12T13:01:03.061568+00:00"
@@ -3835,17 +3815,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1336001294145683540": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-IMC6-20251120",
-                "expiry_timestamp": "2025-11-25T04:40:39.708004+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-20T04:40:39.708004+00:00",
-        "current_token": "SUBSCRIBER-IMC6-20251120",
-        "token_expiry_timestamp": "2025-11-25T04:40:39.708004+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-20T04:40:39.708004+00:00"
     },
     "1338796453891543051": {
         "tokens": [
