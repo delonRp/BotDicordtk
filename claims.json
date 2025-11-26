@@ -4414,12 +4414,19 @@
                 "token": "SUBSCRIBER-00RA-20251125",
                 "expiry_timestamp": "2025-11-30T18:52:15.475712+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ken",
+                "expiry_timestamp": "4763-10-23T05:46:45.509549+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-11-25T18:52:15.475712+00:00",
-        "current_token": "SUBSCRIBER-00RA-20251125",
-        "token_expiry_timestamp": "2025-11-30T18:52:15.475712+00:00",
-        "source_alias": "bassic"
+        "current_token": "ken",
+        "token_expiry_timestamp": "4763-10-23T05:46:45.509549+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1334886637230100573": {
         "tokens": [
