@@ -3893,17 +3893,7 @@
         "last_claim_timestamp": "2025-11-21T06:08:20.467148+00:00"
     },
     "1396145788387856638": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-XOT2-20251121",
-                "expiry_timestamp": "2025-11-26T08:39:10.182177+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-21T08:39:10.182177+00:00",
-        "current_token": "SUBSCRIBER-XOT2-20251121",
-        "token_expiry_timestamp": "2025-11-26T08:39:10.182177+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-21T08:39:10.182177+00:00"
     },
     "1033278758771236875": {
         "tokens": [
