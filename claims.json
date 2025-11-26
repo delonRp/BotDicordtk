@@ -4114,17 +4114,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "831401969281007617": {
-        "tokens": [
-            {
-                "token": "BEGINNER-4TZW-20251123",
-                "expiry_timestamp": "2025-11-26T07:24:25.923198+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-23T07:24:25.923198+00:00",
-        "current_token": "BEGINNER-4TZW-20251123",
-        "token_expiry_timestamp": "2025-11-26T07:24:25.923198+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-23T07:24:25.923198+00:00"
     },
     "1336614484369866802": {
         "tokens": [
