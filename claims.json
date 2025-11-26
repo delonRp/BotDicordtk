@@ -4371,5 +4371,18 @@
         "current_token": "SUBSCRIBER-5K9Z-20251126",
         "token_expiry_timestamp": "2025-12-01T01:20:39.866593+00:00",
         "source_alias": "bassic"
+    },
+    "1013486025399607419": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-NMW1-20251126",
+                "expiry_timestamp": "2025-12-01T11:10:20.859593+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-26T11:10:20.859593+00:00",
+        "current_token": "SUBSCRIBER-NMW1-20251126",
+        "token_expiry_timestamp": "2025-12-01T11:10:20.859593+00:00",
+        "source_alias": "bassic"
     }
 }
