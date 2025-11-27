@@ -4333,5 +4333,18 @@
         "current_token": "BEGINNER-YLWY-20251127",
         "token_expiry_timestamp": "2025-11-30T04:56:09.726476+00:00",
         "source_alias": "bassic"
+    },
+    "1238825048891199590": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MT6Z-20251127",
+                "expiry_timestamp": "2025-12-02T08:45:24.342835+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-27T08:45:24.342835+00:00",
+        "current_token": "SUBSCRIBER-MT6Z-20251127",
+        "token_expiry_timestamp": "2025-12-02T08:45:24.342835+00:00",
+        "source_alias": "bassic"
     }
 }
