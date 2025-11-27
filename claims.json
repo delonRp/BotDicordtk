@@ -4348,5 +4348,18 @@
         "current_token": "SUBSCRIBER-6KPU-20251127",
         "token_expiry_timestamp": "2025-12-02T18:30:39.015698+00:00",
         "source_alias": "bassic"
+    },
+    "1354841970622726154": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7LD7-20251127",
+                "expiry_timestamp": "2025-11-30T21:36:46.247840+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-27T21:36:46.247840+00:00",
+        "current_token": "BEGINNER-7LD7-20251127",
+        "token_expiry_timestamp": "2025-11-30T21:36:46.247840+00:00",
+        "source_alias": "bassic"
     }
 }
