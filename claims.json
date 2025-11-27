@@ -4316,5 +4316,18 @@
         "current_token": "SUBSCRIBER-MT6Z-20251127",
         "token_expiry_timestamp": "2025-12-02T08:45:24.342835+00:00",
         "source_alias": "bassic"
+    },
+    "1432866985427079231": {
+        "tokens": [
+            {
+                "token": "BEGINNER-38G2-20251127",
+                "expiry_timestamp": "2025-11-30T16:13:02.716654+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-27T16:13:02.716654+00:00",
+        "current_token": "BEGINNER-38G2-20251127",
+        "token_expiry_timestamp": "2025-11-30T16:13:02.716654+00:00",
+        "source_alias": "bassic"
     }
 }
