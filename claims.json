@@ -4325,5 +4325,18 @@
         "current_token": "SUBSCRIBER-QDNG-20251127",
         "token_expiry_timestamp": "2025-12-02T18:29:07.574647+00:00",
         "source_alias": "bassic"
+    },
+    "1421314548081885224": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-6KPU-20251127",
+                "expiry_timestamp": "2025-12-02T18:30:39.015698+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-27T18:30:39.015698+00:00",
+        "current_token": "SUBSCRIBER-6KPU-20251127",
+        "token_expiry_timestamp": "2025-12-02T18:30:39.015698+00:00",
+        "source_alias": "bassic"
     }
 }
