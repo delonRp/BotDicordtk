@@ -4374,5 +4374,18 @@
         "current_token": "SUBSCRIBER-ZKTZ-20251127",
         "token_expiry_timestamp": "2025-12-02T23:09:05.248348+00:00",
         "source_alias": "bassic"
+    },
+    "1261253834597072917": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TPIK-20251128",
+                "expiry_timestamp": "2025-12-01T00:05:33.691630+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T00:05:33.691630+00:00",
+        "current_token": "BEGINNER-TPIK-20251128",
+        "token_expiry_timestamp": "2025-12-01T00:05:33.691630+00:00",
+        "source_alias": "bassic"
     }
 }
