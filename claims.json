@@ -4094,17 +4094,7 @@
         "source_alias": "bassic"
     },
     "1404103124045791303": {
-        "tokens": [
-            {
-                "token": "BEGINNER-G2PV-20251125",
-                "expiry_timestamp": "2025-11-28T07:24:46.664318+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-25T07:24:46.664318+00:00",
-        "current_token": "BEGINNER-G2PV-20251125",
-        "token_expiry_timestamp": "2025-11-28T07:24:46.664318+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-25T07:24:46.664318+00:00"
     },
     "1358081804170432603": {
         "tokens": [
