@@ -4373,5 +4373,18 @@
         "current_token": "SUBSCRIBER-JG2H-20251128",
         "token_expiry_timestamp": "2025-12-03T14:41:19.282810+00:00",
         "source_alias": "bassic"
+    },
+    "1026053496518225950": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Y2L9-20251128",
+                "expiry_timestamp": "2025-12-01T19:05:52.073368+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T19:05:52.073368+00:00",
+        "current_token": "BEGINNER-Y2L9-20251128",
+        "token_expiry_timestamp": "2025-12-01T19:05:52.073368+00:00",
+        "source_alias": "bassic"
     }
 }
