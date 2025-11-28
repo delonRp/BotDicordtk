@@ -4387,5 +4387,18 @@
         "current_token": "BEGINNER-TPIK-20251128",
         "token_expiry_timestamp": "2025-12-01T00:05:33.691630+00:00",
         "source_alias": "bassic"
+    },
+    "1241776306211913891": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BSNY-20251128",
+                "expiry_timestamp": "2025-12-03T01:01:31.426396+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T01:01:31.426396+00:00",
+        "current_token": "SUBSCRIBER-BSNY-20251128",
+        "token_expiry_timestamp": "2025-12-03T01:01:31.426396+00:00",
+        "source_alias": "bassic"
     }
 }
