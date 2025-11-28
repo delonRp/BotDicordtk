@@ -4352,5 +4352,18 @@
         "current_token": "BEGINNER-YLF6-20251128",
         "token_expiry_timestamp": "2025-12-01T04:47:04.771629+00:00",
         "source_alias": "bassic"
+    },
+    "1434435495223623760": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-INFJ-20251128",
+                "expiry_timestamp": "2025-12-03T06:21:13.291250+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T06:21:13.291250+00:00",
+        "current_token": "SUBSCRIBER-INFJ-20251128",
+        "token_expiry_timestamp": "2025-12-03T06:21:13.291250+00:00",
+        "source_alias": "bassic"
     }
 }
