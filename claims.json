@@ -3984,17 +3984,7 @@
         "last_claim_timestamp": "2025-11-23T17:25:05.440324+00:00"
     },
     "880098808996982784": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-THKI-20251123",
-                "expiry_timestamp": "2025-11-28T18:25:05.325764+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-23T18:25:05.325764+00:00",
-        "current_token": "SUBSCRIBER-THKI-20251123",
-        "token_expiry_timestamp": "2025-11-28T18:25:05.325764+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-23T18:25:05.325764+00:00"
     },
     "1321707768352210976": {
         "tokens": [
