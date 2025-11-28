@@ -4410,5 +4410,18 @@
         "current_token": "SUBSCRIBER-SH9D-20251128",
         "token_expiry_timestamp": "2025-12-03T12:20:34.715096+00:00",
         "source_alias": "bassic"
+    },
+    "1423245604246781984": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-JG2H-20251128",
+                "expiry_timestamp": "2025-12-03T14:41:19.282810+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T14:41:19.282810+00:00",
+        "current_token": "SUBSCRIBER-JG2H-20251128",
+        "token_expiry_timestamp": "2025-12-03T14:41:19.282810+00:00",
+        "source_alias": "bassic"
     }
 }
