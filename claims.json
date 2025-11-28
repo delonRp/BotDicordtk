@@ -3091,19 +3091,7 @@
         "last_claim_timestamp": "2025-11-02T01:50:10.996849+00:00"
     },
     "1313810376197935154": {
-        "last_claim_timestamp": "2025-11-02T06:02:34.597490+00:00",
-        "tokens": [
-            {
-                "token": "3d",
-                "expiry_timestamp": "2025-11-28T02:40:20.785334+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "3d",
-        "token_expiry_timestamp": "2025-11-28T02:40:20.785334+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-11-02T06:02:34.597490+00:00"
     },
     "926204092945162331": {
         "last_claim_timestamp": "2025-11-02T07:17:04.635929+00:00"
@@ -3999,19 +3987,7 @@
         "source_alias": "bassic"
     },
     "1418687761334141042": {
-        "tokens": [
-            {
-                "token": "3d",
-                "expiry_timestamp": "2025-11-28T02:39:33.137260+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00",
-        "current_token": "3d",
-        "token_expiry_timestamp": "2025-11-28T02:39:33.137260+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00"
     },
     "831401969281007617": {
         "last_claim_timestamp": "2025-11-23T07:24:25.923198+00:00"
@@ -4022,19 +3998,9 @@
                 "token": "SUBSCRIBER-XEKQ-20251123",
                 "expiry_timestamp": "2025-11-28T08:13:08.383724+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "3d",
-                "expiry_timestamp": "2025-11-28T02:39:54.523697+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2025-11-23T08:13:08.383724+00:00",
-        "current_token": "3d",
-        "token_expiry_timestamp": "2025-11-28T02:39:54.523697+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-11-23T08:13:08.383724+00:00"
     },
     "1382344808953024573": {
         "tokens": [
