@@ -4376,5 +4376,18 @@
         "current_token": "BEGINNER-Y2L9-20251128",
         "token_expiry_timestamp": "2025-12-01T19:05:52.073368+00:00",
         "source_alias": "bassic"
+    },
+    "1371089486837977108": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-I1H8-20251128",
+                "expiry_timestamp": "2025-12-03T22:48:17.293785+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-28T22:48:17.293785+00:00",
+        "current_token": "SUBSCRIBER-I1H8-20251128",
+        "token_expiry_timestamp": "2025-12-03T22:48:17.293785+00:00",
+        "source_alias": "bassic"
     }
 }
