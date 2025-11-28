@@ -446,17 +446,7 @@
         "last_claim_timestamp": "2025-10-12T01:41:23.511291+00:00"
     },
     "1320976178894602273": {
-        "last_claim_timestamp": "2025-11-23T04:00:49.567905+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-L6CM-20251123",
-                "expiry_timestamp": "2025-11-28T04:00:49.567905+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-L6CM-20251123",
-        "token_expiry_timestamp": "2025-11-28T04:00:49.567905+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-23T04:00:49.567905+00:00"
     },
     "1409197699676242151": {
         "last_claim_timestamp": "2025-09-22T05:42:36.975349+00:00"
@@ -3974,17 +3964,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "956077675552858132": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-KD6T-20251123",
-                "expiry_timestamp": "2025-11-28T03:26:57.905938+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-23T03:26:57.905938+00:00",
-        "current_token": "SUBSCRIBER-KD6T-20251123",
-        "token_expiry_timestamp": "2025-11-28T03:26:57.905938+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-23T03:26:57.905938+00:00"
     },
     "1418687761334141042": {
         "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00"
