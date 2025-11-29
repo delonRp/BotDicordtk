@@ -3913,11 +3913,17 @@
                 "expiry_timestamp": "2025-12-29T13:20:02.623773+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "man",
+                "expiry_timestamp": "2025-12-29T13:20:19.077630+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "man",
-        "token_expiry_timestamp": "2025-12-29T13:20:02.623773+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-29T13:20:19.077630+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1425624793251577946": {
