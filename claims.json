@@ -140,11 +140,6 @@
         "last_claim_timestamp": "2025-11-24T10:15:50.577028+00:00",
         "tokens": [
             {
-                "token": "SUBSCRIBER-JQIS-20251124",
-                "expiry_timestamp": "2025-11-29T10:15:50.577028+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "xen",
                 "expiry_timestamp": "2026-02-02T00:09:12.787950+00:00",
                 "source_alias": "vip",
@@ -4095,17 +4090,7 @@
         "source_alias": "bassic"
     },
     "1330368430011977770": {
-        "tokens": [
-            {
-                "token": "BEGINNER-YAYR-20251126",
-                "expiry_timestamp": "2025-11-29T11:46:10.077249+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-26T11:46:10.077249+00:00",
-        "current_token": "BEGINNER-YAYR-20251126",
-        "token_expiry_timestamp": "2025-11-29T11:46:10.077249+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-26T11:46:10.077249+00:00"
     },
     "1418231207325466775": {
         "tokens": [
