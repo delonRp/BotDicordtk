@@ -4619,5 +4619,18 @@
         "current_token": "SUBSCRIBER-I7RI-20251129",
         "token_expiry_timestamp": "2025-12-04T19:04:54.125732+00:00",
         "source_alias": "bassic"
+    },
+    "1441212675416658142": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-B7O1-20251129",
+                "expiry_timestamp": "2025-12-06T22:43:36.232434+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-29T22:43:36.232434+00:00",
+        "current_token": "INNERCIRCLE-B7O1-20251129",
+        "token_expiry_timestamp": "2025-12-06T22:43:36.232434+00:00",
+        "source_alias": "bassic"
     }
 }
