@@ -143,11 +143,18 @@
                 "token": "SUBSCRIBER-JQIS-20251124",
                 "expiry_timestamp": "2025-11-29T10:15:50.577028+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "xen",
+                "expiry_timestamp": "2026-02-02T00:09:12.787950+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "SUBSCRIBER-JQIS-20251124",
-        "token_expiry_timestamp": "2025-11-29T10:15:50.577028+00:00",
-        "source_alias": "bassic"
+        "current_token": "xen",
+        "token_expiry_timestamp": "2026-02-02T00:09:12.787950+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1198418923931041805": {
         "last_claim_timestamp": "2025-09-20T08:52:10.075876+00:00"
