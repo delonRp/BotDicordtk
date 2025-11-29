@@ -3711,7 +3711,17 @@
         "last_claim_timestamp": "2025-11-17T14:48:52.389726+00:00"
     },
     "1345533820706750577": {
-        "last_claim_timestamp": "2025-11-17T16:27:01.034005+00:00"
+        "last_claim_timestamp": "2025-11-29T18:22:37.375563+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-FRZB-20251129",
+                "expiry_timestamp": "2025-12-04T18:22:37.375563+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-FRZB-20251129",
+        "token_expiry_timestamp": "2025-12-04T18:22:37.375563+00:00",
+        "source_alias": "bassic"
     },
     "1218104605632757851": {
         "last_claim_timestamp": "2025-11-18T02:37:39.377392+00:00"
