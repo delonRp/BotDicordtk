@@ -4514,5 +4514,18 @@
         "current_token": "VIP-3BDF-20251129",
         "token_expiry_timestamp": "2025-12-29T16:19:06.015953+00:00",
         "source_alias": "bassic"
+    },
+    "1254392750443331685": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-5OZW-20251129",
+                "expiry_timestamp": "2025-12-06T16:33:25.734178+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-29T16:33:25.734178+00:00",
+        "current_token": "INNERCIRCLE-5OZW-20251129",
+        "token_expiry_timestamp": "2025-12-06T16:33:25.734178+00:00",
+        "source_alias": "bassic"
     }
 }
