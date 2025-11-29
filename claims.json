@@ -4522,5 +4522,18 @@
         "current_token": "SUBSCRIBER-BJX5-20251129",
         "token_expiry_timestamp": "2025-12-04T08:56:46.074469+00:00",
         "source_alias": "bassic"
+    },
+    "695394564680187924": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BT0L-20251129",
+                "expiry_timestamp": "2025-12-02T11:06:33.913721+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-29T11:06:33.913721+00:00",
+        "current_token": "BEGINNER-BT0L-20251129",
+        "token_expiry_timestamp": "2025-12-02T11:06:33.913721+00:00",
+        "source_alias": "bassic"
     }
 }
