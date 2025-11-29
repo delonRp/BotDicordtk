@@ -518,7 +518,17 @@
         "last_claim_timestamp": "2025-09-22T15:28:35.735917+00:00"
     },
     "1303235494133628949": {
-        "last_claim_timestamp": "2025-09-22T15:43:34.373601+00:00"
+        "last_claim_timestamp": "2025-11-29T19:05:26.702262+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-OPXH-20251129",
+                "expiry_timestamp": "2025-12-02T19:05:26.702262+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-OPXH-20251129",
+        "token_expiry_timestamp": "2025-12-02T19:05:26.702262+00:00",
+        "source_alias": "bassic"
     },
     "886629309568151654": {
         "last_claim_timestamp": "2025-10-20T13:14:18.331927+00:00"
