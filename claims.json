@@ -4519,5 +4519,18 @@
         "current_token": "BEGINNER-J5Q3-20251129",
         "token_expiry_timestamp": "2025-12-02T06:43:46.715301+00:00",
         "source_alias": "bassic"
+    },
+    "1085303664224247859": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BJX5-20251129",
+                "expiry_timestamp": "2025-12-04T08:56:46.074469+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-29T08:56:46.074469+00:00",
+        "current_token": "SUBSCRIBER-BJX5-20251129",
+        "token_expiry_timestamp": "2025-12-04T08:56:46.074469+00:00",
+        "source_alias": "bassic"
     }
 }
