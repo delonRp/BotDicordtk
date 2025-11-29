@@ -4454,5 +4454,18 @@
         "current_token": "SUBSCRIBER-ZK8H-20251129",
         "token_expiry_timestamp": "2025-12-04T05:03:16.825338+00:00",
         "source_alias": "bassic"
+    },
+    "1258988978728599685": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IAJZ-20251129",
+                "expiry_timestamp": "2025-12-02T05:03:35.374179+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-29T05:03:35.374179+00:00",
+        "current_token": "BEGINNER-IAJZ-20251129",
+        "token_expiry_timestamp": "2025-12-02T05:03:35.374179+00:00",
+        "source_alias": "bassic"
     }
 }
