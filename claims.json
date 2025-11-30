@@ -4897,5 +4897,18 @@
         "current_token": "SUBSCRIBER-6QRB-20251130",
         "token_expiry_timestamp": "2025-12-05T11:25:53.221765+00:00",
         "source_alias": "bassic"
+    },
+    "1258031365174198343": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HRRR-20251130",
+                "expiry_timestamp": "2025-12-05T14:39:15.437912+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T14:39:15.437912+00:00",
+        "current_token": "SUBSCRIBER-HRRR-20251130",
+        "token_expiry_timestamp": "2025-12-05T14:39:15.437912+00:00",
+        "source_alias": "bassic"
     }
 }
