@@ -4848,5 +4848,18 @@
         "current_token": "BEGINNER-PUTK-20251130",
         "token_expiry_timestamp": "2025-12-03T05:53:32.223572+00:00",
         "source_alias": "bassic"
+    },
+    "1436197070334595116": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BFP0-20251130",
+                "expiry_timestamp": "2025-12-05T09:42:19.869222+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T09:42:19.869222+00:00",
+        "current_token": "SUBSCRIBER-BFP0-20251130",
+        "token_expiry_timestamp": "2025-12-05T09:42:19.869222+00:00",
+        "source_alias": "bassic"
     }
 }
