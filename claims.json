@@ -4933,5 +4933,18 @@
         "current_token": "SUBSCRIBER-MIKR-20251130",
         "token_expiry_timestamp": "2025-12-05T15:04:45.092068+00:00",
         "source_alias": "bassic"
+    },
+    "1142124314112569466": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ABBE-20251130",
+                "expiry_timestamp": "2025-12-05T15:52:40.935815+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T15:52:40.935815+00:00",
+        "current_token": "SUBSCRIBER-ABBE-20251130",
+        "token_expiry_timestamp": "2025-12-05T15:52:40.935815+00:00",
+        "source_alias": "bassic"
     }
 }
