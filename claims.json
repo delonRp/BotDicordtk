@@ -4946,5 +4946,18 @@
         "current_token": "SUBSCRIBER-ABBE-20251130",
         "token_expiry_timestamp": "2025-12-05T15:52:40.935815+00:00",
         "source_alias": "bassic"
+    },
+    "1380999950313459914": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-AN4L-20251130",
+                "expiry_timestamp": "2025-12-05T16:15:50.035113+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T16:15:50.035113+00:00",
+        "current_token": "SUBSCRIBER-AN4L-20251130",
+        "token_expiry_timestamp": "2025-12-05T16:15:50.035113+00:00",
+        "source_alias": "bassic"
     }
 }
