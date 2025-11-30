@@ -4760,5 +4760,18 @@
         "current_token": "SUBSCRIBER-W1DI-20251130",
         "token_expiry_timestamp": "2025-12-05T03:55:56.160885+00:00",
         "source_alias": "bassic"
+    },
+    "1380535013506027550": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IMPK-20251130",
+                "expiry_timestamp": "2025-12-03T04:42:02.770994+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T04:42:02.770994+00:00",
+        "current_token": "BEGINNER-IMPK-20251130",
+        "token_expiry_timestamp": "2025-12-03T04:42:02.770994+00:00",
+        "source_alias": "bassic"
     }
 }
