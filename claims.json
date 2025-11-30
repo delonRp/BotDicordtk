@@ -4678,5 +4678,18 @@
         "current_token": "SUBSCRIBER-CRVQ-20251130",
         "token_expiry_timestamp": "2025-12-05T02:58:16.153970+00:00",
         "source_alias": "bassic"
+    },
+    "1415757484424953946": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ECEM-20251130",
+                "expiry_timestamp": "2025-12-03T02:59:46.935127+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T02:59:46.935127+00:00",
+        "current_token": "BEGINNER-ECEM-20251130",
+        "token_expiry_timestamp": "2025-12-03T02:59:46.935127+00:00",
+        "source_alias": "bassic"
     }
 }
