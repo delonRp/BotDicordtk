@@ -4959,5 +4959,18 @@
         "current_token": "SUBSCRIBER-AN4L-20251130",
         "token_expiry_timestamp": "2025-12-05T16:15:50.035113+00:00",
         "source_alias": "bassic"
+    },
+    "680752440571723866": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4S4E-20251130",
+                "expiry_timestamp": "2025-12-03T16:18:11.839635+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T16:18:11.839635+00:00",
+        "current_token": "BEGINNER-4S4E-20251130",
+        "token_expiry_timestamp": "2025-12-03T16:18:11.839635+00:00",
+        "source_alias": "bassic"
     }
 }
