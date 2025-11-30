@@ -4835,5 +4835,18 @@
         "current_token": "SUBSCRIBER-U58P-20251130",
         "token_expiry_timestamp": "2025-12-05T05:38:19.066710+00:00",
         "source_alias": "bassic"
+    },
+    "1425000824593059952": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PUTK-20251130",
+                "expiry_timestamp": "2025-12-03T05:53:32.223572+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T05:53:32.223572+00:00",
+        "current_token": "BEGINNER-PUTK-20251130",
+        "token_expiry_timestamp": "2025-12-03T05:53:32.223572+00:00",
+        "source_alias": "bassic"
     }
 }
