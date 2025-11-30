@@ -4910,5 +4910,18 @@
         "current_token": "SUBSCRIBER-HRRR-20251130",
         "token_expiry_timestamp": "2025-12-05T14:39:15.437912+00:00",
         "source_alias": "bassic"
+    },
+    "1418750380942037002": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MIKR-20251130",
+                "expiry_timestamp": "2025-12-05T15:04:45.092068+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T15:04:45.092068+00:00",
+        "current_token": "SUBSCRIBER-MIKR-20251130",
+        "token_expiry_timestamp": "2025-12-05T15:04:45.092068+00:00",
+        "source_alias": "bassic"
     }
 }
