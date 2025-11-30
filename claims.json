@@ -4786,5 +4786,18 @@
         "current_token": "SUBSCRIBER-63VD-20251130",
         "token_expiry_timestamp": "2025-12-05T04:46:02.266109+00:00",
         "source_alias": "bassic"
+    },
+    "1343873263574454313": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7XN3-20251130",
+                "expiry_timestamp": "2025-12-03T04:48:41.122577+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T04:48:41.122577+00:00",
+        "current_token": "BEGINNER-7XN3-20251130",
+        "token_expiry_timestamp": "2025-12-03T04:48:41.122577+00:00",
+        "source_alias": "bassic"
     }
 }
