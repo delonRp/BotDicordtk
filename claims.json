@@ -4665,5 +4665,18 @@
         "current_token": "SUBSCRIBER-T6QI-20251129",
         "token_expiry_timestamp": "2025-12-04T22:58:49.523757+00:00",
         "source_alias": "bassic"
+    },
+    "766611194307280907": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-CRVQ-20251130",
+                "expiry_timestamp": "2025-12-05T02:58:16.153970+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T02:58:16.153970+00:00",
+        "current_token": "SUBSCRIBER-CRVQ-20251130",
+        "token_expiry_timestamp": "2025-12-05T02:58:16.153970+00:00",
+        "source_alias": "bassic"
     }
 }
