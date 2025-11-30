@@ -677,7 +677,17 @@
         "last_claim_timestamp": "2025-10-29T09:15:05.842067+00:00"
     },
     "744012907909611614": {
-        "last_claim_timestamp": "2025-11-18T15:28:13.976798+00:00"
+        "last_claim_timestamp": "2025-11-30T04:49:45.310142+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-2QFI-20251130",
+                "expiry_timestamp": "2025-12-03T04:49:45.310142+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-2QFI-20251130",
+        "token_expiry_timestamp": "2025-12-03T04:49:45.310142+00:00",
+        "source_alias": "bassic"
     },
     "1372995692720689313": {
         "last_claim_timestamp": "2025-09-24T07:15:56.622462+00:00"
