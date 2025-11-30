@@ -4960,5 +4960,18 @@
         "current_token": "BEGINNER-MZ7H-20251130",
         "token_expiry_timestamp": "2025-12-03T18:40:33.122071+00:00",
         "source_alias": "bassic"
+    },
+    "1292342283030630401": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OBFQ-20251130",
+                "expiry_timestamp": "2025-12-03T22:32:51.575967+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-11-30T22:32:51.575967+00:00",
+        "current_token": "BEGINNER-OBFQ-20251130",
+        "token_expiry_timestamp": "2025-12-03T22:32:51.575967+00:00",
+        "source_alias": "bassic"
     }
 }
