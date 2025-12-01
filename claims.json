@@ -5266,5 +5266,18 @@
         "current_token": "BEGINNER-OGDB-20251201",
         "token_expiry_timestamp": "2025-12-04T16:04:58.833968+00:00",
         "source_alias": "bassic"
+    },
+    "1366341284914266183": {
+        "tokens": [
+            {
+                "token": "BEGINNER-FS9D-20251201",
+                "expiry_timestamp": "2025-12-04T17:17:22.345362+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T17:17:22.345362+00:00",
+        "current_token": "BEGINNER-FS9D-20251201",
+        "token_expiry_timestamp": "2025-12-04T17:17:22.345362+00:00",
+        "source_alias": "bassic"
     }
 }
