@@ -5151,5 +5151,18 @@
         "current_token": "INNERCIRCLE-N2NY-20251201",
         "token_expiry_timestamp": "2025-12-08T12:09:23.031397+00:00",
         "source_alias": "bassic"
+    },
+    "1303152298087813170": {
+        "tokens": [
+            {
+                "token": "BEGINNER-GQLJ-20251201",
+                "expiry_timestamp": "2025-12-04T12:24:35.324791+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T12:24:35.324791+00:00",
+        "current_token": "BEGINNER-GQLJ-20251201",
+        "token_expiry_timestamp": "2025-12-04T12:24:35.324791+00:00",
+        "source_alias": "bassic"
     }
 }
