@@ -5099,5 +5099,18 @@
         "current_token": "INNERCIRCLE-WNV2-20251201",
         "token_expiry_timestamp": "2025-12-08T10:42:46.084844+00:00",
         "source_alias": "bassic"
+    },
+    "711668518092800131": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NDE4-20251201",
+                "expiry_timestamp": "2025-12-04T10:56:28.459710+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T10:56:28.459710+00:00",
+        "current_token": "BEGINNER-NDE4-20251201",
+        "token_expiry_timestamp": "2025-12-04T10:56:28.459710+00:00",
+        "source_alias": "bassic"
     }
 }
