@@ -5200,5 +5200,18 @@
         "current_token": "BEGINNER-1CVP-20251201",
         "token_expiry_timestamp": "2025-12-04T12:46:51.501496+00:00",
         "source_alias": "bassic"
+    },
+    "1444292805303472171": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-8NO3-20251201",
+                "expiry_timestamp": "2025-12-08T12:55:14.745336+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T12:55:14.745336+00:00",
+        "current_token": "INNERCIRCLE-8NO3-20251201",
+        "token_expiry_timestamp": "2025-12-08T12:55:14.745336+00:00",
+        "source_alias": "bassic"
     }
 }
