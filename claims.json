@@ -5125,12 +5125,18 @@
                 "expiry_timestamp": "2299-09-15T12:38:30.254263+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "ibal",
+                "expiry_timestamp": "2299-09-15T12:38:52.883036+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-01T11:39:55.045499+00:00",
         "current_token": "ibal",
-        "token_expiry_timestamp": "2299-09-15T12:38:30.254263+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-09-15T12:38:52.883036+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1370334594418868317": {
