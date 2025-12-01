@@ -4312,17 +4312,7 @@
         "source_alias": "bassic"
     },
     "694142483533135955": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ONCM-20251128",
-                "expiry_timestamp": "2025-12-01T04:13:35.979758+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-28T04:13:35.979758+00:00",
-        "current_token": "BEGINNER-ONCM-20251128",
-        "token_expiry_timestamp": "2025-12-01T04:13:35.979758+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-28T04:13:35.979758+00:00"
     },
     "1422235943888224299": {
         "tokens": [
