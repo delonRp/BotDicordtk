@@ -5024,5 +5024,18 @@
         "current_token": "SUBSCRIBER-N8AZ-20251201",
         "token_expiry_timestamp": "2025-12-06T06:52:03.488349+00:00",
         "source_alias": "bassic"
+    },
+    "1019801511095713883": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BWKH-20251201",
+                "expiry_timestamp": "2025-12-06T07:28:44.884622+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T07:28:44.884622+00:00",
+        "current_token": "SUBSCRIBER-BWKH-20251201",
+        "token_expiry_timestamp": "2025-12-06T07:28:44.884622+00:00",
+        "source_alias": "bassic"
     }
 }
