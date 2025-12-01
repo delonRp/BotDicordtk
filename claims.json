@@ -865,10 +865,16 @@
                 "expiry_timestamp": "2025-12-02T03:56:13.915777+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "fi",
+                "expiry_timestamp": "2025-12-02T05:29:14.736217+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "minggu",
-        "token_expiry_timestamp": "2025-12-02T03:56:13.915777+00:00",
+        "current_token": "fi",
+        "token_expiry_timestamp": "2025-12-02T05:29:14.736217+00:00",
         "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
     },
