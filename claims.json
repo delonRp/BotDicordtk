@@ -1222,7 +1222,17 @@
         "last_claim_timestamp": "2025-10-12T13:38:12.939669+00:00"
     },
     "1362327398401577030": {
-        "last_claim_timestamp": "2025-10-19T05:41:59.114872+00:00"
+        "last_claim_timestamp": "2025-12-01T14:48:52.607151+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MYOA-20251201",
+                "expiry_timestamp": "2025-12-06T14:48:52.607151+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-MYOA-20251201",
+        "token_expiry_timestamp": "2025-12-06T14:48:52.607151+00:00",
+        "source_alias": "bassic"
     },
     "1400608761269190736": {
         "last_claim_timestamp": "2025-09-29T13:32:33.325498+00:00"
