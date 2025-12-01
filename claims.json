@@ -5243,5 +5243,18 @@
         "current_token": "BEGINNER-RJ1Z-20251201",
         "token_expiry_timestamp": "2025-12-04T15:29:14.343315+00:00",
         "source_alias": "bassic"
+    },
+    "1219333272950014098": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OGDB-20251201",
+                "expiry_timestamp": "2025-12-04T16:04:58.833968+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-01T16:04:58.833968+00:00",
+        "current_token": "BEGINNER-OGDB-20251201",
+        "token_expiry_timestamp": "2025-12-04T16:04:58.833968+00:00",
+        "source_alias": "bassic"
     }
 }
