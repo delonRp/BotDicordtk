@@ -3996,7 +3996,17 @@
         "last_claim_timestamp": "2025-11-21T04:03:12.149917+00:00"
     },
     "1421124621918539797": {
-        "last_claim_timestamp": "2025-11-21T04:21:44.242338+00:00"
+        "last_claim_timestamp": "2025-12-01T11:23:29.907382+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-9C12-20251201",
+                "expiry_timestamp": "2025-12-08T11:23:29.907382+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-9C12-20251201",
+        "token_expiry_timestamp": "2025-12-08T11:23:29.907382+00:00",
+        "source_alias": "bassic"
     },
     "1439942974828970154": {
         "last_claim_timestamp": "2025-11-21T04:26:12.849817+00:00"
