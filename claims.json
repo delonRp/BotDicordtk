@@ -5308,5 +5308,18 @@
         "current_token": "BEGINNER-OVQO-20251202",
         "token_expiry_timestamp": "2025-12-05T03:14:02.151489+00:00",
         "source_alias": "bassic"
+    },
+    "1410812215216570378": {
+        "tokens": [
+            {
+                "token": "BEGINNER-X4JE-20251202",
+                "expiry_timestamp": "2025-12-05T05:48:20.261448+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-02T05:48:20.261448+00:00",
+        "current_token": "BEGINNER-X4JE-20251202",
+        "token_expiry_timestamp": "2025-12-05T05:48:20.261448+00:00",
+        "source_alias": "bassic"
     }
 }
