@@ -4481,17 +4481,7 @@
         "last_claim_timestamp": "2025-11-29T00:23:00.424873+00:00"
     },
     "1390677907310903387": {
-        "tokens": [
-            {
-                "token": "BEGINNER-DIUY-20251129",
-                "expiry_timestamp": "2025-12-02T01:40:10.863290+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-29T01:40:10.863290+00:00",
-        "current_token": "BEGINNER-DIUY-20251129",
-        "token_expiry_timestamp": "2025-12-02T01:40:10.863290+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-29T01:40:10.863290+00:00"
     },
     "1391321230061080587": {
         "tokens": [
