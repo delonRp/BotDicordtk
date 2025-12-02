@@ -5326,5 +5326,18 @@
         "current_token": "BEGINNER-JSSJ-20251202",
         "token_expiry_timestamp": "2025-12-05T11:27:21.486944+00:00",
         "source_alias": "bassic"
+    },
+    "976102418343415878": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-7ADX-20251202",
+                "expiry_timestamp": "2025-12-09T11:54:33.781432+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-02T11:54:33.781432+00:00",
+        "current_token": "INNERCIRCLE-7ADX-20251202",
+        "token_expiry_timestamp": "2025-12-09T11:54:33.781432+00:00",
+        "source_alias": "bassic"
     }
 }
