@@ -5301,5 +5301,18 @@
         "current_token": "INNERCIRCLE-V6VD-20251201",
         "token_expiry_timestamp": "2025-12-08T23:57:41.222939+00:00",
         "source_alias": "bassic"
+    },
+    "1393821954473197670": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OVQO-20251202",
+                "expiry_timestamp": "2025-12-05T03:14:02.151489+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-02T03:14:02.151489+00:00",
+        "current_token": "BEGINNER-OVQO-20251202",
+        "token_expiry_timestamp": "2025-12-05T03:14:02.151489+00:00",
+        "source_alias": "bassic"
     }
 }
