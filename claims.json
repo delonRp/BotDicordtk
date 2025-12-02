@@ -5320,12 +5320,19 @@
                 "token": "BEGINNER-JSSJ-20251202",
                 "expiry_timestamp": "2025-12-05T11:27:21.486944+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "keren",
+                "expiry_timestamp": "2025-12-17T13:39:35.460101+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-02T11:27:21.486944+00:00",
-        "current_token": "BEGINNER-JSSJ-20251202",
-        "token_expiry_timestamp": "2025-12-05T11:27:21.486944+00:00",
-        "source_alias": "bassic"
+        "current_token": "keren",
+        "token_expiry_timestamp": "2025-12-17T13:39:35.460101+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "976102418343415878": {
         "tokens": [
