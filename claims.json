@@ -5334,5 +5334,18 @@
         "current_token": "INNERCIRCLE-RD68-20251202",
         "token_expiry_timestamp": "2025-12-09T06:08:46.784625+00:00",
         "source_alias": "bassic"
+    },
+    "1333358628379557891": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-R3ZC-20251202",
+                "expiry_timestamp": "2025-12-07T07:13:58.972900+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-02T07:13:58.972900+00:00",
+        "current_token": "SUBSCRIBER-R3ZC-20251202",
+        "token_expiry_timestamp": "2025-12-07T07:13:58.972900+00:00",
+        "source_alias": "bassic"
     }
 }
