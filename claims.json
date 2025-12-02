@@ -5326,12 +5326,18 @@
                 "expiry_timestamp": "2025-12-17T13:39:35.460101+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "keren",
+                "expiry_timestamp": "2025-12-17T13:40:33.533428+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-02T11:27:21.486944+00:00",
         "current_token": "keren",
-        "token_expiry_timestamp": "2025-12-17T13:39:35.460101+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-17T13:40:33.533428+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "976102418343415878": {
