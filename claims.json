@@ -223,11 +223,17 @@
                 "expiry_timestamp": "2026-01-01T03:09:18.741488+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "von",
+                "expiry_timestamp": "2026-01-01T03:10:04.434041+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "von",
-        "token_expiry_timestamp": "2026-01-01T03:09:18.741488+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-01-01T03:10:04.434041+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1408561494643183738": {
