@@ -5365,5 +5365,18 @@
         "current_token": "BEGINNER-BYZX-20251202",
         "token_expiry_timestamp": "2025-12-05T13:04:27.838896+00:00",
         "source_alias": "bassic"
+    },
+    "1427278782191898735": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RYK3-20251202",
+                "expiry_timestamp": "2025-12-05T13:50:31.460805+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-02T13:50:31.460805+00:00",
+        "current_token": "BEGINNER-RYK3-20251202",
+        "token_expiry_timestamp": "2025-12-05T13:50:31.460805+00:00",
+        "source_alias": "bassic"
     }
 }
