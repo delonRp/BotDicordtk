@@ -3294,25 +3294,7 @@
         "last_claim_timestamp": "2025-11-02T21:14:19.748816+00:00"
     },
     "1422858865711644683": {
-        "tokens": [
-            {
-                "token": "farel",
-                "expiry_timestamp": "2025-12-03T02:40:02.187788+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 856022445747994664
-            },
-            {
-                "token": "farel",
-                "expiry_timestamp": "2025-12-03T02:40:30.420099+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 856022445747994664
-            }
-        ],
-        "last_claim_timestamp": "2025-11-02T21:36:57.634386+00:00",
-        "current_token": "farel",
-        "token_expiry_timestamp": "2025-12-03T02:40:30.420099+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 856022445747994664
+        "last_claim_timestamp": "2025-11-02T21:36:57.634386+00:00"
     },
     "1365805800966193253": {
         "last_claim_timestamp": "2025-11-02T22:41:53.799397+00:00"
@@ -3460,17 +3442,7 @@
         "last_claim_timestamp": "2025-11-06T11:47:35.867598+00:00"
     },
     "1255109561006686302": {
-        "last_claim_timestamp": "2025-11-28T02:35:57.337177+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NS37-20251128",
-                "expiry_timestamp": "2025-12-03T02:35:57.337177+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-NS37-20251128",
-        "token_expiry_timestamp": "2025-12-03T02:35:57.337177+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-28T02:35:57.337177+00:00"
     },
     "1412769653574602834": {
         "last_claim_timestamp": "2025-11-06T23:52:30.191927+00:00"
@@ -4562,17 +4534,7 @@
         "source_alias": "bassic"
     },
     "1415757484424953946": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ECEM-20251130",
-                "expiry_timestamp": "2025-12-03T02:59:46.935127+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-30T02:59:46.935127+00:00",
-        "current_token": "BEGINNER-ECEM-20251130",
-        "token_expiry_timestamp": "2025-12-03T02:59:46.935127+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T02:59:46.935127+00:00"
     },
     "1403635638087192596": {
         "tokens": [
