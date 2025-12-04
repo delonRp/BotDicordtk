@@ -4871,17 +4871,7 @@
         "source_alias": "bassic"
     },
     "1379834532487888916": {
-        "tokens": [
-            {
-                "token": "BEGINNER-QTXP-20251201",
-                "expiry_timestamp": "2025-12-04T14:29:11.136063+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-01T14:29:11.136063+00:00",
-        "current_token": "BEGINNER-QTXP-20251201",
-        "token_expiry_timestamp": "2025-12-04T14:29:11.136063+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-01T14:29:11.136063+00:00"
     },
     "1431975391723130950": {
         "tokens": [
