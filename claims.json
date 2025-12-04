@@ -214,11 +214,6 @@
         "last_claim_timestamp": "2025-11-29T18:18:44.399061+00:00",
         "tokens": [
             {
-                "token": "SUBSCRIBER-WN51-20251129",
-                "expiry_timestamp": "2025-12-04T18:18:44.399061+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "von",
                 "expiry_timestamp": "2026-01-01T03:09:18.741488+00:00",
                 "source_alias": "vip",
@@ -1548,17 +1543,7 @@
         "last_claim_timestamp": "2025-10-18T17:26:08.492918+00:00"
     },
     "1208503331685802068": {
-        "last_claim_timestamp": "2025-11-29T18:37:26.729651+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-8DQJ-20251129",
-                "expiry_timestamp": "2025-12-04T18:37:26.729651+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-8DQJ-20251129",
-        "token_expiry_timestamp": "2025-12-04T18:37:26.729651+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-29T18:37:26.729651+00:00"
     },
     "1413701911911202881": {
         "last_claim_timestamp": "2025-10-05T23:05:42.945315+00:00"
@@ -3943,17 +3928,7 @@
         "last_claim_timestamp": "2025-11-17T14:48:52.389726+00:00"
     },
     "1345533820706750577": {
-        "last_claim_timestamp": "2025-11-29T18:22:37.375563+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-FRZB-20251129",
-                "expiry_timestamp": "2025-12-04T18:22:37.375563+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-FRZB-20251129",
-        "token_expiry_timestamp": "2025-12-04T18:22:37.375563+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-29T18:22:37.375563+00:00"
     },
     "1218104605632757851": {
         "last_claim_timestamp": "2025-11-18T02:37:39.377392+00:00"
@@ -4465,17 +4440,7 @@
         "last_claim_timestamp": "2025-11-29T18:35:38.116677+00:00"
     },
     "932895575798599700": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-I7RI-20251129",
-                "expiry_timestamp": "2025-12-04T19:04:54.125732+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-29T19:04:54.125732+00:00",
-        "current_token": "SUBSCRIBER-I7RI-20251129",
-        "token_expiry_timestamp": "2025-12-04T19:04:54.125732+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-29T19:04:54.125732+00:00"
     },
     "1441212675416658142": {
         "tokens": [
