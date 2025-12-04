@@ -688,11 +688,18 @@
                 "token": "BEGINNER-L2PC-20251203",
                 "expiry_timestamp": "2025-12-06T06:38:33.820493+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "fen",
+                "expiry_timestamp": "2299-09-18T03:47:03.353749+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "BEGINNER-L2PC-20251203",
-        "token_expiry_timestamp": "2025-12-06T06:38:33.820493+00:00",
-        "source_alias": "bassic"
+        "current_token": "fen",
+        "token_expiry_timestamp": "2299-09-18T03:47:03.353749+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1391149048651583508": {
         "last_claim_timestamp": "2025-09-23T22:33:48.747507+00:00"
