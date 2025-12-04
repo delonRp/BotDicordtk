@@ -694,11 +694,17 @@
                 "expiry_timestamp": "2299-09-18T03:47:03.353749+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "fen",
+                "expiry_timestamp": "2299-09-18T03:47:43.487492+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "fen",
-        "token_expiry_timestamp": "2299-09-18T03:47:03.353749+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-09-18T03:47:43.487492+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1391149048651583508": {
