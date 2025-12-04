@@ -5569,5 +5569,18 @@
         "token_expiry_timestamp": "4763-10-31T10:50:16.390255+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1308002519238185046": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-FXAY-20251204",
+                "expiry_timestamp": "2025-12-09T11:11:08.905657+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-04T11:11:08.905657+00:00",
+        "current_token": "SUBSCRIBER-FXAY-20251204",
+        "token_expiry_timestamp": "2025-12-09T11:11:08.905657+00:00",
+        "source_alias": "bassic"
     }
 }
