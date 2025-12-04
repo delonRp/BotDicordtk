@@ -5465,12 +5465,19 @@
                 "token": "BEGINNER-MP9L-20251204",
                 "expiry_timestamp": "2025-12-07T05:24:10.916607+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "job",
+                "expiry_timestamp": "2299-09-18T06:01:28.098313+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-04T05:24:10.916607+00:00",
-        "current_token": "BEGINNER-MP9L-20251204",
-        "token_expiry_timestamp": "2025-12-07T05:24:10.916607+00:00",
-        "source_alias": "bassic"
+        "current_token": "job",
+        "token_expiry_timestamp": "2299-09-18T06:01:28.098313+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1441038781397471285": {
         "tokens": [
