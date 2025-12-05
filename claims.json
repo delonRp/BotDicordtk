@@ -5529,5 +5529,18 @@
         "current_token": "BEGINNER-44SY-20251205",
         "token_expiry_timestamp": "2025-12-08T13:01:11.220147+00:00",
         "source_alias": "bassic"
+    },
+    "633896571922153473": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-K7UL-20251205",
+                "expiry_timestamp": "2025-12-10T13:58:24.979509+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-05T13:58:24.979509+00:00",
+        "current_token": "SUBSCRIBER-K7UL-20251205",
+        "token_expiry_timestamp": "2025-12-10T13:58:24.979509+00:00",
+        "source_alias": "bassic"
     }
 }
