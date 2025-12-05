@@ -2750,17 +2750,7 @@
         "last_claim_timestamp": "2025-10-24T06:17:21.792669+00:00"
     },
     "1310566414968422412": {
-        "last_claim_timestamp": "2025-11-30T11:58:33.699416+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-TZ20-20251130",
-                "expiry_timestamp": "2025-12-05T11:58:33.699416+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-TZ20-20251130",
-        "token_expiry_timestamp": "2025-12-05T11:58:33.699416+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T11:58:33.699416+00:00"
     },
     "1373492602464243782": {
         "last_claim_timestamp": "2025-10-24T07:51:54.306299+00:00"
@@ -4458,17 +4448,7 @@
         "last_claim_timestamp": "2025-11-30T10:14:14.038977+00:00"
     },
     "1418926742768189481": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-6QRB-20251130",
-                "expiry_timestamp": "2025-12-05T11:25:53.221765+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-30T11:25:53.221765+00:00",
-        "current_token": "SUBSCRIBER-6QRB-20251130",
-        "token_expiry_timestamp": "2025-12-05T11:25:53.221765+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T11:25:53.221765+00:00"
     },
     "1258031365174198343": {
         "tokens": [
@@ -4819,11 +4799,6 @@
     },
     "1445321084097400954": {
         "tokens": [
-            {
-                "token": "BEGINNER-JSSJ-20251202",
-                "expiry_timestamp": "2025-12-05T11:27:21.486944+00:00",
-                "source_alias": "bassic"
-            },
             {
                 "token": "keren",
                 "expiry_timestamp": "2025-12-17T13:39:35.460101+00:00",
