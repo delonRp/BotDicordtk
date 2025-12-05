@@ -5482,5 +5482,18 @@
         "current_token": "SUBSCRIBER-K7UL-20251205",
         "token_expiry_timestamp": "2025-12-10T13:58:24.979509+00:00",
         "source_alias": "bassic"
+    },
+    "868019626204872726": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-HPCD-20251205",
+                "expiry_timestamp": "2025-12-10T22:43:45.067811+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-05T22:43:45.067811+00:00",
+        "current_token": "SUBSCRIBER-HPCD-20251205",
+        "token_expiry_timestamp": "2025-12-10T22:43:45.067811+00:00",
+        "source_alias": "bassic"
     }
 }
