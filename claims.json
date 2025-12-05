@@ -3441,17 +3441,7 @@
         "last_claim_timestamp": "2025-11-07T12:07:46.616291+00:00"
     },
     "1258703399290142823": {
-        "last_claim_timestamp": "2025-11-30T15:30:02.654419+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-9VO6-20251130",
-                "expiry_timestamp": "2025-12-05T15:30:02.654419+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-9VO6-20251130",
-        "token_expiry_timestamp": "2025-12-05T15:30:02.654419+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T15:30:02.654419+00:00"
     },
     "1424182037283213383": {
         "last_claim_timestamp": "2025-11-07T14:42:20.871245+00:00"
@@ -4457,30 +4447,10 @@
         "last_claim_timestamp": "2025-11-30T15:04:45.092068+00:00"
     },
     "1142124314112569466": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ABBE-20251130",
-                "expiry_timestamp": "2025-12-05T15:52:40.935815+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-30T15:52:40.935815+00:00",
-        "current_token": "SUBSCRIBER-ABBE-20251130",
-        "token_expiry_timestamp": "2025-12-05T15:52:40.935815+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T15:52:40.935815+00:00"
     },
     "1380999950313459914": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-AN4L-20251130",
-                "expiry_timestamp": "2025-12-05T16:15:50.035113+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-11-30T16:15:50.035113+00:00",
-        "current_token": "SUBSCRIBER-AN4L-20251130",
-        "token_expiry_timestamp": "2025-12-05T16:15:50.035113+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-11-30T16:15:50.035113+00:00"
     },
     "680752440571723866": {
         "last_claim_timestamp": "2025-11-30T16:18:11.839635+00:00"
