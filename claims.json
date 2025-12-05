@@ -5538,5 +5538,18 @@
         "current_token": "BEGINNER-MMUN-20251205",
         "token_expiry_timestamp": "2025-12-08T11:02:25.035021+00:00",
         "source_alias": "bassic"
+    },
+    "1386494580664438826": {
+        "tokens": [
+            {
+                "token": "BEGINNER-J6A9-20251205",
+                "expiry_timestamp": "2025-12-08T11:48:39.113335+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-05T11:48:39.113335+00:00",
+        "current_token": "BEGINNER-J6A9-20251205",
+        "token_expiry_timestamp": "2025-12-08T11:48:39.113335+00:00",
+        "source_alias": "bassic"
     }
 }
