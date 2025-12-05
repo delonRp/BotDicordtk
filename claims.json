@@ -5522,5 +5522,18 @@
         "current_token": "BEGINNER-WTLU-20251205",
         "token_expiry_timestamp": "2025-12-08T08:51:22.556556+00:00",
         "source_alias": "bassic"
+    },
+    "1380163347227476008": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-D25N-20251205",
+                "expiry_timestamp": "2025-12-10T09:37:57.661792+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-05T09:37:57.661792+00:00",
+        "current_token": "SUBSCRIBER-D25N-20251205",
+        "token_expiry_timestamp": "2025-12-10T09:37:57.661792+00:00",
+        "source_alias": "bassic"
     }
 }
