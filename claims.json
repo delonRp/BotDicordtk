@@ -4825,17 +4825,7 @@
         "last_claim_timestamp": "2025-12-02T07:36:02.997021+00:00"
     },
     "1400050220838162514": {
-        "tokens": [
-            {
-                "token": "BEGINNER-IIRF-20251202",
-                "expiry_timestamp": "2025-12-05T08:32:33.493695+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-02T08:32:33.493695+00:00",
-        "current_token": "BEGINNER-IIRF-20251202",
-        "token_expiry_timestamp": "2025-12-05T08:32:33.493695+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-02T08:32:33.493695+00:00"
     },
     "1445321084097400954": {
         "tokens": [
