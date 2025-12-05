@@ -5525,5 +5525,18 @@
         "current_token": "SUBSCRIBER-D25N-20251205",
         "token_expiry_timestamp": "2025-12-10T09:37:57.661792+00:00",
         "source_alias": "bassic"
+    },
+    "1350828748668141619": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MMUN-20251205",
+                "expiry_timestamp": "2025-12-08T11:02:25.035021+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-05T11:02:25.035021+00:00",
+        "current_token": "BEGINNER-MMUN-20251205",
+        "token_expiry_timestamp": "2025-12-08T11:02:25.035021+00:00",
+        "source_alias": "bassic"
     }
 }
