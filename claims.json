@@ -2358,11 +2358,17 @@
                 "expiry_timestamp": "4763-11-02T08:00:22.272085+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "saw",
+                "expiry_timestamp": "4763-11-02T08:00:46.514814+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "saw",
-        "token_expiry_timestamp": "4763-11-02T08:00:22.272085+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "4763-11-02T08:00:46.514814+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1415873230857703566": {
