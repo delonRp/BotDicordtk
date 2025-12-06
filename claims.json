@@ -4516,17 +4516,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1379714394769981481": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OJ20-20251201",
-                "expiry_timestamp": "2025-12-06T03:28:00.818183+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-01T03:28:00.818183+00:00",
-        "current_token": "SUBSCRIBER-OJ20-20251201",
-        "token_expiry_timestamp": "2025-12-06T03:28:00.818183+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-01T03:28:00.818183+00:00"
     },
     "584424927986319452": {
         "last_claim_timestamp": "2025-12-01T04:11:48.946087+00:00"
@@ -4871,17 +4861,7 @@
         "source_alias": "bassic"
     },
     "1190302352327053436": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ZZ91-20251203",
-                "expiry_timestamp": "2025-12-06T03:58:39.720121+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-03T03:58:39.720121+00:00",
-        "current_token": "BEGINNER-ZZ91-20251203",
-        "token_expiry_timestamp": "2025-12-06T03:58:39.720121+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-03T03:58:39.720121+00:00"
     },
     "1422084882083090473": {
         "tokens": [
