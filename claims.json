@@ -5564,5 +5564,18 @@
         "current_token": "SUBSCRIBER-VW5G-20251206",
         "token_expiry_timestamp": "2025-12-11T04:46:01.723491+00:00",
         "source_alias": "bassic"
+    },
+    "940978319493570600": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KY8Z-20251206",
+                "expiry_timestamp": "2025-12-11T06:23:20.098502+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-06T06:23:20.098502+00:00",
+        "current_token": "SUBSCRIBER-KY8Z-20251206",
+        "token_expiry_timestamp": "2025-12-11T06:23:20.098502+00:00",
+        "source_alias": "bassic"
     }
 }
