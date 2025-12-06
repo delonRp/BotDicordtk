@@ -5552,5 +5552,18 @@
         "current_token": "BEGINNER-H2AK-20251206",
         "token_expiry_timestamp": "2025-12-09T02:41:55.959317+00:00",
         "source_alias": "bassic"
+    },
+    "1323595377705881711": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-MHK0-20251206",
+                "expiry_timestamp": "2025-12-13T03:19:00.151794+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-06T03:19:00.151794+00:00",
+        "current_token": "INNERCIRCLE-MHK0-20251206",
+        "token_expiry_timestamp": "2025-12-13T03:19:00.151794+00:00",
+        "source_alias": "bassic"
     }
 }
