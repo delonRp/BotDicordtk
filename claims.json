@@ -5542,5 +5542,18 @@
         "current_token": "SUBSCRIBER-GF4R-20251206",
         "token_expiry_timestamp": "2025-12-11T19:02:21.722825+00:00",
         "source_alias": "bassic"
+    },
+    "413680652437946370": {
+        "tokens": [
+            {
+                "token": "BEGINNER-U0VT-20251206",
+                "expiry_timestamp": "2025-12-09T19:41:19.262600+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-06T19:41:19.262600+00:00",
+        "current_token": "BEGINNER-U0VT-20251206",
+        "token_expiry_timestamp": "2025-12-09T19:41:19.262600+00:00",
+        "source_alias": "bassic"
     }
 }
