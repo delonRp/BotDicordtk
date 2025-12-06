@@ -3631,11 +3631,17 @@
                 "expiry_timestamp": "2299-09-20T00:07:00.727709+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "mal",
+                "expiry_timestamp": "2299-09-20T00:07:31.375348+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "mal",
-        "token_expiry_timestamp": "2299-09-20T00:07:00.727709+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-09-20T00:07:31.375348+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1231462627759095930": {
