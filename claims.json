@@ -4852,17 +4852,7 @@
         "last_claim_timestamp": "2025-12-03T16:15:09.955144+00:00"
     },
     "1257361870491353088": {
-        "tokens": [
-            {
-                "token": "BEGINNER-PLEZ-20251203",
-                "expiry_timestamp": "2025-12-06T18:03:04.704551+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-03T18:03:04.704551+00:00",
-        "current_token": "BEGINNER-PLEZ-20251203",
-        "token_expiry_timestamp": "2025-12-06T18:03:04.704551+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-03T18:03:04.704551+00:00"
     },
     "1422798000161292379": {
         "tokens": [
