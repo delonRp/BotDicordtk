@@ -680,11 +680,6 @@
         "last_claim_timestamp": "2025-12-03T06:38:33.820493+00:00",
         "tokens": [
             {
-                "token": "BEGINNER-L2PC-20251203",
-                "expiry_timestamp": "2025-12-06T06:38:33.820493+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "fen",
                 "expiry_timestamp": "2299-09-18T03:47:03.353749+00:00",
                 "source_alias": "vip",
@@ -1008,11 +1003,6 @@
     "1130051089903927296": {
         "last_claim_timestamp": "2025-11-29T06:33:10.577069+00:00",
         "tokens": [
-            {
-                "token": "INNERCIRCLE-3U1C-20251129",
-                "expiry_timestamp": "2025-12-06T06:33:10.577069+00:00",
-                "source_alias": "bassic"
-            },
             {
                 "token": "abah",
                 "expiry_timestamp": "2025-12-29T12:27:39.969378+00:00",
@@ -4512,17 +4502,7 @@
         "last_claim_timestamp": "2025-12-01T04:11:48.946087+00:00"
     },
     "1327109804967071846": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-N8AZ-20251201",
-                "expiry_timestamp": "2025-12-06T06:52:03.488349+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-01T06:52:03.488349+00:00",
-        "current_token": "SUBSCRIBER-N8AZ-20251201",
-        "token_expiry_timestamp": "2025-12-06T06:52:03.488349+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-01T06:52:03.488349+00:00"
     },
     "1019801511095713883": {
         "tokens": [
@@ -4857,17 +4837,7 @@
         "last_claim_timestamp": "2025-12-03T06:12:30.366752+00:00"
     },
     "1177366053261692938": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ZB4R-20251203",
-                "expiry_timestamp": "2025-12-06T07:22:19.167167+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-03T07:22:19.167167+00:00",
-        "current_token": "BEGINNER-ZB4R-20251203",
-        "token_expiry_timestamp": "2025-12-06T07:22:19.167167+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-03T07:22:19.167167+00:00"
     },
     "1292719053835866168": {
         "tokens": [
