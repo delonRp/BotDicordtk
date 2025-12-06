@@ -5518,5 +5518,18 @@
         "current_token": "SUBSCRIBER-HPCD-20251205",
         "token_expiry_timestamp": "2025-12-10T22:43:45.067811+00:00",
         "source_alias": "bassic"
+    },
+    "1415954256313188452": {
+        "tokens": [
+            {
+                "token": "BEGINNER-I66L-20251206",
+                "expiry_timestamp": "2025-12-09T00:55:09.579966+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-06T00:55:09.579966+00:00",
+        "current_token": "BEGINNER-I66L-20251206",
+        "token_expiry_timestamp": "2025-12-09T00:55:09.579966+00:00",
+        "source_alias": "bassic"
     }
 }
