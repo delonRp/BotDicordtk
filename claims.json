@@ -5539,5 +5539,18 @@
         "current_token": "BEGINNER-BCXM-20251206",
         "token_expiry_timestamp": "2025-12-09T01:10:40.599631+00:00",
         "source_alias": "bassic"
+    },
+    "1403269555840614501": {
+        "tokens": [
+            {
+                "token": "BEGINNER-H2AK-20251206",
+                "expiry_timestamp": "2025-12-09T02:41:55.959317+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-06T02:41:55.959317+00:00",
+        "current_token": "BEGINNER-H2AK-20251206",
+        "token_expiry_timestamp": "2025-12-09T02:41:55.959317+00:00",
+        "source_alias": "bassic"
     }
 }
