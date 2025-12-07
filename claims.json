@@ -5560,5 +5560,18 @@
         "current_token": "SUBSCRIBER-LJG4-20251207",
         "token_expiry_timestamp": "2025-12-12T11:27:24.708338+00:00",
         "source_alias": "bassic"
+    },
+    "1336227533137510420": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ZT8Y-20251207",
+                "expiry_timestamp": "2025-12-10T11:34:49.963197+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-07T11:34:49.963197+00:00",
+        "current_token": "BEGINNER-ZT8Y-20251207",
+        "token_expiry_timestamp": "2025-12-10T11:34:49.963197+00:00",
+        "source_alias": "bassic"
     }
 }
