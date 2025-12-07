@@ -5586,5 +5586,18 @@
         "current_token": "BEGINNER-IKX6-20251207",
         "token_expiry_timestamp": "2025-12-10T11:40:51.290046+00:00",
         "source_alias": "bassic"
+    },
+    "1446144177187455079": {
+        "tokens": [
+            {
+                "token": "BEGINNER-A8X2-20251207",
+                "expiry_timestamp": "2025-12-10T15:51:49.513305+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-07T15:51:49.513305+00:00",
+        "current_token": "BEGINNER-A8X2-20251207",
+        "token_expiry_timestamp": "2025-12-10T15:51:49.513305+00:00",
+        "source_alias": "bassic"
     }
 }
