@@ -5485,5 +5485,18 @@
         "current_token": "BEGINNER-JUJ1-20251207",
         "token_expiry_timestamp": "2025-12-10T06:12:21.939041+00:00",
         "source_alias": "bassic"
+    },
+    "1239074039746793523": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-L0WV-20251207",
+                "expiry_timestamp": "2025-12-12T08:45:52.215771+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-07T08:45:52.215771+00:00",
+        "current_token": "SUBSCRIBER-L0WV-20251207",
+        "token_expiry_timestamp": "2025-12-12T08:45:52.215771+00:00",
+        "source_alias": "bassic"
     }
 }
