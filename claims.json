@@ -5620,5 +5620,18 @@
         "current_token": "BEGINNER-PP2S-20251208",
         "token_expiry_timestamp": "2025-12-11T06:58:15.318709+00:00",
         "source_alias": "bassic"
+    },
+    "1188877555084836864": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QNZY-20251208",
+                "expiry_timestamp": "2025-12-13T09:53:23.171126+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-08T09:53:23.171126+00:00",
+        "current_token": "SUBSCRIBER-QNZY-20251208",
+        "token_expiry_timestamp": "2025-12-13T09:53:23.171126+00:00",
+        "source_alias": "bassic"
     }
 }
