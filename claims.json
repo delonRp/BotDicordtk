@@ -5639,5 +5639,18 @@
         "current_token": "BEGINNER-4PEX-20251208",
         "token_expiry_timestamp": "2025-12-11T11:58:11.289838+00:00",
         "source_alias": "bassic"
+    },
+    "1366834754086768741": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZGIW-20251208",
+                "expiry_timestamp": "2025-12-13T12:14:57.606590+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-08T12:14:57.606590+00:00",
+        "current_token": "SUBSCRIBER-ZGIW-20251208",
+        "token_expiry_timestamp": "2025-12-13T12:14:57.606590+00:00",
+        "source_alias": "bassic"
     }
 }
