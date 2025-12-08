@@ -728,17 +728,7 @@
         "last_claim_timestamp": "2025-10-24T22:31:29.070491+00:00"
     },
     "1413029997899157564": {
-        "last_claim_timestamp": "2025-12-03T07:42:04.125503+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-SF8G-20251203",
-                "expiry_timestamp": "2025-12-08T07:42:04.125503+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-SF8G-20251203",
-        "token_expiry_timestamp": "2025-12-08T07:42:04.125503+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-03T07:42:04.125503+00:00"
     },
     "1288387098591891599": {
         "last_claim_timestamp": "2025-09-24T11:47:33.440914+00:00"
