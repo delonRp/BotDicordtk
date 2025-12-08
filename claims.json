@@ -4484,17 +4484,7 @@
         "last_claim_timestamp": "2025-12-01T12:46:51.501496+00:00"
     },
     "1444292805303472171": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-8NO3-20251201",
-                "expiry_timestamp": "2025-12-08T12:55:14.745336+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-01T12:55:14.745336+00:00",
-        "current_token": "INNERCIRCLE-8NO3-20251201",
-        "token_expiry_timestamp": "2025-12-08T12:55:14.745336+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-01T12:55:14.745336+00:00"
     },
     "1379834532487888916": {
         "last_claim_timestamp": "2025-12-01T14:29:11.136063+00:00"
@@ -4722,17 +4712,7 @@
         "source_alias": "bassic"
     },
     "1422366208119935027": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-J40Y-20251203",
-                "expiry_timestamp": "2025-12-08T12:24:06.879803+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-03T12:24:06.879803+00:00",
-        "current_token": "SUBSCRIBER-J40Y-20251203",
-        "token_expiry_timestamp": "2025-12-08T12:24:06.879803+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-03T12:24:06.879803+00:00"
     },
     "930863213342523494": {
         "tokens": [
@@ -5004,17 +4984,7 @@
         "last_claim_timestamp": "2025-12-05T11:48:39.113335+00:00"
     },
     "1281584580570251327": {
-        "tokens": [
-            {
-                "token": "BEGINNER-44SY-20251205",
-                "expiry_timestamp": "2025-12-08T13:01:11.220147+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-05T13:01:11.220147+00:00",
-        "current_token": "BEGINNER-44SY-20251205",
-        "token_expiry_timestamp": "2025-12-08T13:01:11.220147+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-05T13:01:11.220147+00:00"
     },
     "633896571922153473": {
         "tokens": [
