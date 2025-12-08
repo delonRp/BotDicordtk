@@ -5008,17 +5008,7 @@
         "last_claim_timestamp": "2025-12-04T23:53:28.951400+00:00"
     },
     "1445955944684195902": {
-        "tokens": [
-            {
-                "token": "BEGINNER-PEYW-20251205",
-                "expiry_timestamp": "2025-12-08T01:13:20.069792+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-05T01:13:20.069792+00:00",
-        "current_token": "BEGINNER-PEYW-20251205",
-        "token_expiry_timestamp": "2025-12-08T01:13:20.069792+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-05T01:13:20.069792+00:00"
     },
     "823152889559515137": {
         "tokens": [
