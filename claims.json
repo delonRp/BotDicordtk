@@ -5047,17 +5047,7 @@
         "source_alias": "bassic"
     },
     "1029379486078206032": {
-        "tokens": [
-            {
-                "token": "BEGINNER-WTLU-20251205",
-                "expiry_timestamp": "2025-12-08T08:51:22.556556+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-05T08:51:22.556556+00:00",
-        "current_token": "BEGINNER-WTLU-20251205",
-        "token_expiry_timestamp": "2025-12-08T08:51:22.556556+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-05T08:51:22.556556+00:00"
     },
     "1380163347227476008": {
         "tokens": [
