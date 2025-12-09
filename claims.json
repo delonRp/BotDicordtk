@@ -4740,17 +4740,7 @@
         "last_claim_timestamp": "2025-12-04T05:49:20.358037+00:00"
     },
     "1202260109577691163": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-Y5GZ-20251204",
-                "expiry_timestamp": "2025-12-09T07:30:29.415826+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-04T07:30:29.415826+00:00",
-        "current_token": "SUBSCRIBER-Y5GZ-20251204",
-        "token_expiry_timestamp": "2025-12-09T07:30:29.415826+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-04T07:30:29.415826+00:00"
     },
     "1237765112031477790": {
         "last_claim_timestamp": "2025-12-04T07:59:37.252137+00:00"
@@ -5012,30 +5002,10 @@
         "source_alias": "bassic"
     },
     "840562975063932929": {
-        "tokens": [
-            {
-                "token": "BEGINNER-YUAG-20251206",
-                "expiry_timestamp": "2025-12-09T07:44:42.265359+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-06T07:44:42.265359+00:00",
-        "current_token": "BEGINNER-YUAG-20251206",
-        "token_expiry_timestamp": "2025-12-09T07:44:42.265359+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-06T07:44:42.265359+00:00"
     },
     "1349387996255752314": {
-        "tokens": [
-            {
-                "token": "BEGINNER-4IDR-20251206",
-                "expiry_timestamp": "2025-12-09T08:16:15.234137+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-06T08:16:15.234137+00:00",
-        "current_token": "BEGINNER-4IDR-20251206",
-        "token_expiry_timestamp": "2025-12-09T08:16:15.234137+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-06T08:16:15.234137+00:00"
     },
     "1315607151086927904": {
         "tokens": [
