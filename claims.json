@@ -5540,5 +5540,18 @@
         "current_token": "BEGINNER-4RA9-20251209",
         "token_expiry_timestamp": "2025-12-12T03:30:52.808008+00:00",
         "source_alias": "bassic"
+    },
+    "1045291383130431498": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-P8MI-20251209",
+                "expiry_timestamp": "2025-12-14T05:37:02.474658+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-09T05:37:02.474658+00:00",
+        "current_token": "SUBSCRIBER-P8MI-20251209",
+        "token_expiry_timestamp": "2025-12-14T05:37:02.474658+00:00",
+        "source_alias": "bassic"
     }
 }
