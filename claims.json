@@ -5508,5 +5508,18 @@
         "current_token": "SUBSCRIBER-P9MF-20251209",
         "token_expiry_timestamp": "2025-12-14T13:05:45.602234+00:00",
         "source_alias": "bassic"
+    },
+    "1062377836322766910": {
+        "tokens": [
+            {
+                "token": "BEGINNER-K6ZN-20251209",
+                "expiry_timestamp": "2025-12-12T15:00:59.596272+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-09T15:00:59.596272+00:00",
+        "current_token": "BEGINNER-K6ZN-20251209",
+        "token_expiry_timestamp": "2025-12-12T15:00:59.596272+00:00",
+        "source_alias": "bassic"
     }
 }
