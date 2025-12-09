@@ -5521,5 +5521,18 @@
         "current_token": "SUBSCRIBER-BLA1-20251209",
         "token_expiry_timestamp": "2025-12-14T22:13:09.944445+00:00",
         "source_alias": "bassic"
+    },
+    "858473821710843904": {
+        "tokens": [
+            {
+                "token": "BEGINNER-XZZU-20251209",
+                "expiry_timestamp": "2025-12-12T23:44:51.985928+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-09T23:44:51.985928+00:00",
+        "current_token": "BEGINNER-XZZU-20251209",
+        "token_expiry_timestamp": "2025-12-12T23:44:51.985928+00:00",
+        "source_alias": "bassic"
     }
 }
