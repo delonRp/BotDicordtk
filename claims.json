@@ -5494,5 +5494,18 @@
         "current_token": "BEGINNER-F9EJ-20251210",
         "token_expiry_timestamp": "2025-12-13T14:03:27.936526+00:00",
         "source_alias": "bassic"
+    },
+    "1011536315076051008": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BUNM-20251210",
+                "expiry_timestamp": "2025-12-13T17:30:41.229979+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-10T17:30:41.229979+00:00",
+        "current_token": "BEGINNER-BUNM-20251210",
+        "token_expiry_timestamp": "2025-12-13T17:30:41.229979+00:00",
+        "source_alias": "bassic"
     }
 }
