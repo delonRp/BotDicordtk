@@ -5501,5 +5501,18 @@
         "current_token": "BEGINNER-EWH7-20251210",
         "token_expiry_timestamp": "2025-12-13T13:51:01.485803+00:00",
         "source_alias": "bassic"
+    },
+    "1193847710701326348": {
+        "tokens": [
+            {
+                "token": "BEGINNER-F9EJ-20251210",
+                "expiry_timestamp": "2025-12-13T14:03:27.936526+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-10T14:03:27.936526+00:00",
+        "current_token": "BEGINNER-F9EJ-20251210",
+        "token_expiry_timestamp": "2025-12-13T14:03:27.936526+00:00",
+        "source_alias": "bassic"
     }
 }
