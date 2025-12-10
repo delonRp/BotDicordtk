@@ -4141,17 +4141,7 @@
         "last_claim_timestamp": "2025-11-27T08:45:24.342835+00:00"
     },
     "1432866985427079231": {
-        "last_claim_timestamp": "2025-12-05T08:39:17.320627+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-H5HO-20251205",
-                "expiry_timestamp": "2025-12-10T08:39:17.320627+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-H5HO-20251205",
-        "token_expiry_timestamp": "2025-12-10T08:39:17.320627+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-05T08:39:17.320627+00:00"
     },
     "1437987241732472905": {
         "last_claim_timestamp": "2025-11-27T16:32:32.756822+00:00"
