@@ -4564,7 +4564,17 @@
         "last_claim_timestamp": "2025-12-03T03:10:13.712030+00:00"
     },
     "1190302352327053436": {
-        "last_claim_timestamp": "2025-12-03T03:58:39.720121+00:00"
+        "last_claim_timestamp": "2025-12-10T16:22:13.435121+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-ITEQ-20251210",
+                "expiry_timestamp": "2025-12-13T16:22:13.435121+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-ITEQ-20251210",
+        "token_expiry_timestamp": "2025-12-13T16:22:13.435121+00:00",
+        "source_alias": "bassic"
     },
     "1422084882083090473": {
         "last_claim_timestamp": "2025-12-03T06:12:30.366752+00:00"
