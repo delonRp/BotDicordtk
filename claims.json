@@ -5176,12 +5176,18 @@
                 "expiry_timestamp": "2299-09-24T13:47:49.423886+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "han",
+                "expiry_timestamp": "2299-09-24T13:48:42.521543+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-08T17:04:10.940524+00:00",
         "current_token": "han",
-        "token_expiry_timestamp": "2299-09-24T13:47:49.423886+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-09-24T13:48:42.521543+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1102283097258602547": {
