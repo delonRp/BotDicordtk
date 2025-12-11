@@ -5443,5 +5443,18 @@
         "current_token": "BEGINNER-LQWA-20251211",
         "token_expiry_timestamp": "2025-12-14T03:19:05.625038+00:00",
         "source_alias": "bassic"
+    },
+    "1051354448376631336": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-1MXB-20251211",
+                "expiry_timestamp": "2025-12-16T06:50:14.379449+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-11T06:50:14.379449+00:00",
+        "current_token": "SUBSCRIBER-1MXB-20251211",
+        "token_expiry_timestamp": "2025-12-16T06:50:14.379449+00:00",
+        "source_alias": "bassic"
     }
 }
