@@ -5490,5 +5490,18 @@
         "current_token": "SUBSCRIBER-VMJI-20251211",
         "token_expiry_timestamp": "2025-12-16T15:01:13.912006+00:00",
         "source_alias": "bassic"
+    },
+    "1436863159511027855": {
+        "tokens": [
+            {
+                "token": "BEGINNER-5CMB-20251211",
+                "expiry_timestamp": "2025-12-14T15:04:00.060754+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-11T15:04:00.060754+00:00",
+        "current_token": "BEGINNER-5CMB-20251211",
+        "token_expiry_timestamp": "2025-12-14T15:04:00.060754+00:00",
+        "source_alias": "bassic"
     }
 }
