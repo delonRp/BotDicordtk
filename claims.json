@@ -5436,5 +5436,18 @@
         "current_token": "SUBSCRIBER-1MXB-20251211",
         "token_expiry_timestamp": "2025-12-16T06:50:14.379449+00:00",
         "source_alias": "bassic"
+    },
+    "1184430572009963562": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-MOX1-20251211",
+                "expiry_timestamp": "2025-12-16T08:45:41.074556+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-11T08:45:41.074556+00:00",
+        "current_token": "SUBSCRIBER-MOX1-20251211",
+        "token_expiry_timestamp": "2025-12-16T08:45:41.074556+00:00",
+        "source_alias": "bassic"
     }
 }
