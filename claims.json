@@ -5503,5 +5503,18 @@
         "current_token": "BEGINNER-5CMB-20251211",
         "token_expiry_timestamp": "2025-12-14T15:04:00.060754+00:00",
         "source_alias": "bassic"
+    },
+    "1187131835692634232": {
+        "tokens": [
+            {
+                "token": "BEGINNER-R8NE-20251211",
+                "expiry_timestamp": "2025-12-14T15:24:55.427435+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-11T15:24:55.427435+00:00",
+        "current_token": "BEGINNER-R8NE-20251211",
+        "token_expiry_timestamp": "2025-12-14T15:24:55.427435+00:00",
+        "source_alias": "bassic"
     }
 }
