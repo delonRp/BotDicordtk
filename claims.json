@@ -5449,5 +5449,18 @@
         "current_token": "SUBSCRIBER-MOX1-20251211",
         "token_expiry_timestamp": "2025-12-16T08:45:41.074556+00:00",
         "source_alias": "bassic"
+    },
+    "1197803476919533630": {
+        "tokens": [
+            {
+                "token": "BEGINNER-DKKN-20251211",
+                "expiry_timestamp": "2025-12-14T09:14:26.553441+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-11T09:14:26.553441+00:00",
+        "current_token": "BEGINNER-DKKN-20251211",
+        "token_expiry_timestamp": "2025-12-14T09:14:26.553441+00:00",
+        "source_alias": "bassic"
     }
 }
