@@ -4844,17 +4844,7 @@
         "last_claim_timestamp": "2025-12-07T11:17:50.703069+00:00"
     },
     "1116325149772349560": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-LJG4-20251207",
-                "expiry_timestamp": "2025-12-12T11:27:24.708338+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-07T11:27:24.708338+00:00",
-        "current_token": "SUBSCRIBER-LJG4-20251207",
-        "token_expiry_timestamp": "2025-12-12T11:27:24.708338+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-07T11:27:24.708338+00:00"
     },
     "1336227533137510420": {
         "last_claim_timestamp": "2025-12-07T11:34:49.963197+00:00"
