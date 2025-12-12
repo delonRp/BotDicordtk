@@ -2810,7 +2810,17 @@
         "last_claim_timestamp": "2025-10-27T08:46:08.842781+00:00"
     },
     "1124279991211925594": {
-        "last_claim_timestamp": "2025-10-27T08:49:14.012525+00:00"
+        "last_claim_timestamp": "2025-12-12T12:20:19.868658+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-VUZ5-20251212",
+                "expiry_timestamp": "2025-12-17T12:20:19.868658+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-VUZ5-20251212",
+        "token_expiry_timestamp": "2025-12-17T12:20:19.868658+00:00",
+        "source_alias": "bassic"
     },
     "804982498719170570": {
         "last_claim_timestamp": "2025-10-27T12:44:17.049638+00:00"
