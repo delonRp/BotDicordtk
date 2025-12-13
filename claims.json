@@ -5522,5 +5522,18 @@
         "current_token": "SUBSCRIBER-BRTI-20251213",
         "token_expiry_timestamp": "2025-12-18T14:59:50.097436+00:00",
         "source_alias": "bassic"
+    },
+    "580870882818523205": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-4A45-20251213",
+                "expiry_timestamp": "2025-12-20T16:37:19.399586+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-13T16:37:19.399586+00:00",
+        "current_token": "INNERCIRCLE-4A45-20251213",
+        "token_expiry_timestamp": "2025-12-20T16:37:19.399586+00:00",
+        "source_alias": "bassic"
     }
 }
