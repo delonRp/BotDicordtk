@@ -5054,17 +5054,7 @@
         "last_claim_timestamp": "2025-12-10T14:03:27.936526+00:00"
     },
     "1011536315076051008": {
-        "tokens": [
-            {
-                "token": "BEGINNER-BUNM-20251210",
-                "expiry_timestamp": "2025-12-13T17:30:41.229979+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-10T17:30:41.229979+00:00",
-        "current_token": "BEGINNER-BUNM-20251210",
-        "token_expiry_timestamp": "2025-12-13T17:30:41.229979+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-10T17:30:41.229979+00:00"
     },
     "931579675929608223": {
         "tokens": [
