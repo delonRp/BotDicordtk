@@ -5553,5 +5553,18 @@
         "current_token": "BEGINNER-D678-20251213",
         "token_expiry_timestamp": "2025-12-16T11:48:21.294028+00:00",
         "source_alias": "bassic"
+    },
+    "1370649242212761720": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-0I3N-20251213",
+                "expiry_timestamp": "2025-12-18T12:12:59.677132+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-13T12:12:59.677132+00:00",
+        "current_token": "SUBSCRIBER-0I3N-20251213",
+        "token_expiry_timestamp": "2025-12-18T12:12:59.677132+00:00",
+        "source_alias": "bassic"
     }
 }
