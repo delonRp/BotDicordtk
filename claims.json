@@ -5527,5 +5527,18 @@
         "current_token": "BEGINNER-E0G1-20251213",
         "token_expiry_timestamp": "2025-12-16T09:03:24.485038+00:00",
         "source_alias": "bassic"
+    },
+    "1054201864025022546": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LA35-20251213",
+                "expiry_timestamp": "2025-12-20T10:35:13.842392+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-13T10:35:13.842392+00:00",
+        "current_token": "INNERCIRCLE-LA35-20251213",
+        "token_expiry_timestamp": "2025-12-20T10:35:13.842392+00:00",
+        "source_alias": "bassic"
     }
 }
