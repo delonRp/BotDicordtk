@@ -5533,5 +5533,18 @@
         "current_token": "SUBSCRIBER-W2WC-20251214",
         "token_expiry_timestamp": "2025-12-19T15:58:10.494556+00:00",
         "source_alias": "bassic"
+    },
+    "795518636700991498": {
+        "tokens": [
+            {
+                "token": "BEGINNER-N2NK-20251214",
+                "expiry_timestamp": "2025-12-17T16:35:37.286268+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-14T16:35:37.286268+00:00",
+        "current_token": "BEGINNER-N2NK-20251214",
+        "token_expiry_timestamp": "2025-12-17T16:35:37.286268+00:00",
+        "source_alias": "bassic"
     }
 }
