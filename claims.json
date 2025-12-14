@@ -5030,17 +5030,7 @@
         "last_claim_timestamp": "2025-12-10T19:37:35.266895+00:00"
     },
     "1420321216350130196": {
-        "tokens": [
-            {
-                "token": "BEGINNER-LQWA-20251211",
-                "expiry_timestamp": "2025-12-14T03:19:05.625038+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-11T03:19:05.625038+00:00",
-        "current_token": "BEGINNER-LQWA-20251211",
-        "token_expiry_timestamp": "2025-12-14T03:19:05.625038+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-11T03:19:05.625038+00:00"
     },
     "1051354448376631336": {
         "tokens": [
