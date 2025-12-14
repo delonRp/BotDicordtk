@@ -4868,17 +4868,7 @@
         "last_claim_timestamp": "2025-12-09T03:30:52.808008+00:00"
     },
     "1045291383130431498": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-P8MI-20251209",
-                "expiry_timestamp": "2025-12-14T05:37:02.474658+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-09T05:37:02.474658+00:00",
-        "current_token": "SUBSCRIBER-P8MI-20251209",
-        "token_expiry_timestamp": "2025-12-14T05:37:02.474658+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-09T05:37:02.474658+00:00"
     },
     "1437468791842930718": {
         "last_claim_timestamp": "2025-12-09T06:58:06.792869+00:00"
