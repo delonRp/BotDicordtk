@@ -5545,5 +5545,18 @@
         "current_token": "BEGINNER-A5DA-20251214",
         "token_expiry_timestamp": "2025-12-17T21:08:44.182395+00:00",
         "source_alias": "bassic"
+    },
+    "1300376217853366292": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-OFUL-20251214",
+                "expiry_timestamp": "2025-12-19T21:09:18.462451+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-14T21:09:18.462451+00:00",
+        "current_token": "SUBSCRIBER-OFUL-20251214",
+        "token_expiry_timestamp": "2025-12-19T21:09:18.462451+00:00",
+        "source_alias": "bassic"
     }
 }
