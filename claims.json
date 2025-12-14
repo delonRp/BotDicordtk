@@ -5532,5 +5532,18 @@
         "current_token": "SUBSCRIBER-JTVE-20251214",
         "token_expiry_timestamp": "2025-12-19T17:50:11.707492+00:00",
         "source_alias": "bassic"
+    },
+    "1417914559410208829": {
+        "tokens": [
+            {
+                "token": "BEGINNER-A5DA-20251214",
+                "expiry_timestamp": "2025-12-17T21:08:44.182395+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-14T21:08:44.182395+00:00",
+        "current_token": "BEGINNER-A5DA-20251214",
+        "token_expiry_timestamp": "2025-12-17T21:08:44.182395+00:00",
+        "source_alias": "bassic"
     }
 }
