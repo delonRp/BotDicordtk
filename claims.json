@@ -5470,5 +5470,18 @@
         "current_token": "INNERCIRCLE-4A45-20251213",
         "token_expiry_timestamp": "2025-12-20T16:37:19.399586+00:00",
         "source_alias": "bassic"
+    },
+    "1190279864754917391": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VRQB-20251214",
+                "expiry_timestamp": "2025-12-21T01:50:33.882113+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-14T01:50:33.882113+00:00",
+        "current_token": "INNERCIRCLE-VRQB-20251214",
+        "token_expiry_timestamp": "2025-12-21T01:50:33.882113+00:00",
+        "source_alias": "bassic"
     }
 }
