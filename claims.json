@@ -5505,5 +5505,18 @@
         "current_token": "SUBSCRIBER-ZFUV-20251214",
         "token_expiry_timestamp": "2025-12-19T07:46:20.844274+00:00",
         "source_alias": "bassic"
+    },
+    "1316999571607654422": {
+        "tokens": [
+            {
+                "token": "BEGINNER-9IS0-20251214",
+                "expiry_timestamp": "2025-12-17T08:12:34.839671+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-14T08:12:34.839671+00:00",
+        "current_token": "BEGINNER-9IS0-20251214",
+        "token_expiry_timestamp": "2025-12-17T08:12:34.839671+00:00",
+        "source_alias": "bassic"
     }
 }
