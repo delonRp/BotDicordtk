@@ -4901,17 +4901,7 @@
         "last_claim_timestamp": "2025-12-09T20:38:38.253180+00:00"
     },
     "990923649823420476": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-BLA1-20251209",
-                "expiry_timestamp": "2025-12-14T22:13:09.944445+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-09T22:13:09.944445+00:00",
-        "current_token": "SUBSCRIBER-BLA1-20251209",
-        "token_expiry_timestamp": "2025-12-14T22:13:09.944445+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-09T22:13:09.944445+00:00"
     },
     "858473821710843904": {
         "last_claim_timestamp": "2025-12-09T23:44:51.985928+00:00"
