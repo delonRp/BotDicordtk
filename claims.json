@@ -5564,5 +5564,18 @@
         "current_token": "SUBSCRIBER-TGWW-20251215",
         "token_expiry_timestamp": "2025-12-20T02:44:37.988006+00:00",
         "source_alias": "bassic"
+    },
+    "1270023546927583257": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-D1NJ-20251215",
+                "expiry_timestamp": "2025-12-20T03:02:22.729703+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T03:02:22.729703+00:00",
+        "current_token": "SUBSCRIBER-D1NJ-20251215",
+        "token_expiry_timestamp": "2025-12-20T03:02:22.729703+00:00",
+        "source_alias": "bassic"
     }
 }
