@@ -5609,5 +5609,18 @@
         "current_token": "SUBSCRIBER-5ESR-20251215",
         "token_expiry_timestamp": "2025-12-20T05:20:28.928546+00:00",
         "source_alias": "bassic"
+    },
+    "1278975463024361535": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-3ZCG-20251215",
+                "expiry_timestamp": "2025-12-20T05:41:25.908230+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T05:41:25.908230+00:00",
+        "current_token": "SUBSCRIBER-3ZCG-20251215",
+        "token_expiry_timestamp": "2025-12-20T05:41:25.908230+00:00",
+        "source_alias": "bassic"
     }
 }
