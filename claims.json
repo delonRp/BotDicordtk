@@ -5603,5 +5603,18 @@
         "current_token": "SUBSCRIBER-955Q-20251215",
         "token_expiry_timestamp": "2025-12-20T04:30:55.518763+00:00",
         "source_alias": "bassic"
+    },
+    "1163968880960618527": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XWW8-20251215",
+                "expiry_timestamp": "2025-12-20T04:40:09.170978+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T04:40:09.170978+00:00",
+        "current_token": "SUBSCRIBER-XWW8-20251215",
+        "token_expiry_timestamp": "2025-12-20T04:40:09.170978+00:00",
+        "source_alias": "bassic"
     }
 }
