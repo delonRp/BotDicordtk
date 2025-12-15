@@ -5716,5 +5716,18 @@
         "current_token": "BEGINNER-DKEZ-20251215",
         "token_expiry_timestamp": "2025-12-18T10:01:49.306993+00:00",
         "source_alias": "bassic"
+    },
+    "1236153865364045904": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-M8PQ-20251215",
+                "expiry_timestamp": "2025-12-20T10:03:49.491924+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T10:03:49.491924+00:00",
+        "current_token": "SUBSCRIBER-M8PQ-20251215",
+        "token_expiry_timestamp": "2025-12-20T10:03:49.491924+00:00",
+        "source_alias": "bassic"
     }
 }
