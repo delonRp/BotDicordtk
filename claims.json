@@ -5548,5 +5548,18 @@
         "current_token": "SUBSCRIBER-OFUL-20251214",
         "token_expiry_timestamp": "2025-12-19T21:09:18.462451+00:00",
         "source_alias": "bassic"
+    },
+    "1428733371026112544": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-UCFE-20251215",
+                "expiry_timestamp": "2025-12-20T00:05:44.905008+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T00:05:44.905008+00:00",
+        "current_token": "SUBSCRIBER-UCFE-20251215",
+        "token_expiry_timestamp": "2025-12-20T00:05:44.905008+00:00",
+        "source_alias": "bassic"
     }
 }
