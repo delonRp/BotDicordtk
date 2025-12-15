@@ -5577,5 +5577,18 @@
         "current_token": "SUBSCRIBER-D1NJ-20251215",
         "token_expiry_timestamp": "2025-12-20T03:02:22.729703+00:00",
         "source_alias": "bassic"
+    },
+    "959664254762516511": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-C8LZ-20251215",
+                "expiry_timestamp": "2025-12-20T03:18:21.795019+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T03:18:21.795019+00:00",
+        "current_token": "SUBSCRIBER-C8LZ-20251215",
+        "token_expiry_timestamp": "2025-12-20T03:18:21.795019+00:00",
+        "source_alias": "bassic"
     }
 }
