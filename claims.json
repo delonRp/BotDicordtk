@@ -5765,5 +5765,18 @@
         "current_token": "BEGINNER-B0PY-20251215",
         "token_expiry_timestamp": "2025-12-18T13:38:01.133033+00:00",
         "source_alias": "bassic"
+    },
+    "1446731440577445939": {
+        "tokens": [
+            {
+                "token": "BEGINNER-FYQD-20251215",
+                "expiry_timestamp": "2025-12-18T15:09:41.470477+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T15:09:41.470477+00:00",
+        "current_token": "BEGINNER-FYQD-20251215",
+        "token_expiry_timestamp": "2025-12-18T15:09:41.470477+00:00",
+        "source_alias": "bassic"
     }
 }
