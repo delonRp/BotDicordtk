@@ -4907,17 +4907,7 @@
         "last_claim_timestamp": "2025-12-09T23:44:51.985928+00:00"
     },
     "1401518225107189780": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-70Q7-20251210",
-                "expiry_timestamp": "2025-12-15T02:09:46.496402+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-10T02:09:46.496402+00:00",
-        "current_token": "SUBSCRIBER-70Q7-20251210",
-        "token_expiry_timestamp": "2025-12-15T02:09:46.496402+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-10T02:09:46.496402+00:00"
     },
     "1408390135598284972": {
         "tokens": [
