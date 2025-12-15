@@ -300,17 +300,7 @@
         "last_claim_timestamp": "2025-09-20T17:07:39.307961+00:00"
     },
     "1415903534624280576": {
-        "last_claim_timestamp": "2025-12-12T15:02:14.314357+00:00",
-        "tokens": [
-            {
-                "token": "BEGINNER-IBRR-20251212",
-                "expiry_timestamp": "2025-12-15T15:02:14.314357+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "BEGINNER-IBRR-20251212",
-        "token_expiry_timestamp": "2025-12-15T15:02:14.314357+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-12T15:02:14.314357+00:00"
     },
     "1398749026542944297": {
         "last_claim_timestamp": "2025-09-20T20:08:08.870446+00:00"
