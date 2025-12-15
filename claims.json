@@ -5700,5 +5700,18 @@
         "current_token": "SUBSCRIBER-084I-20251215",
         "token_expiry_timestamp": "2025-12-20T08:09:49.626068+00:00",
         "source_alias": "bassic"
+    },
+    "1351215101474115611": {
+        "tokens": [
+            {
+                "token": "BEGINNER-S4CM-20251215",
+                "expiry_timestamp": "2025-12-18T08:59:10.349458+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-15T08:59:10.349458+00:00",
+        "current_token": "BEGINNER-S4CM-20251215",
+        "token_expiry_timestamp": "2025-12-18T08:59:10.349458+00:00",
+        "source_alias": "bassic"
     }
 }
