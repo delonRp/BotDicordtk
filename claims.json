@@ -6003,5 +6003,18 @@
         "current_token": "BEGINNER-6IQN-20251216",
         "token_expiry_timestamp": "2025-12-19T09:51:44.552277+00:00",
         "source_alias": "bassic"
+    },
+    "1419905153745682432": {
+        "tokens": [
+            {
+                "token": "BEGINNER-LTQZ-20251216",
+                "expiry_timestamp": "2025-12-19T10:35:37.702174+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T10:35:37.702174+00:00",
+        "current_token": "BEGINNER-LTQZ-20251216",
+        "token_expiry_timestamp": "2025-12-19T10:35:37.702174+00:00",
+        "source_alias": "bassic"
     }
 }
