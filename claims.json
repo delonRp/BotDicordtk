@@ -4237,12 +4237,19 @@
                 "token": "VIP-3BDF-20251129",
                 "expiry_timestamp": "2025-12-29T16:19:06.015953+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ref",
+                "expiry_timestamp": "2026-01-15T06:44:51.906784+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-11-29T16:19:06.015953+00:00",
-        "current_token": "VIP-3BDF-20251129",
-        "token_expiry_timestamp": "2025-12-29T16:19:06.015953+00:00",
-        "source_alias": "bassic"
+        "current_token": "ref",
+        "token_expiry_timestamp": "2026-01-15T06:44:51.906784+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1254392750443331685": {
         "last_claim_timestamp": "2025-11-29T16:33:25.734178+00:00"
