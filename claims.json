@@ -5960,5 +5960,18 @@
         "current_token": "BEGINNER-NMTR-20251216",
         "token_expiry_timestamp": "2025-12-19T07:15:08.043249+00:00",
         "source_alias": "bassic"
+    },
+    "857052911300902922": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QV8J-20251216",
+                "expiry_timestamp": "2025-12-21T08:27:52.423183+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T08:27:52.423183+00:00",
+        "current_token": "SUBSCRIBER-QV8J-20251216",
+        "token_expiry_timestamp": "2025-12-21T08:27:52.423183+00:00",
+        "source_alias": "bassic"
     }
 }
