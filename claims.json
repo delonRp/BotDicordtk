@@ -5938,5 +5938,18 @@
         "current_token": "BEGINNER-3DUG-20251216",
         "token_expiry_timestamp": "2025-12-19T06:05:07.948760+00:00",
         "source_alias": "bassic"
+    },
+    "1449241379468349452": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-OKLF-20251216",
+                "expiry_timestamp": "2025-12-21T06:31:11.010831+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T06:31:11.010831+00:00",
+        "current_token": "SUBSCRIBER-OKLF-20251216",
+        "token_expiry_timestamp": "2025-12-21T06:31:11.010831+00:00",
+        "source_alias": "bassic"
     }
 }
