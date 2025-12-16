@@ -5986,5 +5986,18 @@
         "current_token": "SUBSCRIBER-8389-20251216",
         "token_expiry_timestamp": "2025-12-21T08:32:38.100695+00:00",
         "source_alias": "bassic"
+    },
+    "1327794552509300878": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-L4KS-20251216",
+                "expiry_timestamp": "2025-12-21T08:39:15.073669+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T08:39:15.073669+00:00",
+        "current_token": "SUBSCRIBER-L4KS-20251216",
+        "token_expiry_timestamp": "2025-12-21T08:39:15.073669+00:00",
+        "source_alias": "bassic"
     }
 }
