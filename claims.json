@@ -5992,5 +5992,18 @@
         "current_token": "SUBSCRIBER-AM1Y-20251216",
         "token_expiry_timestamp": "2025-12-21T09:48:55.093737+00:00",
         "source_alias": "bassic"
+    },
+    "1164538600667488266": {
+        "tokens": [
+            {
+                "token": "BEGINNER-6IQN-20251216",
+                "expiry_timestamp": "2025-12-19T09:51:44.552277+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T09:51:44.552277+00:00",
+        "current_token": "BEGINNER-6IQN-20251216",
+        "token_expiry_timestamp": "2025-12-19T09:51:44.552277+00:00",
+        "source_alias": "bassic"
     }
 }
