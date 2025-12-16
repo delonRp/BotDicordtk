@@ -522,7 +522,17 @@
         "last_claim_timestamp": "2025-10-19T00:18:44.218527+00:00"
     },
     "1370716664823287808": {
-        "last_claim_timestamp": "2025-11-08T04:17:03.439750+00:00"
+        "last_claim_timestamp": "2025-12-16T03:57:52.479965+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EKME-20251216",
+                "expiry_timestamp": "2025-12-21T03:57:52.479965+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-EKME-20251216",
+        "token_expiry_timestamp": "2025-12-21T03:57:52.479965+00:00",
+        "source_alias": "bassic"
     },
     "1368089452504940594": {
         "last_claim_timestamp": "2025-10-19T00:19:18.200797+00:00"
