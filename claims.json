@@ -4421,7 +4421,19 @@
         "assigned_by_admin": 782445287855489076
     },
     "1370334594418868317": {
-        "last_claim_timestamp": "2025-12-01T11:47:06.590561+00:00"
+        "last_claim_timestamp": "2025-12-01T11:47:06.590561+00:00",
+        "tokens": [
+            {
+                "token": "uyz",
+                "expiry_timestamp": "2026-01-15T10:27:30.030363+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "uyz",
+        "token_expiry_timestamp": "2026-01-15T10:27:30.030363+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1358651773908156538": {
         "last_claim_timestamp": "2025-12-01T12:09:23.031397+00:00"
