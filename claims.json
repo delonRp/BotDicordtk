@@ -6039,5 +6039,18 @@
         "current_token": "BEGINNER-BFA2-20251216",
         "token_expiry_timestamp": "2025-12-19T11:13:51.291406+00:00",
         "source_alias": "bassic"
+    },
+    "1027238780664561685": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-DTQ4-20251216",
+                "expiry_timestamp": "2025-12-21T11:17:24.376338+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T11:17:24.376338+00:00",
+        "current_token": "SUBSCRIBER-DTQ4-20251216",
+        "token_expiry_timestamp": "2025-12-21T11:17:24.376338+00:00",
+        "source_alias": "bassic"
     }
 }
