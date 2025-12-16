@@ -6064,5 +6064,18 @@
         "current_token": "BEGINNER-6H7G-20251216",
         "token_expiry_timestamp": "2025-12-19T15:45:48.645026+00:00",
         "source_alias": "bassic"
+    },
+    "1317761025487143013": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RLE1-20251216",
+                "expiry_timestamp": "2025-12-19T16:04:24.677556+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T16:04:24.677556+00:00",
+        "current_token": "BEGINNER-RLE1-20251216",
+        "token_expiry_timestamp": "2025-12-19T16:04:24.677556+00:00",
+        "source_alias": "bassic"
     }
 }
