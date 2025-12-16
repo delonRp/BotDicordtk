@@ -5964,5 +5964,18 @@
         "current_token": "SUBSCRIBER-OKLF-20251216",
         "token_expiry_timestamp": "2025-12-21T06:31:11.010831+00:00",
         "source_alias": "bassic"
+    },
+    "1296714221794623499": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZOIG-20251216",
+                "expiry_timestamp": "2025-12-21T07:09:07.651373+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-16T07:09:07.651373+00:00",
+        "current_token": "SUBSCRIBER-ZOIG-20251216",
+        "token_expiry_timestamp": "2025-12-21T07:09:07.651373+00:00",
+        "source_alias": "bassic"
     }
 }
