@@ -6135,5 +6135,18 @@
         "current_token": "SUBSCRIBER-AEYT-20251217",
         "token_expiry_timestamp": "2025-12-22T02:40:06.192249+00:00",
         "source_alias": "bassic"
+    },
+    "1293758031707897907": {
+        "tokens": [
+            {
+                "token": "BEGINNER-2G9O-20251217",
+                "expiry_timestamp": "2025-12-20T03:46:44.326624+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-17T03:46:44.326624+00:00",
+        "current_token": "BEGINNER-2G9O-20251217",
+        "token_expiry_timestamp": "2025-12-20T03:46:44.326624+00:00",
+        "source_alias": "bassic"
     }
 }
