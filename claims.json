@@ -6105,5 +6105,18 @@
         "current_token": "BEGINNER-A8KX-20251217",
         "token_expiry_timestamp": "2025-12-20T11:50:47.426917+00:00",
         "source_alias": "bassic"
+    },
+    "1245270818926231605": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VAUG-20251217",
+                "expiry_timestamp": "2025-12-20T15:18:58.157811+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-17T15:18:58.157811+00:00",
+        "current_token": "BEGINNER-VAUG-20251217",
+        "token_expiry_timestamp": "2025-12-20T15:18:58.157811+00:00",
+        "source_alias": "bassic"
     }
 }
