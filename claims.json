@@ -6151,5 +6151,18 @@
         "current_token": "SUBSCRIBER-JE42-20251217",
         "token_expiry_timestamp": "2025-12-22T05:15:33.343794+00:00",
         "source_alias": "bassic"
+    },
+    "1386224288377344152": {
+        "tokens": [
+            {
+                "token": "BEGINNER-0GZK-20251217",
+                "expiry_timestamp": "2025-12-20T05:22:54.609619+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-17T05:22:54.609619+00:00",
+        "current_token": "BEGINNER-0GZK-20251217",
+        "token_expiry_timestamp": "2025-12-20T05:22:54.609619+00:00",
+        "source_alias": "bassic"
     }
 }
