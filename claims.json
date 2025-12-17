@@ -6167,5 +6167,18 @@
         "current_token": "INNERCIRCLE-VA9C-20251217",
         "token_expiry_timestamp": "2025-12-24T06:26:07.787118+00:00",
         "source_alias": "bassic"
+    },
+    "1356932934640336949": {
+        "tokens": [
+            {
+                "token": "BEGINNER-835U-20251217",
+                "expiry_timestamp": "2025-12-20T07:54:34.564896+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-17T07:54:34.564896+00:00",
+        "current_token": "BEGINNER-835U-20251217",
+        "token_expiry_timestamp": "2025-12-20T07:54:34.564896+00:00",
+        "source_alias": "bassic"
     }
 }
