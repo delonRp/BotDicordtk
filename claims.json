@@ -6156,5 +6156,18 @@
         "current_token": "BEGINNER-2RYV-20251218",
         "token_expiry_timestamp": "2025-12-21T02:56:09.267219+00:00",
         "source_alias": "bassic"
+    },
+    "1409108113436704778": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ODPZ-20251218",
+                "expiry_timestamp": "2025-12-21T04:14:15.526782+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T04:14:15.526782+00:00",
+        "current_token": "BEGINNER-ODPZ-20251218",
+        "token_expiry_timestamp": "2025-12-21T04:14:15.526782+00:00",
+        "source_alias": "bassic"
     }
 }
