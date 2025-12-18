@@ -6244,5 +6244,18 @@
         "current_token": "SUBSCRIBER-CYOT-20251218",
         "token_expiry_timestamp": "2025-12-23T20:19:41.664641+00:00",
         "source_alias": "bassic"
+    },
+    "1337115193402069126": {
+        "tokens": [
+            {
+                "token": "BEGINNER-0DLO-20251218",
+                "expiry_timestamp": "2025-12-21T20:53:45.755889+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T20:53:45.755889+00:00",
+        "current_token": "BEGINNER-0DLO-20251218",
+        "token_expiry_timestamp": "2025-12-21T20:53:45.755889+00:00",
+        "source_alias": "bassic"
     }
 }
