@@ -5135,17 +5135,7 @@
         "last_claim_timestamp": "2025-12-13T12:57:36.593639+00:00"
     },
     "1448982708263845902": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-BRTI-20251213",
-                "expiry_timestamp": "2025-12-18T14:59:50.097436+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-13T14:59:50.097436+00:00",
-        "current_token": "SUBSCRIBER-BRTI-20251213",
-        "token_expiry_timestamp": "2025-12-18T14:59:50.097436+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-13T14:59:50.097436+00:00"
     },
     "580870882818523205": {
         "tokens": [
@@ -5526,17 +5516,7 @@
         "last_claim_timestamp": "2025-12-15T13:38:01.133033+00:00"
     },
     "1446731440577445939": {
-        "tokens": [
-            {
-                "token": "BEGINNER-FYQD-20251215",
-                "expiry_timestamp": "2025-12-18T15:09:41.470477+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-15T15:09:41.470477+00:00",
-        "current_token": "BEGINNER-FYQD-20251215",
-        "token_expiry_timestamp": "2025-12-18T15:09:41.470477+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-15T15:09:41.470477+00:00"
     },
     "1357682255098548244": {
         "tokens": [
