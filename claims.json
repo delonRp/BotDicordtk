@@ -6245,5 +6245,18 @@
         "current_token": "SUBSCRIBER-CCNB-20251218",
         "token_expiry_timestamp": "2025-12-23T13:47:02.452654+00:00",
         "source_alias": "bassic"
+    },
+    "1451155466989207674": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QHKQ-20251218",
+                "expiry_timestamp": "2025-12-21T15:23:03.930509+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T15:23:03.930509+00:00",
+        "current_token": "BEGINNER-QHKQ-20251218",
+        "token_expiry_timestamp": "2025-12-21T15:23:03.930509+00:00",
+        "source_alias": "bassic"
     }
 }
