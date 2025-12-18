@@ -6239,5 +6239,18 @@
         "current_token": "SUBSCRIBER-OGQ1-20251218",
         "token_expiry_timestamp": "2025-12-23T11:21:14.621743+00:00",
         "source_alias": "bassic"
+    },
+    "1418395014949765231": {
+        "tokens": [
+            {
+                "token": "BEGINNER-LAIR-20251218",
+                "expiry_timestamp": "2025-12-21T13:15:23.957310+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T13:15:23.957310+00:00",
+        "current_token": "BEGINNER-LAIR-20251218",
+        "token_expiry_timestamp": "2025-12-21T13:15:23.957310+00:00",
+        "source_alias": "bassic"
     }
 }
