@@ -6117,5 +6117,18 @@
         "current_token": "BEGINNER-C0FH-20251217",
         "token_expiry_timestamp": "2025-12-20T23:24:37.216677+00:00",
         "source_alias": "bassic"
+    },
+    "1370207900332724334": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-VRNQ-20251218",
+                "expiry_timestamp": "2025-12-23T02:34:51.838272+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T02:34:51.838272+00:00",
+        "current_token": "SUBSCRIBER-VRNQ-20251218",
+        "token_expiry_timestamp": "2025-12-23T02:34:51.838272+00:00",
+        "source_alias": "bassic"
     }
 }
