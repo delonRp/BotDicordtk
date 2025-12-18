@@ -6240,5 +6240,18 @@
         "current_token": "SUBSCRIBER-FXUL-20251218",
         "token_expiry_timestamp": "2025-12-23T09:39:12.783002+00:00",
         "source_alias": "bassic"
+    },
+    "1010550934830588114": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QC47-20251218",
+                "expiry_timestamp": "2025-12-21T10:09:14.279389+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-18T10:09:14.279389+00:00",
+        "current_token": "BEGINNER-QC47-20251218",
+        "token_expiry_timestamp": "2025-12-21T10:09:14.279389+00:00",
+        "source_alias": "bassic"
     }
 }
