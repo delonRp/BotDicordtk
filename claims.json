@@ -6313,5 +6313,18 @@
         "current_token": "INNERCIRCLE-L467-20251219",
         "token_expiry_timestamp": "2025-12-26T11:52:00.060755+00:00",
         "source_alias": "bassic"
+    },
+    "1330147643187527731": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-ZJMX-20251219",
+                "expiry_timestamp": "2025-12-24T15:52:12.826513+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-19T15:52:12.826513+00:00",
+        "current_token": "SUBSCRIBER-ZJMX-20251219",
+        "token_expiry_timestamp": "2025-12-24T15:52:12.826513+00:00",
+        "source_alias": "bassic"
     }
 }
