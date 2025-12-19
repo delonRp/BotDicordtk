@@ -6269,5 +6269,18 @@
         "current_token": "SUBSCRIBER-ED8D-20251219",
         "token_expiry_timestamp": "2025-12-24T03:06:43.855067+00:00",
         "source_alias": "bassic"
+    },
+    "1331081021738717338": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-KMNC-20251219",
+                "expiry_timestamp": "2025-12-26T04:17:53.899864+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-19T04:17:53.899864+00:00",
+        "current_token": "INNERCIRCLE-KMNC-20251219",
+        "token_expiry_timestamp": "2025-12-26T04:17:53.899864+00:00",
+        "source_alias": "bassic"
     }
 }
