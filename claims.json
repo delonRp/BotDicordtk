@@ -6320,5 +6320,18 @@
         "current_token": "SUBSCRIBER-3SR4-20251219",
         "token_expiry_timestamp": "2025-12-24T10:45:23.987867+00:00",
         "source_alias": "bassic"
+    },
+    "1446013234703499327": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-L467-20251219",
+                "expiry_timestamp": "2025-12-26T11:52:00.060755+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-19T11:52:00.060755+00:00",
+        "current_token": "INNERCIRCLE-L467-20251219",
+        "token_expiry_timestamp": "2025-12-26T11:52:00.060755+00:00",
+        "source_alias": "bassic"
     }
 }
