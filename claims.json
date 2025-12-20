@@ -6335,5 +6335,18 @@
         "current_token": "BEGINNER-BQYZ-20251220",
         "token_expiry_timestamp": "2025-12-23T00:44:16.256796+00:00",
         "source_alias": "bassic"
+    },
+    "1312068983465181295": {
+        "tokens": [
+            {
+                "token": "BEGINNER-2K3D-20251220",
+                "expiry_timestamp": "2025-12-23T01:57:34.434954+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T01:57:34.434954+00:00",
+        "current_token": "BEGINNER-2K3D-20251220",
+        "token_expiry_timestamp": "2025-12-23T01:57:34.434954+00:00",
+        "source_alias": "bassic"
     }
 }
