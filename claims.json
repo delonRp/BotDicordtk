@@ -6347,5 +6347,18 @@
         "current_token": "SUBSCRIBER-ETDW-20251220",
         "token_expiry_timestamp": "2025-12-25T08:58:59.871470+00:00",
         "source_alias": "bassic"
+    },
+    "1126890127596196003": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-9RKC-20251220",
+                "expiry_timestamp": "2025-12-25T10:08:10.458576+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T10:08:10.458576+00:00",
+        "current_token": "SUBSCRIBER-9RKC-20251220",
+        "token_expiry_timestamp": "2025-12-25T10:08:10.458576+00:00",
+        "source_alias": "bassic"
     }
 }
