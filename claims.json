@@ -6367,5 +6367,18 @@
         "current_token": "SUBSCRIBER-LCY6-20251220",
         "token_expiry_timestamp": "2025-12-25T05:08:10.334758+00:00",
         "source_alias": "bassic"
+    },
+    "402808472128978955": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QT7W-20251220",
+                "expiry_timestamp": "2025-12-25T05:37:41.368026+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T05:37:41.368026+00:00",
+        "current_token": "SUBSCRIBER-QT7W-20251220",
+        "token_expiry_timestamp": "2025-12-25T05:37:41.368026+00:00",
+        "source_alias": "bassic"
     }
 }
