@@ -6428,5 +6428,18 @@
         "current_token": "SUBSCRIBER-0XUR-20251220",
         "token_expiry_timestamp": "2025-12-25T14:53:40.986583+00:00",
         "source_alias": "bassic"
+    },
+    "1426775161821986958": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-86QE-20251220",
+                "expiry_timestamp": "2025-12-25T15:55:29.056164+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T15:55:29.056164+00:00",
+        "current_token": "SUBSCRIBER-86QE-20251220",
+        "token_expiry_timestamp": "2025-12-25T15:55:29.056164+00:00",
+        "source_alias": "bassic"
     }
 }
