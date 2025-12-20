@@ -5023,11 +5023,17 @@
                 "expiry_timestamp": "4763-11-16T11:13:03.595870+00:00",
                 "source_alias": "bassic",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "spo",
+                "expiry_timestamp": "4763-11-16T11:13:28.894366+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "spo",
-        "token_expiry_timestamp": "4763-11-16T11:13:03.595870+00:00",
-        "source_alias": "bassic",
+        "token_expiry_timestamp": "4763-11-16T11:13:28.894366+00:00",
+        "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
     },
     "1062377836322766910": {
