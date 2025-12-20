@@ -5137,7 +5137,17 @@
         "last_claim_timestamp": "2025-12-11T15:24:55.427435+00:00"
     },
     "1053504506551353354": {
-        "last_claim_timestamp": "2025-12-11T15:57:00.218400+00:00"
+        "last_claim_timestamp": "2025-12-20T19:18:46.709312+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-XIGZ-20251220",
+                "expiry_timestamp": "2025-12-23T19:18:46.709312+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-XIGZ-20251220",
+        "token_expiry_timestamp": "2025-12-23T19:18:46.709312+00:00",
+        "source_alias": "bassic"
     },
     "1421716214413267036": {
         "last_claim_timestamp": "2025-12-11T17:12:00.424184+00:00"
