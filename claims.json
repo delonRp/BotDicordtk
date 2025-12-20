@@ -3461,11 +3461,17 @@
                 "expiry_timestamp": "2026-02-18T06:02:55.354497+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "rils",
+                "expiry_timestamp": "2026-02-18T06:03:11.694741+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "rils",
-        "token_expiry_timestamp": "2026-02-18T06:02:55.354497+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-18T06:03:11.694741+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1418459422379872256": {
