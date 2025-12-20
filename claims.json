@@ -3857,17 +3857,7 @@
         "last_claim_timestamp": "2025-11-18T13:30:08.574082+00:00"
     },
     "1413217393265737901": {
-        "last_claim_timestamp": "2025-12-15T20:47:09.212722+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-VIQS-20251215",
-                "expiry_timestamp": "2025-12-20T20:47:09.212722+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-VIQS-20251215",
-        "token_expiry_timestamp": "2025-12-20T20:47:09.212722+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-15T20:47:09.212722+00:00"
     },
     "1339238339445915680": {
         "last_claim_timestamp": "2025-11-18T17:19:09.706966+00:00"
