@@ -6372,5 +6372,18 @@
         "current_token": "SUBSCRIBER-TA62-20251220",
         "token_expiry_timestamp": "2025-12-25T12:28:18.900166+00:00",
         "source_alias": "bassic"
+    },
+    "1375128768116686860": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EROE-20251220",
+                "expiry_timestamp": "2025-12-25T12:33:37.590312+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T12:33:37.590312+00:00",
+        "current_token": "SUBSCRIBER-EROE-20251220",
+        "token_expiry_timestamp": "2025-12-25T12:33:37.590312+00:00",
+        "source_alias": "bassic"
     }
 }
