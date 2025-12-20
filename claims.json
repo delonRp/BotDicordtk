@@ -6361,5 +6361,18 @@
         "current_token": "BEGINNER-WI53-20251220",
         "token_expiry_timestamp": "2025-12-23T04:22:37.416540+00:00",
         "source_alias": "bassic"
+    },
+    "1295008029292498966": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ULWP-20251220",
+                "expiry_timestamp": "2025-12-23T04:42:52.595228+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T04:42:52.595228+00:00",
+        "current_token": "BEGINNER-ULWP-20251220",
+        "token_expiry_timestamp": "2025-12-23T04:42:52.595228+00:00",
+        "source_alias": "bassic"
     }
 }
