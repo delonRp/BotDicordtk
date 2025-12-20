@@ -6359,5 +6359,18 @@
         "current_token": "SUBSCRIBER-B6EV-20251220",
         "token_expiry_timestamp": "2025-12-25T11:43:26.287379+00:00",
         "source_alias": "bassic"
+    },
+    "1005773558640812052": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-TA62-20251220",
+                "expiry_timestamp": "2025-12-25T12:28:18.900166+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T12:28:18.900166+00:00",
+        "current_token": "SUBSCRIBER-TA62-20251220",
+        "token_expiry_timestamp": "2025-12-25T12:28:18.900166+00:00",
+        "source_alias": "bassic"
     }
 }
