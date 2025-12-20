@@ -5017,11 +5017,18 @@
                 "token": "INNERCIRCLE-J9XO-20251219",
                 "expiry_timestamp": "2025-12-26T11:33:36.246448+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "spo",
+                "expiry_timestamp": "4763-11-16T11:13:03.595870+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "INNERCIRCLE-J9XO-20251219",
-        "token_expiry_timestamp": "2025-12-26T11:33:36.246448+00:00",
-        "source_alias": "bassic"
+        "current_token": "spo",
+        "token_expiry_timestamp": "4763-11-16T11:13:03.595870+00:00",
+        "source_alias": "bassic",
+        "assigned_by_admin": 782445287855489076
     },
     "1062377836322766910": {
         "last_claim_timestamp": "2025-12-09T15:00:59.596272+00:00"
