@@ -231,7 +231,17 @@
         "last_claim_timestamp": "2025-09-20T11:26:04.221600+00:00"
     },
     "1229541588045140017": {
-        "last_claim_timestamp": "2025-10-30T07:43:55.396088+00:00"
+        "last_claim_timestamp": "2025-12-20T01:45:05.223672+00:00",
+        "tokens": [
+            {
+                "token": "VIP-KEDA-20251220",
+                "expiry_timestamp": "2026-01-19T01:45:05.223672+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "VIP-KEDA-20251220",
+        "token_expiry_timestamp": "2026-01-19T01:45:05.223672+00:00",
+        "source_alias": "bassic"
     },
     "1389344052180160512": {
         "last_claim_timestamp": "2025-09-27T23:09:04.385154+00:00"
