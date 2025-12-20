@@ -6417,5 +6417,18 @@
         "current_token": "SUBSCRIBER-2F8R-20251220",
         "token_expiry_timestamp": "2025-12-25T18:53:01.253426+00:00",
         "source_alias": "bassic"
+    },
+    "1071439345644474389": {
+        "tokens": [
+            {
+                "token": "BEGINNER-GXF4-20251220",
+                "expiry_timestamp": "2025-12-23T20:19:49.551237+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T20:19:49.551237+00:00",
+        "current_token": "BEGINNER-GXF4-20251220",
+        "token_expiry_timestamp": "2025-12-23T20:19:49.551237+00:00",
+        "source_alias": "bassic"
     }
 }
