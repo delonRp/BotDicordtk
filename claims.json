@@ -6431,5 +6431,18 @@
         "current_token": "SUBSCRIBER-86QE-20251220",
         "token_expiry_timestamp": "2025-12-25T15:55:29.056164+00:00",
         "source_alias": "bassic"
+    },
+    "1255537491210010626": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-I6BL-20251220",
+                "expiry_timestamp": "2025-12-25T16:24:36.971764+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-20T16:24:36.971764+00:00",
+        "current_token": "SUBSCRIBER-I6BL-20251220",
+        "token_expiry_timestamp": "2025-12-25T16:24:36.971764+00:00",
+        "source_alias": "bassic"
     }
 }
