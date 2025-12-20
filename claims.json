@@ -3454,7 +3454,19 @@
         "last_claim_timestamp": "2025-11-07T23:57:06.826348+00:00"
     },
     "1431722145532088391": {
-        "last_claim_timestamp": "2025-12-15T12:13:01.541522+00:00"
+        "last_claim_timestamp": "2025-12-15T12:13:01.541522+00:00",
+        "tokens": [
+            {
+                "token": "rils",
+                "expiry_timestamp": "2026-02-18T06:02:55.354497+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "rils",
+        "token_expiry_timestamp": "2026-02-18T06:02:55.354497+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1418459422379872256": {
         "last_claim_timestamp": "2025-11-08T07:15:16.078577+00:00"
