@@ -6322,12 +6322,19 @@
                 "token": "SUBSCRIBER-12AV-20251220",
                 "expiry_timestamp": "2025-12-25T03:24:05.731599+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "buss",
+                "expiry_timestamp": "2026-01-03T05:40:32.623856+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-20T03:24:05.731599+00:00",
-        "current_token": "SUBSCRIBER-12AV-20251220",
-        "token_expiry_timestamp": "2025-12-25T03:24:05.731599+00:00",
-        "source_alias": "bassic"
+        "current_token": "buss",
+        "token_expiry_timestamp": "2026-01-03T05:40:32.623856+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1362043420247589027": {
         "tokens": [
