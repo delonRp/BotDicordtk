@@ -5153,7 +5153,17 @@
         "last_claim_timestamp": "2025-12-11T17:12:00.424184+00:00"
     },
     "961936801944203306": {
-        "last_claim_timestamp": "2025-12-11T19:23:25.302381+00:00"
+        "last_claim_timestamp": "2025-12-20T12:38:04.128858+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QQIN-20251220",
+                "expiry_timestamp": "2025-12-25T12:38:04.128858+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-QQIN-20251220",
+        "token_expiry_timestamp": "2025-12-25T12:38:04.128858+00:00",
+        "source_alias": "bassic"
     },
     "1337658872428494919": {
         "last_claim_timestamp": "2025-12-12T02:30:31.407251+00:00"
