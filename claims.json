@@ -3891,7 +3891,17 @@
         "last_claim_timestamp": "2025-11-19T22:40:26.481345+00:00"
     },
     "1121752802083995649": {
-        "last_claim_timestamp": "2025-11-19T22:42:59.413274+00:00"
+        "last_claim_timestamp": "2025-12-21T23:07:23.808231+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-QWEA-20251221",
+                "expiry_timestamp": "2025-12-26T23:07:23.808231+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-QWEA-20251221",
+        "token_expiry_timestamp": "2025-12-26T23:07:23.808231+00:00",
+        "source_alias": "bassic"
     },
     "1410973748458426439": {},
     "1336001294145683540": {
