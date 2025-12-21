@@ -6436,5 +6436,18 @@
         "current_token": "BEGINNER-7BV2-20251221",
         "token_expiry_timestamp": "2025-12-24T00:17:46.655747+00:00",
         "source_alias": "bassic"
+    },
+    "1438840897763672127": {
+        "tokens": [
+            {
+                "token": "BEGINNER-UWCS-20251221",
+                "expiry_timestamp": "2025-12-24T00:38:37.140737+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-21T00:38:37.140737+00:00",
+        "current_token": "BEGINNER-UWCS-20251221",
+        "token_expiry_timestamp": "2025-12-24T00:38:37.140737+00:00",
+        "source_alias": "bassic"
     }
 }
