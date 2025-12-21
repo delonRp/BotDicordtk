@@ -6313,5 +6313,18 @@
         "current_token": "BEGINNER-YTOX-20251221",
         "token_expiry_timestamp": "2025-12-24T11:57:31.839950+00:00",
         "source_alias": "bassic"
+    },
+    "1406196835961278555": {
+        "tokens": [
+            {
+                "token": "BEGINNER-LTFW-20251221",
+                "expiry_timestamp": "2025-12-24T16:31:37.563839+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-21T16:31:37.563839+00:00",
+        "current_token": "BEGINNER-LTFW-20251221",
+        "token_expiry_timestamp": "2025-12-24T16:31:37.563839+00:00",
+        "source_alias": "bassic"
     }
 }
