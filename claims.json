@@ -6357,5 +6357,18 @@
         "current_token": "SUBSCRIBER-QFKW-20251221",
         "token_expiry_timestamp": "2025-12-26T11:03:37.181952+00:00",
         "source_alias": "bassic"
+    },
+    "1092602817203683430": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-RHV5-20251221",
+                "expiry_timestamp": "2025-12-26T11:28:37.904227+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-21T11:28:37.904227+00:00",
+        "current_token": "SUBSCRIBER-RHV5-20251221",
+        "token_expiry_timestamp": "2025-12-26T11:28:37.904227+00:00",
+        "source_alias": "bassic"
     }
 }
