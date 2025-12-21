@@ -932,7 +932,17 @@
         ]
     },
     "1370417446422450386": {
-        "last_claim_timestamp": "2025-09-26T20:15:00.308533+00:00"
+        "last_claim_timestamp": "2025-12-21T12:07:24.242616+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-TFTH-20251221",
+                "expiry_timestamp": "2025-12-26T12:07:24.242616+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-TFTH-20251221",
+        "token_expiry_timestamp": "2025-12-26T12:07:24.242616+00:00",
+        "source_alias": "bassic"
     },
     "1322021992991559823": {
         "last_claim_timestamp": "2025-09-26T22:50:09.312933+00:00"
