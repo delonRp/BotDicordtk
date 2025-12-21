@@ -6388,5 +6388,18 @@
         "current_token": "SUBSCRIBER-DS9M-20251221",
         "token_expiry_timestamp": "2025-12-26T07:11:41.550176+00:00",
         "source_alias": "bassic"
+    },
+    "1376818054624706560": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-YOX6-20251221",
+                "expiry_timestamp": "2025-12-26T08:40:09.221052+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-21T08:40:09.221052+00:00",
+        "current_token": "SUBSCRIBER-YOX6-20251221",
+        "token_expiry_timestamp": "2025-12-26T08:40:09.221052+00:00",
+        "source_alias": "bassic"
     }
 }
