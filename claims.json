@@ -6340,5 +6340,18 @@
         "current_token": "SUBSCRIBER-RHV5-20251221",
         "token_expiry_timestamp": "2025-12-26T11:28:37.904227+00:00",
         "source_alias": "bassic"
+    },
+    "1255246220243239013": {
+        "tokens": [
+            {
+                "token": "BEGINNER-YTOX-20251221",
+                "expiry_timestamp": "2025-12-24T11:57:31.839950+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-21T11:57:31.839950+00:00",
+        "current_token": "BEGINNER-YTOX-20251221",
+        "token_expiry_timestamp": "2025-12-24T11:57:31.839950+00:00",
+        "source_alias": "bassic"
     }
 }
