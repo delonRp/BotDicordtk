@@ -6291,5 +6291,18 @@
         "current_token": "SUBSCRIBER-BTFU-20251222",
         "token_expiry_timestamp": "2025-12-27T05:14:52.916916+00:00",
         "source_alias": "bassic"
+    },
+    "1445084271709524049": {
+        "tokens": [
+            {
+                "token": "BEGINNER-AG26-20251222",
+                "expiry_timestamp": "2025-12-25T06:28:22.465212+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-22T06:28:22.465212+00:00",
+        "current_token": "BEGINNER-AG26-20251222",
+        "token_expiry_timestamp": "2025-12-25T06:28:22.465212+00:00",
+        "source_alias": "bassic"
     }
 }
