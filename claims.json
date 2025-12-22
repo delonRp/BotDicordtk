@@ -6359,5 +6359,18 @@
         "current_token": "SUBSCRIBER-BGWX-20251222",
         "token_expiry_timestamp": "2025-12-27T18:34:53.476184+00:00",
         "source_alias": "bassic"
+    },
+    "1324951083705040906": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-V94M-20251222",
+                "expiry_timestamp": "2025-12-27T19:04:10.429217+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-22T19:04:10.429217+00:00",
+        "current_token": "SUBSCRIBER-V94M-20251222",
+        "token_expiry_timestamp": "2025-12-27T19:04:10.429217+00:00",
+        "source_alias": "bassic"
     }
 }
