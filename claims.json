@@ -6323,5 +6323,18 @@
         "current_token": "SUBSCRIBER-U91G-20251222",
         "token_expiry_timestamp": "2025-12-27T08:54:05.524480+00:00",
         "source_alias": "bassic"
+    },
+    "1439774345068155031": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-4SSP-20251222",
+                "expiry_timestamp": "2025-12-27T13:15:54.722854+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-22T13:15:54.722854+00:00",
+        "current_token": "SUBSCRIBER-4SSP-20251222",
+        "token_expiry_timestamp": "2025-12-27T13:15:54.722854+00:00",
+        "source_alias": "bassic"
     }
 }
