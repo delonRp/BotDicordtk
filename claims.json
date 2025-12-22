@@ -6292,5 +6292,18 @@
         "current_token": "SUBSCRIBER-4I93-20251222",
         "token_expiry_timestamp": "2025-12-27T01:40:43.093604+00:00",
         "source_alias": "bassic"
+    },
+    "1451609068614582366": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-OFN9-20251222",
+                "expiry_timestamp": "2025-12-27T01:57:46.993049+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-22T01:57:46.993049+00:00",
+        "current_token": "SUBSCRIBER-OFN9-20251222",
+        "token_expiry_timestamp": "2025-12-27T01:57:46.993049+00:00",
+        "source_alias": "bassic"
     }
 }
