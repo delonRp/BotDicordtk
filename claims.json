@@ -4055,26 +4055,7 @@
     "1440621531351748659": {
         "last_claim_timestamp": "2025-11-23T00:19:27.377413+00:00"
     },
-    "1408368113770299514": {
-        "tokens": [
-            {
-                "token": "alva",
-                "expiry_timestamp": "2025-12-23T02:25:49.736348+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "alva",
-                "expiry_timestamp": "2025-12-23T02:26:13.016975+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "alva",
-        "token_expiry_timestamp": "2025-12-23T02:26:13.016975+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
-    },
+    "1408368113770299514": {},
     "956077675552858132": {
         "last_claim_timestamp": "2025-12-15T18:37:25.574142+00:00"
     },
@@ -5481,17 +5462,7 @@
         "last_claim_timestamp": "2025-12-17T23:24:37.216677+00:00"
     },
     "1370207900332724334": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-VRNQ-20251218",
-                "expiry_timestamp": "2025-12-23T02:34:51.838272+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-18T02:34:51.838272+00:00",
-        "current_token": "SUBSCRIBER-VRNQ-20251218",
-        "token_expiry_timestamp": "2025-12-23T02:34:51.838272+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-18T02:34:51.838272+00:00"
     },
     "1343235635556909206": {
         "last_claim_timestamp": "2025-12-18T02:49:55.703159+00:00"
@@ -5759,17 +5730,7 @@
         "last_claim_timestamp": "2025-12-20T00:44:16.256796+00:00"
     },
     "1312068983465181295": {
-        "tokens": [
-            {
-                "token": "BEGINNER-2K3D-20251220",
-                "expiry_timestamp": "2025-12-23T01:57:34.434954+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-20T01:57:34.434954+00:00",
-        "current_token": "BEGINNER-2K3D-20251220",
-        "token_expiry_timestamp": "2025-12-23T01:57:34.434954+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-20T01:57:34.434954+00:00"
     },
     "1033406094720110703": {
         "tokens": [
