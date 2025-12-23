@@ -6427,5 +6427,18 @@
         "current_token": "SUBSCRIBER-8LMZ-20251223",
         "token_expiry_timestamp": "2025-12-28T08:21:55.296640+00:00",
         "source_alias": "bassic"
+    },
+    "1314815938260111380": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NANP-20251223",
+                "expiry_timestamp": "2025-12-26T08:26:01.349594+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-23T08:26:01.349594+00:00",
+        "current_token": "BEGINNER-NANP-20251223",
+        "token_expiry_timestamp": "2025-12-26T08:26:01.349594+00:00",
+        "source_alias": "bassic"
     }
 }
