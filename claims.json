@@ -5548,17 +5548,7 @@
         "last_claim_timestamp": "2025-12-18T10:09:14.279389+00:00"
     },
     "1182586934875389952": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-RTZS-20251218",
-                "expiry_timestamp": "2025-12-23T10:28:31.619667+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-18T10:28:31.619667+00:00",
-        "current_token": "SUBSCRIBER-RTZS-20251218",
-        "token_expiry_timestamp": "2025-12-23T10:28:31.619667+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-18T10:28:31.619667+00:00"
     },
     "1274251728274985002": {
         "tokens": [
@@ -5866,17 +5856,7 @@
         "source_alias": "bassic"
     },
     "1291723956541198348": {
-        "tokens": [
-            {
-                "token": "BEGINNER-FJOB-20251220",
-                "expiry_timestamp": "2025-12-23T10:50:52.864692+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-20T10:50:52.864692+00:00",
-        "current_token": "BEGINNER-FJOB-20251220",
-        "token_expiry_timestamp": "2025-12-23T10:50:52.864692+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-20T10:50:52.864692+00:00"
     },
     "1322088566297333842": {
         "tokens": [
