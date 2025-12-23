@@ -6284,12 +6284,18 @@
                 "expiry_timestamp": "2026-01-22T09:27:59.896174+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "fan",
+                "expiry_timestamp": "2026-01-22T09:28:28.655500+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-22T08:54:05.524480+00:00",
         "current_token": "fan",
-        "token_expiry_timestamp": "2026-01-22T09:27:59.896174+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-01-22T09:28:28.655500+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1439774345068155031": {
