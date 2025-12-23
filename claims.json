@@ -5561,17 +5561,7 @@
         "last_claim_timestamp": "2025-12-18T10:28:31.619667+00:00"
     },
     "1274251728274985002": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OGQ1-20251218",
-                "expiry_timestamp": "2025-12-23T11:21:14.621743+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-18T11:21:14.621743+00:00",
-        "current_token": "SUBSCRIBER-OGQ1-20251218",
-        "token_expiry_timestamp": "2025-12-23T11:21:14.621743+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-18T11:21:14.621743+00:00"
     },
     "1418395014949765231": {
         "last_claim_timestamp": "2025-12-18T13:15:23.957310+00:00"
