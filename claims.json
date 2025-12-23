@@ -6391,5 +6391,18 @@
         "current_token": "INNERCIRCLE-CZED-20251223",
         "token_expiry_timestamp": "2025-12-30T03:25:09.401138+00:00",
         "source_alias": "bassic"
+    },
+    "886998653720489994": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-1V12-20251223",
+                "expiry_timestamp": "2025-12-30T07:06:49.234749+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-23T07:06:49.234749+00:00",
+        "current_token": "INNERCIRCLE-1V12-20251223",
+        "token_expiry_timestamp": "2025-12-30T07:06:49.234749+00:00",
+        "source_alias": "bassic"
     }
 }
