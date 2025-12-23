@@ -4097,7 +4097,17 @@
     },
     "1408368113770299514": {},
     "956077675552858132": {
-        "last_claim_timestamp": "2025-12-15T18:37:25.574142+00:00"
+        "last_claim_timestamp": "2025-12-23T23:05:36.091599+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XBKX-20251223",
+                "expiry_timestamp": "2025-12-28T23:05:36.091599+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-XBKX-20251223",
+        "token_expiry_timestamp": "2025-12-28T23:05:36.091599+00:00",
+        "source_alias": "bassic"
     },
     "1418687761334141042": {
         "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00"
