@@ -6408,5 +6408,18 @@
         "current_token": "INNERCIRCLE-AH9N-20251222",
         "token_expiry_timestamp": "2025-12-29T22:04:16.658837+00:00",
         "source_alias": "bassic"
+    },
+    "1289365985547255830": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PG2H-20251223",
+                "expiry_timestamp": "2025-12-26T00:49:03.371796+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-23T00:49:03.371796+00:00",
+        "current_token": "BEGINNER-PG2H-20251223",
+        "token_expiry_timestamp": "2025-12-26T00:49:03.371796+00:00",
+        "source_alias": "bassic"
     }
 }
