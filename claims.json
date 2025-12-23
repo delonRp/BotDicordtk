@@ -3381,7 +3381,17 @@
         "last_claim_timestamp": "2025-11-06T04:05:45.593714+00:00"
     },
     "1032688205436297238": {
-        "last_claim_timestamp": "2025-12-16T06:42:04.273901+00:00"
+        "last_claim_timestamp": "2025-12-23T12:02:18.775372+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-LSAX-20251223",
+                "expiry_timestamp": "2025-12-28T12:02:18.775372+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-LSAX-20251223",
+        "token_expiry_timestamp": "2025-12-28T12:02:18.775372+00:00",
+        "source_alias": "bassic"
     },
     "1422948478622892073": {
         "last_claim_timestamp": "2025-11-26T12:12:08.125455+00:00"
