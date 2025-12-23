@@ -6388,5 +6388,18 @@
         "current_token": "SUBSCRIBER-0ZEI-20251223",
         "token_expiry_timestamp": "2025-12-28T02:59:53.072770+00:00",
         "source_alias": "bassic"
+    },
+    "1316361614634647616": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-CZED-20251223",
+                "expiry_timestamp": "2025-12-30T03:25:09.401138+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-23T03:25:09.401138+00:00",
+        "current_token": "INNERCIRCLE-CZED-20251223",
+        "token_expiry_timestamp": "2025-12-30T03:25:09.401138+00:00",
+        "source_alias": "bassic"
     }
 }
