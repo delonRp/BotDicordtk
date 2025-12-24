@@ -5267,7 +5267,17 @@
         "last_claim_timestamp": "2025-12-14T12:57:04.812226+00:00"
     },
     "1144503040292945990": {
-        "last_claim_timestamp": "2025-12-14T13:31:38.114385+00:00"
+        "last_claim_timestamp": "2025-12-24T03:14:34.733309+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EHL2-20251224",
+                "expiry_timestamp": "2025-12-29T03:14:34.733309+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-EHL2-20251224",
+        "token_expiry_timestamp": "2025-12-29T03:14:34.733309+00:00",
+        "source_alias": "bassic"
     },
     "1403682946501836940": {
         "last_claim_timestamp": "2025-12-14T15:31:22.551513+00:00"
