@@ -6496,5 +6496,18 @@
         "current_token": "BEGINNER-BNKM-20251224",
         "token_expiry_timestamp": "2025-12-27T02:10:18.615801+00:00",
         "source_alias": "bassic"
+    },
+    "1221304396281810947": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NTF6-20251224",
+                "expiry_timestamp": "2025-12-27T02:14:22.665221+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-24T02:14:22.665221+00:00",
+        "current_token": "BEGINNER-NTF6-20251224",
+        "token_expiry_timestamp": "2025-12-27T02:14:22.665221+00:00",
+        "source_alias": "bassic"
     }
 }
