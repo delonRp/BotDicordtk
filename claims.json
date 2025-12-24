@@ -358,17 +358,7 @@
         "last_claim_timestamp": "2025-09-21T01:44:00.959414+00:00"
     },
     "1373435499691114527": {
-        "last_claim_timestamp": "2025-12-19T06:18:54.430345+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QNQ9-20251219",
-                "expiry_timestamp": "2025-12-24T06:18:54.430345+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-QNQ9-20251219",
-        "token_expiry_timestamp": "2025-12-24T06:18:54.430345+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T06:18:54.430345+00:00"
     },
     "1376039595203887226": {
         "last_claim_timestamp": "2025-09-21T02:18:45.508215+00:00"
@@ -5530,17 +5520,7 @@
         "last_claim_timestamp": "2025-12-17T05:22:54.609619+00:00"
     },
     "1415210683838103565": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-VA9C-20251217",
-                "expiry_timestamp": "2025-12-24T06:26:07.787118+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-17T06:26:07.787118+00:00",
-        "current_token": "INNERCIRCLE-VA9C-20251217",
-        "token_expiry_timestamp": "2025-12-24T06:26:07.787118+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-17T06:26:07.787118+00:00"
     },
     "1356932934640336949": {
         "last_claim_timestamp": "2025-12-17T07:54:34.564896+00:00"
