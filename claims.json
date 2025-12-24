@@ -6485,5 +6485,18 @@
         "current_token": "BEGINNER-MOJV-20251224",
         "token_expiry_timestamp": "2025-12-27T05:08:51.904019+00:00",
         "source_alias": "bassic"
+    },
+    "1168808600429408307": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-I9YC-20251224",
+                "expiry_timestamp": "2025-12-31T08:01:38.097013+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-24T08:01:38.097013+00:00",
+        "current_token": "INNERCIRCLE-I9YC-20251224",
+        "token_expiry_timestamp": "2025-12-31T08:01:38.097013+00:00",
+        "source_alias": "bassic"
     }
 }
