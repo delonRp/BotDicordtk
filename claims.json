@@ -6468,5 +6468,18 @@
         "current_token": "BEGINNER-UFOY-20251223",
         "token_expiry_timestamp": "2025-12-26T23:25:53.398699+00:00",
         "source_alias": "bassic"
+    },
+    "1452519547033620612": {
+        "tokens": [
+            {
+                "token": "BEGINNER-J2ZP-20251224",
+                "expiry_timestamp": "2025-12-27T00:02:43.506822+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-24T00:02:43.506822+00:00",
+        "current_token": "BEGINNER-J2ZP-20251224",
+        "token_expiry_timestamp": "2025-12-27T00:02:43.506822+00:00",
+        "source_alias": "bassic"
     }
 }
