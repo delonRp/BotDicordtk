@@ -6502,5 +6502,18 @@
         "current_token": "SUBSCRIBER-ZX24-20251224",
         "token_expiry_timestamp": "2025-12-29T02:44:41.644333+00:00",
         "source_alias": "bassic"
+    },
+    "1432582868143571069": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MOJV-20251224",
+                "expiry_timestamp": "2025-12-27T05:08:51.904019+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-24T05:08:51.904019+00:00",
+        "current_token": "BEGINNER-MOJV-20251224",
+        "token_expiry_timestamp": "2025-12-27T05:08:51.904019+00:00",
+        "source_alias": "bassic"
     }
 }
