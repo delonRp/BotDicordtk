@@ -5657,30 +5657,10 @@
         "source_alias": "bassic"
     },
     "1330147643187527731": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ZJMX-20251219",
-                "expiry_timestamp": "2025-12-24T15:52:12.826513+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-19T15:52:12.826513+00:00",
-        "current_token": "SUBSCRIBER-ZJMX-20251219",
-        "token_expiry_timestamp": "2025-12-24T15:52:12.826513+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T15:52:12.826513+00:00"
     },
     "865959990757425162": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-499Z-20251219",
-                "expiry_timestamp": "2025-12-24T15:56:50.070771+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-19T15:56:50.070771+00:00",
-        "current_token": "SUBSCRIBER-499Z-20251219",
-        "token_expiry_timestamp": "2025-12-24T15:56:50.070771+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T15:56:50.070771+00:00"
     },
     "1204283808392941659": {
         "last_claim_timestamp": "2025-12-20T00:36:26.632061+00:00"
