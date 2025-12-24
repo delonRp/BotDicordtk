@@ -5624,17 +5624,7 @@
         "last_claim_timestamp": "2025-12-19T01:50:49.786850+00:00"
     },
     "805295493935530024": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NHFI-20251219",
-                "expiry_timestamp": "2025-12-24T01:56:15.867361+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-19T01:56:15.867361+00:00",
-        "current_token": "SUBSCRIBER-NHFI-20251219",
-        "token_expiry_timestamp": "2025-12-24T01:56:15.867361+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T01:56:15.867361+00:00"
     },
     "1378331180314656771": {
         "tokens": [
