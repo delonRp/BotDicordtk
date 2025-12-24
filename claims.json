@@ -5656,17 +5656,7 @@
         "source_alias": "bassic"
     },
     "1442798117119459409": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-D4TD-20251219",
-                "expiry_timestamp": "2025-12-24T05:23:05.925517+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-19T05:23:05.925517+00:00",
-        "current_token": "SUBSCRIBER-D4TD-20251219",
-        "token_expiry_timestamp": "2025-12-24T05:23:05.925517+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T05:23:05.925517+00:00"
     },
     "1447480325054664705": {
         "last_claim_timestamp": "2025-12-19T05:43:31.731268+00:00"
