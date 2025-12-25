@@ -6549,5 +6549,18 @@
         "current_token": "INNERCIRCLE-VJYH-20251225",
         "token_expiry_timestamp": "2026-01-01T04:08:19.751126+00:00",
         "source_alias": "bassic"
+    },
+    "1319357824903549054": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LREY-20251225",
+                "expiry_timestamp": "2026-01-01T05:34:39.624084+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T05:34:39.624084+00:00",
+        "current_token": "INNERCIRCLE-LREY-20251225",
+        "token_expiry_timestamp": "2026-01-01T05:34:39.624084+00:00",
+        "source_alias": "bassic"
     }
 }
