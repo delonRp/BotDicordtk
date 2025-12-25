@@ -872,11 +872,17 @@
                 "expiry_timestamp": "2028-09-10T02:41:32.115106+00:00",
                 "source_alias": "bassic",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "jen",
+                "expiry_timestamp": "2026-01-24T05:54:51.879293+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "dd",
-        "token_expiry_timestamp": "2028-09-10T02:41:32.115106+00:00",
-        "source_alias": "bassic",
+        "current_token": "jen",
+        "token_expiry_timestamp": "2026-01-24T05:54:51.879293+00:00",
+        "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
     },
     "1335901722748518495": {
