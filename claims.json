@@ -6507,5 +6507,18 @@
         "current_token": "BEGINNER-EF7G-20251225",
         "token_expiry_timestamp": "2025-12-28T08:16:46.906553+00:00",
         "source_alias": "bassic"
+    },
+    "1279773769766015039": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-4VCU-20251225",
+                "expiry_timestamp": "2026-01-01T11:03:51.892815+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T11:03:51.892815+00:00",
+        "current_token": "INNERCIRCLE-4VCU-20251225",
+        "token_expiry_timestamp": "2026-01-01T11:03:51.892815+00:00",
+        "source_alias": "bassic"
     }
 }
