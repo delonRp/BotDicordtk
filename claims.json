@@ -6546,5 +6546,18 @@
         "current_token": "SUBSCRIBER-802M-20251225",
         "token_expiry_timestamp": "2025-12-30T04:05:16.395835+00:00",
         "source_alias": "bassic"
+    },
+    "1328700715232788554": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VJYH-20251225",
+                "expiry_timestamp": "2026-01-01T04:08:19.751126+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T04:08:19.751126+00:00",
+        "current_token": "INNERCIRCLE-VJYH-20251225",
+        "token_expiry_timestamp": "2026-01-01T04:08:19.751126+00:00",
+        "source_alias": "bassic"
     }
 }
