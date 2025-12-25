@@ -6516,12 +6516,18 @@
                 "expiry_timestamp": "2299-10-09T13:54:33.609691+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "gaboo",
+                "expiry_timestamp": "2299-10-09T13:55:01.898232+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-25T13:37:41.618517+00:00",
         "current_token": "gaboo",
-        "token_expiry_timestamp": "2299-10-09T13:54:33.609691+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-09T13:55:01.898232+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
