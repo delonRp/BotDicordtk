@@ -5731,11 +5731,17 @@
                 "expiry_timestamp": "4763-11-21T10:20:47.555411+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "fael",
+                "expiry_timestamp": "2299-10-09T10:21:09.779321+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "fael",
-        "token_expiry_timestamp": "4763-11-21T10:20:47.555411+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-09T10:21:09.779321+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1322088566297333842": {
