@@ -6533,5 +6533,18 @@
         "current_token": "SUBSCRIBER-R0XN-20251225",
         "token_expiry_timestamp": "2025-12-30T03:08:50.966424+00:00",
         "source_alias": "bassic"
+    },
+    "1453595112645984328": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-802M-20251225",
+                "expiry_timestamp": "2025-12-30T04:05:16.395835+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T04:05:16.395835+00:00",
+        "current_token": "SUBSCRIBER-802M-20251225",
+        "token_expiry_timestamp": "2025-12-30T04:05:16.395835+00:00",
+        "source_alias": "bassic"
     }
 }
