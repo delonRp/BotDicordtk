@@ -5216,7 +5216,17 @@
         "source_alias": "bassic"
     },
     "1403682946501836940": {
-        "last_claim_timestamp": "2025-12-14T15:31:22.551513+00:00"
+        "last_claim_timestamp": "2025-12-25T08:07:30.858232+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-Z7GS-20251225",
+                "expiry_timestamp": "2025-12-28T08:07:30.858232+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-Z7GS-20251225",
+        "token_expiry_timestamp": "2025-12-28T08:07:30.858232+00:00",
+        "source_alias": "bassic"
     },
     "1132442632669364265": {
         "last_claim_timestamp": "2025-12-14T15:58:10.494556+00:00"
