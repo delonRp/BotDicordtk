@@ -6509,5 +6509,18 @@
         "token_expiry_timestamp": "2299-10-09T13:55:01.898232+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1371428157701492777": {
+        "tokens": [
+            {
+                "token": "BEGINNER-E3FG-20251225",
+                "expiry_timestamp": "2025-12-28T17:43:21.148017+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T17:43:21.148017+00:00",
+        "current_token": "BEGINNER-E3FG-20251225",
+        "token_expiry_timestamp": "2025-12-28T17:43:21.148017+00:00",
+        "source_alias": "bassic"
     }
 }
