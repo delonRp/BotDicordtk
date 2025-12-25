@@ -5672,17 +5672,7 @@
         "last_claim_timestamp": "2025-12-20T01:57:34.434954+00:00"
     },
     "1033406094720110703": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-HJJA-20251220",
-                "expiry_timestamp": "2025-12-25T02:18:08.504447+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-20T02:18:08.504447+00:00",
-        "current_token": "SUBSCRIBER-HJJA-20251220",
-        "token_expiry_timestamp": "2025-12-25T02:18:08.504447+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-20T02:18:08.504447+00:00"
     },
     "1341311047398854676": {
         "tokens": [
