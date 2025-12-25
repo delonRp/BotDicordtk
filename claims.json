@@ -6525,5 +6525,18 @@
         "current_token": "SUBSCRIBER-MTID-20251225",
         "token_expiry_timestamp": "2025-12-30T18:26:18.683578+00:00",
         "source_alias": "bassic"
+    },
+    "1316400986301927454": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-NSKS-20251225",
+                "expiry_timestamp": "2025-12-30T21:55:54.322358+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-25T21:55:54.322358+00:00",
+        "current_token": "SUBSCRIBER-NSKS-20251225",
+        "token_expiry_timestamp": "2025-12-30T21:55:54.322358+00:00",
+        "source_alias": "bassic"
     }
 }
