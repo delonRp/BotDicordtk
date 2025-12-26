@@ -6528,5 +6528,18 @@
         "current_token": "SUBSCRIBER-NSKS-20251225",
         "token_expiry_timestamp": "2025-12-30T21:55:54.322358+00:00",
         "source_alias": "bassic"
+    },
+    "1438648658533810236": {
+        "tokens": [
+            {
+                "token": "BEGINNER-UDC7-20251226",
+                "expiry_timestamp": "2025-12-29T02:14:22.113527+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-26T02:14:22.113527+00:00",
+        "current_token": "BEGINNER-UDC7-20251226",
+        "token_expiry_timestamp": "2025-12-29T02:14:22.113527+00:00",
+        "source_alias": "bassic"
     }
 }
