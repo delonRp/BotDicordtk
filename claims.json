@@ -6570,5 +6570,18 @@
         "current_token": "INNERCIRCLE-LADF-20251226",
         "token_expiry_timestamp": "2026-01-02T04:25:48.108355+00:00",
         "source_alias": "bassic"
+    },
+    "1181418081243902025": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-X6CW-20251226",
+                "expiry_timestamp": "2025-12-31T07:09:04.864586+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-26T07:09:04.864586+00:00",
+        "current_token": "SUBSCRIBER-X6CW-20251226",
+        "token_expiry_timestamp": "2025-12-31T07:09:04.864586+00:00",
+        "source_alias": "bassic"
     }
 }
