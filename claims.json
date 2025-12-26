@@ -6609,5 +6609,18 @@
         "current_token": "SUBSCRIBER-7VLS-20251226",
         "token_expiry_timestamp": "2025-12-31T12:41:39.975999+00:00",
         "source_alias": "bassic"
+    },
+    "1391662625649070160": {
+        "tokens": [
+            {
+                "token": "BEGINNER-82KC-20251226",
+                "expiry_timestamp": "2025-12-29T16:08:30.516549+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-26T16:08:30.516549+00:00",
+        "current_token": "BEGINNER-82KC-20251226",
+        "token_expiry_timestamp": "2025-12-29T16:08:30.516549+00:00",
+        "source_alias": "bassic"
     }
 }
