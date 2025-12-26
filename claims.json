@@ -4319,7 +4319,17 @@
         "last_claim_timestamp": "2025-11-29T16:33:25.734178+00:00"
     },
     "1418612517093118043": {
-        "last_claim_timestamp": "2025-12-15T10:20:21.137029+00:00"
+        "last_claim_timestamp": "2025-12-26T14:50:07.513493+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-KYDV-20251226",
+                "expiry_timestamp": "2025-12-31T14:50:07.513493+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-KYDV-20251226",
+        "token_expiry_timestamp": "2025-12-31T14:50:07.513493+00:00",
+        "source_alias": "bassic"
     },
     "1296818632437010473": {
         "last_claim_timestamp": "2025-11-29T17:47:13.839265+00:00"
