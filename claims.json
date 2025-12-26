@@ -5013,11 +5013,6 @@
         "last_claim_timestamp": "2025-12-19T11:33:36.246448+00:00",
         "tokens": [
             {
-                "token": "INNERCIRCLE-J9XO-20251219",
-                "expiry_timestamp": "2025-12-26T11:33:36.246448+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "spo",
                 "expiry_timestamp": "4763-11-16T11:13:03.595870+00:00",
                 "source_alias": "bassic",
@@ -5633,17 +5628,7 @@
         "last_claim_timestamp": "2025-12-19T10:45:23.987867+00:00"
     },
     "1446013234703499327": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-L467-20251219",
-                "expiry_timestamp": "2025-12-26T11:52:00.060755+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-19T11:52:00.060755+00:00",
-        "current_token": "INNERCIRCLE-L467-20251219",
-        "token_expiry_timestamp": "2025-12-26T11:52:00.060755+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-19T11:52:00.060755+00:00"
     },
     "1330147643187527731": {
         "last_claim_timestamp": "2025-12-19T15:52:12.826513+00:00"
@@ -5826,30 +5811,10 @@
         "last_claim_timestamp": "2025-12-21T09:31:09.954924+00:00"
     },
     "1090781756111724545": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QFKW-20251221",
-                "expiry_timestamp": "2025-12-26T11:03:37.181952+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-21T11:03:37.181952+00:00",
-        "current_token": "SUBSCRIBER-QFKW-20251221",
-        "token_expiry_timestamp": "2025-12-26T11:03:37.181952+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-21T11:03:37.181952+00:00"
     },
     "1092602817203683430": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-RHV5-20251221",
-                "expiry_timestamp": "2025-12-26T11:28:37.904227+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-21T11:28:37.904227+00:00",
-        "current_token": "SUBSCRIBER-RHV5-20251221",
-        "token_expiry_timestamp": "2025-12-26T11:28:37.904227+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-21T11:28:37.904227+00:00"
     },
     "1255246220243239013": {
         "last_claim_timestamp": "2025-12-21T11:57:31.839950+00:00"
