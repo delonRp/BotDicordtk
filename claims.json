@@ -6590,5 +6590,18 @@
         "current_token": "INNERCIRCLE-PMLQ-20251227",
         "token_expiry_timestamp": "2026-01-03T03:37:48.514928+00:00",
         "source_alias": "bassic"
+    },
+    "1317374465415581769": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-O2MM-20251227",
+                "expiry_timestamp": "2026-01-01T07:32:13.013322+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T07:32:13.013322+00:00",
+        "current_token": "SUBSCRIBER-O2MM-20251227",
+        "token_expiry_timestamp": "2026-01-01T07:32:13.013322+00:00",
+        "source_alias": "bassic"
     }
 }
