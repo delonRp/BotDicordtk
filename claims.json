@@ -6689,5 +6689,18 @@
         "current_token": "SUBSCRIBER-SJ33-20251227",
         "token_expiry_timestamp": "2026-01-01T13:39:41.864127+00:00",
         "source_alias": "bassic"
+    },
+    "1002628036346265600": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-IP5Y-20251227",
+                "expiry_timestamp": "2026-01-03T13:44:57.947866+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T13:44:57.947866+00:00",
+        "current_token": "INNERCIRCLE-IP5Y-20251227",
+        "token_expiry_timestamp": "2026-01-03T13:44:57.947866+00:00",
+        "source_alias": "bassic"
     }
 }
