@@ -6702,5 +6702,18 @@
         "current_token": "INNERCIRCLE-IP5Y-20251227",
         "token_expiry_timestamp": "2026-01-03T13:44:57.947866+00:00",
         "source_alias": "bassic"
+    },
+    "1201497588088717402": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-FCTH-20251227",
+                "expiry_timestamp": "2026-01-03T14:14:23.747462+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T14:14:23.747462+00:00",
+        "current_token": "INNERCIRCLE-FCTH-20251227",
+        "token_expiry_timestamp": "2026-01-03T14:14:23.747462+00:00",
+        "source_alias": "bassic"
     }
 }
