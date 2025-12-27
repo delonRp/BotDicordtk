@@ -2558,17 +2558,7 @@
         "last_claim_timestamp": "2025-10-28T17:54:36.262666+00:00"
     },
     "1425891205543104675": {
-        "last_claim_timestamp": "2025-12-20T02:51:53.253321+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-X38J-20251220",
-                "expiry_timestamp": "2025-12-27T02:51:53.253321+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-X38J-20251220",
-        "token_expiry_timestamp": "2025-12-27T02:51:53.253321+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-20T02:51:53.253321+00:00"
     },
     "1423267978576662550": {
         "last_claim_timestamp": "2025-10-20T16:29:11.145457+00:00"
@@ -5849,17 +5839,7 @@
         "last_claim_timestamp": "2025-12-22T01:40:43.093604+00:00"
     },
     "1451609068614582366": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-OFN9-20251222",
-                "expiry_timestamp": "2025-12-27T01:57:46.993049+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-22T01:57:46.993049+00:00",
-        "current_token": "SUBSCRIBER-OFN9-20251222",
-        "token_expiry_timestamp": "2025-12-27T01:57:46.993049+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-22T01:57:46.993049+00:00"
     },
     "1424261924824289320": {
         "last_claim_timestamp": "2025-12-22T03:48:49.376762+00:00"
@@ -6080,30 +6060,10 @@
         "source_alias": "bassic"
     },
     "1373464943835353098": {
-        "tokens": [
-            {
-                "token": "BEGINNER-BNKM-20251224",
-                "expiry_timestamp": "2025-12-27T02:10:18.615801+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-24T02:10:18.615801+00:00",
-        "current_token": "BEGINNER-BNKM-20251224",
-        "token_expiry_timestamp": "2025-12-27T02:10:18.615801+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-24T02:10:18.615801+00:00"
     },
     "1221304396281810947": {
-        "tokens": [
-            {
-                "token": "BEGINNER-NTF6-20251224",
-                "expiry_timestamp": "2025-12-27T02:14:22.665221+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-24T02:14:22.665221+00:00",
-        "current_token": "BEGINNER-NTF6-20251224",
-        "token_expiry_timestamp": "2025-12-27T02:14:22.665221+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-24T02:14:22.665221+00:00"
     },
     "1056234663934427198": {
         "tokens": [
