@@ -6594,12 +6594,18 @@
                 "expiry_timestamp": "2026-01-26T09:33:06.817227+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "PIJE",
+                "expiry_timestamp": "2026-01-26T09:33:20.312869+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2025-12-27T00:36:46.661723+00:00",
         "current_token": "PIJE",
-        "token_expiry_timestamp": "2026-01-26T09:33:06.817227+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-01-26T09:33:20.312869+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1388772770782908466": {
