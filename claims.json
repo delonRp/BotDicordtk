@@ -6618,5 +6618,18 @@
         "current_token": "SUBSCRIBER-5D5B-20251226",
         "token_expiry_timestamp": "2025-12-31T20:12:42.185198+00:00",
         "source_alias": "bassic"
+    },
+    "822370170340114462": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-PISN-20251227",
+                "expiry_timestamp": "2026-01-01T00:36:46.661723+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T00:36:46.661723+00:00",
+        "current_token": "SUBSCRIBER-PISN-20251227",
+        "token_expiry_timestamp": "2026-01-01T00:36:46.661723+00:00",
+        "source_alias": "bassic"
     }
 }
