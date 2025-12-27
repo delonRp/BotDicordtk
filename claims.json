@@ -6718,5 +6718,18 @@
         "current_token": "INNERCIRCLE-YYCQ-20251227",
         "token_expiry_timestamp": "2026-01-03T15:41:41.204800+00:00",
         "source_alias": "bassic"
+    },
+    "1339368884079427619": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3R4B-20251227",
+                "expiry_timestamp": "2026-01-03T16:41:24.391195+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T16:41:24.391195+00:00",
+        "current_token": "INNERCIRCLE-3R4B-20251227",
+        "token_expiry_timestamp": "2026-01-03T16:41:24.391195+00:00",
+        "source_alias": "bassic"
     }
 }
