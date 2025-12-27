@@ -6626,5 +6626,18 @@
         "current_token": "SUBSCRIBER-F4M2-20251227",
         "token_expiry_timestamp": "2026-01-01T07:46:51.031895+00:00",
         "source_alias": "bassic"
+    },
+    "1442434756766859356": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-JS7G-20251227",
+                "expiry_timestamp": "2026-01-01T07:57:26.217740+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T07:57:26.217740+00:00",
+        "current_token": "SUBSCRIBER-JS7G-20251227",
+        "token_expiry_timestamp": "2026-01-01T07:57:26.217740+00:00",
+        "source_alias": "bassic"
     }
 }
