@@ -6703,5 +6703,18 @@
         "current_token": "INNERCIRCLE-8JJB-20251227",
         "token_expiry_timestamp": "2026-01-03T09:02:42.862268+00:00",
         "source_alias": "bassic"
+    },
+    "1412995945859256472": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-BUAG-20251227",
+                "expiry_timestamp": "2026-01-01T12:12:41.992170+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-27T12:12:41.992170+00:00",
+        "current_token": "SUBSCRIBER-BUAG-20251227",
+        "token_expiry_timestamp": "2026-01-01T12:12:41.992170+00:00",
+        "source_alias": "bassic"
     }
 }
