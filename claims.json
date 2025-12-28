@@ -6780,5 +6780,19 @@
         "current_token": "BEGINNER-FK3B-20251228",
         "token_expiry_timestamp": "2025-12-31T04:35:48.147349+00:00",
         "source_alias": "bassic"
+    },
+    "1448364889746968576": {
+        "tokens": [
+            {
+                "token": "bay",
+                "expiry_timestamp": "2026-01-27T04:46:41.643679+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "bay",
+        "token_expiry_timestamp": "2026-01-27T04:46:41.643679+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
