@@ -6954,5 +6954,18 @@
         "current_token": "BEGINNER-R9SU-20251228",
         "token_expiry_timestamp": "2025-12-31T12:14:16.861429+00:00",
         "source_alias": "bassic"
+    },
+    "1444054944603967510": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NPLC-20251228",
+                "expiry_timestamp": "2025-12-31T16:01:31.456657+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T16:01:31.456657+00:00",
+        "current_token": "BEGINNER-NPLC-20251228",
+        "token_expiry_timestamp": "2025-12-31T16:01:31.456657+00:00",
+        "source_alias": "bassic"
     }
 }
