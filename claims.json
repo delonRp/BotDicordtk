@@ -6924,5 +6924,18 @@
         "current_token": "BEGINNER-YVGO-20251228",
         "token_expiry_timestamp": "2025-12-31T09:54:12.186258+00:00",
         "source_alias": "bassic"
+    },
+    "1353027477253132501": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-7XDV-20251228",
+                "expiry_timestamp": "2026-01-04T11:18:00.111884+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T11:18:00.111884+00:00",
+        "current_token": "INNERCIRCLE-7XDV-20251228",
+        "token_expiry_timestamp": "2026-01-04T11:18:00.111884+00:00",
+        "source_alias": "bassic"
     }
 }
