@@ -6852,5 +6852,18 @@
         "current_token": "BEGINNER-5EBV-20251228",
         "token_expiry_timestamp": "2025-12-31T06:47:29.574760+00:00",
         "source_alias": "bassic"
+    },
+    "1433165493963063296": {
+        "tokens": [
+            {
+                "token": "BEGINNER-FT6C-20251228",
+                "expiry_timestamp": "2025-12-31T07:48:01.157583+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T07:48:01.157583+00:00",
+        "current_token": "BEGINNER-FT6C-20251228",
+        "token_expiry_timestamp": "2025-12-31T07:48:01.157583+00:00",
+        "source_alias": "bassic"
     }
 }
