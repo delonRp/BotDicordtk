@@ -6825,5 +6825,18 @@
         "current_token": "BEGINNER-FT6C-20251228",
         "token_expiry_timestamp": "2025-12-31T07:48:01.157583+00:00",
         "source_alias": "bassic"
+    },
+    "960144271359479879": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-ICK3-20251228",
+                "expiry_timestamp": "2026-01-04T09:01:44.652773+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T09:01:44.652773+00:00",
+        "current_token": "INNERCIRCLE-ICK3-20251228",
+        "token_expiry_timestamp": "2026-01-04T09:01:44.652773+00:00",
+        "source_alias": "bassic"
     }
 }
