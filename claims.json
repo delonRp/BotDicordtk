@@ -5808,11 +5808,17 @@
                 "expiry_timestamp": "2299-10-12T00:35:04.686972+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "win",
+                "expiry_timestamp": "2299-10-12T00:35:36.070016+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "win",
-        "token_expiry_timestamp": "2299-10-12T00:35:04.686972+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-12T00:35:36.070016+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "957339039919382558": {
