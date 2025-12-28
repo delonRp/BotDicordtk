@@ -855,7 +855,19 @@
         "last_claim_timestamp": "2025-09-25T18:23:03.793549+00:00"
     },
     "1206142335076016168": {
-        "last_claim_timestamp": "2025-09-25T19:52:10.779615+00:00"
+        "last_claim_timestamp": "2025-09-25T19:52:10.779615+00:00",
+        "tokens": [
+            {
+                "token": "chel",
+                "expiry_timestamp": "2026-01-27T13:57:01.391242+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "chel",
+        "token_expiry_timestamp": "2026-01-27T13:57:01.391242+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1303751340295721034": {
         "last_claim_timestamp": "2025-09-26T02:57:34.239851+00:00"
