@@ -2404,11 +2404,17 @@
                 "expiry_timestamp": "2026-01-27T11:47:05.098246+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "alfa1",
+                "expiry_timestamp": "2025-12-28T11:48:49.316744+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "alfa1",
-        "token_expiry_timestamp": "2026-01-27T11:47:05.098246+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2025-12-28T11:48:49.316744+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1095729378647871528": {
