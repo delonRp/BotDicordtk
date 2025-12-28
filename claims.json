@@ -6813,5 +6813,18 @@
         "current_token": "BEGINNER-6G8T-20251228",
         "token_expiry_timestamp": "2025-12-31T05:32:32.444427+00:00",
         "source_alias": "bassic"
+    },
+    "1313015131214581761": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-ML8Z-20251228",
+                "expiry_timestamp": "2026-01-04T05:56:14.674252+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T05:56:14.674252+00:00",
+        "current_token": "INNERCIRCLE-ML8Z-20251228",
+        "token_expiry_timestamp": "2026-01-04T05:56:14.674252+00:00",
+        "source_alias": "bassic"
     }
 }
