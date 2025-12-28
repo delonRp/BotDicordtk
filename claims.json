@@ -6754,5 +6754,18 @@
         "current_token": "BEGINNER-G14R-20251228",
         "token_expiry_timestamp": "2025-12-31T03:14:09.503547+00:00",
         "source_alias": "bassic"
+    },
+    "1223219156682276875": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-IMLQ-20251228",
+                "expiry_timestamp": "2026-01-02T03:45:56.938576+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T03:45:56.938576+00:00",
+        "current_token": "SUBSCRIBER-IMLQ-20251228",
+        "token_expiry_timestamp": "2026-01-02T03:45:56.938576+00:00",
+        "source_alias": "bassic"
     }
 }
