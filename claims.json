@@ -6741,5 +6741,18 @@
         "current_token": "BEGINNER-E6XC-20251228",
         "token_expiry_timestamp": "2025-12-31T02:24:15.211402+00:00",
         "source_alias": "bassic"
+    },
+    "1212621376813400105": {
+        "tokens": [
+            {
+                "token": "BEGINNER-G14R-20251228",
+                "expiry_timestamp": "2025-12-31T03:14:09.503547+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T03:14:09.503547+00:00",
+        "current_token": "BEGINNER-G14R-20251228",
+        "token_expiry_timestamp": "2025-12-31T03:14:09.503547+00:00",
+        "source_alias": "bassic"
     }
 }
