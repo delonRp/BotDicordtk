@@ -6970,5 +6970,18 @@
         "current_token": "BEGINNER-PX5W-20251228",
         "token_expiry_timestamp": "2025-12-31T16:35:38.112945+00:00",
         "source_alias": "bassic"
+    },
+    "1376951745342865418": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-D26D-20251228",
+                "expiry_timestamp": "2026-01-02T18:28:27.915857+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-28T18:28:27.915857+00:00",
+        "current_token": "SUBSCRIBER-D26D-20251228",
+        "token_expiry_timestamp": "2026-01-02T18:28:27.915857+00:00",
+        "source_alias": "bassic"
     }
 }
