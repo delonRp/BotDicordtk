@@ -6966,5 +6966,18 @@
         "current_token": "INNERCIRCLE-WD5S-20251229",
         "token_expiry_timestamp": "2026-01-05T18:32:26.324782+00:00",
         "source_alias": "bassic"
+    },
+    "1447132549426974720": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SFAS-20251229",
+                "expiry_timestamp": "2026-01-01T21:28:17.944762+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-29T21:28:17.944762+00:00",
+        "current_token": "BEGINNER-SFAS-20251229",
+        "token_expiry_timestamp": "2026-01-01T21:28:17.944762+00:00",
+        "source_alias": "bassic"
     }
 }
