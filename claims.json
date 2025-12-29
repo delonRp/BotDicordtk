@@ -6976,5 +6976,18 @@
         "current_token": "SUBSCRIBER-NNTR-20251229",
         "token_expiry_timestamp": "2026-01-03T00:05:54.400869+00:00",
         "source_alias": "bassic"
+    },
+    "1447025409697910858": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-YCBE-20251229",
+                "expiry_timestamp": "2026-01-05T02:29:01.141086+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-29T02:29:01.141086+00:00",
+        "current_token": "INNERCIRCLE-YCBE-20251229",
+        "token_expiry_timestamp": "2026-01-05T02:29:01.141086+00:00",
+        "source_alias": "bassic"
     }
 }
