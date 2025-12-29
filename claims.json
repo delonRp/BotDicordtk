@@ -6943,5 +6943,18 @@
         "current_token": "SUBSCRIBER-D26D-20251228",
         "token_expiry_timestamp": "2026-01-02T18:28:27.915857+00:00",
         "source_alias": "bassic"
+    },
+    "1453179497149894656": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-NNTR-20251229",
+                "expiry_timestamp": "2026-01-03T00:05:54.400869+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-29T00:05:54.400869+00:00",
+        "current_token": "SUBSCRIBER-NNTR-20251229",
+        "token_expiry_timestamp": "2026-01-03T00:05:54.400869+00:00",
+        "source_alias": "bassic"
     }
 }
