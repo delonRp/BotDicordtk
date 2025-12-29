@@ -6982,5 +6982,18 @@
         "current_token": "BEGINNER-OBLY-20251229",
         "token_expiry_timestamp": "2026-01-01T04:07:14.917068+00:00",
         "source_alias": "bassic"
+    },
+    "1322538405594267719": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-J13Z-20251229",
+                "expiry_timestamp": "2026-01-05T05:22:34.380132+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-29T05:22:34.380132+00:00",
+        "current_token": "INNERCIRCLE-J13Z-20251229",
+        "token_expiry_timestamp": "2026-01-05T05:22:34.380132+00:00",
+        "source_alias": "bassic"
     }
 }
