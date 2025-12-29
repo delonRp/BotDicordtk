@@ -4262,11 +4262,6 @@
     "1143099585464639529": {
         "tokens": [
             {
-                "token": "VIP-3BDF-20251129",
-                "expiry_timestamp": "2025-12-29T16:19:06.015953+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "ref",
                 "expiry_timestamp": "2026-01-15T06:44:51.906784+00:00",
                 "source_alias": "vip",
@@ -6342,17 +6337,7 @@
         "source_alias": "bassic"
     },
     "1391662625649070160": {
-        "tokens": [
-            {
-                "token": "BEGINNER-82KC-20251226",
-                "expiry_timestamp": "2025-12-29T16:08:30.516549+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-26T16:08:30.516549+00:00",
-        "current_token": "BEGINNER-82KC-20251226",
-        "token_expiry_timestamp": "2025-12-29T16:08:30.516549+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-26T16:08:30.516549+00:00"
     },
     "1329849367372369981": {
         "tokens": [
