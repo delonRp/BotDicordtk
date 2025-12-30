@@ -7071,5 +7071,18 @@
         "current_token": "INNERCIRCLE-EME5-20251230",
         "token_expiry_timestamp": "2026-01-06T13:38:34.895279+00:00",
         "source_alias": "bassic"
+    },
+    "1375492832676155533": {
+        "tokens": [
+            {
+                "token": "BEGINNER-V26O-20251230",
+                "expiry_timestamp": "2026-01-02T15:45:17.044646+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-30T15:45:17.044646+00:00",
+        "current_token": "BEGINNER-V26O-20251230",
+        "token_expiry_timestamp": "2026-01-02T15:45:17.044646+00:00",
+        "source_alias": "bassic"
     }
 }
