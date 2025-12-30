@@ -3861,11 +3861,18 @@
                 "token": "BEGINNER-JNGY-20251229",
                 "expiry_timestamp": "2026-01-01T10:14:37.526055+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "call",
+                "expiry_timestamp": "2026-01-29T04:23:49.406894+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "BEGINNER-JNGY-20251229",
-        "token_expiry_timestamp": "2026-01-01T10:14:37.526055+00:00",
-        "source_alias": "bassic"
+        "current_token": "call",
+        "token_expiry_timestamp": "2026-01-29T04:23:49.406894+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1374801022060335168": {
         "last_claim_timestamp": "2025-11-18T13:14:34.669587+00:00"
