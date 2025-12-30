@@ -7003,5 +7003,18 @@
         "current_token": "SUBSCRIBER-U9T2-20251230",
         "token_expiry_timestamp": "2026-01-04T05:42:47.290682+00:00",
         "source_alias": "bassic"
+    },
+    "1360802212397191228": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TBLD-20251230",
+                "expiry_timestamp": "2026-01-02T05:48:19.810687+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-30T05:48:19.810687+00:00",
+        "current_token": "BEGINNER-TBLD-20251230",
+        "token_expiry_timestamp": "2026-01-02T05:48:19.810687+00:00",
+        "source_alias": "bassic"
     }
 }
