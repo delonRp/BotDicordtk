@@ -6981,5 +6981,18 @@
         "current_token": "BEGINNER-64BK-20251230",
         "token_expiry_timestamp": "2026-01-02T03:21:25.492596+00:00",
         "source_alias": "bassic"
+    },
+    "1387277733939122309": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VW57-20251230",
+                "expiry_timestamp": "2026-01-02T03:34:51.089832+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-30T03:34:51.089832+00:00",
+        "current_token": "BEGINNER-VW57-20251230",
+        "token_expiry_timestamp": "2026-01-02T03:34:51.089832+00:00",
+        "source_alias": "bassic"
     }
 }
