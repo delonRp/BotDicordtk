@@ -7087,5 +7087,18 @@
         "current_token": "BEGINNER-FI6B-20251230",
         "token_expiry_timestamp": "2026-01-02T16:47:32.933486+00:00",
         "source_alias": "bassic"
+    },
+    "1422657289982050377": {
+        "tokens": [
+            {
+                "token": "BEGINNER-D326-20251230",
+                "expiry_timestamp": "2026-01-02T17:41:24.411097+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-30T17:41:24.411097+00:00",
+        "current_token": "BEGINNER-D326-20251230",
+        "token_expiry_timestamp": "2026-01-02T17:41:24.411097+00:00",
+        "source_alias": "bassic"
     }
 }
