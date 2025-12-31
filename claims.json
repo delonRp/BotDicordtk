@@ -7085,5 +7085,18 @@
         "current_token": "INNERCIRCLE-27VW-20251231",
         "token_expiry_timestamp": "2026-01-07T08:24:12.166774+00:00",
         "source_alias": "bassic"
+    },
+    "1396037899664756798": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OP0D-20251231",
+                "expiry_timestamp": "2026-01-03T09:37:06.161830+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-31T09:37:06.161830+00:00",
+        "current_token": "BEGINNER-OP0D-20251231",
+        "token_expiry_timestamp": "2026-01-03T09:37:06.161830+00:00",
+        "source_alias": "bassic"
     }
 }
