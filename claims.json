@@ -6170,17 +6170,7 @@
         "source_alias": "bassic"
     },
     "1311192491885723662": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-5D5B-20251226",
-                "expiry_timestamp": "2025-12-31T20:12:42.185198+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-26T20:12:42.185198+00:00",
-        "current_token": "SUBSCRIBER-5D5B-20251226",
-        "token_expiry_timestamp": "2025-12-31T20:12:42.185198+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-26T20:12:42.185198+00:00"
     },
     "822370170340114462": {
         "tokens": [
