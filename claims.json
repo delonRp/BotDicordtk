@@ -7110,5 +7110,18 @@
         "current_token": "SUBSCRIBER-ET8M-20251231",
         "token_expiry_timestamp": "2026-01-05T07:45:44.709619+00:00",
         "source_alias": "bassic"
+    },
+    "1417397802077650965": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-27VW-20251231",
+                "expiry_timestamp": "2026-01-07T08:24:12.166774+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-31T08:24:12.166774+00:00",
+        "current_token": "INNERCIRCLE-27VW-20251231",
+        "token_expiry_timestamp": "2026-01-07T08:24:12.166774+00:00",
+        "source_alias": "bassic"
     }
 }
