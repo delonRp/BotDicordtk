@@ -2952,25 +2952,7 @@
         "last_claim_timestamp": "2025-10-29T06:59:22.925128+00:00"
     },
     "1066918321112494161": {
-        "tokens": [
-            {
-                "token": "pici",
-                "expiry_timestamp": "2025-12-31T08:34:51.424364+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "pici",
-                "expiry_timestamp": "2025-12-31T08:35:27.764851+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "last_claim_timestamp": "2025-10-29T07:16:13.214563+00:00",
-        "current_token": "pici",
-        "token_expiry_timestamp": "2025-12-31T08:35:27.764851+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-10-29T07:16:13.214563+00:00"
     },
     "1187894583850434655": {
         "last_claim_timestamp": "2025-11-13T12:34:43.996554+00:00"
