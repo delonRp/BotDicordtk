@@ -7132,5 +7132,18 @@
         "current_token": "BEGINNER-JLBZ-20251231",
         "token_expiry_timestamp": "2026-01-03T04:08:38.314811+00:00",
         "source_alias": "bassic"
+    },
+    "1247085690915917919": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MOTO-20251231",
+                "expiry_timestamp": "2026-01-03T05:43:58.573607+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-31T05:43:58.573607+00:00",
+        "current_token": "BEGINNER-MOTO-20251231",
+        "token_expiry_timestamp": "2026-01-03T05:43:58.573607+00:00",
+        "source_alias": "bassic"
     }
 }
