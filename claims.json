@@ -7000,5 +7000,18 @@
         "current_token": "INNERCIRCLE-YII5-20251231",
         "token_expiry_timestamp": "2026-01-07T22:14:07.361844+00:00",
         "source_alias": "bassic"
+    },
+    "1434075322411647160": {
+        "tokens": [
+            {
+                "token": "BEGINNER-VLQB-20251231",
+                "expiry_timestamp": "2026-01-03T22:45:43.447715+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2025-12-31T22:45:43.447715+00:00",
+        "current_token": "BEGINNER-VLQB-20251231",
+        "token_expiry_timestamp": "2026-01-03T22:45:43.447715+00:00",
+        "source_alias": "bassic"
     }
 }
