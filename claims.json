@@ -5377,17 +5377,7 @@
         "last_claim_timestamp": "2025-12-15T13:38:01.133033+00:00"
     },
     "1446731440577445939": {
-        "last_claim_timestamp": "2025-12-27T02:17:45.648555+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-SCHC-20251227",
-                "expiry_timestamp": "2026-01-01T02:17:45.648555+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-SCHC-20251227",
-        "token_expiry_timestamp": "2026-01-01T02:17:45.648555+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-27T02:17:45.648555+00:00"
     },
     "1357682255098548244": {
         "last_claim_timestamp": "2025-12-15T16:05:01.626455+00:00"
