@@ -6947,5 +6947,18 @@
         "current_token": "INNERCIRCLE-FTYP-20260101",
         "token_expiry_timestamp": "2026-01-08T05:08:11.641972+00:00",
         "source_alias": "bassic"
+    },
+    "1393526149065216111": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XN4Q-20260101",
+                "expiry_timestamp": "2026-01-06T10:47:44.546637+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-01T10:47:44.546637+00:00",
+        "current_token": "SUBSCRIBER-XN4Q-20260101",
+        "token_expiry_timestamp": "2026-01-06T10:47:44.546637+00:00",
+        "source_alias": "bassic"
     }
 }
