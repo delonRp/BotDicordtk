@@ -7036,5 +7036,18 @@
         "current_token": "INNERCIRCLE-KYVL-20260101",
         "token_expiry_timestamp": "2026-01-08T15:59:47.559306+00:00",
         "source_alias": "bassic"
+    },
+    "1402447168484278392": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-65JD-20260101",
+                "expiry_timestamp": "2026-01-06T16:57:48.581907+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-01T16:57:48.581907+00:00",
+        "current_token": "SUBSCRIBER-65JD-20260101",
+        "token_expiry_timestamp": "2026-01-06T16:57:48.581907+00:00",
+        "source_alias": "bassic"
     }
 }
