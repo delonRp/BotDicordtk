@@ -7063,12 +7063,19 @@
                 "token": "SUBSCRIBER-65JD-20260101",
                 "expiry_timestamp": "2026-01-06T16:57:48.581907+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "amal",
+                "expiry_timestamp": "2299-10-16T18:19:26.557276+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-01T16:57:48.581907+00:00",
-        "current_token": "SUBSCRIBER-65JD-20260101",
-        "token_expiry_timestamp": "2026-01-06T16:57:48.581907+00:00",
-        "source_alias": "bassic"
+        "current_token": "amal",
+        "token_expiry_timestamp": "2299-10-16T18:19:26.557276+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1421873509432430642": {
         "tokens": [
