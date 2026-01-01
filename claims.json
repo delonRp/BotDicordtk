@@ -4882,7 +4882,17 @@
         "last_claim_timestamp": "2025-12-08T09:53:23.171126+00:00"
     },
     "1334004916556927072": {
-        "last_claim_timestamp": "2025-12-08T11:12:21.491229+00:00"
+        "last_claim_timestamp": "2026-01-01T01:00:13.032791+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-EHRT-20260101",
+                "expiry_timestamp": "2026-01-06T01:00:13.032791+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-EHRT-20260101",
+        "token_expiry_timestamp": "2026-01-06T01:00:13.032791+00:00",
+        "source_alias": "bassic"
     },
     "1200971261568888853": {
         "last_claim_timestamp": "2025-12-16T11:03:40.290216+00:00"
