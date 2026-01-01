@@ -4017,7 +4017,17 @@
     },
     "1408368113770299514": {},
     "956077675552858132": {
-        "last_claim_timestamp": "2025-12-23T23:05:36.091599+00:00"
+        "last_claim_timestamp": "2026-01-01T17:43:43.774390+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-2CMN-20260101",
+                "expiry_timestamp": "2026-01-06T17:43:43.774390+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-2CMN-20260101",
+        "token_expiry_timestamp": "2026-01-06T17:43:43.774390+00:00",
+        "source_alias": "bassic"
     },
     "1418687761334141042": {
         "last_claim_timestamp": "2025-11-23T05:22:18.375404+00:00"
