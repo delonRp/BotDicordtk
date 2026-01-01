@@ -6185,11 +6185,6 @@
     "822370170340114462": {
         "tokens": [
             {
-                "token": "SUBSCRIBER-PISN-20251227",
-                "expiry_timestamp": "2026-01-01T00:36:46.661723+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "PIJE",
                 "expiry_timestamp": "2026-01-26T09:33:06.817227+00:00",
                 "source_alias": "vip",
@@ -6209,17 +6204,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1388772770782908466": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-PZVX-20251227",
-                "expiry_timestamp": "2026-01-01T01:04:08.747467+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-27T01:04:08.747467+00:00",
-        "current_token": "SUBSCRIBER-PZVX-20251227",
-        "token_expiry_timestamp": "2026-01-01T01:04:08.747467+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-27T01:04:08.747467+00:00"
     },
     "916556559725785149": {
         "last_claim_timestamp": "2025-12-27T03:16:32.654906+00:00"
