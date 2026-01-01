@@ -7009,5 +7009,18 @@
         "current_token": "BEGINNER-NB82-20260101",
         "token_expiry_timestamp": "2026-01-04T04:53:24.723089+00:00",
         "source_alias": "bassic"
+    },
+    "1302200304451850261": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-FTYP-20260101",
+                "expiry_timestamp": "2026-01-08T05:08:11.641972+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-01T05:08:11.641972+00:00",
+        "current_token": "INNERCIRCLE-FTYP-20260101",
+        "token_expiry_timestamp": "2026-01-08T05:08:11.641972+00:00",
+        "source_alias": "bassic"
     }
 }
