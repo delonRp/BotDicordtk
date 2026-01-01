@@ -5393,17 +5393,7 @@
         "last_claim_timestamp": "2025-12-24T10:56:55.798135+00:00"
     },
     "1390703903024087040": {
-        "last_claim_timestamp": "2025-12-27T08:52:34.190951+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-NEFA-20251227",
-                "expiry_timestamp": "2026-01-01T08:52:34.190951+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-NEFA-20251227",
-        "token_expiry_timestamp": "2026-01-01T08:52:34.190951+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-27T08:52:34.190951+00:00"
     },
     "1327794552509300878": {
         "last_claim_timestamp": "2025-12-16T08:39:15.073669+00:00"
