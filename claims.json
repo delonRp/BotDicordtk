@@ -7069,12 +7069,18 @@
                 "expiry_timestamp": "2299-10-16T18:19:26.557276+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "amal",
+                "expiry_timestamp": "2299-10-16T18:19:53.592341+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-01T16:57:48.581907+00:00",
         "current_token": "amal",
-        "token_expiry_timestamp": "2299-10-16T18:19:26.557276+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-16T18:19:53.592341+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1421873509432430642": {
