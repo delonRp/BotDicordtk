@@ -6960,5 +6960,18 @@
         "current_token": "SUBSCRIBER-XN4Q-20260101",
         "token_expiry_timestamp": "2026-01-06T10:47:44.546637+00:00",
         "source_alias": "bassic"
+    },
+    "1431188882698797191": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-4LDY-20260101",
+                "expiry_timestamp": "2026-01-06T10:51:33.548585+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-01T10:51:33.548585+00:00",
+        "current_token": "SUBSCRIBER-4LDY-20260101",
+        "token_expiry_timestamp": "2026-01-06T10:51:33.548585+00:00",
+        "source_alias": "bassic"
     }
 }
