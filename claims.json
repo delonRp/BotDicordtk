@@ -7062,5 +7062,18 @@
         "current_token": "INNERCIRCLE-TK3R-20260102",
         "token_expiry_timestamp": "2026-01-09T04:36:55.223220+00:00",
         "source_alias": "bassic"
+    },
+    "1392203045332320360": {
+        "tokens": [
+            {
+                "token": "BEGINNER-WOUT-20260102",
+                "expiry_timestamp": "2026-01-05T05:23:53.569843+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-02T05:23:53.569843+00:00",
+        "current_token": "BEGINNER-WOUT-20260102",
+        "token_expiry_timestamp": "2026-01-05T05:23:53.569843+00:00",
+        "source_alias": "bassic"
     }
 }
