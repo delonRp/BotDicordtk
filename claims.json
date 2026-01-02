@@ -7142,5 +7142,18 @@
         "current_token": "BEGINNER-8O46-20260102",
         "token_expiry_timestamp": "2026-01-05T13:26:20.475994+00:00",
         "source_alias": "bassic"
+    },
+    "1348559518577070103": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VTCC-20260102",
+                "expiry_timestamp": "2026-01-09T14:15:53.110029+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-02T14:15:53.110029+00:00",
+        "current_token": "INNERCIRCLE-VTCC-20260102",
+        "token_expiry_timestamp": "2026-01-09T14:15:53.110029+00:00",
+        "source_alias": "bassic"
     }
 }
