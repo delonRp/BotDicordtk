@@ -7103,5 +7103,18 @@
         "current_token": "BEGINNER-0VSV-20260102",
         "token_expiry_timestamp": "2026-01-05T11:02:22.215644+00:00",
         "source_alias": "bassic"
+    },
+    "1448327814469259376": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-OFWL-20260102",
+                "expiry_timestamp": "2026-01-09T11:06:37.897029+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-02T11:06:37.897029+00:00",
+        "current_token": "INNERCIRCLE-OFWL-20260102",
+        "token_expiry_timestamp": "2026-01-09T11:06:37.897029+00:00",
+        "source_alias": "bassic"
     }
 }
