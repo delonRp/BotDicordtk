@@ -7168,5 +7168,18 @@
         "current_token": "BEGINNER-QHZ3-20260102",
         "token_expiry_timestamp": "2026-01-05T15:10:17.442098+00:00",
         "source_alias": "bassic"
+    },
+    "1314530181603397653": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-5WXL-20260102",
+                "expiry_timestamp": "2026-01-09T15:16:25.343074+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-02T15:16:25.343074+00:00",
+        "current_token": "INNERCIRCLE-5WXL-20260102",
+        "token_expiry_timestamp": "2026-01-09T15:16:25.343074+00:00",
+        "source_alias": "bassic"
     }
 }
