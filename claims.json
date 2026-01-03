@@ -7117,5 +7117,18 @@
         "current_token": "BEGINNER-TXP7-20260103",
         "token_expiry_timestamp": "2026-01-06T02:36:33.499648+00:00",
         "source_alias": "bassic"
+    },
+    "1079531339067424950": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-KUI0-20260103",
+                "expiry_timestamp": "2026-01-10T02:55:14.209319+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-03T02:55:14.209319+00:00",
+        "current_token": "INNERCIRCLE-KUI0-20260103",
+        "token_expiry_timestamp": "2026-01-10T02:55:14.209319+00:00",
+        "source_alias": "bassic"
     }
 }
