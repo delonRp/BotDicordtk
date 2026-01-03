@@ -7141,11 +7141,18 @@
                 "token": "BEGINNER-LPDM-20260103",
                 "expiry_timestamp": "2026-01-06T08:02:53.452590+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "9717",
+                "expiry_timestamp": "2026-02-02T10:17:43.891932+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-03T08:02:53.452590+00:00",
-        "current_token": "BEGINNER-LPDM-20260103",
-        "token_expiry_timestamp": "2026-01-06T08:02:53.452590+00:00",
-        "source_alias": "bassic"
+        "current_token": "9717",
+        "token_expiry_timestamp": "2026-02-02T10:17:43.891932+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
