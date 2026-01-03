@@ -7207,5 +7207,18 @@
         "current_token": "BEGINNER-FUZ4-20260103",
         "token_expiry_timestamp": "2026-01-06T20:34:22.083420+00:00",
         "source_alias": "bassic"
+    },
+    "1327629505191346241": {
+        "tokens": [
+            {
+                "token": "BEGINNER-KJTD-20260103",
+                "expiry_timestamp": "2026-01-06T22:04:57.479871+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-03T22:04:57.479871+00:00",
+        "current_token": "BEGINNER-KJTD-20260103",
+        "token_expiry_timestamp": "2026-01-06T22:04:57.479871+00:00",
+        "source_alias": "bassic"
     }
 }
