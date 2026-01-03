@@ -7153,5 +7153,18 @@
         "current_token": "BEGINNER-QZYC-20260103",
         "token_expiry_timestamp": "2026-01-06T03:56:50.387536+00:00",
         "source_alias": "bassic"
+    },
+    "1374153806828277860": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-PE6P-20260103",
+                "expiry_timestamp": "2026-01-10T04:07:21.365617+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-03T04:07:21.365617+00:00",
+        "current_token": "INNERCIRCLE-PE6P-20260103",
+        "token_expiry_timestamp": "2026-01-10T04:07:21.365617+00:00",
+        "source_alias": "bassic"
     }
 }
