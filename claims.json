@@ -7216,5 +7216,18 @@
         "current_token": "INNERCIRCLE-TZHJ-20260104",
         "token_expiry_timestamp": "2026-01-11T21:07:07.612033+00:00",
         "source_alias": "bassic"
+    },
+    "1457415671188160706": {
+        "tokens": [
+            {
+                "token": "BEGINNER-GT6V-20260104",
+                "expiry_timestamp": "2026-01-07T21:30:34.297711+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T21:30:34.297711+00:00",
+        "current_token": "BEGINNER-GT6V-20260104",
+        "token_expiry_timestamp": "2026-01-07T21:30:34.297711+00:00",
+        "source_alias": "bassic"
     }
 }
