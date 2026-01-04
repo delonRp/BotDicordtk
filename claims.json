@@ -7168,5 +7168,18 @@
         "current_token": "BEGINNER-YTP3-20260104",
         "token_expiry_timestamp": "2026-01-07T11:01:14.658380+00:00",
         "source_alias": "bassic"
+    },
+    "1399718855986647132": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7JUZ-20260104",
+                "expiry_timestamp": "2026-01-07T11:12:25.584892+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T11:12:25.584892+00:00",
+        "current_token": "BEGINNER-7JUZ-20260104",
+        "token_expiry_timestamp": "2026-01-07T11:12:25.584892+00:00",
+        "source_alias": "bassic"
     }
 }
