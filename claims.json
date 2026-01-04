@@ -3306,17 +3306,7 @@
         "last_claim_timestamp": "2025-11-05T01:25:57.815761+00:00"
     },
     "1253164548027060307": {
-        "last_claim_timestamp": "2025-12-28T09:16:57.297708+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-D41G-20251228",
-                "expiry_timestamp": "2026-01-04T09:16:57.297708+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-D41G-20251228",
-        "token_expiry_timestamp": "2026-01-04T09:16:57.297708+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-28T09:16:57.297708+00:00"
     },
     "1352667775360958496": {
         "last_claim_timestamp": "2025-11-05T02:13:22.701906+00:00"
@@ -6165,30 +6155,10 @@
         "last_claim_timestamp": "2025-12-28T07:48:01.157583+00:00"
     },
     "960144271359479879": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-ICK3-20251228",
-                "expiry_timestamp": "2026-01-04T09:01:44.652773+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-28T09:01:44.652773+00:00",
-        "current_token": "INNERCIRCLE-ICK3-20251228",
-        "token_expiry_timestamp": "2026-01-04T09:01:44.652773+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-28T09:01:44.652773+00:00"
     },
     "975694990355349504": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-XLOV-20251228",
-                "expiry_timestamp": "2026-01-04T09:12:06.246859+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-28T09:12:06.246859+00:00",
-        "current_token": "INNERCIRCLE-XLOV-20251228",
-        "token_expiry_timestamp": "2026-01-04T09:12:06.246859+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-28T09:12:06.246859+00:00"
     },
     "1436583258576912394": {
         "last_claim_timestamp": "2025-12-28T09:54:12.186258+00:00"
