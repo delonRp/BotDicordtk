@@ -7213,5 +7213,18 @@
         "current_token": "INNERCIRCLE-5QQW-20260104",
         "token_expiry_timestamp": "2026-01-11T01:15:42.165581+00:00",
         "source_alias": "bassic"
+    },
+    "1354081182752702555": {
+        "tokens": [
+            {
+                "token": "BEGINNER-L4QV-20260104",
+                "expiry_timestamp": "2026-01-07T01:22:53.561687+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T01:22:53.561687+00:00",
+        "current_token": "BEGINNER-L4QV-20260104",
+        "token_expiry_timestamp": "2026-01-07T01:22:53.561687+00:00",
+        "source_alias": "bassic"
     }
 }
