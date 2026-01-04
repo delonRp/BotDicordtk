@@ -7226,5 +7226,18 @@
         "current_token": "BEGINNER-L4QV-20260104",
         "token_expiry_timestamp": "2026-01-07T01:22:53.561687+00:00",
         "source_alias": "bassic"
+    },
+    "1361244695879221340": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4LG8-20260104",
+                "expiry_timestamp": "2026-01-07T01:56:23.310665+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T01:56:23.310665+00:00",
+        "current_token": "BEGINNER-4LG8-20260104",
+        "token_expiry_timestamp": "2026-01-07T01:56:23.310665+00:00",
+        "source_alias": "bassic"
     }
 }
