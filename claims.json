@@ -7222,5 +7222,18 @@
         "current_token": "INNERCIRCLE-T1SK-20260104",
         "token_expiry_timestamp": "2026-01-11T02:22:21.340655+00:00",
         "source_alias": "bassic"
+    },
+    "1325703224040230943": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-52GB-20260104",
+                "expiry_timestamp": "2026-01-09T04:46:01.384147+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T04:46:01.384147+00:00",
+        "current_token": "SUBSCRIBER-52GB-20260104",
+        "token_expiry_timestamp": "2026-01-09T04:46:01.384147+00:00",
+        "source_alias": "bassic"
     }
 }
