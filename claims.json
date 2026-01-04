@@ -7155,5 +7155,18 @@
         "current_token": "SUBSCRIBER-52GB-20260104",
         "token_expiry_timestamp": "2026-01-09T04:46:01.384147+00:00",
         "source_alias": "bassic"
+    },
+    "1431155624233799875": {
+        "tokens": [
+            {
+                "token": "BEGINNER-YTP3-20260104",
+                "expiry_timestamp": "2026-01-07T11:01:14.658380+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-04T11:01:14.658380+00:00",
+        "current_token": "BEGINNER-YTP3-20260104",
+        "token_expiry_timestamp": "2026-01-07T11:01:14.658380+00:00",
+        "source_alias": "bassic"
     }
 }
