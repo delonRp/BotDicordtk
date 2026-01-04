@@ -3742,17 +3742,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1369683911592116336": {
-        "last_claim_timestamp": "2025-12-30T21:51:31.000327+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QV60-20251230",
-                "expiry_timestamp": "2026-01-04T21:51:31.000327+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-QV60-20251230",
-        "token_expiry_timestamp": "2026-01-04T21:51:31.000327+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-30T21:51:31.000327+00:00"
     },
     "1130043108843864174": {
         "last_claim_timestamp": "2025-11-16T14:15:05.596384+00:00"
