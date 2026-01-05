@@ -7567,5 +7567,18 @@
         "current_token": "BEGINNER-RYAG-20260105",
         "token_expiry_timestamp": "2026-01-08T12:20:01.750113+00:00",
         "source_alias": "bassic"
+    },
+    "1182256137811275800": {
+        "tokens": [
+            {
+                "token": "BEGINNER-9R0C-20260105",
+                "expiry_timestamp": "2026-01-08T12:37:21.845040+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T12:37:21.845040+00:00",
+        "current_token": "BEGINNER-9R0C-20260105",
+        "token_expiry_timestamp": "2026-01-08T12:37:21.845040+00:00",
+        "source_alias": "bassic"
     }
 }
