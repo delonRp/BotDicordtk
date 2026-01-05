@@ -7450,5 +7450,18 @@
         "current_token": "BEGINNER-MIMM-20260105",
         "token_expiry_timestamp": "2026-01-08T11:12:12.547068+00:00",
         "source_alias": "bassic"
+    },
+    "1307706004557004871": {
+        "tokens": [
+            {
+                "token": "BEGINNER-EZ5R-20260105",
+                "expiry_timestamp": "2026-01-08T11:12:47.623447+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T11:12:47.623447+00:00",
+        "current_token": "BEGINNER-EZ5R-20260105",
+        "token_expiry_timestamp": "2026-01-08T11:12:47.623447+00:00",
+        "source_alias": "bassic"
     }
 }
