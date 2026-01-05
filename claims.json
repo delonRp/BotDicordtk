@@ -7580,5 +7580,18 @@
         "current_token": "BEGINNER-9R0C-20260105",
         "token_expiry_timestamp": "2026-01-08T12:37:21.845040+00:00",
         "source_alias": "bassic"
+    },
+    "1313945568091050005": {
+        "tokens": [
+            {
+                "token": "BEGINNER-WY3C-20260105",
+                "expiry_timestamp": "2026-01-08T12:45:48.030365+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T12:45:48.030365+00:00",
+        "current_token": "BEGINNER-WY3C-20260105",
+        "token_expiry_timestamp": "2026-01-08T12:45:48.030365+00:00",
+        "source_alias": "bassic"
     }
 }
