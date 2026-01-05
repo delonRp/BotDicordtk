@@ -6604,17 +6604,7 @@
         "last_claim_timestamp": "2026-01-02T10:06:33.206308+00:00"
     },
     "1393558111024975975": {
-        "tokens": [
-            {
-                "token": "BEGINNER-0VSV-20260102",
-                "expiry_timestamp": "2026-01-05T11:02:22.215644+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-02T11:02:22.215644+00:00",
-        "current_token": "BEGINNER-0VSV-20260102",
-        "token_expiry_timestamp": "2026-01-05T11:02:22.215644+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T11:02:22.215644+00:00"
     },
     "1448327814469259376": {
         "tokens": [
@@ -6630,17 +6620,7 @@
         "source_alias": "bassic"
     },
     "1439846407493386290": {
-        "tokens": [
-            {
-                "token": "BEGINNER-7VV5-20260102",
-                "expiry_timestamp": "2026-01-05T11:28:04.047766+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-02T11:28:04.047766+00:00",
-        "current_token": "BEGINNER-7VV5-20260102",
-        "token_expiry_timestamp": "2026-01-05T11:28:04.047766+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T11:28:04.047766+00:00"
     },
     "972442329015283772": {
         "tokens": [
