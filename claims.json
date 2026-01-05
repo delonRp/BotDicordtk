@@ -7731,5 +7731,18 @@
         "current_token": "INNERCIRCLE-L2AY-20260105",
         "token_expiry_timestamp": "2026-01-12T17:18:19.858474+00:00",
         "source_alias": "bassic"
+    },
+    "1232289665877540895": {
+        "tokens": [
+            {
+                "token": "BEGINNER-WEY8-20260105",
+                "expiry_timestamp": "2026-01-08T17:48:12.392831+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T17:48:12.392831+00:00",
+        "current_token": "BEGINNER-WEY8-20260105",
+        "token_expiry_timestamp": "2026-01-08T17:48:12.392831+00:00",
+        "source_alias": "bassic"
     }
 }
