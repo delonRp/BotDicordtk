@@ -7463,5 +7463,18 @@
         "current_token": "BEGINNER-EZ5R-20260105",
         "token_expiry_timestamp": "2026-01-08T11:12:47.623447+00:00",
         "source_alias": "bassic"
+    },
+    "914057524230127636": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-S9VK-20260105",
+                "expiry_timestamp": "2026-01-12T11:16:58.027050+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T11:16:58.027050+00:00",
+        "current_token": "INNERCIRCLE-S9VK-20260105",
+        "token_expiry_timestamp": "2026-01-12T11:16:58.027050+00:00",
+        "source_alias": "bassic"
     }
 }
