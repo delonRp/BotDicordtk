@@ -7179,5 +7179,18 @@
         "current_token": "BEGINNER-GT6V-20260104",
         "token_expiry_timestamp": "2026-01-07T21:30:34.297711+00:00",
         "source_alias": "bassic"
+    },
+    "361287428784390165": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-JD0J-20260105",
+                "expiry_timestamp": "2026-01-12T00:38:35.671318+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T00:38:35.671318+00:00",
+        "current_token": "INNERCIRCLE-JD0J-20260105",
+        "token_expiry_timestamp": "2026-01-12T00:38:35.671318+00:00",
+        "source_alias": "bassic"
     }
 }
