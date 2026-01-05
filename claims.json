@@ -7489,5 +7489,18 @@
         "current_token": "BEGINNER-716O-20260105",
         "token_expiry_timestamp": "2026-01-08T11:50:01.434405+00:00",
         "source_alias": "bassic"
+    },
+    "1250669887890788394": {
+        "tokens": [
+            {
+                "token": "BEGINNER-UMW0-20260105",
+                "expiry_timestamp": "2026-01-08T12:04:07.796472+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T12:04:07.796472+00:00",
+        "current_token": "BEGINNER-UMW0-20260105",
+        "token_expiry_timestamp": "2026-01-08T12:04:07.796472+00:00",
+        "source_alias": "bassic"
     }
 }
