@@ -7554,5 +7554,18 @@
         "current_token": "INNERCIRCLE-XXVX-20260105",
         "token_expiry_timestamp": "2026-01-12T12:19:48.702748+00:00",
         "source_alias": "bassic"
+    },
+    "1235592247706124382": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RYAG-20260105",
+                "expiry_timestamp": "2026-01-08T12:20:01.750113+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T12:20:01.750113+00:00",
+        "current_token": "BEGINNER-RYAG-20260105",
+        "token_expiry_timestamp": "2026-01-08T12:20:01.750113+00:00",
+        "source_alias": "bassic"
     }
 }
