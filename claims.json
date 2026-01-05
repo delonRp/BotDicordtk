@@ -7621,5 +7621,18 @@
         "current_token": "BEGINNER-LRWA-20260105",
         "token_expiry_timestamp": "2026-01-08T13:15:00.612428+00:00",
         "source_alias": "bassic"
+    },
+    "1381887765372993586": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-NFF7-20260105",
+                "expiry_timestamp": "2026-01-12T13:34:15.911401+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T13:34:15.911401+00:00",
+        "current_token": "INNERCIRCLE-NFF7-20260105",
+        "token_expiry_timestamp": "2026-01-12T13:34:15.911401+00:00",
+        "source_alias": "bassic"
     }
 }
