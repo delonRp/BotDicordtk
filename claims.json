@@ -7126,12 +7126,19 @@
                 "token": "INNERCIRCLE-JD0J-20260105",
                 "expiry_timestamp": "2026-01-12T00:38:35.671318+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ash",
+                "expiry_timestamp": "2299-10-20T09:16:44.982190+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-05T00:38:35.671318+00:00",
-        "current_token": "INNERCIRCLE-JD0J-20260105",
-        "token_expiry_timestamp": "2026-01-12T00:38:35.671318+00:00",
-        "source_alias": "bassic"
+        "current_token": "ash",
+        "token_expiry_timestamp": "2299-10-20T09:16:44.982190+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1455517340983885857": {
         "tokens": [
