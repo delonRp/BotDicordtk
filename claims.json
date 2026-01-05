@@ -7657,5 +7657,18 @@
         "current_token": "BEGINNER-S921-20260105",
         "token_expiry_timestamp": "2026-01-08T14:10:34.556051+00:00",
         "source_alias": "bassic"
+    },
+    "1394856035918942372": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TVSU-20260105",
+                "expiry_timestamp": "2026-01-08T14:20:00.389848+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T14:20:00.389848+00:00",
+        "current_token": "BEGINNER-TVSU-20260105",
+        "token_expiry_timestamp": "2026-01-08T14:20:00.389848+00:00",
+        "source_alias": "bassic"
     }
 }
