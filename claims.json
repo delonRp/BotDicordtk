@@ -7699,5 +7699,18 @@
         "current_token": "INNERCIRCLE-WTSU-20260105",
         "token_expiry_timestamp": "2026-01-12T16:13:58.837984+00:00",
         "source_alias": "bassic"
+    },
+    "1183947427393319012": {
+        "tokens": [
+            {
+                "token": "BEGINNER-410Y-20260105",
+                "expiry_timestamp": "2026-01-08T16:16:24.491832+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T16:16:24.491832+00:00",
+        "current_token": "BEGINNER-410Y-20260105",
+        "token_expiry_timestamp": "2026-01-08T16:16:24.491832+00:00",
+        "source_alias": "bassic"
     }
 }
