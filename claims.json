@@ -7388,5 +7388,18 @@
         "current_token": "INNERCIRCLE-GOL7-20260105",
         "token_expiry_timestamp": "2026-01-12T10:52:23.693862+00:00",
         "source_alias": "bassic"
+    },
+    "1435659865824694302": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-732O-20260105",
+                "expiry_timestamp": "2026-01-12T10:56:28.786902+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T10:56:28.786902+00:00",
+        "current_token": "INNERCIRCLE-732O-20260105",
+        "token_expiry_timestamp": "2026-01-12T10:56:28.786902+00:00",
+        "source_alias": "bassic"
     }
 }
