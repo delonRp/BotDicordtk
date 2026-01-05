@@ -4359,7 +4359,17 @@
         "last_claim_timestamp": "2025-12-30T09:52:32.142385+00:00"
     },
     "1019801511095713883": {
-        "last_claim_timestamp": "2025-12-01T07:28:44.884622+00:00"
+        "last_claim_timestamp": "2026-01-05T11:52:41.374034+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-FBTX-20260105",
+                "expiry_timestamp": "2026-01-10T11:52:41.374034+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-FBTX-20260105",
+        "token_expiry_timestamp": "2026-01-10T11:52:41.374034+00:00",
+        "source_alias": "bassic"
     },
     "1444217295735095307": {
         "last_claim_timestamp": "2025-12-01T10:13:14.740588+00:00"
