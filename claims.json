@@ -5782,7 +5782,17 @@
         "last_claim_timestamp": "2025-12-22T13:15:54.722854+00:00"
     },
     "698520089217073243": {
-        "last_claim_timestamp": "2025-12-22T18:34:53.476184+00:00"
+        "last_claim_timestamp": "2026-01-05T21:39:29.428334+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-CDEX-20260105",
+                "expiry_timestamp": "2026-01-12T21:39:29.428334+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-CDEX-20260105",
+        "token_expiry_timestamp": "2026-01-12T21:39:29.428334+00:00",
+        "source_alias": "bassic"
     },
     "1324951083705040906": {
         "last_claim_timestamp": "2025-12-22T19:04:10.429217+00:00"
