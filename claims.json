@@ -7424,5 +7424,18 @@
         "current_token": "BEGINNER-2KXV-20260105",
         "token_expiry_timestamp": "2026-01-08T10:57:01.295715+00:00",
         "source_alias": "bassic"
+    },
+    "1449354979402977388": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-GL52-20260105",
+                "expiry_timestamp": "2026-01-12T10:57:32.193243+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T10:57:32.193243+00:00",
+        "current_token": "INNERCIRCLE-GL52-20260105",
+        "token_expiry_timestamp": "2026-01-12T10:57:32.193243+00:00",
+        "source_alias": "bassic"
     }
 }
