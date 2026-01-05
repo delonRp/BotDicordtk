@@ -7132,12 +7132,18 @@
                 "expiry_timestamp": "2299-10-20T09:16:44.982190+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "ash",
+                "expiry_timestamp": "2299-10-20T09:17:04.858834+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-05T00:38:35.671318+00:00",
         "current_token": "ash",
-        "token_expiry_timestamp": "2299-10-20T09:16:44.982190+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-20T09:17:04.858834+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1455517340983885857": {
