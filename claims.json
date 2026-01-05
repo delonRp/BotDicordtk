@@ -7606,5 +7606,18 @@
         "current_token": "BEGINNER-2WF4-20260105",
         "token_expiry_timestamp": "2026-01-08T13:04:04.565627+00:00",
         "source_alias": "bassic"
+    },
+    "756488905653747732": {
+        "tokens": [
+            {
+                "token": "BEGINNER-LRWA-20260105",
+                "expiry_timestamp": "2026-01-08T13:15:00.612428+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-05T13:15:00.612428+00:00",
+        "current_token": "BEGINNER-LRWA-20260105",
+        "token_expiry_timestamp": "2026-01-08T13:15:00.612428+00:00",
+        "source_alias": "bassic"
     }
 }
