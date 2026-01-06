@@ -6358,11 +6358,6 @@
     "1402447168484278392": {
         "tokens": [
             {
-                "token": "SUBSCRIBER-65JD-20260101",
-                "expiry_timestamp": "2026-01-06T16:57:48.581907+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "amal",
                 "expiry_timestamp": "2299-10-16T18:19:26.557276+00:00",
                 "source_alias": "vip",
@@ -6633,17 +6628,7 @@
         "last_claim_timestamp": "2026-01-03T15:51:21.915361+00:00"
     },
     "1030869468232032357": {
-        "tokens": [
-            {
-                "token": "BEGINNER-M68P-20260103",
-                "expiry_timestamp": "2026-01-06T17:14:31.213929+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-03T17:14:31.213929+00:00",
-        "current_token": "BEGINNER-M68P-20260103",
-        "token_expiry_timestamp": "2026-01-06T17:14:31.213929+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-03T17:14:31.213929+00:00"
     },
     "1115567649376714783": {
         "tokens": [
