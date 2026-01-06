@@ -7847,5 +7847,18 @@
         "current_token": "INNERCIRCLE-8IRD-20260106",
         "token_expiry_timestamp": "2026-01-13T01:45:57.492323+00:00",
         "source_alias": "bassic"
+    },
+    "1403296436283768953": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-I27B-20260106",
+                "expiry_timestamp": "2026-01-13T02:40:31.758571+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T02:40:31.758571+00:00",
+        "current_token": "INNERCIRCLE-I27B-20260106",
+        "token_expiry_timestamp": "2026-01-13T02:40:31.758571+00:00",
+        "source_alias": "bassic"
     }
 }
