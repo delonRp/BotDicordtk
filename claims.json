@@ -7828,5 +7828,18 @@
         "current_token": "BEGINNER-U3IF-20260106",
         "token_expiry_timestamp": "2026-01-09T00:26:12.093230+00:00",
         "source_alias": "bassic"
+    },
+    "1448589525332000962": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-WFD5-20260106",
+                "expiry_timestamp": "2026-01-13T01:22:14.496144+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T01:22:14.496144+00:00",
+        "current_token": "INNERCIRCLE-WFD5-20260106",
+        "token_expiry_timestamp": "2026-01-13T01:22:14.496144+00:00",
+        "source_alias": "bassic"
     }
 }
