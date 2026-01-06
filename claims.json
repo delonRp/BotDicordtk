@@ -7880,5 +7880,18 @@
         "current_token": "INNERCIRCLE-RJ14-20260106",
         "token_expiry_timestamp": "2026-01-13T11:29:43.672151+00:00",
         "source_alias": "bassic"
+    },
+    "1414054165373653043": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-903E-20260106",
+                "expiry_timestamp": "2026-01-13T12:23:02.665849+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T12:23:02.665849+00:00",
+        "current_token": "INNERCIRCLE-903E-20260106",
+        "token_expiry_timestamp": "2026-01-13T12:23:02.665849+00:00",
+        "source_alias": "bassic"
     }
 }
