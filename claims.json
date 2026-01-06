@@ -6620,17 +6620,7 @@
         "source_alias": "bassic"
     },
     "1387775949759582278": {
-        "tokens": [
-            {
-                "token": "BEGINNER-FFZY-20260103",
-                "expiry_timestamp": "2026-01-06T15:51:21.915361+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-03T15:51:21.915361+00:00",
-        "current_token": "BEGINNER-FFZY-20260103",
-        "token_expiry_timestamp": "2026-01-06T15:51:21.915361+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-03T15:51:21.915361+00:00"
     },
     "1030869468232032357": {
         "tokens": [
