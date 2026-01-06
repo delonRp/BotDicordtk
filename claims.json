@@ -7882,5 +7882,18 @@
         "current_token": "INNERCIRCLE-K4VG-20260106",
         "token_expiry_timestamp": "2026-01-13T06:12:31.738739+00:00",
         "source_alias": "bassic"
+    },
+    "1356602065434185892": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MCP2-20260106",
+                "expiry_timestamp": "2026-01-09T06:51:29.039877+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T06:51:29.039877+00:00",
+        "current_token": "BEGINNER-MCP2-20260106",
+        "token_expiry_timestamp": "2026-01-09T06:51:29.039877+00:00",
+        "source_alias": "bassic"
     }
 }
