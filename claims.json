@@ -7866,5 +7866,18 @@
         "current_token": "BEGINNER-I6RB-20260106",
         "token_expiry_timestamp": "2026-01-09T13:16:18.892452+00:00",
         "source_alias": "bassic"
+    },
+    "862894902646800415": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-9L45-20260106",
+                "expiry_timestamp": "2026-01-13T15:55:53.339463+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T15:55:53.339463+00:00",
+        "current_token": "INNERCIRCLE-9L45-20260106",
+        "token_expiry_timestamp": "2026-01-13T15:55:53.339463+00:00",
+        "source_alias": "bassic"
     }
 }
