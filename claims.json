@@ -6330,17 +6330,7 @@
         "source_alias": "bassic"
     },
     "1418969657049878619": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-9M51-20260101",
-                "expiry_timestamp": "2026-01-06T14:52:55.388725+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-01T14:52:55.388725+00:00",
-        "current_token": "SUBSCRIBER-9M51-20260101",
-        "token_expiry_timestamp": "2026-01-06T14:52:55.388725+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-01T14:52:55.388725+00:00"
     },
     "565556267767169024": {
         "tokens": [
