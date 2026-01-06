@@ -7896,5 +7896,18 @@
         "current_token": "INNERCIRCLE-S9PY-20260106",
         "token_expiry_timestamp": "2026-01-13T08:39:06.815510+00:00",
         "source_alias": "bassic"
+    },
+    "1321434442795057272": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-0EIS-20260106",
+                "expiry_timestamp": "2026-01-13T09:13:54.768712+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T09:13:54.768712+00:00",
+        "current_token": "INNERCIRCLE-0EIS-20260106",
+        "token_expiry_timestamp": "2026-01-13T09:13:54.768712+00:00",
+        "source_alias": "bassic"
     }
 }
