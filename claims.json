@@ -7884,5 +7884,18 @@
         "current_token": "INNERCIRCLE-NRSO-20260106",
         "token_expiry_timestamp": "2026-01-13T10:45:37.595669+00:00",
         "source_alias": "bassic"
+    },
+    "1455824490700214543": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QB6D-20260106",
+                "expiry_timestamp": "2026-01-09T11:20:38.883382+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-06T11:20:38.883382+00:00",
+        "current_token": "BEGINNER-QB6D-20260106",
+        "token_expiry_timestamp": "2026-01-09T11:20:38.883382+00:00",
+        "source_alias": "bassic"
     }
 }
