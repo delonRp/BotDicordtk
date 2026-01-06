@@ -6646,17 +6646,7 @@
         "source_alias": "bassic"
     },
     "1456300987831554127": {
-        "tokens": [
-            {
-                "token": "BEGINNER-QZYC-20260103",
-                "expiry_timestamp": "2026-01-06T03:56:50.387536+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-03T03:56:50.387536+00:00",
-        "current_token": "BEGINNER-QZYC-20260103",
-        "token_expiry_timestamp": "2026-01-06T03:56:50.387536+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-03T03:56:50.387536+00:00"
     },
     "1374153806828277860": {
         "tokens": [
