@@ -5457,17 +5457,7 @@
         "last_claim_timestamp": "2025-12-28T10:48:52.318739+00:00"
     },
     "865959990757425162": {
-        "last_claim_timestamp": "2026-01-02T11:50:06.968314+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-AJRZ-20260102",
-                "expiry_timestamp": "2026-01-07T11:50:06.968314+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-AJRZ-20260102",
-        "token_expiry_timestamp": "2026-01-07T11:50:06.968314+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T11:50:06.968314+00:00"
     },
     "1204283808392941659": {
         "last_claim_timestamp": "2025-12-20T00:36:26.632061+00:00"
@@ -6178,17 +6168,7 @@
         "last_claim_timestamp": "2025-12-31T10:19:21.520484+00:00"
     },
     "1211615781410840617": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-68CR-20251231",
-                "expiry_timestamp": "2026-01-07T11:26:29.025607+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2025-12-31T11:26:29.025607+00:00",
-        "current_token": "INNERCIRCLE-68CR-20251231",
-        "token_expiry_timestamp": "2026-01-07T11:26:29.025607+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2025-12-31T11:26:29.025607+00:00"
     },
     "1391998745914245120": {
         "last_claim_timestamp": "2025-12-31T18:13:09.755236+00:00"
