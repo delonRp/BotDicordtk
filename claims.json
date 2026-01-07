@@ -7875,5 +7875,18 @@
         "current_token": "BEGINNER-VF6F-20260107",
         "token_expiry_timestamp": "2026-01-10T04:16:58.703453+00:00",
         "source_alias": "bassic"
+    },
+    "1350997049595658321": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-YIOE-20260107",
+                "expiry_timestamp": "2026-01-14T04:31:54.360163+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T04:31:54.360163+00:00",
+        "current_token": "INNERCIRCLE-YIOE-20260107",
+        "token_expiry_timestamp": "2026-01-14T04:31:54.360163+00:00",
+        "source_alias": "bassic"
     }
 }
