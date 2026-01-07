@@ -7888,5 +7888,18 @@
         "current_token": "INNERCIRCLE-YIOE-20260107",
         "token_expiry_timestamp": "2026-01-14T04:31:54.360163+00:00",
         "source_alias": "bassic"
+    },
+    "1403374156262805575": {
+        "tokens": [
+            {
+                "token": "BEGINNER-3EI9-20260107",
+                "expiry_timestamp": "2026-01-10T05:45:53.788356+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T05:45:53.788356+00:00",
+        "current_token": "BEGINNER-3EI9-20260107",
+        "token_expiry_timestamp": "2026-01-10T05:45:53.788356+00:00",
+        "source_alias": "bassic"
     }
 }
