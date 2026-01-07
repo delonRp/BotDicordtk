@@ -7965,5 +7965,18 @@
         "current_token": "INNERCIRCLE-0KQW-20260107",
         "token_expiry_timestamp": "2026-01-14T12:19:57.647709+00:00",
         "source_alias": "bassic"
+    },
+    "1134746134431141949": {
+        "tokens": [
+            {
+                "token": "BEGINNER-G4SG-20260107",
+                "expiry_timestamp": "2026-01-10T12:43:24.484010+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T12:43:24.484010+00:00",
+        "current_token": "BEGINNER-G4SG-20260107",
+        "token_expiry_timestamp": "2026-01-10T12:43:24.484010+00:00",
+        "source_alias": "bassic"
     }
 }
