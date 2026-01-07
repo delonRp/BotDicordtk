@@ -7940,5 +7940,18 @@
         "current_token": "BEGINNER-WQXR-20260107",
         "token_expiry_timestamp": "2026-01-10T07:18:42.544727+00:00",
         "source_alias": "bassic"
+    },
+    "1299997676732944384": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-1A9X-20260107",
+                "expiry_timestamp": "2026-01-14T08:30:37.713758+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T08:30:37.713758+00:00",
+        "current_token": "INNERCIRCLE-1A9X-20260107",
+        "token_expiry_timestamp": "2026-01-14T08:30:37.713758+00:00",
+        "source_alias": "bassic"
     }
 }
