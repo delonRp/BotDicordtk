@@ -8034,5 +8034,18 @@
         "current_token": "INNERCIRCLE-ADRO-20260107",
         "token_expiry_timestamp": "2026-01-14T13:20:57.375032+00:00",
         "source_alias": "bassic"
+    },
+    "1049670707409330297": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-81IJ-20260107",
+                "expiry_timestamp": "2026-01-14T14:54:02.320513+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T14:54:02.320513+00:00",
+        "current_token": "INNERCIRCLE-81IJ-20260107",
+        "token_expiry_timestamp": "2026-01-14T14:54:02.320513+00:00",
+        "source_alias": "bassic"
     }
 }
