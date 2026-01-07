@@ -7927,5 +7927,18 @@
         "current_token": "BEGINNER-6R6P-20260107",
         "token_expiry_timestamp": "2026-01-10T06:43:43.250396+00:00",
         "source_alias": "bassic"
+    },
+    "1165665548332433451": {
+        "tokens": [
+            {
+                "token": "BEGINNER-WQXR-20260107",
+                "expiry_timestamp": "2026-01-10T07:18:42.544727+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-07T07:18:42.544727+00:00",
+        "current_token": "BEGINNER-WQXR-20260107",
+        "token_expiry_timestamp": "2026-01-10T07:18:42.544727+00:00",
+        "source_alias": "bassic"
     }
 }
