@@ -6703,17 +6703,7 @@
         "source_alias": "bassic"
     },
     "1281506142349955142": {
-        "tokens": [
-            {
-                "token": "BEGINNER-KJKG-20260104",
-                "expiry_timestamp": "2026-01-07T17:51:02.510210+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-04T17:51:02.510210+00:00",
-        "current_token": "BEGINNER-KJKG-20260104",
-        "token_expiry_timestamp": "2026-01-07T17:51:02.510210+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-04T17:51:02.510210+00:00"
     },
     "1399716897754320947": {
         "tokens": [
