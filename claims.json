@@ -6227,17 +6227,7 @@
         "last_claim_timestamp": "2026-01-01T10:51:33.548585+00:00"
     },
     "1186249223755272274": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-9A0O-20260101",
-                "expiry_timestamp": "2026-01-08T12:15:48.874685+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-01T12:15:48.874685+00:00",
-        "current_token": "INNERCIRCLE-9A0O-20260101",
-        "token_expiry_timestamp": "2026-01-08T12:15:48.874685+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-01T12:15:48.874685+00:00"
     },
     "1017640992255508571": {
         "tokens": [
@@ -6971,43 +6961,13 @@
         "source_alias": "bassic"
     },
     "1245326061903020054": {
-        "tokens": [
-            {
-                "token": "BEGINNER-716O-20260105",
-                "expiry_timestamp": "2026-01-08T11:50:01.434405+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T11:50:01.434405+00:00",
-        "current_token": "BEGINNER-716O-20260105",
-        "token_expiry_timestamp": "2026-01-08T11:50:01.434405+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T11:50:01.434405+00:00"
     },
     "1250669887890788394": {
-        "tokens": [
-            {
-                "token": "BEGINNER-UMW0-20260105",
-                "expiry_timestamp": "2026-01-08T12:04:07.796472+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T12:04:07.796472+00:00",
-        "current_token": "BEGINNER-UMW0-20260105",
-        "token_expiry_timestamp": "2026-01-08T12:04:07.796472+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T12:04:07.796472+00:00"
     },
     "1455416095543656654": {
-        "tokens": [
-            {
-                "token": "BEGINNER-OHLK-20260105",
-                "expiry_timestamp": "2026-01-08T12:14:32.976814+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T12:14:32.976814+00:00",
-        "current_token": "BEGINNER-OHLK-20260105",
-        "token_expiry_timestamp": "2026-01-08T12:14:32.976814+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T12:14:32.976814+00:00"
     },
     "1401429608993128592": {
         "tokens": [
