@@ -8028,5 +8028,18 @@
         "current_token": "BEGINNER-2TEE-20260108",
         "token_expiry_timestamp": "2026-01-11T11:42:59.139091+00:00",
         "source_alias": "bassic"
+    },
+    "983777195736580158": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BWZA-20260108",
+                "expiry_timestamp": "2026-01-11T12:47:19.916933+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T12:47:19.916933+00:00",
+        "current_token": "BEGINNER-BWZA-20260108",
+        "token_expiry_timestamp": "2026-01-11T12:47:19.916933+00:00",
+        "source_alias": "bassic"
     }
 }
