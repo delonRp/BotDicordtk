@@ -6751,17 +6751,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1455517340983885857": {
-        "tokens": [
-            {
-                "token": "BEGINNER-X2T0-20260105",
-                "expiry_timestamp": "2026-01-08T02:40:59.277870+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T02:40:59.277870+00:00",
-        "current_token": "BEGINNER-X2T0-20260105",
-        "token_expiry_timestamp": "2026-01-08T02:40:59.277870+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T02:40:59.277870+00:00"
     },
     "1226359838280253450": {
         "tokens": [
