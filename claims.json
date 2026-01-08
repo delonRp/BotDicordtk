@@ -8095,5 +8095,18 @@
         "current_token": "BEGINNER-JTLL-20260108",
         "token_expiry_timestamp": "2026-01-11T01:34:19.006007+00:00",
         "source_alias": "bassic"
+    },
+    "1367831387360591943": {
+        "tokens": [
+            {
+                "token": "BEGINNER-HW3O-20260108",
+                "expiry_timestamp": "2026-01-11T03:00:07.333675+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T03:00:07.333675+00:00",
+        "current_token": "BEGINNER-HW3O-20260108",
+        "token_expiry_timestamp": "2026-01-11T03:00:07.333675+00:00",
+        "source_alias": "bassic"
     }
 }
