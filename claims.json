@@ -15,19 +15,7 @@
         "last_claim_timestamp": "2026-01-01T09:13:31.416241+00:00"
     },
     "896616619504177162": {
-        "last_claim_timestamp": "2025-09-18T07:39:31.621510+00:00",
-        "tokens": [
-            {
-                "token": "komen1",
-                "expiry_timestamp": "2026-01-08T13:26:43.185098+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "komen1",
-        "token_expiry_timestamp": "2026-01-08T13:26:43.185098+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-09-18T07:39:31.621510+00:00"
     },
     "1217646623254122579": {
         "last_claim_timestamp": "2025-09-18T08:33:37.143557+00:00"
@@ -6226,17 +6214,7 @@
         "last_claim_timestamp": "2026-01-01T12:53:10.595462+00:00"
     },
     "1060847301658165258": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-LLK5-20260101",
-                "expiry_timestamp": "2026-01-08T13:45:57.213487+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-01T13:45:57.213487+00:00",
-        "current_token": "INNERCIRCLE-LLK5-20260101",
-        "token_expiry_timestamp": "2026-01-08T13:45:57.213487+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-01T13:45:57.213487+00:00"
     },
     "1418969657049878619": {
         "last_claim_timestamp": "2026-01-01T14:52:55.388725+00:00"
@@ -7007,17 +6985,7 @@
         "source_alias": "bassic"
     },
     "1441422646708277269": {
-        "tokens": [
-            {
-                "token": "BEGINNER-S921-20260105",
-                "expiry_timestamp": "2026-01-08T14:10:34.556051+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T14:10:34.556051+00:00",
-        "current_token": "BEGINNER-S921-20260105",
-        "token_expiry_timestamp": "2026-01-08T14:10:34.556051+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T14:10:34.556051+00:00"
     },
     "1394856035918942372": {
         "tokens": [
