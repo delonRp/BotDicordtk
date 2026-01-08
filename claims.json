@@ -6812,17 +6812,7 @@
         "last_claim_timestamp": "2026-01-05T05:47:07.333824+00:00"
     },
     "1068841752162730016": {
-        "tokens": [
-            {
-                "token": "BEGINNER-7MIS-20260105",
-                "expiry_timestamp": "2026-01-08T06:23:19.060423+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T06:23:19.060423+00:00",
-        "current_token": "BEGINNER-7MIS-20260105",
-        "token_expiry_timestamp": "2026-01-08T06:23:19.060423+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T06:23:19.060423+00:00"
     },
     "1246769072838938700": {
         "tokens": [
