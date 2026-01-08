@@ -8072,5 +8072,18 @@
         "current_token": "INNERCIRCLE-FEJN-20260107",
         "token_expiry_timestamp": "2026-01-14T21:12:53.253495+00:00",
         "source_alias": "bassic"
+    },
+    "903503524355252254": {
+        "tokens": [
+            {
+                "token": "BEGINNER-JTLL-20260108",
+                "expiry_timestamp": "2026-01-11T01:34:19.006007+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T01:34:19.006007+00:00",
+        "current_token": "BEGINNER-JTLL-20260108",
+        "token_expiry_timestamp": "2026-01-11T01:34:19.006007+00:00",
+        "source_alias": "bassic"
     }
 }
