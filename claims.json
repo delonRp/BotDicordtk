@@ -8041,5 +8041,18 @@
         "current_token": "BEGINNER-BWZA-20260108",
         "token_expiry_timestamp": "2026-01-11T12:47:19.916933+00:00",
         "source_alias": "bassic"
+    },
+    "971261796566569032": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-FPHD-20260108",
+                "expiry_timestamp": "2026-01-15T12:59:33.277410+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T12:59:33.277410+00:00",
+        "current_token": "INNERCIRCLE-FPHD-20260108",
+        "token_expiry_timestamp": "2026-01-15T12:59:33.277410+00:00",
+        "source_alias": "bassic"
     }
 }
