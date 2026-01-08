@@ -6190,17 +6190,7 @@
         "last_claim_timestamp": "2025-12-31T22:45:43.447715+00:00"
     },
     "1307326945825919079": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-KOHH-20260101",
-                "expiry_timestamp": "2026-01-08T00:52:39.020807+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-01T00:52:39.020807+00:00",
-        "current_token": "INNERCIRCLE-KOHH-20260101",
-        "token_expiry_timestamp": "2026-01-08T00:52:39.020807+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-01T00:52:39.020807+00:00"
     },
     "401249673181921292": {
         "last_claim_timestamp": "2026-01-01T01:36:39.592414+00:00"
