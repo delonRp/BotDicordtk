@@ -8069,5 +8069,18 @@
         "current_token": "INNERCIRCLE-CE9V-20260108",
         "token_expiry_timestamp": "2026-01-15T09:03:56.163973+00:00",
         "source_alias": "bassic"
+    },
+    "1069932115568889887": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-HYVP-20260108",
+                "expiry_timestamp": "2026-01-15T11:09:14.021177+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T11:09:14.021177+00:00",
+        "current_token": "INNERCIRCLE-HYVP-20260108",
+        "token_expiry_timestamp": "2026-01-15T11:09:14.021177+00:00",
+        "source_alias": "bassic"
     }
 }
