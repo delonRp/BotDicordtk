@@ -8108,5 +8108,18 @@
         "current_token": "BEGINNER-HW3O-20260108",
         "token_expiry_timestamp": "2026-01-11T03:00:07.333675+00:00",
         "source_alias": "bassic"
+    },
+    "1013071487051255850": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PFSV-20260108",
+                "expiry_timestamp": "2026-01-11T04:34:57.929073+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-08T04:34:57.929073+00:00",
+        "current_token": "BEGINNER-PFSV-20260108",
+        "token_expiry_timestamp": "2026-01-11T04:34:57.929073+00:00",
+        "source_alias": "bassic"
     }
 }
