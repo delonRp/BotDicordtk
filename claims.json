@@ -4819,7 +4819,20 @@
     "1121426939060691024": {
         "last_claim_timestamp": "2025-12-08T13:16:03.363137+00:00"
     },
-    "719418306934734869": {},
+    "719418306934734869": {
+        "tokens": [
+            {
+                "token": "han",
+                "expiry_timestamp": "2299-10-23T09:41:46.658395+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "han",
+        "token_expiry_timestamp": "2299-10-23T09:41:46.658395+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
+    },
     "1102283097258602547": {
         "last_claim_timestamp": "2025-12-08T17:06:34.856452+00:00"
     },
