@@ -6941,7 +6941,19 @@
         "last_claim_timestamp": "2026-01-05T14:20:00.389848+00:00"
     },
     "872133837294022747": {
-        "last_claim_timestamp": "2026-01-05T14:24:54.799601+00:00"
+        "last_claim_timestamp": "2026-01-05T14:24:54.799601+00:00",
+        "tokens": [
+            {
+                "token": "Xylo",
+                "expiry_timestamp": "2026-02-08T12:10:16.465186+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "Xylo",
+        "token_expiry_timestamp": "2026-02-08T12:10:16.465186+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1457074522275446815": {
         "last_claim_timestamp": "2026-01-05T14:46:16.564726+00:00"
