@@ -2955,17 +2955,7 @@
         "last_claim_timestamp": "2025-10-30T07:57:26.727460+00:00"
     },
     "1418510220392398958": {
-        "last_claim_timestamp": "2026-01-02T11:00:14.272156+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-GDG9-20260102",
-                "expiry_timestamp": "2026-01-09T11:00:14.272156+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-GDG9-20260102",
-        "token_expiry_timestamp": "2026-01-09T11:00:14.272156+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T11:00:14.272156+00:00"
     },
     "1226828446035083297": {
         "last_claim_timestamp": "2025-10-30T09:19:57.375018+00:00"
@@ -6323,17 +6313,7 @@
         "last_claim_timestamp": "2026-01-02T11:02:22.215644+00:00"
     },
     "1448327814469259376": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-OFWL-20260102",
-                "expiry_timestamp": "2026-01-09T11:06:37.897029+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-02T11:06:37.897029+00:00",
-        "current_token": "INNERCIRCLE-OFWL-20260102",
-        "token_expiry_timestamp": "2026-01-09T11:06:37.897029+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T11:06:37.897029+00:00"
     },
     "1439846407493386290": {
         "last_claim_timestamp": "2026-01-02T11:28:04.047766+00:00"
