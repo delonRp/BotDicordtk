@@ -7953,12 +7953,18 @@
                 "expiry_timestamp": "2299-10-24T13:06:11.119174+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "jonocomel",
+                "expiry_timestamp": "2299-10-24T13:06:29.846167+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-09T09:16:46.881145+00:00",
         "current_token": "jonocomel",
-        "token_expiry_timestamp": "2299-10-24T13:06:11.119174+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-10-24T13:06:29.846167+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "967858842312515596": {
