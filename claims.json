@@ -2652,7 +2652,17 @@
         "source_alias": "bassic"
     },
     "1357783655216582819": {
-        "last_claim_timestamp": "2025-10-23T20:25:11.611640+00:00"
+        "last_claim_timestamp": "2026-01-09T22:50:50.004999+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-TFZV-20260109",
+                "expiry_timestamp": "2026-01-12T22:50:50.004999+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-TFZV-20260109",
+        "token_expiry_timestamp": "2026-01-12T22:50:50.004999+00:00",
+        "source_alias": "bassic"
     },
     "1428654628589015114": {
         "last_claim_timestamp": "2025-10-23T21:57:15.794075+00:00"
