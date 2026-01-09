@@ -7900,5 +7900,18 @@
         "current_token": "INNERCIRCLE-LCUW-20260109",
         "token_expiry_timestamp": "2026-01-16T04:08:16.981884+00:00",
         "source_alias": "bassic"
+    },
+    "1272213755106820117": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-U53K-20260109",
+                "expiry_timestamp": "2026-01-16T05:28:30.673990+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T05:28:30.673990+00:00",
+        "current_token": "INNERCIRCLE-U53K-20260109",
+        "token_expiry_timestamp": "2026-01-16T05:28:30.673990+00:00",
+        "source_alias": "bassic"
     }
 }
