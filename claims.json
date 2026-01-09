@@ -7994,5 +7994,18 @@
         "current_token": "BEGINNER-TQ4C-20260109",
         "token_expiry_timestamp": "2026-01-12T11:06:03.775809+00:00",
         "source_alias": "bassic"
+    },
+    "1450782058359029803": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TTCF-20260109",
+                "expiry_timestamp": "2026-01-12T11:12:28.783559+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T11:12:28.783559+00:00",
+        "current_token": "BEGINNER-TTCF-20260109",
+        "token_expiry_timestamp": "2026-01-12T11:12:28.783559+00:00",
+        "source_alias": "bassic"
     }
 }
