@@ -7971,5 +7971,18 @@
         "current_token": "BEGINNER-PLXX-20260109",
         "token_expiry_timestamp": "2026-01-12T10:16:25.140213+00:00",
         "source_alias": "bassic"
+    },
+    "1052277957491687564": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TQ4C-20260109",
+                "expiry_timestamp": "2026-01-12T11:06:03.775809+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T11:06:03.775809+00:00",
+        "current_token": "BEGINNER-TQ4C-20260109",
+        "token_expiry_timestamp": "2026-01-12T11:06:03.775809+00:00",
+        "source_alias": "bassic"
     }
 }
