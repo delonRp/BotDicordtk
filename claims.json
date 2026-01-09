@@ -8014,5 +8014,18 @@
         "current_token": "BEGINNER-3FZJ-20260109",
         "token_expiry_timestamp": "2026-01-12T14:00:25.494240+00:00",
         "source_alias": "bassic"
+    },
+    "1017458202637500518": {
+        "tokens": [
+            {
+                "token": "BEGINNER-54HE-20260109",
+                "expiry_timestamp": "2026-01-12T14:25:50.614729+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T14:25:50.614729+00:00",
+        "current_token": "BEGINNER-54HE-20260109",
+        "token_expiry_timestamp": "2026-01-12T14:25:50.614729+00:00",
+        "source_alias": "bassic"
     }
 }
