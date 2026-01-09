@@ -7126,17 +7126,7 @@
         "source_alias": "bassic"
     },
     "1404762777624776704": {
-        "tokens": [
-            {
-                "token": "BEGINNER-U3IF-20260106",
-                "expiry_timestamp": "2026-01-09T00:26:12.093230+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-06T00:26:12.093230+00:00",
-        "current_token": "BEGINNER-U3IF-20260106",
-        "token_expiry_timestamp": "2026-01-09T00:26:12.093230+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-06T00:26:12.093230+00:00"
     },
     "1448589525332000962": {
         "tokens": [
