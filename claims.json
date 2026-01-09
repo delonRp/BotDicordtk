@@ -7947,12 +7947,19 @@
                 "token": "SUBSCRIBER-TE96-20260109",
                 "expiry_timestamp": "2026-01-14T09:16:46.881145+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "jonocomel",
+                "expiry_timestamp": "2299-10-24T13:06:11.119174+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-09T09:16:46.881145+00:00",
-        "current_token": "SUBSCRIBER-TE96-20260109",
-        "token_expiry_timestamp": "2026-01-14T09:16:46.881145+00:00",
-        "source_alias": "bassic"
+        "current_token": "jonocomel",
+        "token_expiry_timestamp": "2299-10-24T13:06:11.119174+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "967858842312515596": {
         "tokens": [
