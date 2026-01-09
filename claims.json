@@ -7945,5 +7945,18 @@
         "current_token": "SUBSCRIBER-TE96-20260109",
         "token_expiry_timestamp": "2026-01-14T09:16:46.881145+00:00",
         "source_alias": "bassic"
+    },
+    "967858842312515596": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-5EN1-20260109",
+                "expiry_timestamp": "2026-01-16T09:53:35.230035+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T09:53:35.230035+00:00",
+        "current_token": "INNERCIRCLE-5EN1-20260109",
+        "token_expiry_timestamp": "2026-01-16T09:53:35.230035+00:00",
+        "source_alias": "bassic"
     }
 }
