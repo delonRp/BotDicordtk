@@ -7987,5 +7987,18 @@
         "current_token": "BEGINNER-TTCF-20260109",
         "token_expiry_timestamp": "2026-01-12T11:12:28.783559+00:00",
         "source_alias": "bassic"
+    },
+    "1177445110263324742": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PIL1-20260109",
+                "expiry_timestamp": "2026-01-12T11:57:52.069405+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T11:57:52.069405+00:00",
+        "current_token": "BEGINNER-PIL1-20260109",
+        "token_expiry_timestamp": "2026-01-12T11:57:52.069405+00:00",
+        "source_alias": "bassic"
     }
 }
