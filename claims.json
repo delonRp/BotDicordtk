@@ -7932,5 +7932,18 @@
         "current_token": "INNERCIRCLE-VX24-20260109",
         "token_expiry_timestamp": "2026-01-16T08:11:27.980987+00:00",
         "source_alias": "bassic"
+    },
+    "1010576041628143679": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-TE96-20260109",
+                "expiry_timestamp": "2026-01-14T09:16:46.881145+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T09:16:46.881145+00:00",
+        "current_token": "SUBSCRIBER-TE96-20260109",
+        "token_expiry_timestamp": "2026-01-14T09:16:46.881145+00:00",
+        "source_alias": "bassic"
     }
 }
