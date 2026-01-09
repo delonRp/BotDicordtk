@@ -8033,5 +8033,18 @@
         "current_token": "BEGINNER-174V-20260109",
         "token_expiry_timestamp": "2026-01-12T16:07:11.908156+00:00",
         "source_alias": "bassic"
+    },
+    "986949633915899935": {
+        "tokens": [
+            {
+                "token": "BEGINNER-IBOQ-20260109",
+                "expiry_timestamp": "2026-01-12T16:17:57.701205+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-09T16:17:57.701205+00:00",
+        "current_token": "BEGINNER-IBOQ-20260109",
+        "token_expiry_timestamp": "2026-01-12T16:17:57.701205+00:00",
+        "source_alias": "bassic"
     }
 }
