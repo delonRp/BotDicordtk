@@ -6279,17 +6279,7 @@
         "last_claim_timestamp": "2026-01-02T04:26:22.609504+00:00"
     },
     "736161256641396807": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-TK3R-20260102",
-                "expiry_timestamp": "2026-01-09T04:36:55.223220+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-02T04:36:55.223220+00:00",
-        "current_token": "INNERCIRCLE-TK3R-20260102",
-        "token_expiry_timestamp": "2026-01-09T04:36:55.223220+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-02T04:36:55.223220+00:00"
     },
     "1392203045332320360": {
         "last_claim_timestamp": "2026-01-02T05:23:53.569843+00:00"
@@ -6575,17 +6565,7 @@
         "source_alias": "bassic"
     },
     "1325703224040230943": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-52GB-20260104",
-                "expiry_timestamp": "2026-01-09T04:46:01.384147+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-04T04:46:01.384147+00:00",
-        "current_token": "SUBSCRIBER-52GB-20260104",
-        "token_expiry_timestamp": "2026-01-09T04:46:01.384147+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-04T04:46:01.384147+00:00"
     },
     "1431155624233799875": {
         "last_claim_timestamp": "2026-01-04T11:01:14.658380+00:00"
