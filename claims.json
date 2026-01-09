@@ -7184,17 +7184,7 @@
         "source_alias": "bassic"
     },
     "1441357848348197026": {
-        "tokens": [
-            {
-                "token": "BEGINNER-DZSA-20260106",
-                "expiry_timestamp": "2026-01-09T03:29:36.164393+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-06T03:29:36.164393+00:00",
-        "current_token": "BEGINNER-DZSA-20260106",
-        "token_expiry_timestamp": "2026-01-09T03:29:36.164393+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-06T03:29:36.164393+00:00"
     },
     "911215793067421726": {
         "tokens": [
