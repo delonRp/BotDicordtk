@@ -7351,30 +7351,10 @@
         "assigned_by_admin": 782445287855489076
     },
     "1403374156262805575": {
-        "tokens": [
-            {
-                "token": "BEGINNER-3EI9-20260107",
-                "expiry_timestamp": "2026-01-10T05:45:53.788356+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T05:45:53.788356+00:00",
-        "current_token": "BEGINNER-3EI9-20260107",
-        "token_expiry_timestamp": "2026-01-10T05:45:53.788356+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T05:45:53.788356+00:00"
     },
     "1447544539949694997": {
-        "tokens": [
-            {
-                "token": "BEGINNER-AG9Q-20260107",
-                "expiry_timestamp": "2026-01-10T06:04:50.194901+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T06:04:50.194901+00:00",
-        "current_token": "BEGINNER-AG9Q-20260107",
-        "token_expiry_timestamp": "2026-01-10T06:04:50.194901+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T06:04:50.194901+00:00"
     },
     "1276485556431224915": {
         "tokens": [
