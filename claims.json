@@ -8166,5 +8166,18 @@
         "current_token": "BEGINNER-RMJA-20260110",
         "token_expiry_timestamp": "2026-01-13T03:54:26.330404+00:00",
         "source_alias": "bassic"
+    },
+    "1441816620703027313": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CWO3-20260110",
+                "expiry_timestamp": "2026-01-13T03:54:56.180914+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T03:54:56.180914+00:00",
+        "current_token": "BEGINNER-CWO3-20260110",
+        "token_expiry_timestamp": "2026-01-13T03:54:56.180914+00:00",
+        "source_alias": "bassic"
     }
 }
