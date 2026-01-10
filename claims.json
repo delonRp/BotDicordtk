@@ -6323,7 +6323,17 @@
         "last_claim_timestamp": "2026-01-01T21:33:53.318736+00:00"
     },
     "1455569332456390706": {
-        "last_claim_timestamp": "2026-01-01T22:53:40.425218+00:00"
+        "last_claim_timestamp": "2026-01-10T06:49:02.328815+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-BXJV-20260110",
+                "expiry_timestamp": "2026-01-13T06:49:02.328815+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-BXJV-20260110",
+        "token_expiry_timestamp": "2026-01-13T06:49:02.328815+00:00",
+        "source_alias": "bassic"
     },
     "1280458215716294657": {
         "last_claim_timestamp": "2026-01-01T23:04:55.686439+00:00"
