@@ -8211,5 +8211,18 @@
         "token_expiry_timestamp": "2026-02-09T05:00:54.605176+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1382401223168229606": {
+        "tokens": [
+            {
+                "token": "BEGINNER-YWV8-20260110",
+                "expiry_timestamp": "2026-01-13T05:19:30.970776+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T05:19:30.970776+00:00",
+        "current_token": "BEGINNER-YWV8-20260110",
+        "token_expiry_timestamp": "2026-01-13T05:19:30.970776+00:00",
+        "source_alias": "bassic"
     }
 }
