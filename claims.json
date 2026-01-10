@@ -8153,5 +8153,18 @@
         "current_token": "BEGINNER-NCMM-20260110",
         "token_expiry_timestamp": "2026-01-13T03:26:08.415582+00:00",
         "source_alias": "bassic"
+    },
+    "1360551382679031900": {
+        "tokens": [
+            {
+                "token": "BEGINNER-RMJA-20260110",
+                "expiry_timestamp": "2026-01-13T03:54:26.330404+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T03:54:26.330404+00:00",
+        "current_token": "BEGINNER-RMJA-20260110",
+        "token_expiry_timestamp": "2026-01-13T03:54:26.330404+00:00",
+        "source_alias": "bassic"
     }
 }
