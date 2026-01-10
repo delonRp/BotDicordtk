@@ -7413,17 +7413,7 @@
         "source_alias": "bassic"
     },
     "1412310885271081040": {
-        "tokens": [
-            {
-                "token": "BEGINNER-WBG3-20260107",
-                "expiry_timestamp": "2026-01-10T16:09:30.678287+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T16:09:30.678287+00:00",
-        "current_token": "BEGINNER-WBG3-20260107",
-        "token_expiry_timestamp": "2026-01-10T16:09:30.678287+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T16:09:30.678287+00:00"
     },
     "1456605169100914781": {
         "tokens": [
