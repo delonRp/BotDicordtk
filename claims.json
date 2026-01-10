@@ -2664,11 +2664,17 @@
                 "expiry_timestamp": "2026-02-09T02:17:13.146017+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "alex",
+                "expiry_timestamp": "2026-02-09T02:17:40.228875+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "alex",
-        "token_expiry_timestamp": "2026-02-09T02:17:13.146017+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-09T02:17:40.228875+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1428654628589015114": {
