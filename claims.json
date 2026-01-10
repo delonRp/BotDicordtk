@@ -8223,5 +8223,18 @@
         "current_token": "SUBSCRIBER-U65N-20260110",
         "token_expiry_timestamp": "2026-01-15T08:25:22.854700+00:00",
         "source_alias": "bassic"
+    },
+    "807447363098378261": {
+        "tokens": [
+            {
+                "token": "BEGINNER-XJB8-20260110",
+                "expiry_timestamp": "2026-01-13T09:59:11.142791+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T09:59:11.142791+00:00",
+        "current_token": "BEGINNER-XJB8-20260110",
+        "token_expiry_timestamp": "2026-01-13T09:59:11.142791+00:00",
+        "source_alias": "bassic"
     }
 }
