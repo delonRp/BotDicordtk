@@ -8227,5 +8227,18 @@
         "current_token": "SUBSCRIBER-GNV6-20260110",
         "token_expiry_timestamp": "2026-01-15T05:50:04.162906+00:00",
         "source_alias": "bassic"
+    },
+    "1454836308957593785": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-97BM-20260110",
+                "expiry_timestamp": "2026-01-17T06:39:00.985993+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T06:39:00.985993+00:00",
+        "current_token": "INNERCIRCLE-97BM-20260110",
+        "token_expiry_timestamp": "2026-01-17T06:39:00.985993+00:00",
+        "source_alias": "bassic"
     }
 }
