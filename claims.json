@@ -7336,17 +7336,7 @@
         "source_alias": "bassic"
     },
     "1342053062436589641": {
-        "tokens": [
-            {
-                "token": "BEGINNER-CPBK-20260107",
-                "expiry_timestamp": "2026-01-10T01:30:22.450372+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T01:30:22.450372+00:00",
-        "current_token": "BEGINNER-CPBK-20260107",
-        "token_expiry_timestamp": "2026-01-10T01:30:22.450372+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T01:30:22.450372+00:00"
     },
     "1457919944258879518": {
         "tokens": [
