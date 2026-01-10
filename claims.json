@@ -8224,5 +8224,18 @@
         "current_token": "BEGINNER-YWV8-20260110",
         "token_expiry_timestamp": "2026-01-13T05:19:30.970776+00:00",
         "source_alias": "bassic"
+    },
+    "1447926721847230577": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-GNV6-20260110",
+                "expiry_timestamp": "2026-01-15T05:50:04.162906+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T05:50:04.162906+00:00",
+        "current_token": "SUBSCRIBER-GNV6-20260110",
+        "token_expiry_timestamp": "2026-01-15T05:50:04.162906+00:00",
+        "source_alias": "bassic"
     }
 }
