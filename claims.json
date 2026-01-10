@@ -7396,17 +7396,7 @@
         "last_claim_timestamp": "2026-01-07T16:09:30.678287+00:00"
     },
     "1456605169100914781": {
-        "tokens": [
-            {
-                "token": "BEGINNER-UFLK-20260107",
-                "expiry_timestamp": "2026-01-10T19:41:04.329772+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T19:41:04.329772+00:00",
-        "current_token": "BEGINNER-UFLK-20260107",
-        "token_expiry_timestamp": "2026-01-10T19:41:04.329772+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T19:41:04.329772+00:00"
     },
     "1269269077109768335": {
         "tokens": [
