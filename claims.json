@@ -8233,5 +8233,18 @@
         "current_token": "BEGINNER-EULH-20260110",
         "token_expiry_timestamp": "2026-01-13T22:45:21.619173+00:00",
         "source_alias": "bassic"
+    },
+    "1385939723507204226": {
+        "tokens": [
+            {
+                "token": "BEGINNER-0ZCI-20260110",
+                "expiry_timestamp": "2026-01-13T22:57:32.951748+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T22:57:32.951748+00:00",
+        "current_token": "BEGINNER-0ZCI-20260110",
+        "token_expiry_timestamp": "2026-01-13T22:57:32.951748+00:00",
+        "source_alias": "bassic"
     }
 }
