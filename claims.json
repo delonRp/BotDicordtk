@@ -7368,30 +7368,10 @@
         "source_alias": "bassic"
     },
     "1134746134431141949": {
-        "tokens": [
-            {
-                "token": "BEGINNER-G4SG-20260107",
-                "expiry_timestamp": "2026-01-10T12:43:24.484010+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T12:43:24.484010+00:00",
-        "current_token": "BEGINNER-G4SG-20260107",
-        "token_expiry_timestamp": "2026-01-10T12:43:24.484010+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T12:43:24.484010+00:00"
     },
     "1456585499715043401": {
-        "tokens": [
-            {
-                "token": "BEGINNER-1EY1-20260107",
-                "expiry_timestamp": "2026-01-10T12:57:47.021820+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-07T12:57:47.021820+00:00",
-        "current_token": "BEGINNER-1EY1-20260107",
-        "token_expiry_timestamp": "2026-01-10T12:57:47.021820+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-07T12:57:47.021820+00:00"
     },
     "987936322364788797": {
         "tokens": [
