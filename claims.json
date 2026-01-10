@@ -8220,5 +8220,18 @@
         "current_token": "INNERCIRCLE-97BM-20260110",
         "token_expiry_timestamp": "2026-01-17T06:39:00.985993+00:00",
         "source_alias": "bassic"
+    },
+    "1288310272771100817": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-U65N-20260110",
+                "expiry_timestamp": "2026-01-15T08:25:22.854700+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-10T08:25:22.854700+00:00",
+        "current_token": "SUBSCRIBER-U65N-20260110",
+        "token_expiry_timestamp": "2026-01-15T08:25:22.854700+00:00",
+        "source_alias": "bassic"
     }
 }
