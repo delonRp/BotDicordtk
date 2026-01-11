@@ -7414,17 +7414,7 @@
         "last_claim_timestamp": "2026-01-08T04:57:05.253771+00:00"
     },
     "1148396054308458537": {
-        "tokens": [
-            {
-                "token": "BEGINNER-UEMU-20260108",
-                "expiry_timestamp": "2026-01-11T07:31:57.144619+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-08T07:31:57.144619+00:00",
-        "current_token": "BEGINNER-UEMU-20260108",
-        "token_expiry_timestamp": "2026-01-11T07:31:57.144619+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-08T07:31:57.144619+00:00"
     },
     "1297132762394005596": {
         "tokens": [
