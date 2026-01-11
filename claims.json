@@ -8264,5 +8264,18 @@
         "current_token": "BEGINNER-4T20-20260111",
         "token_expiry_timestamp": "2026-01-14T05:22:55.726348+00:00",
         "source_alias": "bassic"
+    },
+    "1391987609332486204": {
+        "tokens": [
+            {
+                "token": "BEGINNER-6OJI-20260111",
+                "expiry_timestamp": "2026-01-14T05:25:06.014963+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T05:25:06.014963+00:00",
+        "current_token": "BEGINNER-6OJI-20260111",
+        "token_expiry_timestamp": "2026-01-14T05:25:06.014963+00:00",
+        "source_alias": "bassic"
     }
 }
