@@ -8355,11 +8355,18 @@
                 "token": "INNERCIRCLE-6IU1-20260111",
                 "expiry_timestamp": "2026-01-18T10:35:48.776350+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "bra",
+                "expiry_timestamp": "2026-02-10T12:36:10.670857+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-11T10:35:48.776350+00:00",
-        "current_token": "INNERCIRCLE-6IU1-20260111",
-        "token_expiry_timestamp": "2026-01-18T10:35:48.776350+00:00",
-        "source_alias": "bassic"
+        "current_token": "bra",
+        "token_expiry_timestamp": "2026-02-10T12:36:10.670857+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
