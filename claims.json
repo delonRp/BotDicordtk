@@ -8414,5 +8414,18 @@
         "current_token": "SUBSCRIBER-QJQ6-20260111",
         "token_expiry_timestamp": "2026-01-16T20:28:36.401886+00:00",
         "source_alias": "bassic"
+    },
+    "1195972174176063528": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-N62K-20260111",
+                "expiry_timestamp": "2026-01-18T22:23:01.989123+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T22:23:01.989123+00:00",
+        "current_token": "INNERCIRCLE-N62K-20260111",
+        "token_expiry_timestamp": "2026-01-18T22:23:01.989123+00:00",
+        "source_alias": "bassic"
     }
 }
