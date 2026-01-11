@@ -3291,11 +3291,18 @@
                 "token": "INNERCIRCLE-6Y2Y-20260109",
                 "expiry_timestamp": "2026-01-16T18:30:47.303116+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ver",
+                "expiry_timestamp": "2026-02-10T12:15:33.542915+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "INNERCIRCLE-6Y2Y-20260109",
-        "token_expiry_timestamp": "2026-01-16T18:30:47.303116+00:00",
-        "source_alias": "bassic"
+        "current_token": "ver",
+        "token_expiry_timestamp": "2026-02-10T12:15:33.542915+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1221465651970048151": {
         "last_claim_timestamp": "2025-11-06T02:32:38.776425+00:00"
