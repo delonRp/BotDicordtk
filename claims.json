@@ -8399,5 +8399,18 @@
         "current_token": "BEGINNER-1IGM-20260111",
         "token_expiry_timestamp": "2026-01-14T15:27:14.497076+00:00",
         "source_alias": "bassic"
+    },
+    "884818997827235870": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Z7S1-20260111",
+                "expiry_timestamp": "2026-01-14T16:16:52.926421+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T16:16:52.926421+00:00",
+        "current_token": "BEGINNER-Z7S1-20260111",
+        "token_expiry_timestamp": "2026-01-14T16:16:52.926421+00:00",
+        "source_alias": "bassic"
     }
 }
