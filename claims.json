@@ -8398,5 +8398,18 @@
         "current_token": "INNERCIRCLE-VSTC-20260111",
         "token_expiry_timestamp": "2026-01-18T19:47:01.574518+00:00",
         "source_alias": "bassic"
+    },
+    "1201154669033037946": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-XMJG-20260111",
+                "expiry_timestamp": "2026-01-16T20:24:09.881127+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T20:24:09.881127+00:00",
+        "current_token": "SUBSCRIBER-XMJG-20260111",
+        "token_expiry_timestamp": "2026-01-16T20:24:09.881127+00:00",
+        "source_alias": "bassic"
     }
 }
