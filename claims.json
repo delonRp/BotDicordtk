@@ -8287,5 +8287,18 @@
         "current_token": "BEGINNER-6OJI-20260111",
         "token_expiry_timestamp": "2026-01-14T05:25:06.014963+00:00",
         "source_alias": "bassic"
+    },
+    "978583684867305472": {
+        "tokens": [
+            {
+                "token": "BEGINNER-J32Z-20260111",
+                "expiry_timestamp": "2026-01-14T06:15:11.896753+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T06:15:11.896753+00:00",
+        "current_token": "BEGINNER-J32Z-20260111",
+        "token_expiry_timestamp": "2026-01-14T06:15:11.896753+00:00",
+        "source_alias": "bassic"
     }
 }
