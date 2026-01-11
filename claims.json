@@ -8387,5 +8387,18 @@
         "current_token": "BEGINNER-OMFH-20260111",
         "token_expiry_timestamp": "2026-01-14T12:46:15.589936+00:00",
         "source_alias": "bassic"
+    },
+    "1446398821591552020": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3RU7-20260111",
+                "expiry_timestamp": "2026-01-18T12:53:14.572074+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T12:53:14.572074+00:00",
+        "current_token": "INNERCIRCLE-3RU7-20260111",
+        "token_expiry_timestamp": "2026-01-18T12:53:14.572074+00:00",
+        "source_alias": "bassic"
     }
 }
