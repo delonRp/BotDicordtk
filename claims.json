@@ -8374,5 +8374,18 @@
         "token_expiry_timestamp": "2026-02-10T12:37:37.133383+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1211375648283820127": {
+        "tokens": [
+            {
+                "token": "BEGINNER-OMFH-20260111",
+                "expiry_timestamp": "2026-01-14T12:46:15.589936+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T12:46:15.589936+00:00",
+        "current_token": "BEGINNER-OMFH-20260111",
+        "token_expiry_timestamp": "2026-01-14T12:46:15.589936+00:00",
+        "source_alias": "bassic"
     }
 }
