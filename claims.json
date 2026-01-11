@@ -2149,17 +2149,7 @@
         "last_claim_timestamp": "2025-10-16T03:12:42.212229+00:00"
     },
     "1392832660962803802": {
-        "last_claim_timestamp": "2026-01-06T06:27:42.251326+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-ULDG-20260106",
-                "expiry_timestamp": "2026-01-11T06:27:42.251326+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-ULDG-20260106",
-        "token_expiry_timestamp": "2026-01-11T06:27:42.251326+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-06T06:27:42.251326+00:00"
     },
     "1398222405566205962": {
         "last_claim_timestamp": "2025-10-16T07:47:46.377298+00:00"
