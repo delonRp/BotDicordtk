@@ -8236,5 +8236,18 @@
         "current_token": "BEGINNER-0ZCI-20260110",
         "token_expiry_timestamp": "2026-01-13T22:57:32.951748+00:00",
         "source_alias": "bassic"
+    },
+    "1459443298484879481": {
+        "tokens": [
+            {
+                "token": "BEGINNER-STQR-20260111",
+                "expiry_timestamp": "2026-01-14T01:38:46.754034+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T01:38:46.754034+00:00",
+        "current_token": "BEGINNER-STQR-20260111",
+        "token_expiry_timestamp": "2026-01-14T01:38:46.754034+00:00",
+        "source_alias": "bassic"
     }
 }
