@@ -8355,5 +8355,18 @@
         "current_token": "INNERCIRCLE-MHUL-20260111",
         "token_expiry_timestamp": "2026-01-18T09:09:03.938263+00:00",
         "source_alias": "bassic"
+    },
+    "1458419209787805757": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-6IU1-20260111",
+                "expiry_timestamp": "2026-01-18T10:35:48.776350+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-11T10:35:48.776350+00:00",
+        "current_token": "INNERCIRCLE-6IU1-20260111",
+        "token_expiry_timestamp": "2026-01-18T10:35:48.776350+00:00",
+        "source_alias": "bassic"
     }
 }
