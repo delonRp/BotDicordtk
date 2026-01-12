@@ -2645,11 +2645,6 @@
         "last_claim_timestamp": "2026-01-09T22:50:50.004999+00:00",
         "tokens": [
             {
-                "token": "BEGINNER-TFZV-20260109",
-                "expiry_timestamp": "2026-01-12T22:50:50.004999+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "alex",
                 "expiry_timestamp": "2026-02-09T02:17:13.146017+00:00",
                 "source_alias": "vip",
@@ -6611,17 +6606,7 @@
         "last_claim_timestamp": "2026-01-05T21:15:54.526516+00:00"
     },
     "1053212080074924062": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-7QM3-20260105",
-                "expiry_timestamp": "2026-01-12T22:24:55.677889+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T22:24:55.677889+00:00",
-        "current_token": "INNERCIRCLE-7QM3-20260105",
-        "token_expiry_timestamp": "2026-01-12T22:24:55.677889+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T22:24:55.677889+00:00"
     },
     "1408102528088014931": {
         "tokens": [
