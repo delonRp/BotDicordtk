@@ -8428,5 +8428,18 @@
         "current_token": "BEGINNER-J07R-20260112",
         "token_expiry_timestamp": "2026-01-15T05:39:11.348911+00:00",
         "source_alias": "bassic"
+    },
+    "1030294961062678568": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-S5UJ-20260112",
+                "expiry_timestamp": "2026-01-19T06:14:45.332899+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-12T06:14:45.332899+00:00",
+        "current_token": "INNERCIRCLE-S5UJ-20260112",
+        "token_expiry_timestamp": "2026-01-19T06:14:45.332899+00:00",
+        "source_alias": "bassic"
     }
 }
