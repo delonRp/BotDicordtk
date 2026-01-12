@@ -4754,25 +4754,7 @@
         "last_claim_timestamp": "2025-12-07T11:40:51.290046+00:00"
     },
     "1446144177187455079": {
-        "last_claim_timestamp": "2025-12-07T15:51:49.513305+00:00",
-        "tokens": [
-            {
-                "token": "sno",
-                "expiry_timestamp": "2026-01-12T07:03:31.877356+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "sno",
-                "expiry_timestamp": "2026-01-12T07:03:53.072105+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "sno",
-        "token_expiry_timestamp": "2026-01-12T07:03:53.072105+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-12-07T15:51:49.513305+00:00"
     },
     "1286496420890673256": {
         "last_claim_timestamp": "2025-12-07T19:23:06.400611+00:00"
@@ -7444,30 +7426,10 @@
         "source_alias": "bassic"
     },
     "1259843326941728791": {
-        "tokens": [
-            {
-                "token": "BEGINNER-2XPJ-20260109",
-                "expiry_timestamp": "2026-01-12T06:17:14.292282+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-09T06:17:14.292282+00:00",
-        "current_token": "BEGINNER-2XPJ-20260109",
-        "token_expiry_timestamp": "2026-01-12T06:17:14.292282+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-09T06:17:14.292282+00:00"
     },
     "1366649555700944896": {
-        "tokens": [
-            {
-                "token": "BEGINNER-5FNI-20260109",
-                "expiry_timestamp": "2026-01-12T06:27:40.370849+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-09T06:27:40.370849+00:00",
-        "current_token": "BEGINNER-5FNI-20260109",
-        "token_expiry_timestamp": "2026-01-12T06:27:40.370849+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-09T06:27:40.370849+00:00"
     },
     "1285119644637724768": {
         "tokens": [
