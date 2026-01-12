@@ -8306,5 +8306,18 @@
         "current_token": "SUBSCRIBER-E3WN-20260112",
         "token_expiry_timestamp": "2026-01-17T14:41:51.687937+00:00",
         "source_alias": "bassic"
+    },
+    "1457363244024074397": {
+        "tokens": [
+            {
+                "token": "BEGINNER-J9BW-20260112",
+                "expiry_timestamp": "2026-01-15T15:27:48.984894+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-12T15:27:48.984894+00:00",
+        "current_token": "BEGINNER-J9BW-20260112",
+        "token_expiry_timestamp": "2026-01-15T15:27:48.984894+00:00",
+        "source_alias": "bassic"
     }
 }
