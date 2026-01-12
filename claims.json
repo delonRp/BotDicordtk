@@ -6480,11 +6480,6 @@
     "361287428784390165": {
         "tokens": [
             {
-                "token": "INNERCIRCLE-JD0J-20260105",
-                "expiry_timestamp": "2026-01-12T00:38:35.671318+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "ash",
                 "expiry_timestamp": "2299-10-20T09:16:44.982190+00:00",
                 "source_alias": "vip",
@@ -6510,17 +6505,7 @@
         "last_claim_timestamp": "2026-01-05T03:11:18.047792+00:00"
     },
     "1336733388698161217": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-R6RL-20260105",
-                "expiry_timestamp": "2026-01-12T03:46:58.876598+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-05T03:46:58.876598+00:00",
-        "current_token": "INNERCIRCLE-R6RL-20260105",
-        "token_expiry_timestamp": "2026-01-12T03:46:58.876598+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-05T03:46:58.876598+00:00"
     },
     "1278302118024843338": {
         "tokens": [
