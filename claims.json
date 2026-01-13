@@ -8094,5 +8094,18 @@
         "current_token": "BEGINNER-KB2M-20260113",
         "token_expiry_timestamp": "2026-01-16T13:05:57.462798+00:00",
         "source_alias": "bassic"
+    },
+    "1089442828381331486": {
+        "tokens": [
+            {
+                "token": "BEGINNER-2KB5-20260113",
+                "expiry_timestamp": "2026-01-16T13:36:07.187052+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-13T13:36:07.187052+00:00",
+        "current_token": "BEGINNER-2KB5-20260113",
+        "token_expiry_timestamp": "2026-01-16T13:36:07.187052+00:00",
+        "source_alias": "bassic"
     }
 }
