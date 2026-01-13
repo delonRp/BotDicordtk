@@ -5017,11 +5017,18 @@
                 "token": "SUBSCRIBER-ORE3-20260109",
                 "expiry_timestamp": "2026-01-14T18:16:22.228262+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ins",
+                "expiry_timestamp": "2026-02-12T12:31:07.411565+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "SUBSCRIBER-ORE3-20260109",
-        "token_expiry_timestamp": "2026-01-14T18:16:22.228262+00:00",
-        "source_alias": "bassic"
+        "current_token": "ins",
+        "token_expiry_timestamp": "2026-02-12T12:31:07.411565+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1448982708263845902": {
         "last_claim_timestamp": "2025-12-13T14:59:50.097436+00:00"
