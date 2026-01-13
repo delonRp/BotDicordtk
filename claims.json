@@ -6615,33 +6615,13 @@
         "last_claim_timestamp": "2026-01-06T00:26:12.093230+00:00"
     },
     "1448589525332000962": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-WFD5-20260106",
-                "expiry_timestamp": "2026-01-13T01:22:14.496144+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-06T01:22:14.496144+00:00",
-        "current_token": "INNERCIRCLE-WFD5-20260106",
-        "token_expiry_timestamp": "2026-01-13T01:22:14.496144+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-06T01:22:14.496144+00:00"
     },
     "1183833074291724479": {
         "last_claim_timestamp": "2026-01-06T01:26:41.786442+00:00"
     },
     "741350641724817448": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-8IRD-20260106",
-                "expiry_timestamp": "2026-01-13T01:45:57.492323+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-06T01:45:57.492323+00:00",
-        "current_token": "INNERCIRCLE-8IRD-20260106",
-        "token_expiry_timestamp": "2026-01-13T01:45:57.492323+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-06T01:45:57.492323+00:00"
     },
     "1403296436283768953": {
         "tokens": [
