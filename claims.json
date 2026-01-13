@@ -3174,11 +3174,17 @@
                 "expiry_timestamp": "2026-03-14T12:35:09.333074+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "ssrp",
+                "expiry_timestamp": "2026-03-14T12:35:37.163585+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "ssrp",
-        "token_expiry_timestamp": "2026-03-14T12:35:09.333074+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-03-14T12:35:37.163585+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1365805800966193253": {
