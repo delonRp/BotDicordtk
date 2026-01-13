@@ -3168,11 +3168,18 @@
                 "token": "INNERCIRCLE-IQAP-20260108",
                 "expiry_timestamp": "2026-01-15T07:17:11.970280+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ssrp",
+                "expiry_timestamp": "2026-03-14T12:35:09.333074+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "INNERCIRCLE-IQAP-20260108",
-        "token_expiry_timestamp": "2026-01-15T07:17:11.970280+00:00",
-        "source_alias": "bassic"
+        "current_token": "ssrp",
+        "token_expiry_timestamp": "2026-03-14T12:35:09.333074+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1365805800966193253": {
         "last_claim_timestamp": "2025-11-02T22:41:53.799397+00:00"
