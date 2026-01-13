@@ -8129,5 +8129,18 @@
         "current_token": "INNERCIRCLE-VA93-20260113",
         "token_expiry_timestamp": "2026-01-20T15:15:59.606490+00:00",
         "source_alias": "bassic"
+    },
+    "1212376402515460119": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-OFPO-20260113",
+                "expiry_timestamp": "2026-01-20T19:16:50.302110+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-13T19:16:50.302110+00:00",
+        "current_token": "INNERCIRCLE-OFPO-20260113",
+        "token_expiry_timestamp": "2026-01-20T19:16:50.302110+00:00",
+        "source_alias": "bassic"
     }
 }
