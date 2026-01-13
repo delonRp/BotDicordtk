@@ -8176,5 +8176,18 @@
         "current_token": "BEGINNER-38OM-20260113",
         "token_expiry_timestamp": "2026-01-16T01:35:16.974182+00:00",
         "source_alias": "bassic"
+    },
+    "1299980106084913153": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QFRE-20260113",
+                "expiry_timestamp": "2026-01-16T04:13:44.357430+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-13T04:13:44.357430+00:00",
+        "current_token": "BEGINNER-QFRE-20260113",
+        "token_expiry_timestamp": "2026-01-16T04:13:44.357430+00:00",
+        "source_alias": "bassic"
     }
 }
