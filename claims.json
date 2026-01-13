@@ -8120,5 +8120,18 @@
         "current_token": "BEGINNER-DJY8-20260113",
         "token_expiry_timestamp": "2026-01-16T13:42:59.084672+00:00",
         "source_alias": "bassic"
+    },
+    "1457756295225540806": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LNUQ-20260113",
+                "expiry_timestamp": "2026-01-20T14:02:20.985801+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-13T14:02:20.985801+00:00",
+        "current_token": "INNERCIRCLE-LNUQ-20260113",
+        "token_expiry_timestamp": "2026-01-20T14:02:20.985801+00:00",
+        "source_alias": "bassic"
     }
 }
