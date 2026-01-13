@@ -8058,5 +8058,18 @@
         "current_token": "INNERCIRCLE-CJCR-20260113",
         "token_expiry_timestamp": "2026-01-20T12:34:41.909865+00:00",
         "source_alias": "bassic"
+    },
+    "1413022235249344643": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7969-20260113",
+                "expiry_timestamp": "2026-01-16T12:40:48.332187+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-13T12:40:48.332187+00:00",
+        "current_token": "BEGINNER-7969-20260113",
+        "token_expiry_timestamp": "2026-01-16T12:40:48.332187+00:00",
+        "source_alias": "bassic"
     }
 }
