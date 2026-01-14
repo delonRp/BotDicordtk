@@ -8010,5 +8010,18 @@
         "current_token": "BEGINNER-DH8A-20260114",
         "token_expiry_timestamp": "2026-01-17T13:49:37.648511+00:00",
         "source_alias": "bassic"
+    },
+    "1247116614067814401": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-65VP-20260114",
+                "expiry_timestamp": "2026-01-21T14:16:24.449176+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-14T14:16:24.449176+00:00",
+        "current_token": "INNERCIRCLE-65VP-20260114",
+        "token_expiry_timestamp": "2026-01-21T14:16:24.449176+00:00",
+        "source_alias": "bassic"
     }
 }
