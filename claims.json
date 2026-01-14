@@ -7904,12 +7904,18 @@
                 "expiry_timestamp": "2026-02-13T11:04:32.278148+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "nin",
+                "expiry_timestamp": "2026-02-13T11:04:47.462995+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-13T12:40:48.332187+00:00",
         "current_token": "nin",
-        "token_expiry_timestamp": "2026-02-13T11:04:32.278148+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-13T11:04:47.462995+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1297806870966439972": {
