@@ -8023,5 +8023,18 @@
         "current_token": "INNERCIRCLE-65VP-20260114",
         "token_expiry_timestamp": "2026-01-21T14:16:24.449176+00:00",
         "source_alias": "bassic"
+    },
+    "1426813818545242204": {
+        "tokens": [
+            {
+                "token": "BEGINNER-AH49-20260114",
+                "expiry_timestamp": "2026-01-17T14:21:36.637915+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-14T14:21:36.637915+00:00",
+        "current_token": "BEGINNER-AH49-20260114",
+        "token_expiry_timestamp": "2026-01-17T14:21:36.637915+00:00",
+        "source_alias": "bassic"
     }
 }
