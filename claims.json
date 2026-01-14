@@ -3224,7 +3224,17 @@
         "last_claim_timestamp": "2025-12-04T05:03:00.145469+00:00"
     },
     "1061638324856569886": {
-        "last_claim_timestamp": "2025-11-03T12:38:55.069030+00:00"
+        "last_claim_timestamp": "2026-01-14T17:13:16.715192+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-HAXK-20260114",
+                "expiry_timestamp": "2026-01-17T17:13:16.715192+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-HAXK-20260114",
+        "token_expiry_timestamp": "2026-01-17T17:13:16.715192+00:00",
+        "source_alias": "bassic"
     },
     "1330481727105273888": {
         "last_claim_timestamp": "2025-11-03T12:54:30.305917+00:00"
