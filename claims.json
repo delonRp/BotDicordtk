@@ -3721,7 +3721,17 @@
         "last_claim_timestamp": "2025-11-16T04:34:43.108591+00:00"
     },
     "1144957839706701894": {
-        "last_claim_timestamp": "2025-11-16T05:31:53.669139+00:00"
+        "last_claim_timestamp": "2026-01-14T21:35:12.399763+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-ZDI1-20260114",
+                "expiry_timestamp": "2026-01-17T21:35:12.399763+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-ZDI1-20260114",
+        "token_expiry_timestamp": "2026-01-17T21:35:12.399763+00:00",
+        "source_alias": "bassic"
     },
     "1161613494840463390": {
         "tokens": [
