@@ -8032,5 +8032,18 @@
         "current_token": "INNERCIRCLE-2ZON-20260114",
         "token_expiry_timestamp": "2026-01-21T19:44:29.506942+00:00",
         "source_alias": "bassic"
+    },
+    "1437758017943769140": {
+        "tokens": [
+            {
+                "token": "BEGINNER-FS5I-20260114",
+                "expiry_timestamp": "2026-01-17T23:18:48.671182+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-14T23:18:48.671182+00:00",
+        "current_token": "BEGINNER-FS5I-20260114",
+        "token_expiry_timestamp": "2026-01-17T23:18:48.671182+00:00",
+        "source_alias": "bassic"
     }
 }
