@@ -8020,5 +8020,18 @@
         "current_token": "BEGINNER-ZMFW-20260113",
         "token_expiry_timestamp": "2026-01-16T23:10:55.592089+00:00",
         "source_alias": "bassic"
+    },
+    "1290592429283606529": {
+        "tokens": [
+            {
+                "token": "BEGINNER-M1HF-20260114",
+                "expiry_timestamp": "2026-01-17T06:02:58.980813+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-14T06:02:58.980813+00:00",
+        "current_token": "BEGINNER-M1HF-20260114",
+        "token_expiry_timestamp": "2026-01-17T06:02:58.980813+00:00",
+        "source_alias": "bassic"
     }
 }
