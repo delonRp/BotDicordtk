@@ -7430,17 +7430,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1349716022869102662": {
-        "tokens": [
-            {
-                "token": "BEGINNER-KCRR-20260111",
-                "expiry_timestamp": "2026-01-14T08:22:49.149892+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-11T08:22:49.149892+00:00",
-        "current_token": "BEGINNER-KCRR-20260111",
-        "token_expiry_timestamp": "2026-01-14T08:22:49.149892+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-11T08:22:49.149892+00:00"
     },
     "1387695496491044866": {
         "tokens": [
