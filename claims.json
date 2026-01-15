@@ -8041,5 +8041,18 @@
         "current_token": "SUBSCRIBER-I6GS-20260115",
         "token_expiry_timestamp": "2026-01-20T15:40:46.936524+00:00",
         "source_alias": "bassic"
+    },
+    "1065243777427587072": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CNNG-20260115",
+                "expiry_timestamp": "2026-01-18T16:30:10.259863+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T16:30:10.259863+00:00",
+        "current_token": "BEGINNER-CNNG-20260115",
+        "token_expiry_timestamp": "2026-01-18T16:30:10.259863+00:00",
+        "source_alias": "bassic"
     }
 }
