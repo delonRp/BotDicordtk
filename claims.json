@@ -7970,5 +7970,18 @@
         "current_token": "BEGINNER-FS5I-20260114",
         "token_expiry_timestamp": "2026-01-17T23:18:48.671182+00:00",
         "source_alias": "bassic"
+    },
+    "884778207851708477": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3ZX8-20260115",
+                "expiry_timestamp": "2026-01-22T08:48:08.846270+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T08:48:08.846270+00:00",
+        "current_token": "INNERCIRCLE-3ZX8-20260115",
+        "token_expiry_timestamp": "2026-01-22T08:48:08.846270+00:00",
+        "source_alias": "bassic"
     }
 }
