@@ -6967,11 +6967,17 @@
                 "expiry_timestamp": "2026-02-14T08:05:29.896079+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "enzo",
+                "expiry_timestamp": "2026-02-14T08:06:01.802952+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "enzo",
-        "token_expiry_timestamp": "2026-02-14T08:05:29.896079+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-14T08:06:01.802952+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "728566178993406032": {
