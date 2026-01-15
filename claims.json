@@ -6716,7 +6716,17 @@
         "source_alias": "bassic"
     },
     "1401447150877020274": {
-        "last_claim_timestamp": "2026-01-07T10:41:26.017389+00:00"
+        "last_claim_timestamp": "2026-01-15T22:23:03.455124+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-OXAP-20260115",
+                "expiry_timestamp": "2026-01-18T22:23:03.455124+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-OXAP-20260115",
+        "token_expiry_timestamp": "2026-01-18T22:23:03.455124+00:00",
+        "source_alias": "bassic"
     },
     "1261567297546354758": {
         "last_claim_timestamp": "2026-01-07T12:19:57.647709+00:00"
