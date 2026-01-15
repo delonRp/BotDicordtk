@@ -7999,5 +7999,18 @@
         "current_token": "INNERCIRCLE-E8JB-20260115",
         "token_expiry_timestamp": "2026-01-22T12:47:31.817567+00:00",
         "source_alias": "bassic"
+    },
+    "1454125964811309219": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ME3O-20260115",
+                "expiry_timestamp": "2026-01-18T14:23:39.647278+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T14:23:39.647278+00:00",
+        "current_token": "BEGINNER-ME3O-20260115",
+        "token_expiry_timestamp": "2026-01-18T14:23:39.647278+00:00",
+        "source_alias": "bassic"
     }
 }
