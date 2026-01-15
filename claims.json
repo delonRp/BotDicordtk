@@ -8028,5 +8028,18 @@
         "current_token": "INNERCIRCLE-U8VO-20260115",
         "token_expiry_timestamp": "2026-01-22T15:32:09.248515+00:00",
         "source_alias": "bassic"
+    },
+    "914544360769601587": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-I6GS-20260115",
+                "expiry_timestamp": "2026-01-20T15:40:46.936524+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T15:40:46.936524+00:00",
+        "current_token": "SUBSCRIBER-I6GS-20260115",
+        "token_expiry_timestamp": "2026-01-20T15:40:46.936524+00:00",
+        "source_alias": "bassic"
     }
 }
