@@ -8012,5 +8012,18 @@
         "current_token": "BEGINNER-ME3O-20260115",
         "token_expiry_timestamp": "2026-01-18T14:23:39.647278+00:00",
         "source_alias": "bassic"
+    },
+    "1205467032494014495": {
+        "tokens": [
+            {
+                "token": "BEGINNER-B0TJ-20260115",
+                "expiry_timestamp": "2026-01-18T15:26:17.159577+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T15:26:17.159577+00:00",
+        "current_token": "BEGINNER-B0TJ-20260115",
+        "token_expiry_timestamp": "2026-01-18T15:26:17.159577+00:00",
+        "source_alias": "bassic"
     }
 }
