@@ -6960,7 +6960,19 @@
         "last_claim_timestamp": "2026-01-09T11:12:28.783559+00:00"
     },
     "1177445110263324742": {
-        "last_claim_timestamp": "2026-01-09T11:57:52.069405+00:00"
+        "last_claim_timestamp": "2026-01-09T11:57:52.069405+00:00",
+        "tokens": [
+            {
+                "token": "enzo",
+                "expiry_timestamp": "2026-02-14T08:05:29.896079+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "enzo",
+        "token_expiry_timestamp": "2026-02-14T08:05:29.896079+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "728566178993406032": {
         "last_claim_timestamp": "2026-01-09T14:00:25.494240+00:00"
