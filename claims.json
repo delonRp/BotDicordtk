@@ -7986,5 +7986,18 @@
         "current_token": "BEGINNER-O1ZY-20260115",
         "token_expiry_timestamp": "2026-01-18T09:39:40.560965+00:00",
         "source_alias": "bassic"
+    },
+    "1414870410373107782": {
+        "tokens": [
+            {
+                "token": "BEGINNER-MRKZ-20260115",
+                "expiry_timestamp": "2026-01-18T10:16:04.468070+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T10:16:04.468070+00:00",
+        "current_token": "BEGINNER-MRKZ-20260115",
+        "token_expiry_timestamp": "2026-01-18T10:16:04.468070+00:00",
+        "source_alias": "bassic"
     }
 }
