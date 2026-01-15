@@ -8015,5 +8015,18 @@
         "current_token": "BEGINNER-B0TJ-20260115",
         "token_expiry_timestamp": "2026-01-18T15:26:17.159577+00:00",
         "source_alias": "bassic"
+    },
+    "1331553407193841687": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-U8VO-20260115",
+                "expiry_timestamp": "2026-01-22T15:32:09.248515+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-15T15:32:09.248515+00:00",
+        "current_token": "INNERCIRCLE-U8VO-20260115",
+        "token_expiry_timestamp": "2026-01-22T15:32:09.248515+00:00",
+        "source_alias": "bassic"
     }
 }
