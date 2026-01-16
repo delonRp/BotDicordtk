@@ -8117,5 +8117,18 @@
         "current_token": "BEGINNER-BBR2-20260116",
         "token_expiry_timestamp": "2026-01-19T05:11:08.462441+00:00",
         "source_alias": "bassic"
+    },
+    "1461355223053373602": {
+        "tokens": [
+            {
+                "token": "VIP-JOYS-20260116",
+                "expiry_timestamp": "2026-02-15T06:43:22.061591+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T06:43:22.061591+00:00",
+        "current_token": "VIP-JOYS-20260116",
+        "token_expiry_timestamp": "2026-02-15T06:43:22.061591+00:00",
+        "source_alias": "bassic"
     }
 }
