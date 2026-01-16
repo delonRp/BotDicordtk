@@ -8114,5 +8114,18 @@
         "current_token": "INNERCIRCLE-1RRJ-20260116",
         "token_expiry_timestamp": "2026-01-23T02:26:31.338584+00:00",
         "source_alias": "bassic"
+    },
+    "1302117909484666935": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BBR2-20260116",
+                "expiry_timestamp": "2026-01-19T05:11:08.462441+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T05:11:08.462441+00:00",
+        "current_token": "BEGINNER-BBR2-20260116",
+        "token_expiry_timestamp": "2026-01-19T05:11:08.462441+00:00",
+        "source_alias": "bassic"
     }
 }
