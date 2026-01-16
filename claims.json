@@ -6872,17 +6872,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "967858842312515596": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-5EN1-20260109",
-                "expiry_timestamp": "2026-01-16T09:53:35.230035+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-09T09:53:35.230035+00:00",
-        "current_token": "INNERCIRCLE-5EN1-20260109",
-        "token_expiry_timestamp": "2026-01-16T09:53:35.230035+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-09T09:53:35.230035+00:00"
     },
     "1137174139275321500": {
         "last_claim_timestamp": "2026-01-09T10:16:25.140213+00:00"
