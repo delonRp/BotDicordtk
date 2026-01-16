@@ -8133,5 +8133,18 @@
         "current_token": "BEGINNER-WYQN-20260116",
         "token_expiry_timestamp": "2026-01-19T07:26:45.946976+00:00",
         "source_alias": "bassic"
+    },
+    "1432631243853398220": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CSX4-20260116",
+                "expiry_timestamp": "2026-01-19T07:32:58.969202+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T07:32:58.969202+00:00",
+        "current_token": "BEGINNER-CSX4-20260116",
+        "token_expiry_timestamp": "2026-01-19T07:32:58.969202+00:00",
+        "source_alias": "bassic"
     }
 }
