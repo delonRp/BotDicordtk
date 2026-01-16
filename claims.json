@@ -8240,5 +8240,18 @@
         "current_token": "INNERCIRCLE-EHQQ-20260116",
         "token_expiry_timestamp": "2026-01-23T13:15:29.379618+00:00",
         "source_alias": "bassic"
+    },
+    "1444254052123807856": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-GON4-20260116",
+                "expiry_timestamp": "2026-01-23T15:28:13.012464+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T15:28:13.012464+00:00",
+        "current_token": "INNERCIRCLE-GON4-20260116",
+        "token_expiry_timestamp": "2026-01-23T15:28:13.012464+00:00",
+        "source_alias": "bassic"
     }
 }
