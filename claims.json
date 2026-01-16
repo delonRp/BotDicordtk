@@ -8130,5 +8130,18 @@
         "current_token": "VIP-JOYS-20260116",
         "token_expiry_timestamp": "2026-02-15T06:43:22.061591+00:00",
         "source_alias": "bassic"
+    },
+    "1340218233940082758": {
+        "tokens": [
+            {
+                "token": "BEGINNER-WYQN-20260116",
+                "expiry_timestamp": "2026-01-19T07:26:45.946976+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T07:26:45.946976+00:00",
+        "current_token": "BEGINNER-WYQN-20260116",
+        "token_expiry_timestamp": "2026-01-19T07:26:45.946976+00:00",
+        "source_alias": "bassic"
     }
 }
