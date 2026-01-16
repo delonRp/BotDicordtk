@@ -8190,5 +8190,18 @@
         "current_token": "INNERCIRCLE-GADK-20260116",
         "token_expiry_timestamp": "2026-01-23T10:02:45.687340+00:00",
         "source_alias": "bassic"
+    },
+    "1450399954240798792": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Z71T-20260116",
+                "expiry_timestamp": "2026-01-19T11:28:43.690084+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T11:28:43.690084+00:00",
+        "current_token": "BEGINNER-Z71T-20260116",
+        "token_expiry_timestamp": "2026-01-19T11:28:43.690084+00:00",
+        "source_alias": "bassic"
     }
 }
