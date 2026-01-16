@@ -3313,11 +3313,6 @@
         "last_claim_timestamp": "2026-01-09T18:30:47.303116+00:00",
         "tokens": [
             {
-                "token": "INNERCIRCLE-6Y2Y-20260109",
-                "expiry_timestamp": "2026-01-16T18:30:47.303116+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "ver",
                 "expiry_timestamp": "2026-02-10T12:15:33.542915+00:00",
                 "source_alias": "vip",
@@ -6976,17 +6971,7 @@
         "last_claim_timestamp": "2026-01-09T17:23:59.784536+00:00"
     },
     "1442968975217787033": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-97GL-20260109",
-                "expiry_timestamp": "2026-01-16T19:55:38.426263+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-09T19:55:38.426263+00:00",
-        "current_token": "INNERCIRCLE-97GL-20260109",
-        "token_expiry_timestamp": "2026-01-16T19:55:38.426263+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-09T19:55:38.426263+00:00"
     },
     "1419539984796618783": {
         "tokens": [
@@ -7392,30 +7377,10 @@
         "source_alias": "bassic"
     },
     "1201154669033037946": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-XMJG-20260111",
-                "expiry_timestamp": "2026-01-16T20:24:09.881127+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-11T20:24:09.881127+00:00",
-        "current_token": "SUBSCRIBER-XMJG-20260111",
-        "token_expiry_timestamp": "2026-01-16T20:24:09.881127+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-11T20:24:09.881127+00:00"
     },
     "1192643557664751719": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-QJQ6-20260111",
-                "expiry_timestamp": "2026-01-16T20:28:36.401886+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-11T20:28:36.401886+00:00",
-        "current_token": "SUBSCRIBER-QJQ6-20260111",
-        "token_expiry_timestamp": "2026-01-16T20:28:36.401886+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-11T20:28:36.401886+00:00"
     },
     "1195972174176063528": {
         "tokens": [
