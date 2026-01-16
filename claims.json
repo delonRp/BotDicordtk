@@ -7616,11 +7616,6 @@
     "1413022235249344643": {
         "tokens": [
             {
-                "token": "BEGINNER-7969-20260113",
-                "expiry_timestamp": "2026-01-16T12:40:48.332187+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "nin",
                 "expiry_timestamp": "2026-02-13T11:04:32.278148+00:00",
                 "source_alias": "vip",
@@ -7640,17 +7635,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1297806870966439972": {
-        "tokens": [
-            {
-                "token": "BEGINNER-KB2M-20260113",
-                "expiry_timestamp": "2026-01-16T13:05:57.462798+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-13T13:05:57.462798+00:00",
-        "current_token": "BEGINNER-KB2M-20260113",
-        "token_expiry_timestamp": "2026-01-16T13:05:57.462798+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-13T13:05:57.462798+00:00"
     },
     "1089442828381331486": {
         "tokens": [
