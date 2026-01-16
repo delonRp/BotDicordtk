@@ -8243,5 +8243,18 @@
         "current_token": "INNERCIRCLE-GON4-20260116",
         "token_expiry_timestamp": "2026-01-23T15:28:13.012464+00:00",
         "source_alias": "bassic"
+    },
+    "1451771046322634915": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-KMWU-20260116",
+                "expiry_timestamp": "2026-01-23T16:27:38.932788+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T16:27:38.932788+00:00",
+        "current_token": "INNERCIRCLE-KMWU-20260116",
+        "token_expiry_timestamp": "2026-01-23T16:27:38.932788+00:00",
+        "source_alias": "bassic"
     }
 }
