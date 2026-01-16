@@ -7184,7 +7184,19 @@
         "source_alias": "bassic"
     },
     "1337328161092009995": {
-        "last_claim_timestamp": "2026-01-11T05:10:18.901019+00:00"
+        "last_claim_timestamp": "2026-01-11T05:10:18.901019+00:00",
+        "tokens": [
+            {
+                "token": "nat",
+                "expiry_timestamp": "2026-02-15T03:06:29.847133+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "nat",
+        "token_expiry_timestamp": "2026-02-15T03:06:29.847133+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1360848845424033912": {
         "last_claim_timestamp": "2026-01-11T05:13:12.663687+00:00"
