@@ -8279,5 +8279,18 @@
         "current_token": "INNERCIRCLE-6HBH-20260116",
         "token_expiry_timestamp": "2026-01-23T17:38:03.653933+00:00",
         "source_alias": "bassic"
+    },
+    "1348865933816369242": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CSP8-20260116",
+                "expiry_timestamp": "2026-01-19T20:26:30.922205+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T20:26:30.922205+00:00",
+        "current_token": "BEGINNER-CSP8-20260116",
+        "token_expiry_timestamp": "2026-01-19T20:26:30.922205+00:00",
+        "source_alias": "bassic"
     }
 }
