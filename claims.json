@@ -8262,5 +8262,18 @@
         "current_token": "BEGINNER-L0WA-20260116",
         "token_expiry_timestamp": "2026-01-19T13:08:20.843688+00:00",
         "source_alias": "bassic"
+    },
+    "629055610658357259": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-EHQQ-20260116",
+                "expiry_timestamp": "2026-01-23T13:15:29.379618+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-16T13:15:29.379618+00:00",
+        "current_token": "INNERCIRCLE-EHQQ-20260116",
+        "token_expiry_timestamp": "2026-01-23T13:15:29.379618+00:00",
+        "source_alias": "bassic"
     }
 }
