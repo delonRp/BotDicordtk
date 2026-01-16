@@ -7191,11 +7191,17 @@
                 "expiry_timestamp": "2026-02-15T03:06:29.847133+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "nat",
+                "expiry_timestamp": "2026-02-15T03:06:43.430038+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "nat",
-        "token_expiry_timestamp": "2026-02-15T03:06:29.847133+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-15T03:06:43.430038+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1360848845424033912": {
