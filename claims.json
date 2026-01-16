@@ -8119,12 +8119,19 @@
                 "token": "BEGINNER-WYQN-20260116",
                 "expiry_timestamp": "2026-01-19T07:26:45.946976+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "hesa",
+                "expiry_timestamp": "2026-02-15T09:20:49.121219+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-16T07:26:45.946976+00:00",
-        "current_token": "BEGINNER-WYQN-20260116",
-        "token_expiry_timestamp": "2026-01-19T07:26:45.946976+00:00",
-        "source_alias": "bassic"
+        "current_token": "hesa",
+        "token_expiry_timestamp": "2026-02-15T09:20:49.121219+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1432631243853398220": {
         "tokens": [
