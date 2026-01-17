@@ -7092,7 +7092,17 @@
         "last_claim_timestamp": "2026-01-10T06:39:00.985993+00:00"
     },
     "1288310272771100817": {
-        "last_claim_timestamp": "2026-01-10T08:25:22.854700+00:00"
+        "last_claim_timestamp": "2026-01-17T17:36:18.001752+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-CWFW-20260117",
+                "expiry_timestamp": "2026-01-22T17:36:18.001752+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-CWFW-20260117",
+        "token_expiry_timestamp": "2026-01-22T17:36:18.001752+00:00",
+        "source_alias": "bassic"
     },
     "807447363098378261": {
         "last_claim_timestamp": "2026-01-10T09:59:11.142791+00:00"
