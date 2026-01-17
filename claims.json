@@ -8225,5 +8225,18 @@
         "current_token": "INNERCIRCLE-SUBP-20260117",
         "token_expiry_timestamp": "2026-01-24T09:37:22.098072+00:00",
         "source_alias": "bassic"
+    },
+    "1460673320939950286": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-TPVD-20260117",
+                "expiry_timestamp": "2026-01-24T10:06:03.983911+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-17T10:06:03.983911+00:00",
+        "current_token": "INNERCIRCLE-TPVD-20260117",
+        "token_expiry_timestamp": "2026-01-24T10:06:03.983911+00:00",
+        "source_alias": "bassic"
     }
 }
