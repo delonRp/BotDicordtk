@@ -8188,12 +8188,18 @@
                 "expiry_timestamp": "2026-02-16T01:20:26.606553+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "vin",
+                "expiry_timestamp": "2026-02-16T01:20:50.611490+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-16T15:28:13.012464+00:00",
         "current_token": "vin",
-        "token_expiry_timestamp": "2026-02-16T01:20:26.606553+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-16T01:20:50.611490+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1451771046322634915": {
