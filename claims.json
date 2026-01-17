@@ -8345,5 +8345,18 @@
         "current_token": "BEGINNER-NKGH-20260117",
         "token_expiry_timestamp": "2026-01-20T21:16:34.493315+00:00",
         "source_alias": "bassic"
+    },
+    "1342316581933416468": {
+        "tokens": [
+            {
+                "token": "BEGINNER-DIOM-20260117",
+                "expiry_timestamp": "2026-01-20T22:30:22.603769+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-17T22:30:22.603769+00:00",
+        "current_token": "BEGINNER-DIOM-20260117",
+        "token_expiry_timestamp": "2026-01-20T22:30:22.603769+00:00",
+        "source_alias": "bassic"
     }
 }
