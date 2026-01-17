@@ -8199,5 +8199,18 @@
         "current_token": "BEGINNER-OGE9-20260116",
         "token_expiry_timestamp": "2026-01-19T20:29:42.183096+00:00",
         "source_alias": "bassic"
+    },
+    "1388847992261447840": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-P1YH-20260117",
+                "expiry_timestamp": "2026-01-24T09:32:42.347548+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-17T09:32:42.347548+00:00",
+        "current_token": "INNERCIRCLE-P1YH-20260117",
+        "token_expiry_timestamp": "2026-01-24T09:32:42.347548+00:00",
+        "source_alias": "bassic"
     }
 }
