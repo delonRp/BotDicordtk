@@ -7645,30 +7645,10 @@
         "source_alias": "bassic"
     },
     "1344632539758854158": {
-        "tokens": [
-            {
-                "token": "BEGINNER-2ELE-20260115",
-                "expiry_timestamp": "2026-01-18T11:10:43.175380+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-15T11:10:43.175380+00:00",
-        "current_token": "BEGINNER-2ELE-20260115",
-        "token_expiry_timestamp": "2026-01-18T11:10:43.175380+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-15T11:10:43.175380+00:00"
     },
     "1349340075275587645": {
-        "tokens": [
-            {
-                "token": "BEGINNER-ID7R-20260115",
-                "expiry_timestamp": "2026-01-18T11:34:43.421709+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-15T11:34:43.421709+00:00",
-        "current_token": "BEGINNER-ID7R-20260115",
-        "token_expiry_timestamp": "2026-01-18T11:34:43.421709+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-15T11:34:43.421709+00:00"
     },
     "1442883399810420910": {
         "tokens": [
