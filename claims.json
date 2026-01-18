@@ -7188,7 +7188,17 @@
         "last_claim_timestamp": "2026-01-11T12:53:14.572074+00:00"
     },
     "834294953471115295": {
-        "last_claim_timestamp": "2026-01-11T14:26:13.500480+00:00"
+        "last_claim_timestamp": "2026-01-18T18:39:45.271893+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-HYLF-20260118",
+                "expiry_timestamp": "2026-01-25T18:39:45.271893+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-HYLF-20260118",
+        "token_expiry_timestamp": "2026-01-25T18:39:45.271893+00:00",
+        "source_alias": "bassic"
     },
     "1456196179112235088": {
         "last_claim_timestamp": "2026-01-11T14:30:52.494348+00:00"
