@@ -8324,5 +8324,18 @@
         "current_token": "INNERCIRCLE-MLOV-20260118",
         "token_expiry_timestamp": "2026-01-25T15:38:36.185896+00:00",
         "source_alias": "bassic"
+    },
+    "966687499944624168": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LJQH-20260118",
+                "expiry_timestamp": "2026-01-25T15:48:18.010365+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-18T15:48:18.010365+00:00",
+        "current_token": "INNERCIRCLE-LJQH-20260118",
+        "token_expiry_timestamp": "2026-01-25T15:48:18.010365+00:00",
+        "source_alias": "bassic"
     }
 }
