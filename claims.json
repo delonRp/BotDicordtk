@@ -322,19 +322,7 @@
         "last_claim_timestamp": "2025-09-20T22:34:34.546765+00:00"
     },
     "937276817302241351": {
-        "last_claim_timestamp": "2025-09-20T22:50:19.448632+00:00",
-        "tokens": [
-            {
-                "token": "2d",
-                "expiry_timestamp": "2026-01-18T09:18:54.405537+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "2d",
-        "token_expiry_timestamp": "2026-01-18T09:18:54.405537+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-09-20T22:50:19.448632+00:00"
     },
     "1336164519906639943": {
         "last_claim_timestamp": "2025-09-20T22:56:52.791147+00:00"
@@ -7190,17 +7178,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1216496299965288570": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-MHUL-20260111",
-                "expiry_timestamp": "2026-01-18T09:09:03.938263+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-11T09:09:03.938263+00:00",
-        "current_token": "INNERCIRCLE-MHUL-20260111",
-        "token_expiry_timestamp": "2026-01-18T09:09:03.938263+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-11T09:09:03.938263+00:00"
     },
     "1458419209787805757": {
         "tokens": [
@@ -7653,17 +7631,7 @@
         "source_alias": "bassic"
     },
     "1389114416204611724": {
-        "tokens": [
-            {
-                "token": "BEGINNER-O1ZY-20260115",
-                "expiry_timestamp": "2026-01-18T09:39:40.560965+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-15T09:39:40.560965+00:00",
-        "current_token": "BEGINNER-O1ZY-20260115",
-        "token_expiry_timestamp": "2026-01-18T09:39:40.560965+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-15T09:39:40.560965+00:00"
     },
     "1414870410373107782": {
         "tokens": [
