@@ -7183,11 +7183,6 @@
     "1458419209787805757": {
         "tokens": [
             {
-                "token": "INNERCIRCLE-6IU1-20260111",
-                "expiry_timestamp": "2026-01-18T10:35:48.776350+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "bra",
                 "expiry_timestamp": "2026-02-10T12:36:10.670857+00:00",
                 "source_alias": "vip",
@@ -7634,17 +7629,7 @@
         "last_claim_timestamp": "2026-01-15T09:39:40.560965+00:00"
     },
     "1414870410373107782": {
-        "tokens": [
-            {
-                "token": "BEGINNER-MRKZ-20260115",
-                "expiry_timestamp": "2026-01-18T10:16:04.468070+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-15T10:16:04.468070+00:00",
-        "current_token": "BEGINNER-MRKZ-20260115",
-        "token_expiry_timestamp": "2026-01-18T10:16:04.468070+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-15T10:16:04.468070+00:00"
     },
     "798639368340242433": {
         "tokens": [
