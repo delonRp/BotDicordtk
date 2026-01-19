@@ -7252,17 +7252,7 @@
         "last_claim_timestamp": "2026-01-12T17:26:15.478144+00:00"
     },
     "1321176272084271147": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-CPEG-20260112",
-                "expiry_timestamp": "2026-01-19T20:44:21.832331+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-12T20:44:21.832331+00:00",
-        "current_token": "INNERCIRCLE-CPEG-20260112",
-        "token_expiry_timestamp": "2026-01-19T20:44:21.832331+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-12T20:44:21.832331+00:00"
     },
     "958786606968475648": {
         "last_claim_timestamp": "2026-01-13T01:35:16.974182+00:00"
@@ -7719,25 +7709,10 @@
         "source_alias": "bassic"
     },
     "1348865933816369242": {
-        "tokens": [
-            {
-                "token": "BEGINNER-CSP8-20260116",
-                "expiry_timestamp": "2026-01-19T20:26:30.922205+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-16T20:26:30.922205+00:00",
-        "current_token": "BEGINNER-CSP8-20260116",
-        "token_expiry_timestamp": "2026-01-19T20:26:30.922205+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-16T20:26:30.922205+00:00"
     },
     "1323562921510567948": {
         "tokens": [
-            {
-                "token": "BEGINNER-OGE9-20260116",
-                "expiry_timestamp": "2026-01-19T20:29:42.183096+00:00",
-                "source_alias": "bassic"
-            },
             {
                 "token": "mito",
                 "expiry_timestamp": "2026-02-18T12:39:37.631185+00:00",
