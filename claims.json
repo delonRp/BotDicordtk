@@ -7832,12 +7832,18 @@
                 "expiry_timestamp": "2026-02-18T12:39:37.631185+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "mito",
+                "expiry_timestamp": "2026-02-18T12:40:07.407640+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-16T20:29:42.183096+00:00",
         "current_token": "mito",
-        "token_expiry_timestamp": "2026-02-18T12:39:37.631185+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-18T12:40:07.407640+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1388847992261447840": {
