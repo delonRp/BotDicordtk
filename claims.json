@@ -8300,5 +8300,18 @@
         "current_token": "BEGINNER-LU6O-20260119",
         "token_expiry_timestamp": "2026-01-22T06:36:43.387840+00:00",
         "source_alias": "bassic"
+    },
+    "1459800477192687699": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ETFJ-20260119",
+                "expiry_timestamp": "2026-01-22T06:47:18.042348+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-19T06:47:18.042348+00:00",
+        "current_token": "BEGINNER-ETFJ-20260119",
+        "token_expiry_timestamp": "2026-01-22T06:47:18.042348+00:00",
+        "source_alias": "bassic"
     }
 }
