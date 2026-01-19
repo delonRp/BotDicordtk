@@ -7247,17 +7247,7 @@
         "last_claim_timestamp": "2026-01-12T13:08:31.044753+00:00"
     },
     "1122783058156859514": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-TC6S-20260112",
-                "expiry_timestamp": "2026-01-19T14:04:34.938215+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-12T14:04:34.938215+00:00",
-        "current_token": "INNERCIRCLE-TC6S-20260112",
-        "token_expiry_timestamp": "2026-01-19T14:04:34.938215+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-12T14:04:34.938215+00:00"
     },
     "1381589296326377564": {
         "last_claim_timestamp": "2026-01-12T14:41:51.687937+00:00"
