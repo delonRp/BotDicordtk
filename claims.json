@@ -8303,5 +8303,18 @@
         "current_token": "BEGINNER-ETFJ-20260119",
         "token_expiry_timestamp": "2026-01-22T06:47:18.042348+00:00",
         "source_alias": "bassic"
+    },
+    "1434369235530023055": {
+        "tokens": [
+            {
+                "token": "BEGINNER-M9R1-20260119",
+                "expiry_timestamp": "2026-01-22T07:25:05.118685+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-19T07:25:05.118685+00:00",
+        "current_token": "BEGINNER-M9R1-20260119",
+        "token_expiry_timestamp": "2026-01-22T07:25:05.118685+00:00",
+        "source_alias": "bassic"
     }
 }
