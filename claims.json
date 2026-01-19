@@ -8294,5 +8294,18 @@
         "current_token": "BEGINNER-6PX8-20260119",
         "token_expiry_timestamp": "2026-01-22T01:47:27.687810+00:00",
         "source_alias": "bassic"
+    },
+    "1231233729020690455": {
+        "tokens": [
+            {
+                "token": "BEGINNER-EAG4-20260119",
+                "expiry_timestamp": "2026-01-22T04:47:00.201926+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-19T04:47:00.201926+00:00",
+        "current_token": "BEGINNER-EAG4-20260119",
+        "token_expiry_timestamp": "2026-01-22T04:47:00.201926+00:00",
+        "source_alias": "bassic"
     }
 }
