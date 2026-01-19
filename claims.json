@@ -206,11 +206,6 @@
         "last_claim_timestamp": "2025-12-20T01:45:05.223672+00:00",
         "tokens": [
             {
-                "token": "VIP-KEDA-20251220",
-                "expiry_timestamp": "2026-01-19T01:45:05.223672+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "76APEL",
                 "expiry_timestamp": "2026-02-24T06:11:22.550688+00:00",
                 "source_alias": "vip",
@@ -6105,17 +6100,7 @@
         "last_claim_timestamp": "2026-01-01T14:52:55.388725+00:00"
     },
     "565556267767169024": {
-        "last_claim_timestamp": "2026-01-12T03:30:38.710934+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-X2OH-20260112",
-                "expiry_timestamp": "2026-01-19T03:30:38.710934+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-X2OH-20260112",
-        "token_expiry_timestamp": "2026-01-19T03:30:38.710934+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-12T03:30:38.710934+00:00"
     },
     "1402447168484278392": {
         "tokens": [
