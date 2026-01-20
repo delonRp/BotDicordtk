@@ -8265,5 +8265,18 @@
         "current_token": "BEGINNER-QBM9-20260119",
         "token_expiry_timestamp": "2026-01-22T17:31:29.999261+00:00",
         "source_alias": "bassic"
+    },
+    "1446892630054142238": {
+        "tokens": [
+            {
+                "token": "BEGINNER-1DPR-20260120",
+                "expiry_timestamp": "2026-01-23T02:14:56.095028+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-20T02:14:56.095028+00:00",
+        "current_token": "BEGINNER-1DPR-20260120",
+        "token_expiry_timestamp": "2026-01-23T02:14:56.095028+00:00",
+        "source_alias": "bassic"
     }
 }
