@@ -8363,5 +8363,18 @@
         "current_token": "BEGINNER-O3V2-20260120",
         "token_expiry_timestamp": "2026-01-23T11:05:48.449315+00:00",
         "source_alias": "bassic"
+    },
+    "1082293484272238632": {
+        "tokens": [
+            {
+                "token": "BEGINNER-DTBH-20260120",
+                "expiry_timestamp": "2026-01-23T11:14:32.922766+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-20T11:14:32.922766+00:00",
+        "current_token": "BEGINNER-DTBH-20260120",
+        "token_expiry_timestamp": "2026-01-23T11:14:32.922766+00:00",
+        "source_alias": "bassic"
     }
 }
