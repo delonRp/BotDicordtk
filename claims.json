@@ -8278,5 +8278,18 @@
         "current_token": "BEGINNER-1DPR-20260120",
         "token_expiry_timestamp": "2026-01-23T02:14:56.095028+00:00",
         "source_alias": "bassic"
+    },
+    "1408065998325813369": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-89A6-20260120",
+                "expiry_timestamp": "2026-01-27T03:08:47.177398+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-20T03:08:47.177398+00:00",
+        "current_token": "INNERCIRCLE-89A6-20260120",
+        "token_expiry_timestamp": "2026-01-27T03:08:47.177398+00:00",
+        "source_alias": "bassic"
     }
 }
