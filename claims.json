@@ -4293,11 +4293,17 @@
                 "expiry_timestamp": "2299-11-04T14:31:33.875934+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "rown",
+                "expiry_timestamp": "2299-11-04T14:32:00.236331+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "rown",
-        "token_expiry_timestamp": "2299-11-04T14:31:33.875934+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-11-04T14:32:00.236331+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1379714394769981481": {
