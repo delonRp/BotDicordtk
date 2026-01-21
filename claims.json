@@ -7977,17 +7977,7 @@
         "source_alias": "bassic"
     },
     "1334796019359289344": {
-        "tokens": [
-            {
-                "token": "BEGINNER-O9OE-20260118",
-                "expiry_timestamp": "2026-01-21T23:21:32.894766+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-18T23:21:32.894766+00:00",
-        "current_token": "BEGINNER-O9OE-20260118",
-        "token_expiry_timestamp": "2026-01-21T23:21:32.894766+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-18T23:21:32.894766+00:00"
     },
     "930610375513227304": {
         "tokens": [
