@@ -8386,5 +8386,18 @@
         "current_token": "BEGINNER-Y97L-20260121",
         "token_expiry_timestamp": "2026-01-24T09:01:32.037153+00:00",
         "source_alias": "bassic"
+    },
+    "1414967603100778598": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-BOQS-20260121",
+                "expiry_timestamp": "2026-01-28T12:29:18.463744+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-21T12:29:18.463744+00:00",
+        "current_token": "INNERCIRCLE-BOQS-20260121",
+        "token_expiry_timestamp": "2026-01-28T12:29:18.463744+00:00",
+        "source_alias": "bassic"
     }
 }
