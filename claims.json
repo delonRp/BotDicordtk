@@ -8364,5 +8364,18 @@
         "current_token": "BEGINNER-KR56-20260121",
         "token_expiry_timestamp": "2026-01-24T06:50:23.864974+00:00",
         "source_alias": "bassic"
+    },
+    "1391540031935479928": {
+        "tokens": [
+            {
+                "token": "BEGINNER-CRB9-20260121",
+                "expiry_timestamp": "2026-01-24T07:03:36.842315+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-21T07:03:36.842315+00:00",
+        "current_token": "BEGINNER-CRB9-20260121",
+        "token_expiry_timestamp": "2026-01-24T07:03:36.842315+00:00",
+        "source_alias": "bassic"
     }
 }
