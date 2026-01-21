@@ -7973,17 +7973,7 @@
         "source_alias": "bassic"
     },
     "1391970387281317910": {
-        "tokens": [
-            {
-                "token": "BEGINNER-MHO7-20260118",
-                "expiry_timestamp": "2026-01-21T06:22:52.789443+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-18T06:22:52.789443+00:00",
-        "current_token": "BEGINNER-MHO7-20260118",
-        "token_expiry_timestamp": "2026-01-21T06:22:52.789443+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-18T06:22:52.789443+00:00"
     },
     "1455943351840014387": {
         "tokens": [
