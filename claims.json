@@ -6156,17 +6156,7 @@
         "last_claim_timestamp": "2026-01-02T09:15:17.518999+00:00"
     },
     "1393494701688094861": {
-        "last_claim_timestamp": "2026-01-14T19:05:22.044209+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-UIBF-20260114",
-                "expiry_timestamp": "2026-01-21T19:05:22.044209+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-UIBF-20260114",
-        "token_expiry_timestamp": "2026-01-21T19:05:22.044209+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-14T19:05:22.044209+00:00"
     },
     "1393558111024975975": {
         "last_claim_timestamp": "2026-01-02T11:02:22.215644+00:00"
@@ -7386,17 +7376,7 @@
         "last_claim_timestamp": "2026-01-14T18:23:54.873396+00:00"
     },
     "696335687087030272": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-2ZON-20260114",
-                "expiry_timestamp": "2026-01-21T19:44:29.506942+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-14T19:44:29.506942+00:00",
-        "current_token": "INNERCIRCLE-2ZON-20260114",
-        "token_expiry_timestamp": "2026-01-21T19:44:29.506942+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-14T19:44:29.506942+00:00"
     },
     "1437758017943769140": {
         "last_claim_timestamp": "2026-01-14T23:18:48.671182+00:00"
