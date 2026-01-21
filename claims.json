@@ -8435,5 +8435,18 @@
         "current_token": "INNERCIRCLE-OVF3-20260121",
         "token_expiry_timestamp": "2026-01-28T13:13:29.969914+00:00",
         "source_alias": "bassic"
+    },
+    "1460933528073273519": {
+        "tokens": [
+            {
+                "token": "BEGINNER-04N6-20260121",
+                "expiry_timestamp": "2026-01-24T14:21:16.446874+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-21T14:21:16.446874+00:00",
+        "current_token": "BEGINNER-04N6-20260121",
+        "token_expiry_timestamp": "2026-01-24T14:21:16.446874+00:00",
+        "source_alias": "bassic"
     }
 }
