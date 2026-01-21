@@ -8380,5 +8380,18 @@
         "current_token": "BEGINNER-11QJ-20260121",
         "token_expiry_timestamp": "2026-01-24T07:25:38.300227+00:00",
         "source_alias": "bassic"
+    },
+    "1392040919938764831": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-SOFL-20260121",
+                "expiry_timestamp": "2026-01-28T08:27:01.460791+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-21T08:27:01.460791+00:00",
+        "current_token": "INNERCIRCLE-SOFL-20260121",
+        "token_expiry_timestamp": "2026-01-28T08:27:01.460791+00:00",
+        "source_alias": "bassic"
     }
 }
