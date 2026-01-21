@@ -8409,5 +8409,18 @@
         "current_token": "INNERCIRCLE-BOQS-20260121",
         "token_expiry_timestamp": "2026-01-28T12:29:18.463744+00:00",
         "source_alias": "bassic"
+    },
+    "941668060052455454": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-8MQV-20260121",
+                "expiry_timestamp": "2026-01-28T13:06:30.379971+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-21T13:06:30.379971+00:00",
+        "current_token": "INNERCIRCLE-8MQV-20260121",
+        "token_expiry_timestamp": "2026-01-28T13:06:30.379971+00:00",
+        "source_alias": "bassic"
     }
 }
