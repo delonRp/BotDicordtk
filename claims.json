@@ -3299,7 +3299,17 @@
         "last_claim_timestamp": "2025-11-06T04:05:45.593714+00:00"
     },
     "1032688205436297238": {
-        "last_claim_timestamp": "2026-01-09T11:09:19.595373+00:00"
+        "last_claim_timestamp": "2026-01-21T04:42:32.134308+00:00",
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-PMJ1-20260121",
+                "expiry_timestamp": "2026-01-26T04:42:32.134308+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "SUBSCRIBER-PMJ1-20260121",
+        "token_expiry_timestamp": "2026-01-26T04:42:32.134308+00:00",
+        "source_alias": "bassic"
     },
     "1422948478622892073": {
         "last_claim_timestamp": "2025-11-26T12:12:08.125455+00:00"
