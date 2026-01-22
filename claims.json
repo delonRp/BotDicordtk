@@ -3783,17 +3783,7 @@
         "last_claim_timestamp": "2025-11-18T13:30:08.574082+00:00"
     },
     "1413217393265737901": {
-        "last_claim_timestamp": "2026-01-17T12:22:33.745182+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-EOJV-20260117",
-                "expiry_timestamp": "2026-01-22T12:22:33.745182+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-EOJV-20260117",
-        "token_expiry_timestamp": "2026-01-22T12:22:33.745182+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T12:22:33.745182+00:00"
     },
     "1339238339445915680": {
         "last_claim_timestamp": "2025-11-18T17:19:09.706966+00:00"
@@ -7418,17 +7408,7 @@
         "last_claim_timestamp": "2026-01-15T12:44:21.141211+00:00"
     },
     "1435931783425425418": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-E8JB-20260115",
-                "expiry_timestamp": "2026-01-22T12:47:31.817567+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-15T12:47:31.817567+00:00",
-        "current_token": "INNERCIRCLE-E8JB-20260115",
-        "token_expiry_timestamp": "2026-01-22T12:47:31.817567+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-15T12:47:31.817567+00:00"
     },
     "1454125964811309219": {
         "last_claim_timestamp": "2026-01-15T14:23:39.647278+00:00"
