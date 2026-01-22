@@ -8438,5 +8438,18 @@
         "current_token": "BEGINNER-RBOU-20260122",
         "token_expiry_timestamp": "2026-01-25T21:43:23.712482+00:00",
         "source_alias": "bassic"
+    },
+    "1078961046598987828": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-APR5-20260122",
+                "expiry_timestamp": "2026-01-29T21:54:10.748051+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-22T21:54:10.748051+00:00",
+        "current_token": "INNERCIRCLE-APR5-20260122",
+        "token_expiry_timestamp": "2026-01-29T21:54:10.748051+00:00",
+        "source_alias": "bassic"
     }
 }
