@@ -8423,5 +8423,18 @@
         "current_token": "BEGINNER-68QU-20260122",
         "token_expiry_timestamp": "2026-01-25T13:59:26.360199+00:00",
         "source_alias": "bassic"
+    },
+    "1426909554742136853": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-AI70-20260122",
+                "expiry_timestamp": "2026-01-27T15:11:00.569078+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-22T15:11:00.569078+00:00",
+        "current_token": "SUBSCRIBER-AI70-20260122",
+        "token_expiry_timestamp": "2026-01-27T15:11:00.569078+00:00",
+        "source_alias": "bassic"
     }
 }
