@@ -8378,5 +8378,18 @@
         "current_token": "BEGINNER-OF3P-20260122",
         "token_expiry_timestamp": "2026-01-25T07:34:19.727675+00:00",
         "source_alias": "bassic"
+    },
+    "1452324612024172689": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-QSMY-20260122",
+                "expiry_timestamp": "2026-01-29T10:36:59.823048+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-22T10:36:59.823048+00:00",
+        "current_token": "INNERCIRCLE-QSMY-20260122",
+        "token_expiry_timestamp": "2026-01-29T10:36:59.823048+00:00",
+        "source_alias": "bassic"
     }
 }
