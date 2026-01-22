@@ -6875,7 +6875,17 @@
         "assigned_by_admin": 782445287855489076
     },
     "728566178993406032": {
-        "last_claim_timestamp": "2026-01-09T14:00:25.494240+00:00"
+        "last_claim_timestamp": "2026-01-22T13:56:04.138378+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3FAF-20260122",
+                "expiry_timestamp": "2026-01-29T13:56:04.138378+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-3FAF-20260122",
+        "token_expiry_timestamp": "2026-01-29T13:56:04.138378+00:00",
+        "source_alias": "bassic"
     },
     "1017458202637500518": {
         "last_claim_timestamp": "2026-01-09T14:25:50.614729+00:00"
