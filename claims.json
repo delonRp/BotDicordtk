@@ -8509,5 +8509,18 @@
         "token_expiry_timestamp": "2026-02-22T13:16:43.799726+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "964845743858917427": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-ZU1K-20260123",
+                "expiry_timestamp": "2026-01-30T16:51:25.916006+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-23T16:51:25.916006+00:00",
+        "current_token": "INNERCIRCLE-ZU1K-20260123",
+        "token_expiry_timestamp": "2026-01-30T16:51:25.916006+00:00",
+        "source_alias": "bassic"
     }
 }
