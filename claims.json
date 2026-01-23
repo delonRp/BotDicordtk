@@ -8449,11 +8449,17 @@
                 "expiry_timestamp": "2053-06-09T00:10:09.862479+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "jawa",
+                "expiry_timestamp": "2053-06-09T00:10:36.880097+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "jawa",
-        "token_expiry_timestamp": "2053-06-09T00:10:09.862479+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2053-06-09T00:10:36.880097+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
