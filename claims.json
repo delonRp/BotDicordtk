@@ -8018,12 +8018,19 @@
                 "token": "INNERCIRCLE-0AV7-20260121",
                 "expiry_timestamp": "2026-01-28T02:10:07.687200+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "alva",
+                "expiry_timestamp": "2026-02-12T13:24:05.874386+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-21T02:10:07.687200+00:00",
-        "current_token": "INNERCIRCLE-0AV7-20260121",
-        "token_expiry_timestamp": "2026-01-28T02:10:07.687200+00:00",
-        "source_alias": "bassic"
+        "current_token": "alva",
+        "token_expiry_timestamp": "2026-02-12T13:24:05.874386+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1375256767856119881": {
         "tokens": [
