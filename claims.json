@@ -8441,5 +8441,19 @@
         "current_token": "INNERCIRCLE-APR5-20260122",
         "token_expiry_timestamp": "2026-01-29T21:54:10.748051+00:00",
         "source_alias": "bassic"
+    },
+    "1389950422353182771": {
+        "tokens": [
+            {
+                "token": "jawa",
+                "expiry_timestamp": "2053-06-09T00:10:09.862479+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "jawa",
+        "token_expiry_timestamp": "2053-06-09T00:10:09.862479+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
