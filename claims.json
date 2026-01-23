@@ -8372,12 +8372,19 @@
                 "token": "BEGINNER-US2O-20260123",
                 "expiry_timestamp": "2026-01-26T00:52:00.394081+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ferdi",
+                "expiry_timestamp": "2026-02-22T15:15:52.257491+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-23T00:52:00.394081+00:00",
-        "current_token": "BEGINNER-US2O-20260123",
-        "token_expiry_timestamp": "2026-01-26T00:52:00.394081+00:00",
-        "source_alias": "bassic"
+        "current_token": "ferdi",
+        "token_expiry_timestamp": "2026-02-22T15:15:52.257491+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1372867409878319146": {
         "tokens": [
