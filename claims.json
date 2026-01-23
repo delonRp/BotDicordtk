@@ -3967,7 +3967,17 @@
         "source_alias": "bassic"
     },
     "1337384137362768006": {
-        "last_claim_timestamp": "2026-01-15T00:02:32.226815+00:00"
+        "last_claim_timestamp": "2026-01-23T04:57:06.735936+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-KICS-20260123",
+                "expiry_timestamp": "2026-01-30T04:57:06.735936+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-KICS-20260123",
+        "token_expiry_timestamp": "2026-01-30T04:57:06.735936+00:00",
+        "source_alias": "bassic"
     },
     "1384336475851591823": {
         "last_claim_timestamp": "2025-11-23T11:24:20.557092+00:00"
