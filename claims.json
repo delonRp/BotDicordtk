@@ -3839,26 +3839,7 @@
     "1121752802083995649": {
         "last_claim_timestamp": "2025-12-21T23:07:23.808231+00:00"
     },
-    "1410973748458426439": {
-        "tokens": [
-            {
-                "token": "elon",
-                "expiry_timestamp": "2026-01-23T01:06:09.950816+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "elon",
-                "expiry_timestamp": "2026-01-23T01:06:46.013776+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "elon",
-        "token_expiry_timestamp": "2026-01-23T01:06:46.013776+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
-    },
+    "1410973748458426439": {},
     "1336001294145683540": {
         "last_claim_timestamp": "2025-11-20T04:40:39.708004+00:00"
     },
