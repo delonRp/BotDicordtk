@@ -8024,12 +8024,18 @@
                 "expiry_timestamp": "2026-02-12T13:24:05.874386+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "alva",
+                "expiry_timestamp": "2026-02-12T13:24:32.534372+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-21T02:10:07.687200+00:00",
         "current_token": "alva",
-        "token_expiry_timestamp": "2026-02-12T13:24:05.874386+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-12T13:24:32.534372+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1375256767856119881": {
