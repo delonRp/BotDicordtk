@@ -8378,12 +8378,18 @@
                 "expiry_timestamp": "2026-02-22T15:15:52.257491+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "ferdi",
+                "expiry_timestamp": "2026-02-22T15:16:04.757377+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-23T00:52:00.394081+00:00",
         "current_token": "ferdi",
-        "token_expiry_timestamp": "2026-02-22T15:15:52.257491+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-22T15:16:04.757377+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     },
     "1372867409878319146": {
