@@ -8543,5 +8543,18 @@
         "current_token": "BEGINNER-18GR-20260124",
         "token_expiry_timestamp": "2026-01-27T01:35:08.018848+00:00",
         "source_alias": "bassic"
+    },
+    "1456595192869031956": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-F9UB-20260124",
+                "expiry_timestamp": "2026-01-31T01:41:58.946483+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-24T01:41:58.946483+00:00",
+        "current_token": "INNERCIRCLE-F9UB-20260124",
+        "token_expiry_timestamp": "2026-01-31T01:41:58.946483+00:00",
+        "source_alias": "bassic"
     }
 }
