@@ -8564,5 +8564,18 @@
         "current_token": "INNERCIRCLE-8IEW-20260124",
         "token_expiry_timestamp": "2026-01-31T05:17:41.879234+00:00",
         "source_alias": "bassic"
+    },
+    "1451956221685792930": {
+        "tokens": [
+            {
+                "token": "BEGINNER-ND3O-20260124",
+                "expiry_timestamp": "2026-01-27T06:05:19.745071+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-24T06:05:19.745071+00:00",
+        "current_token": "BEGINNER-ND3O-20260124",
+        "token_expiry_timestamp": "2026-01-27T06:05:19.745071+00:00",
+        "source_alias": "bassic"
     }
 }
