@@ -1777,17 +1777,7 @@
         "last_claim_timestamp": "2025-10-11T11:14:30.579758+00:00"
     },
     "1048425869875630130": {
-        "last_claim_timestamp": "2026-01-17T16:08:49.689152+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-KX23-20260117",
-                "expiry_timestamp": "2026-01-24T16:08:49.689152+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-KX23-20260117",
-        "token_expiry_timestamp": "2026-01-24T16:08:49.689152+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T16:08:49.689152+00:00"
     },
     "1389259926748135486": {
         "last_claim_timestamp": "2025-10-11T12:12:01.968383+00:00"
@@ -7562,30 +7552,10 @@
         "last_claim_timestamp": "2026-01-17T14:56:14.950846+00:00"
     },
     "1390388395317923931": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-HL8A-20260117",
-                "expiry_timestamp": "2026-01-24T16:01:21.152836+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-17T16:01:21.152836+00:00",
-        "current_token": "INNERCIRCLE-HL8A-20260117",
-        "token_expiry_timestamp": "2026-01-24T16:01:21.152836+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T16:01:21.152836+00:00"
     },
     "1441829706822320248": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-H8DS-20260117",
-                "expiry_timestamp": "2026-01-24T16:15:08.980226+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-17T16:15:08.980226+00:00",
-        "current_token": "INNERCIRCLE-H8DS-20260117",
-        "token_expiry_timestamp": "2026-01-24T16:15:08.980226+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T16:15:08.980226+00:00"
     },
     "1452611856375218400": {
         "tokens": [
