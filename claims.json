@@ -8556,5 +8556,18 @@
         "current_token": "INNERCIRCLE-F9UB-20260124",
         "token_expiry_timestamp": "2026-01-31T01:41:58.946483+00:00",
         "source_alias": "bassic"
+    },
+    "1443207579181387847": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SHFY-20260124",
+                "expiry_timestamp": "2026-01-27T01:51:50.197155+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-24T01:51:50.197155+00:00",
+        "current_token": "BEGINNER-SHFY-20260124",
+        "token_expiry_timestamp": "2026-01-27T01:51:50.197155+00:00",
+        "source_alias": "bassic"
     }
 }
