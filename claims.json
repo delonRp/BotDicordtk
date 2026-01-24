@@ -7556,17 +7556,7 @@
         "last_claim_timestamp": "2026-01-17T12:47:16.971801+00:00"
     },
     "1459597191466319964": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-QFJY-20260117",
-                "expiry_timestamp": "2026-01-24T13:07:58.283434+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-17T13:07:58.283434+00:00",
-        "current_token": "INNERCIRCLE-QFJY-20260117",
-        "token_expiry_timestamp": "2026-01-24T13:07:58.283434+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T13:07:58.283434+00:00"
     },
     "1461550227805835315": {
         "tokens": [
