@@ -4905,17 +4905,7 @@
         "last_claim_timestamp": "2025-12-11T09:59:54.990179+00:00"
     },
     "1392632736312987708": {
-        "last_claim_timestamp": "2026-01-19T11:55:30.721174+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-E799-20260119",
-                "expiry_timestamp": "2026-01-24T11:55:30.721174+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-E799-20260119",
-        "token_expiry_timestamp": "2026-01-24T11:55:30.721174+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-19T11:55:30.721174+00:00"
     },
     "1391499113945890917": {
         "last_claim_timestamp": "2025-12-11T13:52:41.000667+00:00"
@@ -5359,17 +5349,7 @@
         "last_claim_timestamp": "2025-12-19T04:17:53.899864+00:00"
     },
     "1442798117119459409": {
-        "last_claim_timestamp": "2026-01-19T11:54:24.409743+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-GVMD-20260119",
-                "expiry_timestamp": "2026-01-24T11:54:24.409743+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-GVMD-20260119",
-        "token_expiry_timestamp": "2026-01-24T11:54:24.409743+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-19T11:54:24.409743+00:00"
     },
     "1447480325054664705": {
         "last_claim_timestamp": "2025-12-19T05:43:31.731268+00:00"
