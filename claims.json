@@ -5783,17 +5783,7 @@
         "last_claim_timestamp": "2025-12-27T07:57:26.217740+00:00"
     },
     "1357183947175628911": {
-        "last_claim_timestamp": "2026-01-17T14:34:10.794972+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-2TTZ-20260117",
-                "expiry_timestamp": "2026-01-24T14:34:10.794972+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-2TTZ-20260117",
-        "token_expiry_timestamp": "2026-01-24T14:34:10.794972+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T14:34:10.794972+00:00"
     },
     "1412995945859256472": {
         "last_claim_timestamp": "2025-12-27T12:12:41.992170+00:00"
@@ -7559,17 +7549,7 @@
         "last_claim_timestamp": "2026-01-17T13:07:58.283434+00:00"
     },
     "1461550227805835315": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-Y96H-20260117",
-                "expiry_timestamp": "2026-01-24T14:56:14.950846+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-17T14:56:14.950846+00:00",
-        "current_token": "INNERCIRCLE-Y96H-20260117",
-        "token_expiry_timestamp": "2026-01-24T14:56:14.950846+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-17T14:56:14.950846+00:00"
     },
     "1390388395317923931": {
         "tokens": [
@@ -7982,17 +7962,7 @@
         "source_alias": "bassic"
     },
     "1460933528073273519": {
-        "tokens": [
-            {
-                "token": "BEGINNER-04N6-20260121",
-                "expiry_timestamp": "2026-01-24T14:21:16.446874+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-21T14:21:16.446874+00:00",
-        "current_token": "BEGINNER-04N6-20260121",
-        "token_expiry_timestamp": "2026-01-24T14:21:16.446874+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-21T14:21:16.446874+00:00"
     },
     "1254612905647800391": {
         "tokens": [
