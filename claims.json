@@ -5420,25 +5420,7 @@
         "last_claim_timestamp": "2025-12-20T04:42:52.595228+00:00"
     },
     "1225759951130198091": {
-        "tokens": [
-            {
-                "token": "jen",
-                "expiry_timestamp": "2026-01-24T05:55:04.525369+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "jen",
-                "expiry_timestamp": "2026-01-24T05:55:31.793891+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "last_claim_timestamp": "2025-12-20T05:08:10.334758+00:00",
-        "current_token": "jen",
-        "token_expiry_timestamp": "2026-01-24T05:55:31.793891+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-12-20T05:08:10.334758+00:00"
     },
     "402808472128978955": {
         "last_claim_timestamp": "2025-12-20T05:37:41.368026+00:00"
