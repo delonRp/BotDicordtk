@@ -8385,12 +8385,19 @@
                 "token": "BEGINNER-YCZE-20260123",
                 "expiry_timestamp": "2026-01-26T04:16:32.545816+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "ayu",
+                "expiry_timestamp": "2026-02-23T06:53:37.861415+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-23T04:16:32.545816+00:00",
-        "current_token": "BEGINNER-YCZE-20260123",
-        "token_expiry_timestamp": "2026-01-26T04:16:32.545816+00:00",
-        "source_alias": "bassic"
+        "current_token": "ayu",
+        "token_expiry_timestamp": "2026-02-23T06:53:37.861415+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1434512614381326336": {
         "tokens": [
