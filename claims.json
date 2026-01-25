@@ -8434,5 +8434,18 @@
         "current_token": "BEGINNER-8ST1-20260124",
         "token_expiry_timestamp": "2026-01-27T18:04:10.957191+00:00",
         "source_alias": "bassic"
+    },
+    "1436974456567496895": {
+        "tokens": [
+            {
+                "token": "BEGINNER-NR4E-20260125",
+                "expiry_timestamp": "2026-01-28T04:15:31.465561+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-25T04:15:31.465561+00:00",
+        "current_token": "BEGINNER-NR4E-20260125",
+        "token_expiry_timestamp": "2026-01-28T04:15:31.465561+00:00",
+        "source_alias": "bassic"
     }
 }
