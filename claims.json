@@ -7587,17 +7587,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1130502903241646100": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-NEBP-20260118",
-                "expiry_timestamp": "2026-01-25T01:33:35.267210+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-18T01:33:35.267210+00:00",
-        "current_token": "INNERCIRCLE-NEBP-20260118",
-        "token_expiry_timestamp": "2026-01-25T01:33:35.267210+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-18T01:33:35.267210+00:00"
     },
     "1387831133269524500": {
         "tokens": [
