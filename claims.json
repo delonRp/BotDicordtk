@@ -7884,25 +7884,10 @@
         "source_alias": "bassic"
     },
     "1435966663282528376": {
-        "tokens": [
-            {
-                "token": "BEGINNER-F74U-20260122",
-                "expiry_timestamp": "2026-01-25T13:24:02.113639+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-22T13:24:02.113639+00:00",
-        "current_token": "BEGINNER-F74U-20260122",
-        "token_expiry_timestamp": "2026-01-25T13:24:02.113639+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-22T13:24:02.113639+00:00"
     },
     "1457324202549055582": {
         "tokens": [
-            {
-                "token": "BEGINNER-UZIM-20260122",
-                "expiry_timestamp": "2026-01-25T13:31:54.446971+00:00",
-                "source_alias": "bassic"
-            },
             {
                 "token": "haidil",
                 "expiry_timestamp": "2026-02-11T13:59:09.044239+00:00",
