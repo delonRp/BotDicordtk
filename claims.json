@@ -8439,5 +8439,18 @@
         "current_token": "BEGINNER-NRI1-20260125",
         "token_expiry_timestamp": "2026-01-28T07:38:48.983133+00:00",
         "source_alias": "bassic"
+    },
+    "1419168368778416169": {
+        "tokens": [
+            {
+                "token": "BEGINNER-5869-20260125",
+                "expiry_timestamp": "2026-01-28T08:18:51.576701+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-25T08:18:51.576701+00:00",
+        "current_token": "BEGINNER-5869-20260125",
+        "token_expiry_timestamp": "2026-01-28T08:18:51.576701+00:00",
+        "source_alias": "bassic"
     }
 }
