@@ -7908,17 +7908,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1019636612667281510": {
-        "tokens": [
-            {
-                "token": "BEGINNER-68QU-20260122",
-                "expiry_timestamp": "2026-01-25T13:59:26.360199+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-22T13:59:26.360199+00:00",
-        "current_token": "BEGINNER-68QU-20260122",
-        "token_expiry_timestamp": "2026-01-25T13:59:26.360199+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-22T13:59:26.360199+00:00"
     },
     "1426909554742136853": {
         "tokens": [
