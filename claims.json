@@ -8467,5 +8467,18 @@
         "current_token": "BEGINNER-YENU-20260125",
         "token_expiry_timestamp": "2026-01-28T12:00:24.536149+00:00",
         "source_alias": "bassic"
+    },
+    "1450131423829819606": {
+        "tokens": [
+            {
+                "token": "BEGINNER-1KW1-20260125",
+                "expiry_timestamp": "2026-01-28T14:42:53.583424+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-25T14:42:53.583424+00:00",
+        "current_token": "BEGINNER-1KW1-20260125",
+        "token_expiry_timestamp": "2026-01-28T14:42:53.583424+00:00",
+        "source_alias": "bassic"
     }
 }
