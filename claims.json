@@ -8517,5 +8517,18 @@
         "current_token": "BEGINNER-T8JO-20260126",
         "token_expiry_timestamp": "2026-01-29T10:30:31.237105+00:00",
         "source_alias": "bassic"
+    },
+    "1357009354535997592": {
+        "tokens": [
+            {
+                "token": "BEGINNER-4SER-20260126",
+                "expiry_timestamp": "2026-01-29T11:23:10.891418+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T11:23:10.891418+00:00",
+        "current_token": "BEGINNER-4SER-20260126",
+        "token_expiry_timestamp": "2026-01-29T11:23:10.891418+00:00",
+        "source_alias": "bassic"
     }
 }
