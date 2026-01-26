@@ -8530,5 +8530,18 @@
         "current_token": "BEGINNER-4SER-20260126",
         "token_expiry_timestamp": "2026-01-29T11:23:10.891418+00:00",
         "source_alias": "bassic"
+    },
+    "854248639220154378": {
+        "tokens": [
+            {
+                "token": "BEGINNER-PR3H-20260126",
+                "expiry_timestamp": "2026-01-29T11:24:57.412000+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T11:24:57.412000+00:00",
+        "current_token": "BEGINNER-PR3H-20260126",
+        "token_expiry_timestamp": "2026-01-29T11:24:57.412000+00:00",
+        "source_alias": "bassic"
     }
 }
