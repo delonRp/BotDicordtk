@@ -2187,7 +2187,17 @@
         "last_claim_timestamp": "2025-10-17T05:57:07.542034+00:00"
     },
     "1257724304036986991": {
-        "last_claim_timestamp": "2025-10-17T06:00:08.960238+00:00"
+        "last_claim_timestamp": "2026-01-26T03:28:05.603098+00:00",
+        "tokens": [
+            {
+                "token": "BEGINNER-DGJC-20260126",
+                "expiry_timestamp": "2026-01-29T03:28:05.603098+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "BEGINNER-DGJC-20260126",
+        "token_expiry_timestamp": "2026-01-29T03:28:05.603098+00:00",
+        "source_alias": "bassic"
     },
     "785567430465683476": {
         "last_claim_timestamp": "2025-11-02T05:33:42.692453+00:00"
