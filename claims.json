@@ -8511,12 +8511,18 @@
                 "expiry_timestamp": "2026-02-25T02:37:49.965448+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "anz",
+                "expiry_timestamp": "2026-02-25T02:38:09.983223+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-26T02:26:59.456518+00:00",
         "current_token": "anz",
-        "token_expiry_timestamp": "2026-02-25T02:37:49.965448+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-25T02:38:09.983223+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
