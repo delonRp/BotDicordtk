@@ -8562,5 +8562,18 @@
         "current_token": "BEGINNER-JCKV-20260126",
         "token_expiry_timestamp": "2026-01-29T13:40:00.239608+00:00",
         "source_alias": "bassic"
+    },
+    "1454475239802142837": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-63TA-20260126",
+                "expiry_timestamp": "2026-02-02T15:04:04.036462+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T15:04:04.036462+00:00",
+        "current_token": "INNERCIRCLE-63TA-20260126",
+        "token_expiry_timestamp": "2026-02-02T15:04:04.036462+00:00",
+        "source_alias": "bassic"
     }
 }
