@@ -8512,11 +8512,17 @@
                 "expiry_timestamp": "2299-11-10T05:11:46.100575+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "menyo",
+                "expiry_timestamp": "2299-11-10T05:12:16.588950+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "menyo",
-        "token_expiry_timestamp": "2299-11-10T05:11:46.100575+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-11-10T05:12:16.588950+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
