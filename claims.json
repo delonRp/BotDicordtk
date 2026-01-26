@@ -8514,5 +8514,18 @@
         "token_expiry_timestamp": "2299-11-10T05:12:16.588950+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1465059286118826256": {
+        "tokens": [
+            {
+                "token": "BEGINNER-FSLP-20260126",
+                "expiry_timestamp": "2026-01-29T08:44:30.978005+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T08:44:30.978005+00:00",
+        "current_token": "BEGINNER-FSLP-20260126",
+        "token_expiry_timestamp": "2026-01-29T08:44:30.978005+00:00",
+        "source_alias": "bassic"
     }
 }
