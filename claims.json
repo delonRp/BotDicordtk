@@ -8614,5 +8614,18 @@
         "current_token": "BEGINNER-HBRW-20260126",
         "token_expiry_timestamp": "2026-01-29T15:34:30.130819+00:00",
         "source_alias": "bassic"
+    },
+    "1039780937224957962": {
+        "tokens": [
+            {
+                "token": "BEGINNER-E6FY-20260126",
+                "expiry_timestamp": "2026-01-29T17:32:28.075239+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T17:32:28.075239+00:00",
+        "current_token": "BEGINNER-E6FY-20260126",
+        "token_expiry_timestamp": "2026-01-29T17:32:28.075239+00:00",
+        "source_alias": "bassic"
     }
 }
