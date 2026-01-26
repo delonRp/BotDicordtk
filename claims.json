@@ -837,40 +837,7 @@
     "1303751340295721034": {
         "last_claim_timestamp": "2025-09-26T02:57:34.239851+00:00"
     },
-    "782445287855489076": {
-        "tokens": [
-            {
-                "token": "d2",
-                "expiry_timestamp": "4763-09-23T12:41:44.446212+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "d2",
-                "expiry_timestamp": "4763-09-23T12:42:14.755742+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "dd",
-                "expiry_timestamp": "2028-09-10T02:41:14.889110+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "dd",
-                "expiry_timestamp": "2028-09-10T02:41:32.115106+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "jen",
-                "expiry_timestamp": "2026-01-24T05:54:51.879293+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ]
-    },
+    "782445287855489076": {},
     "1335901722748518495": {
         "last_claim_timestamp": "2025-09-26T04:07:46.514503+00:00"
     },
