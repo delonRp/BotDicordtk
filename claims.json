@@ -8546,5 +8546,18 @@
         "current_token": "BEGINNER-PR3H-20260126",
         "token_expiry_timestamp": "2026-01-29T11:24:57.412000+00:00",
         "source_alias": "bassic"
+    },
+    "1236476034971602959": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-ZA5W-20260126",
+                "expiry_timestamp": "2026-02-02T13:37:22.774894+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-26T13:37:22.774894+00:00",
+        "current_token": "INNERCIRCLE-ZA5W-20260126",
+        "token_expiry_timestamp": "2026-02-02T13:37:22.774894+00:00",
+        "source_alias": "bassic"
     }
 }
