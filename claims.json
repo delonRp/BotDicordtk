@@ -8023,17 +8023,7 @@
         "source_alias": "bassic"
     },
     "1190979822873231451": {
-        "tokens": [
-            {
-                "token": "BEGINNER-QYL6-20260124",
-                "expiry_timestamp": "2026-01-27T12:15:18.595138+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-24T12:15:18.595138+00:00",
-        "current_token": "BEGINNER-QYL6-20260124",
-        "token_expiry_timestamp": "2026-01-27T12:15:18.595138+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-24T12:15:18.595138+00:00"
     },
     "1375478345680158840": {
         "tokens": [
