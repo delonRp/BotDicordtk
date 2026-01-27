@@ -8518,5 +8518,18 @@
         "token_expiry_timestamp": "2026-02-26T12:57:41.224776+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1428671222052552795": {
+        "tokens": [
+            {
+                "token": "BEGINNER-HP7A-20260127",
+                "expiry_timestamp": "2026-01-30T16:04:23.856012+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-27T16:04:23.856012+00:00",
+        "current_token": "BEGINNER-HP7A-20260127",
+        "token_expiry_timestamp": "2026-01-30T16:04:23.856012+00:00",
+        "source_alias": "bassic"
     }
 }
