@@ -8590,5 +8590,18 @@
         "current_token": "BEGINNER-OKKH-20260126",
         "token_expiry_timestamp": "2026-01-29T23:41:25.873571+00:00",
         "source_alias": "bassic"
+    },
+    "1462165903016853576": {
+        "tokens": [
+            {
+                "token": "BEGINNER-QNCQ-20260127",
+                "expiry_timestamp": "2026-01-30T03:13:28.746935+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-27T03:13:28.746935+00:00",
+        "current_token": "BEGINNER-QNCQ-20260127",
+        "token_expiry_timestamp": "2026-01-30T03:13:28.746935+00:00",
+        "source_alias": "bassic"
     }
 }
