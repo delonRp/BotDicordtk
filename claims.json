@@ -8576,11 +8576,17 @@
                 "expiry_timestamp": "2026-02-26T12:57:22.017551+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "nand",
+                "expiry_timestamp": "2026-02-26T12:57:41.224776+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "nand",
-        "token_expiry_timestamp": "2026-02-26T12:57:22.017551+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-02-26T12:57:41.224776+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
