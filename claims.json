@@ -8568,5 +8568,19 @@
         "current_token": "SUBSCRIBER-345D-20260127",
         "token_expiry_timestamp": "2026-02-01T06:44:46.246790+00:00",
         "source_alias": "bassic"
+    },
+    "1228744115424989186": {
+        "tokens": [
+            {
+                "token": "nand",
+                "expiry_timestamp": "2026-02-26T12:57:22.017551+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "nand",
+        "token_expiry_timestamp": "2026-02-26T12:57:22.017551+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
