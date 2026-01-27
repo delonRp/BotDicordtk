@@ -8593,5 +8593,18 @@
         "current_token": "BEGINNER-QNCQ-20260127",
         "token_expiry_timestamp": "2026-01-30T03:13:28.746935+00:00",
         "source_alias": "bassic"
+    },
+    "1304427783203721216": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Z3WO-20260127",
+                "expiry_timestamp": "2026-01-30T04:47:08.867760+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-27T04:47:08.867760+00:00",
+        "current_token": "BEGINNER-Z3WO-20260127",
+        "token_expiry_timestamp": "2026-01-30T04:47:08.867760+00:00",
+        "source_alias": "bassic"
     }
 }
