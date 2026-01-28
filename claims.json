@@ -5023,17 +5023,7 @@
         "last_claim_timestamp": "2025-12-15T10:01:49.306993+00:00"
     },
     "1236153865364045904": {
-        "last_claim_timestamp": "2026-01-21T21:08:45.245436+00:00",
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-VYEF-20260121",
-                "expiry_timestamp": "2026-01-28T21:08:45.245436+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "INNERCIRCLE-VYEF-20260121",
-        "token_expiry_timestamp": "2026-01-28T21:08:45.245436+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-21T21:08:45.245436+00:00"
     },
     "1439620670139928618": {},
     "1450029184956104776": {
@@ -7989,17 +7979,7 @@
         "last_claim_timestamp": "2026-01-25T16:41:03.552761+00:00"
     },
     "1425825850225590342": {
-        "tokens": [
-            {
-                "token": "BEGINNER-LW22-20260125",
-                "expiry_timestamp": "2026-01-28T21:45:26.640795+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T21:45:26.640795+00:00",
-        "current_token": "BEGINNER-LW22-20260125",
-        "token_expiry_timestamp": "2026-01-28T21:45:26.640795+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T21:45:26.640795+00:00"
     },
     "1437344983819747338": {
         "tokens": [
