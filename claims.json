@@ -8481,5 +8481,19 @@
         "current_token": "INNERCIRCLE-TEWU-20260128",
         "token_expiry_timestamp": "2026-02-04T11:23:38.162259+00:00",
         "source_alias": "bassic"
+    },
+    "1402577370195693639": {
+        "tokens": [
+            {
+                "token": "alte",
+                "expiry_timestamp": "2026-02-27T11:42:20.716779+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "alte",
+        "token_expiry_timestamp": "2026-02-27T11:42:20.716779+00:00",
+        "source_alias": "bassic",
+        "assigned_by_admin": 782445287855489076
     }
 }
