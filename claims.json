@@ -4646,17 +4646,7 @@
         "last_claim_timestamp": "2026-01-01T01:00:13.032791+00:00"
     },
     "1200971261568888853": {
-        "last_claim_timestamp": "2026-01-23T17:06:25.459019+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-GH42-20260123",
-                "expiry_timestamp": "2026-01-28T17:06:25.459019+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-GH42-20260123",
-        "token_expiry_timestamp": "2026-01-28T17:06:25.459019+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-23T17:06:25.459019+00:00"
     },
     "1366834754086768741": {
         "last_claim_timestamp": "2025-12-08T12:14:57.606590+00:00"
