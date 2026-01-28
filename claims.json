@@ -7999,17 +7999,7 @@
         "last_claim_timestamp": "2026-01-25T06:53:45.095350+00:00"
     },
     "1216218539371921552": {
-        "tokens": [
-            {
-                "token": "BEGINNER-NRI1-20260125",
-                "expiry_timestamp": "2026-01-28T07:38:48.983133+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T07:38:48.983133+00:00",
-        "current_token": "BEGINNER-NRI1-20260125",
-        "token_expiry_timestamp": "2026-01-28T07:38:48.983133+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T07:38:48.983133+00:00"
     },
     "1419168368778416169": {
         "tokens": [
