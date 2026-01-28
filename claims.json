@@ -8011,17 +8011,7 @@
         "source_alias": "bassic"
     },
     "1464471866960773271": {
-        "tokens": [
-            {
-                "token": "BEGINNER-RSSS-20260125",
-                "expiry_timestamp": "2026-01-28T10:45:32.531647+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T10:45:32.531647+00:00",
-        "current_token": "BEGINNER-RSSS-20260125",
-        "token_expiry_timestamp": "2026-01-28T10:45:32.531647+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T10:45:32.531647+00:00"
     },
     "1430045724606861424": {
         "tokens": [
