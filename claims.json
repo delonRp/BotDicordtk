@@ -7996,17 +7996,7 @@
         "source_alias": "bassic"
     },
     "1011267070899535934": {
-        "tokens": [
-            {
-                "token": "BEGINNER-BKQD-20260125",
-                "expiry_timestamp": "2026-01-28T06:53:45.095350+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T06:53:45.095350+00:00",
-        "current_token": "BEGINNER-BKQD-20260125",
-        "token_expiry_timestamp": "2026-01-28T06:53:45.095350+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T06:53:45.095350+00:00"
     },
     "1216218539371921552": {
         "tokens": [
