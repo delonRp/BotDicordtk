@@ -8502,5 +8502,18 @@
         "current_token": "BEGINNER-KT84-20260128",
         "token_expiry_timestamp": "2026-01-31T06:34:57.587559+00:00",
         "source_alias": "bassic"
+    },
+    "972159032800464957": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TITR-20260128",
+                "expiry_timestamp": "2026-01-31T06:56:02.230338+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-28T06:56:02.230338+00:00",
+        "current_token": "BEGINNER-TITR-20260128",
+        "token_expiry_timestamp": "2026-01-31T06:56:02.230338+00:00",
+        "source_alias": "bassic"
     }
 }
