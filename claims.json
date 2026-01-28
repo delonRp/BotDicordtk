@@ -7533,17 +7533,7 @@
         "last_claim_timestamp": "2026-01-21T07:25:38.300227+00:00"
     },
     "1392040919938764831": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-SOFL-20260121",
-                "expiry_timestamp": "2026-01-28T08:27:01.460791+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-21T08:27:01.460791+00:00",
-        "current_token": "INNERCIRCLE-SOFL-20260121",
-        "token_expiry_timestamp": "2026-01-28T08:27:01.460791+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-21T08:27:01.460791+00:00"
     },
     "1361690793911255221": {
         "last_claim_timestamp": "2026-01-21T09:01:32.037153+00:00"
@@ -8002,30 +7992,10 @@
         "last_claim_timestamp": "2026-01-25T07:38:48.983133+00:00"
     },
     "1419168368778416169": {
-        "tokens": [
-            {
-                "token": "BEGINNER-5869-20260125",
-                "expiry_timestamp": "2026-01-28T08:18:51.576701+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T08:18:51.576701+00:00",
-        "current_token": "BEGINNER-5869-20260125",
-        "token_expiry_timestamp": "2026-01-28T08:18:51.576701+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T08:18:51.576701+00:00"
     },
     "1450830581834317887": {
-        "tokens": [
-            {
-                "token": "BEGINNER-7WAR-20260125",
-                "expiry_timestamp": "2026-01-28T08:42:22.753804+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T08:42:22.753804+00:00",
-        "current_token": "BEGINNER-7WAR-20260125",
-        "token_expiry_timestamp": "2026-01-28T08:42:22.753804+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T08:42:22.753804+00:00"
     },
     "1261862985249325190": {
         "tokens": [
