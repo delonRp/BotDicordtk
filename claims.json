@@ -3545,17 +3545,7 @@
         "last_claim_timestamp": "2025-11-24T00:26:08.155966+00:00"
     },
     "1414867817324351490": {
-        "last_claim_timestamp": "2026-01-23T13:21:04.093935+00:00",
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-SJ4Z-20260123",
-                "expiry_timestamp": "2026-01-28T13:21:04.093935+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "current_token": "SUBSCRIBER-SJ4Z-20260123",
-        "token_expiry_timestamp": "2026-01-28T13:21:04.093935+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-23T13:21:04.093935+00:00"
     },
     "1332053179340296215": {
         "last_claim_timestamp": "2025-11-14T14:38:18.122352+00:00"
@@ -7532,30 +7522,10 @@
         "last_claim_timestamp": "2026-01-21T12:29:18.463744+00:00"
     },
     "941668060052455454": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-8MQV-20260121",
-                "expiry_timestamp": "2026-01-28T13:06:30.379971+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-21T13:06:30.379971+00:00",
-        "current_token": "INNERCIRCLE-8MQV-20260121",
-        "token_expiry_timestamp": "2026-01-28T13:06:30.379971+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-21T13:06:30.379971+00:00"
     },
     "1332879491860795475": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-OVF3-20260121",
-                "expiry_timestamp": "2026-01-28T13:13:29.969914+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-21T13:13:29.969914+00:00",
-        "current_token": "INNERCIRCLE-OVF3-20260121",
-        "token_expiry_timestamp": "2026-01-28T13:13:29.969914+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-21T13:13:29.969914+00:00"
     },
     "1460933528073273519": {
         "last_claim_timestamp": "2026-01-21T14:21:16.446874+00:00"
