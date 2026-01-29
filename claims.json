@@ -8316,11 +8316,18 @@
                 "token": "INNERCIRCLE-Q1UE-20260129",
                 "expiry_timestamp": "2026-02-05T12:48:38.300985+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "dap",
+                "expiry_timestamp": "2026-02-28T14:10:44.990698+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-29T12:48:38.300985+00:00",
-        "current_token": "INNERCIRCLE-Q1UE-20260129",
-        "token_expiry_timestamp": "2026-02-05T12:48:38.300985+00:00",
-        "source_alias": "bassic"
+        "current_token": "dap",
+        "token_expiry_timestamp": "2026-02-28T14:10:44.990698+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
