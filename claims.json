@@ -8010,17 +8010,7 @@
         "last_claim_timestamp": "2026-01-26T17:32:28.075239+00:00"
     },
     "1330536872954302586": {
-        "tokens": [
-            {
-                "token": "BEGINNER-OKKH-20260126",
-                "expiry_timestamp": "2026-01-29T23:41:25.873571+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-26T23:41:25.873571+00:00",
-        "current_token": "BEGINNER-OKKH-20260126",
-        "token_expiry_timestamp": "2026-01-29T23:41:25.873571+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-26T23:41:25.873571+00:00"
     },
     "1462165903016853576": {
         "tokens": [
