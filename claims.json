@@ -7494,30 +7494,10 @@
         "last_claim_timestamp": "2026-01-22T02:10:50.124612+00:00"
     },
     "874983981471367189": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-2Z23-20260122",
-                "expiry_timestamp": "2026-01-29T05:03:08.685473+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-22T05:03:08.685473+00:00",
-        "current_token": "INNERCIRCLE-2Z23-20260122",
-        "token_expiry_timestamp": "2026-01-29T05:03:08.685473+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-22T05:03:08.685473+00:00"
     },
     "1113188130523197502": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-KYB6-20260122",
-                "expiry_timestamp": "2026-01-29T05:34:45.659136+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-22T05:34:45.659136+00:00",
-        "current_token": "INNERCIRCLE-KYB6-20260122",
-        "token_expiry_timestamp": "2026-01-29T05:34:45.659136+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-22T05:34:45.659136+00:00"
     },
     "1463772398775177301": {
         "last_claim_timestamp": "2026-01-22T05:56:24.558320+00:00"
