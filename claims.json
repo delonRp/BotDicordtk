@@ -8333,5 +8333,18 @@
         "current_token": "INNERCIRCLE-JBIE-20260129",
         "token_expiry_timestamp": "2026-02-05T07:36:13.790178+00:00",
         "source_alias": "bassic"
+    },
+    "1319553209244586029": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-IE3G-20260129",
+                "expiry_timestamp": "2026-02-05T11:45:27.182580+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-29T11:45:27.182580+00:00",
+        "current_token": "INNERCIRCLE-IE3G-20260129",
+        "token_expiry_timestamp": "2026-02-05T11:45:27.182580+00:00",
+        "source_alias": "bassic"
     }
 }
