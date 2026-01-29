@@ -2180,11 +2180,6 @@
         "last_claim_timestamp": "2026-01-26T03:28:05.603098+00:00",
         "tokens": [
             {
-                "token": "BEGINNER-DGJC-20260126",
-                "expiry_timestamp": "2026-01-29T03:28:05.603098+00:00",
-                "source_alias": "bassic"
-            },
-            {
                 "token": "unz",
                 "expiry_timestamp": "2026-02-25T11:46:26.973848+00:00",
                 "source_alias": "vip",
@@ -3706,25 +3701,7 @@
         "last_claim_timestamp": "2025-11-18T11:47:20.871616+00:00"
     },
     "1378554504667988089": {
-        "last_claim_timestamp": "2025-12-29T10:14:37.526055+00:00",
-        "tokens": [
-            {
-                "token": "call",
-                "expiry_timestamp": "2026-01-29T04:23:49.406894+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "call",
-                "expiry_timestamp": "2026-01-29T04:24:01.954749+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "call",
-        "token_expiry_timestamp": "2026-01-29T04:24:01.954749+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-12-29T10:14:37.526055+00:00"
     },
     "1374801022060335168": {
         "last_claim_timestamp": "2025-11-18T13:14:34.669587+00:00"
@@ -8014,17 +7991,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "993524211073155124": {
-        "tokens": [
-            {
-                "token": "BEGINNER-DARG-20260126",
-                "expiry_timestamp": "2026-01-29T04:11:42.367922+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-26T04:11:42.367922+00:00",
-        "current_token": "BEGINNER-DARG-20260126",
-        "token_expiry_timestamp": "2026-01-29T04:11:42.367922+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-26T04:11:42.367922+00:00"
     },
     "1198112912972198031": {
         "tokens": [
