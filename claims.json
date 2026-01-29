@@ -7998,17 +7998,7 @@
         "source_alias": "bassic"
     },
     "1388172814376243200": {
-        "tokens": [
-            {
-                "token": "BEGINNER-FDLP-20260126",
-                "expiry_timestamp": "2026-01-29T15:14:43.369459+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-26T15:14:43.369459+00:00",
-        "current_token": "BEGINNER-FDLP-20260126",
-        "token_expiry_timestamp": "2026-01-29T15:14:43.369459+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-26T15:14:43.369459+00:00"
     },
     "1444316622075727880": {
         "tokens": [
@@ -8024,17 +8014,7 @@
         "source_alias": "bassic"
     },
     "864062756176265246": {
-        "tokens": [
-            {
-                "token": "BEGINNER-HBRW-20260126",
-                "expiry_timestamp": "2026-01-29T15:34:30.130819+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-26T15:34:30.130819+00:00",
-        "current_token": "BEGINNER-HBRW-20260126",
-        "token_expiry_timestamp": "2026-01-29T15:34:30.130819+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-26T15:34:30.130819+00:00"
     },
     "1039780937224957962": {
         "tokens": [
