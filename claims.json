@@ -8355,5 +8355,18 @@
         "token_expiry_timestamp": "2299-11-13T14:15:23.118555+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "879690222034628628": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-OBP2-20260129",
+                "expiry_timestamp": "2026-02-03T14:22:37.983038+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-29T14:22:37.983038+00:00",
+        "current_token": "SUBSCRIBER-OBP2-20260129",
+        "token_expiry_timestamp": "2026-02-03T14:22:37.983038+00:00",
+        "source_alias": "bassic"
     }
 }
