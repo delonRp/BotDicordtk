@@ -8263,5 +8263,18 @@
         "current_token": "INNERCIRCLE-B23X-20260130",
         "token_expiry_timestamp": "2026-02-06T11:22:45.714588+00:00",
         "source_alias": "bassic"
+    },
+    "1462088148514377809": {
+        "tokens": [
+            {
+                "token": "BEGINNER-TJI2-20260130",
+                "expiry_timestamp": "2026-02-02T18:50:09.701794+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-30T18:50:09.701794+00:00",
+        "current_token": "BEGINNER-TJI2-20260130",
+        "token_expiry_timestamp": "2026-02-02T18:50:09.701794+00:00",
+        "source_alias": "bassic"
     }
 }
