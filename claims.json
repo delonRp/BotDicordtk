@@ -7601,7 +7601,17 @@
         "assigned_by_admin": 782445287855489076
     },
     "964845743858917427": {
-        "last_claim_timestamp": "2026-01-23T16:51:25.916006+00:00"
+        "last_claim_timestamp": "2026-01-30T18:08:40.757048+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-ENQO-20260130",
+                "expiry_timestamp": "2026-02-06T18:08:40.757048+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-ENQO-20260130",
+        "token_expiry_timestamp": "2026-02-06T18:08:40.757048+00:00",
+        "source_alias": "bassic"
     },
     "1091983975536402534": {
         "tokens": [
