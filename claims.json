@@ -8289,5 +8289,18 @@
         "current_token": "SUBSCRIBER-WJZL-20260130",
         "token_expiry_timestamp": "2026-02-04T19:08:34.827239+00:00",
         "source_alias": "bassic"
+    },
+    "1315441848369549432": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-L1AV-20260130",
+                "expiry_timestamp": "2026-02-06T20:21:46.640801+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-30T20:21:46.640801+00:00",
+        "current_token": "INNERCIRCLE-L1AV-20260130",
+        "token_expiry_timestamp": "2026-02-06T20:21:46.640801+00:00",
+        "source_alias": "bassic"
     }
 }
