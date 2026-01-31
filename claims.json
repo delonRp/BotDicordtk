@@ -8265,5 +8265,18 @@
         "current_token": "INNERCIRCLE-VQD5-20260131",
         "token_expiry_timestamp": "2026-02-07T08:51:09.093735+00:00",
         "source_alias": "bassic"
+    },
+    "1321893632587989026": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-78TE-20260131",
+                "expiry_timestamp": "2026-02-07T11:03:19.489841+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-31T11:03:19.489841+00:00",
+        "current_token": "INNERCIRCLE-78TE-20260131",
+        "token_expiry_timestamp": "2026-02-07T11:03:19.489841+00:00",
+        "source_alias": "bassic"
     }
 }
