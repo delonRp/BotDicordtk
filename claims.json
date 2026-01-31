@@ -8271,5 +8271,18 @@
         "current_token": "BEGINNER-OH7O-20260131",
         "token_expiry_timestamp": "2026-02-03T18:55:36.113751+00:00",
         "source_alias": "bassic"
+    },
+    "1426038539195256894": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BEYA-20260131",
+                "expiry_timestamp": "2026-02-03T20:11:22.622899+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-01-31T20:11:22.622899+00:00",
+        "current_token": "BEGINNER-BEYA-20260131",
+        "token_expiry_timestamp": "2026-02-03T20:11:22.622899+00:00",
+        "source_alias": "bassic"
     }
 }
