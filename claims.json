@@ -8651,5 +8651,18 @@
         "current_token": "BEGINNER-I60O-20260201",
         "token_expiry_timestamp": "2026-02-04T22:48:29.969415+00:00",
         "source_alias": "bassic"
+    },
+    "1247865826162507858": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SQXW-20260201",
+                "expiry_timestamp": "2026-02-04T23:44:08.520098+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T23:44:08.520098+00:00",
+        "current_token": "BEGINNER-SQXW-20260201",
+        "token_expiry_timestamp": "2026-02-04T23:44:08.520098+00:00",
+        "source_alias": "bassic"
     }
 }
