@@ -8562,5 +8562,18 @@
         "current_token": "INNERCIRCLE-OFJB-20260201",
         "token_expiry_timestamp": "2026-02-08T03:19:52.753167+00:00",
         "source_alias": "bassic"
+    },
+    "975367568124698655": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-BV8M-20260201",
+                "expiry_timestamp": "2026-02-08T04:25:15.058304+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T04:25:15.058304+00:00",
+        "current_token": "INNERCIRCLE-BV8M-20260201",
+        "token_expiry_timestamp": "2026-02-08T04:25:15.058304+00:00",
+        "source_alias": "bassic"
     }
 }
