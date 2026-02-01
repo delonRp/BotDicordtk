@@ -5549,7 +5549,17 @@
         "last_claim_timestamp": "2025-12-24T18:18:56.167874+00:00"
     },
     "1443589866964258856": {
-        "last_claim_timestamp": "2026-01-07T10:46:00.380778+00:00"
+        "last_claim_timestamp": "2026-02-01T10:45:09.933603+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-UTEC-20260201",
+                "expiry_timestamp": "2026-02-08T10:45:09.933603+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-UTEC-20260201",
+        "token_expiry_timestamp": "2026-02-08T10:45:09.933603+00:00",
+        "source_alias": "bassic"
     },
     "1392856705779503104": {
         "last_claim_timestamp": "2025-12-25T00:40:21.211763+00:00"
