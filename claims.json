@@ -8471,11 +8471,18 @@
                 "token": "INNERCIRCLE-8HI3-20260201",
                 "expiry_timestamp": "2026-02-08T01:59:01.280407+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "dwehk",
+                "expiry_timestamp": "2026-02-02T02:01:15.340009+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-01T01:59:01.280407+00:00",
-        "current_token": "INNERCIRCLE-8HI3-20260201",
-        "token_expiry_timestamp": "2026-02-08T01:59:01.280407+00:00",
-        "source_alias": "bassic"
+        "current_token": "dwehk",
+        "token_expiry_timestamp": "2026-02-02T02:01:15.340009+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
