@@ -8513,5 +8513,18 @@
         "token_expiry_timestamp": "2026-02-02T02:01:15.340009+00:00",
         "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
+    },
+    "881865522881372200": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-4LGP-20260201",
+                "expiry_timestamp": "2026-02-08T02:26:29.069358+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T02:26:29.069358+00:00",
+        "current_token": "INNERCIRCLE-4LGP-20260201",
+        "token_expiry_timestamp": "2026-02-08T02:26:29.069358+00:00",
+        "source_alias": "bassic"
     }
 }
