@@ -8430,12 +8430,19 @@
                 "token": "BEGINNER-7BQL-20260201",
                 "expiry_timestamp": "2026-02-04T01:07:32.503673+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "qw",
+                "expiry_timestamp": "2026-02-02T02:01:35.328919+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-01T01:07:32.503673+00:00",
-        "current_token": "BEGINNER-7BQL-20260201",
-        "token_expiry_timestamp": "2026-02-04T01:07:32.503673+00:00",
-        "source_alias": "bassic"
+        "current_token": "qw",
+        "token_expiry_timestamp": "2026-02-02T02:01:35.328919+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1218438839106801699": {
         "tokens": [
