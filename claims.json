@@ -7985,7 +7985,19 @@
         "source_alias": "bassic"
     },
     "864062756176265246": {
-        "last_claim_timestamp": "2026-01-26T15:34:30.130819+00:00"
+        "last_claim_timestamp": "2026-01-26T15:34:30.130819+00:00",
+        "tokens": [
+            {
+                "token": "11",
+                "expiry_timestamp": "2026-02-02T23:20:30.434972+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "11",
+        "token_expiry_timestamp": "2026-02-02T23:20:30.434972+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1039780937224957962": {
         "last_claim_timestamp": "2026-01-26T17:32:28.075239+00:00"
