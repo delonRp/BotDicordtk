@@ -8626,5 +8626,18 @@
         "current_token": "INNERCIRCLE-V52P-20260201",
         "token_expiry_timestamp": "2026-02-08T21:05:27.295202+00:00",
         "source_alias": "bassic"
+    },
+    "1206896559443284018": {
+        "tokens": [
+            {
+                "token": "BEGINNER-I60O-20260201",
+                "expiry_timestamp": "2026-02-04T22:48:29.969415+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T22:48:29.969415+00:00",
+        "current_token": "BEGINNER-I60O-20260201",
+        "token_expiry_timestamp": "2026-02-04T22:48:29.969415+00:00",
+        "source_alias": "bassic"
     }
 }
