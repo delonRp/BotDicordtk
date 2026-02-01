@@ -8149,12 +8149,19 @@
                 "token": "SUBSCRIBER-F2MD-20260129",
                 "expiry_timestamp": "2026-02-03T15:32:38.741188+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "follow",
+                "expiry_timestamp": "2026-02-02T01:47:31.005171+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-01-29T15:32:38.741188+00:00",
-        "current_token": "SUBSCRIBER-F2MD-20260129",
-        "token_expiry_timestamp": "2026-02-03T15:32:38.741188+00:00",
-        "source_alias": "bassic"
+        "current_token": "follow",
+        "token_expiry_timestamp": "2026-02-02T01:47:31.005171+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1417184406765834440": {
         "tokens": [
