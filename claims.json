@@ -8297,5 +8297,18 @@
         "current_token": "INNERCIRCLE-STQJ-20260201",
         "token_expiry_timestamp": "2026-02-08T00:08:36.798421+00:00",
         "source_alias": "bassic"
+    },
+    "1460503663171866697": {
+        "tokens": [
+            {
+                "token": "BEGINNER-7BQL-20260201",
+                "expiry_timestamp": "2026-02-04T01:07:32.503673+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T01:07:32.503673+00:00",
+        "current_token": "BEGINNER-7BQL-20260201",
+        "token_expiry_timestamp": "2026-02-04T01:07:32.503673+00:00",
+        "source_alias": "bassic"
     }
 }
