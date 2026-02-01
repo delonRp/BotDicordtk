@@ -8583,5 +8583,18 @@
         "current_token": "INNERCIRCLE-DKRT-20260201",
         "token_expiry_timestamp": "2026-02-08T05:34:12.328029+00:00",
         "source_alias": "bassic"
+    },
+    "1456666744210063401": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-DK9P-20260201",
+                "expiry_timestamp": "2026-02-08T07:54:15.399724+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-01T07:54:15.399724+00:00",
+        "current_token": "INNERCIRCLE-DK9P-20260201",
+        "token_expiry_timestamp": "2026-02-08T07:54:15.399724+00:00",
+        "source_alias": "bassic"
     }
 }
