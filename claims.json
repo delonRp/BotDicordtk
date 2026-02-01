@@ -5858,7 +5858,19 @@
         "last_claim_timestamp": "2026-01-13T16:19:29.851333+00:00"
     },
     "1393526149065216111": {
-        "last_claim_timestamp": "2026-01-01T10:47:44.546637+00:00"
+        "last_claim_timestamp": "2026-01-01T10:47:44.546637+00:00",
+        "tokens": [
+            {
+                "token": "231",
+                "expiry_timestamp": "2026-02-02T01:57:44.381949+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "231",
+        "token_expiry_timestamp": "2026-02-02T01:57:44.381949+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1431188882698797191": {
         "last_claim_timestamp": "2026-01-01T10:51:33.548585+00:00"
