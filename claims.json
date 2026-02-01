@@ -7399,7 +7399,17 @@
         "last_claim_timestamp": "2026-01-22T05:03:08.685473+00:00"
     },
     "1113188130523197502": {
-        "last_claim_timestamp": "2026-01-22T05:34:45.659136+00:00"
+        "last_claim_timestamp": "2026-02-01T01:44:16.918823+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-HSWJ-20260201",
+                "expiry_timestamp": "2026-02-08T01:44:16.918823+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-HSWJ-20260201",
+        "token_expiry_timestamp": "2026-02-08T01:44:16.918823+00:00",
+        "source_alias": "bassic"
     },
     "1463772398775177301": {
         "last_claim_timestamp": "2026-01-22T05:56:24.558320+00:00"
