@@ -7803,17 +7803,7 @@
         "assigned_by_admin": 782445287855489076
     },
     "1236920997886558208": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-L2Q2-20260125",
-                "expiry_timestamp": "2026-02-01T06:25:01.826356+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-25T06:25:01.826356+00:00",
-        "current_token": "INNERCIRCLE-L2Q2-20260125",
-        "token_expiry_timestamp": "2026-02-01T06:25:01.826356+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-25T06:25:01.826356+00:00"
     },
     "1011267070899535934": {
         "last_claim_timestamp": "2026-01-25T06:53:45.095350+00:00"
@@ -8022,17 +8012,7 @@
         "last_claim_timestamp": "2026-01-27T04:47:08.867760+00:00"
     },
     "983230203474112522": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-345D-20260127",
-                "expiry_timestamp": "2026-02-01T06:44:46.246790+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-27T06:44:46.246790+00:00",
-        "current_token": "SUBSCRIBER-345D-20260127",
-        "token_expiry_timestamp": "2026-02-01T06:44:46.246790+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-27T06:44:46.246790+00:00"
     },
     "1228744115424989186": {
         "tokens": [
@@ -8142,17 +8122,7 @@
         "source_alias": "bassic"
     },
     "302147462322192384": {
-        "tokens": [
-            {
-                "token": "BEGINNER-Q1I6-20260129",
-                "expiry_timestamp": "2026-02-01T06:56:13.508810+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-29T06:56:13.508810+00:00",
-        "current_token": "BEGINNER-Q1I6-20260129",
-        "token_expiry_timestamp": "2026-02-01T06:56:13.508810+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-29T06:56:13.508810+00:00"
     },
     "1465692969016365169": {
         "tokens": [
