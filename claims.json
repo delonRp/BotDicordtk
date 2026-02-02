@@ -8575,5 +8575,18 @@
         "current_token": "INNERCIRCLE-TD1K-20260202",
         "token_expiry_timestamp": "2026-02-09T06:35:21.974820+00:00",
         "source_alias": "bassic"
+    },
+    "1441617650944839812": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-YLHA-20260202",
+                "expiry_timestamp": "2026-02-09T08:18:30.780940+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-02T08:18:30.780940+00:00",
+        "current_token": "INNERCIRCLE-YLHA-20260202",
+        "token_expiry_timestamp": "2026-02-09T08:18:30.780940+00:00",
+        "source_alias": "bassic"
     }
 }
