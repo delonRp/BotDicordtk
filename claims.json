@@ -8122,17 +8122,7 @@
         "source_alias": "bassic"
     },
     "1454536352069582990": {
-        "tokens": [
-            {
-                "token": "BEGINNER-GGT9-20260130",
-                "expiry_timestamp": "2026-02-02T07:49:28.868333+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-30T07:49:28.868333+00:00",
-        "current_token": "BEGINNER-GGT9-20260130",
-        "token_expiry_timestamp": "2026-02-02T07:49:28.868333+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-30T07:49:28.868333+00:00"
     },
     "1009080374837645424": {
         "tokens": [
