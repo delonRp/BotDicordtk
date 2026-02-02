@@ -7924,7 +7924,19 @@
         "last_claim_timestamp": "2026-01-27T04:47:08.867760+00:00"
     },
     "983230203474112522": {
-        "last_claim_timestamp": "2026-01-27T06:44:46.246790+00:00"
+        "last_claim_timestamp": "2026-01-27T06:44:46.246790+00:00",
+        "tokens": [
+            {
+                "token": "jdjd",
+                "expiry_timestamp": "2026-02-03T10:39:02.798034+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "jdjd",
+        "token_expiry_timestamp": "2026-02-03T10:39:02.798034+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1228744115424989186": {
         "tokens": [
