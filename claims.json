@@ -8719,5 +8719,18 @@
         "current_token": "SUBSCRIBER-7PS4-20260202",
         "token_expiry_timestamp": "2026-02-07T09:51:11.287550+00:00",
         "source_alias": "bassic"
+    },
+    "1347914589987278858": {
+        "tokens": [
+            {
+                "token": "SUBSCRIBER-2H62-20260202",
+                "expiry_timestamp": "2026-02-07T11:12:36.063372+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-02T11:12:36.063372+00:00",
+        "current_token": "SUBSCRIBER-2H62-20260202",
+        "token_expiry_timestamp": "2026-02-07T11:12:36.063372+00:00",
+        "source_alias": "bassic"
     }
 }
