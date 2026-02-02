@@ -8785,5 +8785,19 @@
         "current_token": "SUBSCRIBER-5Z7O-20260202",
         "token_expiry_timestamp": "2026-02-07T11:25:46.096987+00:00",
         "source_alias": "bassic"
+    },
+    "1193416326262300740": {
+        "tokens": [
+            {
+                "token": "1d",
+                "expiry_timestamp": "2026-02-03T12:24:27.906347+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "1d",
+        "token_expiry_timestamp": "2026-02-03T12:24:27.906347+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
