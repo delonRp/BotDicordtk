@@ -8569,12 +8569,19 @@
                 "token": "INNERCIRCLE-TD1K-20260202",
                 "expiry_timestamp": "2026-02-09T06:35:21.974820+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "dhdhvd",
+                "expiry_timestamp": "2026-02-03T08:29:16.590160+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-02T06:35:21.974820+00:00",
-        "current_token": "INNERCIRCLE-TD1K-20260202",
-        "token_expiry_timestamp": "2026-02-09T06:35:21.974820+00:00",
-        "source_alias": "bassic"
+        "current_token": "dhdhvd",
+        "token_expiry_timestamp": "2026-02-03T08:29:16.590160+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1441617650944839812": {
         "tokens": [
