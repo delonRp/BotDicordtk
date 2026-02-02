@@ -8559,5 +8559,18 @@
         "current_token": "INNERCIRCLE-899T-20260202",
         "token_expiry_timestamp": "2026-02-09T06:25:53.147809+00:00",
         "source_alias": "bassic"
+    },
+    "786251922403098635": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-RJVN-20260202",
+                "expiry_timestamp": "2026-02-09T06:26:19.693850+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-02T06:26:19.693850+00:00",
+        "current_token": "INNERCIRCLE-RJVN-20260202",
+        "token_expiry_timestamp": "2026-02-09T06:26:19.693850+00:00",
+        "source_alias": "bassic"
     }
 }
