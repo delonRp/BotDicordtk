@@ -8664,5 +8664,18 @@
         "current_token": "BEGINNER-SQXW-20260201",
         "token_expiry_timestamp": "2026-02-04T23:44:08.520098+00:00",
         "source_alias": "bassic"
+    },
+    "1248230326573207567": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3BLN-20260202",
+                "expiry_timestamp": "2026-02-09T00:48:36.545090+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-02T00:48:36.545090+00:00",
+        "current_token": "INNERCIRCLE-3BLN-20260202",
+        "token_expiry_timestamp": "2026-02-09T00:48:36.545090+00:00",
+        "source_alias": "bassic"
     }
 }
