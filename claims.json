@@ -8632,11 +8632,18 @@
                 "token": "INNERCIRCLE-JKQ0-20260202",
                 "expiry_timestamp": "2026-02-09T08:31:15.447101+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "dhhd",
+                "expiry_timestamp": "2026-02-03T08:46:32.043729+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-02T08:31:15.447101+00:00",
-        "current_token": "INNERCIRCLE-JKQ0-20260202",
-        "token_expiry_timestamp": "2026-02-09T08:31:15.447101+00:00",
-        "source_alias": "bassic"
+        "current_token": "dhhd",
+        "token_expiry_timestamp": "2026-02-03T08:46:32.043729+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
