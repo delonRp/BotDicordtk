@@ -140,19 +140,7 @@
         "last_claim_timestamp": "2025-11-24T10:15:50.577028+00:00"
     },
     "1198418923931041805": {
-        "last_claim_timestamp": "2025-12-28T03:24:04.070606+00:00",
-        "tokens": [
-            {
-                "token": "303",
-                "expiry_timestamp": "2026-02-02T01:55:00.889965+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "303",
-        "token_expiry_timestamp": "2026-02-02T01:55:00.889965+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-12-28T03:24:04.070606+00:00"
     },
     "1313761529039949824": {
         "last_claim_timestamp": "2025-09-20T09:10:28.644268+00:00"
@@ -3317,18 +3305,8 @@
                 "token": "INNERCIRCLE-M81E-20260131",
                 "expiry_timestamp": "2026-02-07T12:29:44.317534+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "328",
-                "expiry_timestamp": "2026-02-02T01:55:56.542068+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
-        ],
-        "current_token": "328",
-        "token_expiry_timestamp": "2026-02-02T01:55:56.542068+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        ]
     },
     "1424182037283213383": {
         "last_claim_timestamp": "2025-11-07T14:42:20.871245+00:00"
@@ -5702,19 +5680,7 @@
         "last_claim_timestamp": "2025-12-28T09:01:44.652773+00:00"
     },
     "975694990355349504": {
-        "last_claim_timestamp": "2026-01-04T12:03:58.992280+00:00",
-        "tokens": [
-            {
-                "token": "32",
-                "expiry_timestamp": "2026-02-02T01:53:51.786125+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "32",
-        "token_expiry_timestamp": "2026-02-02T01:53:51.786125+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-04T12:03:58.992280+00:00"
     },
     "1436583258576912394": {
         "last_claim_timestamp": "2025-12-28T09:54:12.186258+00:00"
@@ -5874,19 +5840,7 @@
         "last_claim_timestamp": "2026-01-13T16:19:29.851333+00:00"
     },
     "1393526149065216111": {
-        "last_claim_timestamp": "2026-01-01T10:47:44.546637+00:00",
-        "tokens": [
-            {
-                "token": "231",
-                "expiry_timestamp": "2026-02-02T01:57:44.381949+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "231",
-        "token_expiry_timestamp": "2026-02-02T01:57:44.381949+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-01T10:47:44.546637+00:00"
     },
     "1431188882698797191": {
         "last_claim_timestamp": "2026-01-01T10:51:33.548585+00:00"
@@ -6147,19 +6101,7 @@
         "last_claim_timestamp": "2026-01-05T03:46:58.876598+00:00"
     },
     "1278302118024843338": {
-        "last_claim_timestamp": "2026-01-05T04:29:37.891354+00:00",
-        "tokens": [
-            {
-                "token": "follow2",
-                "expiry_timestamp": "2026-02-02T01:49:11.304976+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "follow2",
-        "token_expiry_timestamp": "2026-02-02T01:49:11.304976+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-05T04:29:37.891354+00:00"
     },
     "1234461061487530035": {
         "last_claim_timestamp": "2026-01-05T04:46:06.930547+00:00"
@@ -6937,19 +6879,7 @@
         "last_claim_timestamp": "2026-01-11T16:16:52.926421+00:00"
     },
     "1016969754835169301": {
-        "last_claim_timestamp": "2026-01-11T16:49:12.648567+00:00",
-        "tokens": [
-            {
-                "token": "follow1",
-                "expiry_timestamp": "2026-02-02T01:46:01.341850+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "follow1",
-        "token_expiry_timestamp": "2026-02-02T01:46:01.341850+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-11T16:49:12.648567+00:00"
     },
     "1337473703453393016": {
         "last_claim_timestamp": "2026-01-11T19:47:01.574518+00:00"
@@ -8210,19 +8140,9 @@
                 "token": "SUBSCRIBER-F2MD-20260129",
                 "expiry_timestamp": "2026-02-03T15:32:38.741188+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "follow",
-                "expiry_timestamp": "2026-02-02T01:47:31.005171+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-01-29T15:32:38.741188+00:00",
-        "current_token": "follow",
-        "token_expiry_timestamp": "2026-02-02T01:47:31.005171+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-29T15:32:38.741188+00:00"
     },
     "1417184406765834440": {
         "last_claim_timestamp": "2026-01-29T21:26:51.206648+00:00"
@@ -8430,34 +8350,8 @@
         "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
     },
-    "1218438839106801699": {
-        "tokens": [
-            {
-                "token": "dolloww",
-                "expiry_timestamp": "2026-02-02T01:49:38.041591+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "dolloww",
-        "token_expiry_timestamp": "2026-02-02T01:49:38.041591+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
-    "671220847175794728": {
-        "tokens": [
-            {
-                "token": "23",
-                "expiry_timestamp": "2026-02-02T01:50:27.575766+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "23",
-        "token_expiry_timestamp": "2026-02-02T01:50:27.575766+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
+    "1218438839106801699": {},
+    "671220847175794728": {},
     "1453660197250924686": {
         "tokens": [
             {
