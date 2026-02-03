@@ -8657,19 +8657,9 @@
                 "token": "INNERCIRCLE-TD1K-20260202",
                 "expiry_timestamp": "2026-02-09T06:35:21.974820+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "dhdhvd",
-                "expiry_timestamp": "2026-02-03T08:29:16.590160+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-02T06:35:21.974820+00:00",
-        "current_token": "dhdhvd",
-        "token_expiry_timestamp": "2026-02-03T08:29:16.590160+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-02T06:35:21.974820+00:00"
     },
     "1441617650944839812": {
         "tokens": [
@@ -8677,19 +8667,9 @@
                 "token": "INNERCIRCLE-YLHA-20260202",
                 "expiry_timestamp": "2026-02-09T08:18:30.780940+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "ran",
-                "expiry_timestamp": "2026-02-03T08:33:16.056264+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-02T08:18:30.780940+00:00",
-        "current_token": "ran",
-        "token_expiry_timestamp": "2026-02-03T08:33:16.056264+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-02T08:18:30.780940+00:00"
     },
     "1443759106362966148": {
         "tokens": [
@@ -8710,19 +8690,9 @@
                 "token": "INNERCIRCLE-JKQ0-20260202",
                 "expiry_timestamp": "2026-02-09T08:31:15.447101+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "dhhd",
-                "expiry_timestamp": "2026-02-03T08:46:32.043729+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-02T08:31:15.447101+00:00",
-        "current_token": "dhhd",
-        "token_expiry_timestamp": "2026-02-03T08:46:32.043729+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-02T08:31:15.447101+00:00"
     },
     "1455575860278067263": {
         "tokens": [
