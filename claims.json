@@ -8243,17 +8243,7 @@
         "source_alias": "bassic"
     },
     "1466914080672448629": {
-        "tokens": [
-            {
-                "token": "BEGINNER-MAZL-20260131",
-                "expiry_timestamp": "2026-02-03T00:40:10.733141+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-31T00:40:10.733141+00:00",
-        "current_token": "BEGINNER-MAZL-20260131",
-        "token_expiry_timestamp": "2026-02-03T00:40:10.733141+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-31T00:40:10.733141+00:00"
     },
     "1325747148616110131": {
         "tokens": [
