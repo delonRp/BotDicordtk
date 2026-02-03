@@ -8891,11 +8891,18 @@
                 "token": "INNERCIRCLE-3LYM-20260203",
                 "expiry_timestamp": "2026-02-10T12:46:08.280268+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "jeff",
+                "expiry_timestamp": "2026-03-05T12:59:21.347901+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-03T12:46:08.280268+00:00",
-        "current_token": "INNERCIRCLE-3LYM-20260203",
-        "token_expiry_timestamp": "2026-02-10T12:46:08.280268+00:00",
-        "source_alias": "bassic"
+        "current_token": "jeff",
+        "token_expiry_timestamp": "2026-03-05T12:59:21.347901+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
