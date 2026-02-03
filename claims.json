@@ -8379,7 +8379,19 @@
         ],
         "last_claim_timestamp": "2026-02-01T01:07:32.503673+00:00"
     },
-    "1218438839106801699": {},
+    "1218438839106801699": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-AANU-20260203",
+                "expiry_timestamp": "2026-02-10T09:34:40.153258+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-03T09:34:40.153258+00:00",
+        "current_token": "INNERCIRCLE-AANU-20260203",
+        "token_expiry_timestamp": "2026-02-10T09:34:40.153258+00:00",
+        "source_alias": "bassic"
+    },
     "671220847175794728": {},
     "1453660197250924686": {
         "tokens": [
