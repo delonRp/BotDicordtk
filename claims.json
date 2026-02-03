@@ -6602,18 +6602,8 @@
                 "token": "INNERCIRCLE-T90R-20260202",
                 "expiry_timestamp": "2026-02-09T11:43:50.188995+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "wad",
-                "expiry_timestamp": "2026-02-03T12:24:10.807931+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
-        ],
-        "current_token": "wad",
-        "token_expiry_timestamp": "2026-02-03T12:24:10.807931+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        ]
     },
     "1387333752492920954": {
         "last_claim_timestamp": "2026-01-08T20:43:11.106017+00:00"
@@ -8734,20 +8724,7 @@
         "token_expiry_timestamp": "2026-02-07T11:25:46.096987+00:00",
         "source_alias": "bassic"
     },
-    "1193416326262300740": {
-        "tokens": [
-            {
-                "token": "1d",
-                "expiry_timestamp": "2026-02-03T12:24:27.906347+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "1d",
-        "token_expiry_timestamp": "2026-02-03T12:24:27.906347+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
+    "1193416326262300740": {},
     "1413201344877297735": {
         "tokens": [
             {
