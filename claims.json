@@ -8913,5 +8913,18 @@
         "current_token": "INNERCIRCLE-UEHA-20260203",
         "token_expiry_timestamp": "2026-02-10T17:25:57.578656+00:00",
         "source_alias": "bassic"
+    },
+    "1376261903676084285": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VW45-20260203",
+                "expiry_timestamp": "2026-02-10T20:08:01.156202+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-03T20:08:01.156202+00:00",
+        "current_token": "INNERCIRCLE-VW45-20260203",
+        "token_expiry_timestamp": "2026-02-10T20:08:01.156202+00:00",
+        "source_alias": "bassic"
     }
 }
