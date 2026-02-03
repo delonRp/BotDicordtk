@@ -8884,5 +8884,18 @@
         "current_token": "INNERCIRCLE-MYLK-20260203",
         "token_expiry_timestamp": "2026-02-10T12:16:11.705194+00:00",
         "source_alias": "bassic"
+    },
+    "1468197579769774197": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3LYM-20260203",
+                "expiry_timestamp": "2026-02-10T12:46:08.280268+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-03T12:46:08.280268+00:00",
+        "current_token": "INNERCIRCLE-3LYM-20260203",
+        "token_expiry_timestamp": "2026-02-10T12:46:08.280268+00:00",
+        "source_alias": "bassic"
     }
 }
