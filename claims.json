@@ -6282,7 +6282,17 @@
         "last_claim_timestamp": "2026-01-05T14:10:34.556051+00:00"
     },
     "1394856035918942372": {
-        "last_claim_timestamp": "2026-01-05T14:20:00.389848+00:00"
+        "last_claim_timestamp": "2026-02-03T05:00:11.297458+00:00",
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-JBDW-20260203",
+                "expiry_timestamp": "2026-02-10T05:00:11.297458+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "INNERCIRCLE-JBDW-20260203",
+        "token_expiry_timestamp": "2026-02-10T05:00:11.297458+00:00",
+        "source_alias": "bassic"
     },
     "872133837294022747": {
         "last_claim_timestamp": "2026-01-05T14:24:54.799601+00:00",
