@@ -8858,5 +8858,18 @@
         "current_token": "INNERCIRCLE-UNV3-20260203",
         "token_expiry_timestamp": "2026-02-10T11:39:25.603873+00:00",
         "source_alias": "bassic"
+    },
+    "1467350831140700401": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-CH3C-20260203",
+                "expiry_timestamp": "2026-02-10T11:56:41.405935+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-03T11:56:41.405935+00:00",
+        "current_token": "INNERCIRCLE-CH3C-20260203",
+        "token_expiry_timestamp": "2026-02-10T11:56:41.405935+00:00",
+        "source_alias": "bassic"
     }
 }
