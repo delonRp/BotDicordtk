@@ -8946,5 +8946,18 @@
         "current_token": "BEGINNER-Q8SM-20260204",
         "token_expiry_timestamp": "2026-02-07T08:24:05.584544+00:00",
         "source_alias": "bassic"
+    },
+    "1282269054370971712": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-P7LP-20260204",
+                "expiry_timestamp": "2026-02-11T08:49:50.626623+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T08:49:50.626623+00:00",
+        "current_token": "INNERCIRCLE-P7LP-20260204",
+        "token_expiry_timestamp": "2026-02-11T08:49:50.626623+00:00",
+        "source_alias": "bassic"
     }
 }
