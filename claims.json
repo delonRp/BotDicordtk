@@ -8409,17 +8409,7 @@
         "source_alias": "bassic"
     },
     "1102537195291689020": {
-        "tokens": [
-            {
-                "token": "BEGINNER-KWHD-20260201",
-                "expiry_timestamp": "2026-02-04T10:19:34.754635+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-02-01T10:19:34.754635+00:00",
-        "current_token": "BEGINNER-KWHD-20260201",
-        "token_expiry_timestamp": "2026-02-04T10:19:34.754635+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-02-01T10:19:34.754635+00:00"
     },
     "1093509247138013296": {
         "tokens": [
