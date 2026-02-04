@@ -8949,5 +8949,18 @@
         "current_token": "INNERCIRCLE-P7LP-20260204",
         "token_expiry_timestamp": "2026-02-11T08:49:50.626623+00:00",
         "source_alias": "bassic"
+    },
+    "694138647078764615": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-KWM8-20260204",
+                "expiry_timestamp": "2026-02-11T09:43:19.316864+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T09:43:19.316864+00:00",
+        "current_token": "INNERCIRCLE-KWM8-20260204",
+        "token_expiry_timestamp": "2026-02-11T09:43:19.316864+00:00",
+        "source_alias": "bassic"
     }
 }
