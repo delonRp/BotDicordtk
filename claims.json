@@ -9023,5 +9023,18 @@
         "current_token": "INNERCIRCLE-0TAI-20260204",
         "token_expiry_timestamp": "2026-02-11T15:01:00.167619+00:00",
         "source_alias": "bassic"
+    },
+    "1027979925518565486": {
+        "tokens": [
+            {
+                "token": "BEGINNER-B9RG-20260204",
+                "expiry_timestamp": "2026-02-07T20:26:08.924434+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T20:26:08.924434+00:00",
+        "current_token": "BEGINNER-B9RG-20260204",
+        "token_expiry_timestamp": "2026-02-07T20:26:08.924434+00:00",
+        "source_alias": "bassic"
     }
 }
