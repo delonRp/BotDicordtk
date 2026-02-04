@@ -8193,17 +8193,7 @@
         "last_claim_timestamp": "2026-01-30T18:50:09.701794+00:00"
     },
     "1461031470918533192": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-WJZL-20260130",
-                "expiry_timestamp": "2026-02-04T19:08:34.827239+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-30T19:08:34.827239+00:00",
-        "current_token": "SUBSCRIBER-WJZL-20260130",
-        "token_expiry_timestamp": "2026-02-04T19:08:34.827239+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-30T19:08:34.827239+00:00"
     },
     "1315441848369549432": {
         "tokens": [
