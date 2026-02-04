@@ -7995,17 +7995,7 @@
         "last_claim_timestamp": "2026-01-28T09:04:31.615178+00:00"
     },
     "1089397937605443615": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-TEWU-20260128",
-                "expiry_timestamp": "2026-02-04T11:23:38.162259+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-28T11:23:38.162259+00:00",
-        "current_token": "INNERCIRCLE-TEWU-20260128",
-        "token_expiry_timestamp": "2026-02-04T11:23:38.162259+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-28T11:23:38.162259+00:00"
     },
     "1402577370195693639": {
         "tokens": [
