@@ -8933,5 +8933,18 @@
         "current_token": "BEGINNER-7ZET-20260204",
         "token_expiry_timestamp": "2026-02-07T04:17:20.002769+00:00",
         "source_alias": "bassic"
+    },
+    "1374002436334682306": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Q8SM-20260204",
+                "expiry_timestamp": "2026-02-07T08:24:05.584544+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T08:24:05.584544+00:00",
+        "current_token": "BEGINNER-Q8SM-20260204",
+        "token_expiry_timestamp": "2026-02-07T08:24:05.584544+00:00",
+        "source_alias": "bassic"
     }
 }
