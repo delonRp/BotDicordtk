@@ -5299,20 +5299,7 @@
     "1375128768116686860": {
         "last_claim_timestamp": "2025-12-20T12:33:37.590312+00:00"
     },
-    "935525591384465429": {
-        "tokens": [
-            {
-                "token": "jfj",
-                "expiry_timestamp": "2026-02-04T02:20:32.029860+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "jfj",
-        "token_expiry_timestamp": "2026-02-04T02:20:32.029860+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
+    "935525591384465429": {},
     "1120307843191558175": {
         "last_claim_timestamp": "2025-12-20T14:53:40.986583+00:00"
     },
@@ -5483,19 +5470,7 @@
         "last_claim_timestamp": "2025-12-24T02:14:22.665221+00:00"
     },
     "1056234663934427198": {
-        "last_claim_timestamp": "2025-12-31T03:34:06.860473+00:00",
-        "tokens": [
-            {
-                "token": "jfj",
-                "expiry_timestamp": "2026-02-04T02:20:24.543298+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "jfj",
-        "token_expiry_timestamp": "2026-02-04T02:20:24.543298+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2025-12-31T03:34:06.860473+00:00"
     },
     "1432582868143571069": {
         "last_claim_timestamp": "2025-12-24T05:08:51.904019+00:00"
@@ -8737,19 +8712,9 @@
                 "token": "INNERCIRCLE-XROY-20260202",
                 "expiry_timestamp": "2026-02-09T23:33:40.525942+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "jfj",
-                "expiry_timestamp": "2026-02-04T02:20:49.744593+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-02T23:33:40.525942+00:00",
-        "current_token": "jfj",
-        "token_expiry_timestamp": "2026-02-04T02:20:49.744593+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-02T23:33:40.525942+00:00"
     },
     "911536042346151936": {
         "tokens": [
