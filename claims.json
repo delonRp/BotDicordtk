@@ -8868,12 +8868,19 @@
                 "token": "INNERCIRCLE-GE6G-20260204",
                 "expiry_timestamp": "2026-02-11T01:55:34.407435+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "30d",
+                "expiry_timestamp": "2026-03-06T11:34:44.525496+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-04T01:55:34.407435+00:00",
-        "current_token": "INNERCIRCLE-GE6G-20260204",
-        "token_expiry_timestamp": "2026-02-11T01:55:34.407435+00:00",
-        "source_alias": "bassic"
+        "current_token": "30d",
+        "token_expiry_timestamp": "2026-03-06T11:34:44.525496+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1462693637174333472": {
         "tokens": [
