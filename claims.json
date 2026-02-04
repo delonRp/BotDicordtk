@@ -8962,5 +8962,18 @@
         "current_token": "INNERCIRCLE-KWM8-20260204",
         "token_expiry_timestamp": "2026-02-11T09:43:19.316864+00:00",
         "source_alias": "bassic"
+    },
+    "1408892687771373618": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-GHBK-20260204",
+                "expiry_timestamp": "2026-02-11T09:48:18.095012+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T09:48:18.095012+00:00",
+        "current_token": "INNERCIRCLE-GHBK-20260204",
+        "token_expiry_timestamp": "2026-02-11T09:48:18.095012+00:00",
+        "source_alias": "bassic"
     }
 }
