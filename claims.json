@@ -8897,5 +8897,18 @@
         "current_token": "INNERCIRCLE-HVV1-20260204",
         "token_expiry_timestamp": "2026-02-11T01:58:52.216603+00:00",
         "source_alias": "bassic"
+    },
+    "530734762139058176": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-VCFW-20260204",
+                "expiry_timestamp": "2026-02-11T03:35:00.733691+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-04T03:35:00.733691+00:00",
+        "current_token": "INNERCIRCLE-VCFW-20260204",
+        "token_expiry_timestamp": "2026-02-11T03:35:00.733691+00:00",
+        "source_alias": "bassic"
     }
 }
