@@ -9098,5 +9098,18 @@
         "token_expiry_timestamp": "2026-02-06T01:58:54.351286+00:00",
         "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
+    },
+    "1459115924937379967": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-9CAS-20260205",
+                "expiry_timestamp": "2026-02-12T05:53:16.798792+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-05T05:53:16.798792+00:00",
+        "current_token": "INNERCIRCLE-9CAS-20260205",
+        "token_expiry_timestamp": "2026-02-12T05:53:16.798792+00:00",
+        "source_alias": "bassic"
     }
 }
