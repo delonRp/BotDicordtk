@@ -9133,12 +9133,19 @@
                 "token": "INNERCIRCLE-HIZ5-20260205",
                 "expiry_timestamp": "2026-02-12T10:50:18.967289+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "234",
+                "expiry_timestamp": "2026-02-06T12:09:15.029033+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-05T10:50:18.967289+00:00",
-        "current_token": "INNERCIRCLE-HIZ5-20260205",
-        "token_expiry_timestamp": "2026-02-12T10:50:18.967289+00:00",
-        "source_alias": "bassic"
+        "current_token": "234",
+        "token_expiry_timestamp": "2026-02-06T12:09:15.029033+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "488699072203718669": {
         "tokens": [
