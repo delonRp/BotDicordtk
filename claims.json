@@ -8791,12 +8791,19 @@
                 "token": "INNERCIRCLE-X8OV-20260203",
                 "expiry_timestamp": "2026-02-10T13:06:59.402412+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "1nds",
+                "expiry_timestamp": "2026-02-06T01:59:19.095438+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-03T13:06:59.402412+00:00",
-        "current_token": "INNERCIRCLE-X8OV-20260203",
-        "token_expiry_timestamp": "2026-02-10T13:06:59.402412+00:00",
-        "source_alias": "bassic"
+        "current_token": "1nds",
+        "token_expiry_timestamp": "2026-02-06T01:59:19.095438+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "781045081205243926": {
         "tokens": [
