@@ -9173,11 +9173,17 @@
                 "expiry_timestamp": "2299-11-20T12:05:09.974139+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "aul",
+                "expiry_timestamp": "2299-11-20T12:05:27.286157+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "aul",
-        "token_expiry_timestamp": "2299-11-20T12:05:09.974139+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2299-11-20T12:05:27.286157+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
