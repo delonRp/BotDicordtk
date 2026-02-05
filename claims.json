@@ -7806,11 +7806,18 @@
                 "token": "INNERCIRCLE-SYKD-20260203",
                 "expiry_timestamp": "2026-02-10T13:31:54.756590+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "1nds",
+                "expiry_timestamp": "2026-02-06T01:59:41.680981+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
-        "current_token": "INNERCIRCLE-SYKD-20260203",
-        "token_expiry_timestamp": "2026-02-10T13:31:54.756590+00:00",
-        "source_alias": "bassic"
+        "current_token": "1nds",
+        "token_expiry_timestamp": "2026-02-06T01:59:41.680981+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1375478345680158840": {
         "last_claim_timestamp": "2026-01-24T14:12:27.512824+00:00"
