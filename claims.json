@@ -8934,12 +8934,19 @@
                 "token": "INNERCIRCLE-GHBK-20260204",
                 "expiry_timestamp": "2026-02-11T09:48:18.095012+00:00",
                 "source_alias": "bassic"
+            },
+            {
+                "token": "1nds",
+                "expiry_timestamp": "2026-02-06T01:58:40.694935+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "last_claim_timestamp": "2026-02-04T09:48:18.095012+00:00",
-        "current_token": "INNERCIRCLE-GHBK-20260204",
-        "token_expiry_timestamp": "2026-02-11T09:48:18.095012+00:00",
-        "source_alias": "bassic"
+        "current_token": "1nds",
+        "token_expiry_timestamp": "2026-02-06T01:58:40.694935+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     },
     "1415206598099603517": {
         "tokens": [
