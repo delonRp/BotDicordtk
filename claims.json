@@ -9152,5 +9152,18 @@
         "current_token": "BEGINNER-W46J-20260205",
         "token_expiry_timestamp": "2026-02-08T11:11:01.614950+00:00",
         "source_alias": "bassic"
+    },
+    "1279683595950358552": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LTCZ-20260205",
+                "expiry_timestamp": "2026-02-12T12:00:51.503079+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-05T12:00:51.503079+00:00",
+        "current_token": "INNERCIRCLE-LTCZ-20260205",
+        "token_expiry_timestamp": "2026-02-12T12:00:51.503079+00:00",
+        "source_alias": "bassic"
     }
 }
