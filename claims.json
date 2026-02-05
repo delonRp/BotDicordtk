@@ -9213,5 +9213,18 @@
         "current_token": "INNERCIRCLE-N81M-20260205",
         "token_expiry_timestamp": "2026-02-12T18:24:18.541255+00:00",
         "source_alias": "bassic"
+    },
+    "1467327169695977575": {
+        "tokens": [
+            {
+                "token": "BEGINNER-B404-20260205",
+                "expiry_timestamp": "2026-02-08T19:40:31.230087+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-05T19:40:31.230087+00:00",
+        "current_token": "BEGINNER-B404-20260205",
+        "token_expiry_timestamp": "2026-02-08T19:40:31.230087+00:00",
+        "source_alias": "bassic"
     }
 }
