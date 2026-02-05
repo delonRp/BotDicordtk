@@ -9139,5 +9139,18 @@
         "current_token": "INNERCIRCLE-HIZ5-20260205",
         "token_expiry_timestamp": "2026-02-12T10:50:18.967289+00:00",
         "source_alias": "bassic"
+    },
+    "488699072203718669": {
+        "tokens": [
+            {
+                "token": "BEGINNER-W46J-20260205",
+                "expiry_timestamp": "2026-02-08T11:11:01.614950+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-05T11:11:01.614950+00:00",
+        "current_token": "BEGINNER-W46J-20260205",
+        "token_expiry_timestamp": "2026-02-08T11:11:01.614950+00:00",
+        "source_alias": "bassic"
     }
 }
