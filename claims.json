@@ -8113,25 +8113,10 @@
         "last_claim_timestamp": "2026-01-29T11:45:27.182580+00:00"
     },
     "1278053324301664266": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-IGRE-20260129",
-                "expiry_timestamp": "2026-02-05T12:31:11.961257+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-29T12:31:11.961257+00:00",
-        "current_token": "INNERCIRCLE-IGRE-20260129",
-        "token_expiry_timestamp": "2026-02-05T12:31:11.961257+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-29T12:31:11.961257+00:00"
     },
     "1424009794607382611": {
         "tokens": [
-            {
-                "token": "INNERCIRCLE-Q1UE-20260129",
-                "expiry_timestamp": "2026-02-05T12:48:38.300985+00:00",
-                "source_alias": "bassic"
-            },
             {
                 "token": "dap",
                 "expiry_timestamp": "2026-02-28T14:10:44.990698+00:00",
