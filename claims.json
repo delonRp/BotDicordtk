@@ -9126,5 +9126,18 @@
         "token_expiry_timestamp": "2026-02-06T06:06:39.867592+00:00",
         "source_alias": "vip",
         "assigned_by_admin": 782445287855489076
+    },
+    "1467478923376857128": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-HIZ5-20260205",
+                "expiry_timestamp": "2026-02-12T10:50:18.967289+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-05T10:50:18.967289+00:00",
+        "current_token": "INNERCIRCLE-HIZ5-20260205",
+        "token_expiry_timestamp": "2026-02-12T10:50:18.967289+00:00",
+        "source_alias": "bassic"
     }
 }
