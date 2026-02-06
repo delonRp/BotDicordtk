@@ -9251,5 +9251,18 @@
         "current_token": "BEGINNER-QCBY-20260206",
         "token_expiry_timestamp": "2026-02-09T10:32:44.221143+00:00",
         "source_alias": "bassic"
+    },
+    "1458409675820236886": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-3KT4-20260206",
+                "expiry_timestamp": "2026-02-13T10:48:32.690155+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T10:48:32.690155+00:00",
+        "current_token": "INNERCIRCLE-3KT4-20260206",
+        "token_expiry_timestamp": "2026-02-13T10:48:32.690155+00:00",
+        "source_alias": "bassic"
     }
 }
