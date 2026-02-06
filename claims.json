@@ -548,7 +548,17 @@
         "last_claim_timestamp": "2025-11-05T00:50:11.124647+00:00"
     },
     "732488465073176576": {
-        "last_claim_timestamp": "2025-11-25T06:02:43.784406+00:00"
+        "last_claim_timestamp": "2026-02-06T05:01:54.138601+00:00",
+        "tokens": [
+            {
+                "token": "VIP-MAGI-20260206",
+                "expiry_timestamp": "2026-03-08T05:01:54.138601+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "current_token": "VIP-MAGI-20260206",
+        "token_expiry_timestamp": "2026-03-08T05:01:54.138601+00:00",
+        "source_alias": "bassic"
     },
     "1143548329389727815": {
         "last_claim_timestamp": "2025-09-23T06:21:30.024000+00:00"
