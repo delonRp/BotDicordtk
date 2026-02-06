@@ -9209,5 +9209,18 @@
         "current_token": "BEGINNER-BNEL-20260206",
         "token_expiry_timestamp": "2026-02-09T08:27:49.623943+00:00",
         "source_alias": "bassic"
+    },
+    "1176902217396146186": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-NGCF-20260206",
+                "expiry_timestamp": "2026-02-13T09:52:26.146572+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T09:52:26.146572+00:00",
+        "current_token": "INNERCIRCLE-NGCF-20260206",
+        "token_expiry_timestamp": "2026-02-13T09:52:26.146572+00:00",
+        "source_alias": "bassic"
     }
 }
