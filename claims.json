@@ -6548,26 +6548,7 @@
     "1456585499715043401": {
         "last_claim_timestamp": "2026-01-07T12:57:47.021820+00:00"
     },
-    "987936322364788797": {
-        "tokens": [
-            {
-                "token": "rian",
-                "expiry_timestamp": "2026-02-06T12:59:09.626785+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            },
-            {
-                "token": "rian",
-                "expiry_timestamp": "2026-02-06T12:59:36.637352+00:00",
-                "source_alias": "bassic",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "rian",
-        "token_expiry_timestamp": "2026-02-06T12:59:36.637352+00:00",
-        "source_alias": "bassic",
-        "assigned_by_admin": 782445287855489076
-    },
+    "987936322364788797": {},
     "721197110808018976": {
         "last_claim_timestamp": "2026-01-07T13:20:57.375032+00:00"
     },
