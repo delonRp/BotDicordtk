@@ -9274,5 +9274,18 @@
         "current_token": "INNERCIRCLE-ZLW2-20260206",
         "token_expiry_timestamp": "2026-02-13T14:38:24.464385+00:00",
         "source_alias": "bassic"
+    },
+    "1403393437507518565": {
+        "tokens": [
+            {
+                "token": "BEGINNER-Z9YE-20260206",
+                "expiry_timestamp": "2026-02-09T17:40:44.999961+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T17:40:44.999961+00:00",
+        "current_token": "BEGINNER-Z9YE-20260206",
+        "token_expiry_timestamp": "2026-02-09T17:40:44.999961+00:00",
+        "source_alias": "bassic"
     }
 }
