@@ -9196,5 +9196,18 @@
         "current_token": "BEGINNER-PTPQ-20260206",
         "token_expiry_timestamp": "2026-02-09T07:18:58.715593+00:00",
         "source_alias": "bassic"
+    },
+    "396727570667798528": {
+        "tokens": [
+            {
+                "token": "BEGINNER-BNEL-20260206",
+                "expiry_timestamp": "2026-02-09T08:27:49.623943+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T08:27:49.623943+00:00",
+        "current_token": "BEGINNER-BNEL-20260206",
+        "token_expiry_timestamp": "2026-02-09T08:27:49.623943+00:00",
+        "source_alias": "bassic"
     }
 }
