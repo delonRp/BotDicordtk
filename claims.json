@@ -7304,19 +7304,7 @@
         "source_alias": "bassic"
     },
     "1190327370264088678": {
-        "last_claim_timestamp": "2026-01-23T12:06:39.447105+00:00",
-        "tokens": [
-            {
-                "token": "dksj",
-                "expiry_timestamp": "2026-02-06T01:57:28.315651+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "dksj",
-        "token_expiry_timestamp": "2026-02-06T01:57:28.315651+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-01-23T12:06:39.447105+00:00"
     },
     "1361655080536899636": {
         "last_claim_timestamp": "2026-01-16T13:07:40.435346+00:00"
@@ -7854,18 +7842,8 @@
                 "token": "INNERCIRCLE-SYKD-20260203",
                 "expiry_timestamp": "2026-02-10T13:31:54.756590+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:59:41.680981+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
-        ],
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:59:41.680981+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        ]
     },
     "1375478345680158840": {
         "last_claim_timestamp": "2026-01-24T14:12:27.512824+00:00"
@@ -8801,19 +8779,9 @@
                 "token": "INNERCIRCLE-X8OV-20260203",
                 "expiry_timestamp": "2026-02-10T13:06:59.402412+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:59:19.095438+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-03T13:06:59.402412+00:00",
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:59:19.095438+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-03T13:06:59.402412+00:00"
     },
     "781045081205243926": {
         "tokens": [
@@ -8834,19 +8802,9 @@
                 "token": "INNERCIRCLE-VW45-20260203",
                 "expiry_timestamp": "2026-02-10T20:08:01.156202+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:59:07.682535+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-03T20:08:01.156202+00:00",
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:59:07.682535+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-03T20:08:01.156202+00:00"
     },
     "1456158994677891262": {
         "tokens": [
@@ -8958,19 +8916,9 @@
                 "token": "INNERCIRCLE-GHBK-20260204",
                 "expiry_timestamp": "2026-02-11T09:48:18.095012+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:58:40.694935+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-04T09:48:18.095012+00:00",
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:58:40.694935+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-04T09:48:18.095012+00:00"
     },
     "1415206598099603517": {
         "tokens": [
@@ -8991,19 +8939,9 @@
                 "token": "INNERCIRCLE-0431-20260204",
                 "expiry_timestamp": "2026-02-11T11:55:37.418565+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:58:24.891393+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-04T11:55:37.418565+00:00",
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:58:24.891393+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-04T11:55:37.418565+00:00"
     },
     "1417080425058271315": {
         "tokens": [
@@ -9050,48 +8988,12 @@
                 "token": "BEGINNER-B9RG-20260204",
                 "expiry_timestamp": "2026-02-07T20:26:08.924434+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:58:05.761630+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-04T20:26:08.924434+00:00",
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:58:05.761630+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-04T20:26:08.924434+00:00"
     },
-    "1418069307279147152": {
-        "tokens": [
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:57:53.481528+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:57:53.481528+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
-    "1451841668432269428": {
-        "tokens": [
-            {
-                "token": "1nds",
-                "expiry_timestamp": "2026-02-06T01:58:54.351286+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
-            }
-        ],
-        "current_token": "1nds",
-        "token_expiry_timestamp": "2026-02-06T01:58:54.351286+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
-    },
+    "1418069307279147152": {},
+    "1451841668432269428": {},
     "1459115924937379967": {
         "tokens": [
             {
