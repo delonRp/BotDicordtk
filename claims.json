@@ -9287,5 +9287,18 @@
         "current_token": "BEGINNER-Z9YE-20260206",
         "token_expiry_timestamp": "2026-02-09T17:40:44.999961+00:00",
         "source_alias": "bassic"
+    },
+    "1276538166949445717": {
+        "tokens": [
+            {
+                "token": "BEGINNER-GL74-20260206",
+                "expiry_timestamp": "2026-02-09T17:47:54.065405+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T17:47:54.065405+00:00",
+        "current_token": "BEGINNER-GL74-20260206",
+        "token_expiry_timestamp": "2026-02-09T17:47:54.065405+00:00",
+        "source_alias": "bassic"
     }
 }
