@@ -9257,5 +9257,18 @@
         "current_token": "INNERCIRCLE-EU7D-20260206",
         "token_expiry_timestamp": "2026-02-13T12:19:30.118825+00:00",
         "source_alias": "bassic"
+    },
+    "1431983203929030677": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-GZHR-20260206",
+                "expiry_timestamp": "2026-02-13T13:04:19.415526+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T13:04:19.415526+00:00",
+        "current_token": "INNERCIRCLE-GZHR-20260206",
+        "token_expiry_timestamp": "2026-02-13T13:04:19.415526+00:00",
+        "source_alias": "bassic"
     }
 }
