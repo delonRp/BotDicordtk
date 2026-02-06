@@ -9010,19 +9010,9 @@
                 "token": "INNERCIRCLE-9CAS-20260205",
                 "expiry_timestamp": "2026-02-12T05:53:16.798792+00:00",
                 "source_alias": "bassic"
-            },
-            {
-                "token": "sjsj",
-                "expiry_timestamp": "2026-02-06T06:06:39.867592+00:00",
-                "source_alias": "vip",
-                "assigned_by_admin": 782445287855489076
             }
         ],
-        "last_claim_timestamp": "2026-02-05T05:53:16.798792+00:00",
-        "current_token": "sjsj",
-        "token_expiry_timestamp": "2026-02-06T06:06:39.867592+00:00",
-        "source_alias": "vip",
-        "assigned_by_admin": 782445287855489076
+        "last_claim_timestamp": "2026-02-05T05:53:16.798792+00:00"
     },
     "1467478923376857128": {
         "tokens": [
