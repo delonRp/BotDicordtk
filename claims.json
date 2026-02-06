@@ -9244,5 +9244,18 @@
         "current_token": "INNERCIRCLE-3KT4-20260206",
         "token_expiry_timestamp": "2026-02-13T10:48:32.690155+00:00",
         "source_alias": "bassic"
+    },
+    "876646249439313920": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-EU7D-20260206",
+                "expiry_timestamp": "2026-02-13T12:19:30.118825+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T12:19:30.118825+00:00",
+        "current_token": "INNERCIRCLE-EU7D-20260206",
+        "token_expiry_timestamp": "2026-02-13T12:19:30.118825+00:00",
+        "source_alias": "bassic"
     }
 }
