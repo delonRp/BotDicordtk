@@ -9167,5 +9167,18 @@
         "current_token": "BEGINNER-NT6Y-20260206",
         "token_expiry_timestamp": "2026-02-09T06:00:24.545723+00:00",
         "source_alias": "bassic"
+    },
+    "776155173214617651": {
+        "tokens": [
+            {
+                "token": "BEGINNER-SY50-20260206",
+                "expiry_timestamp": "2026-02-09T06:10:51.542854+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-06T06:10:51.542854+00:00",
+        "current_token": "BEGINNER-SY50-20260206",
+        "token_expiry_timestamp": "2026-02-09T06:10:51.542854+00:00",
+        "source_alias": "bassic"
     }
 }
