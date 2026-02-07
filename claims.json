@@ -8166,17 +8166,7 @@
     },
     "1325747148616110131": {},
     "1324297536151879703": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-HM2V-20260131",
-                "expiry_timestamp": "2026-02-07T06:50:24.199375+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-31T06:50:24.199375+00:00",
-        "current_token": "INNERCIRCLE-HM2V-20260131",
-        "token_expiry_timestamp": "2026-02-07T06:50:24.199375+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-31T06:50:24.199375+00:00"
     },
     "1119857430411608095": {
         "tokens": [
