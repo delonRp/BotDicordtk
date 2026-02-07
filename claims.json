@@ -8179,17 +8179,7 @@
         "last_claim_timestamp": "2026-01-31T06:50:24.199375+00:00"
     },
     "1119857430411608095": {
-        "tokens": [
-            {
-                "token": "INNERCIRCLE-VQD5-20260131",
-                "expiry_timestamp": "2026-02-07T08:51:09.093735+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-01-31T08:51:09.093735+00:00",
-        "current_token": "INNERCIRCLE-VQD5-20260131",
-        "token_expiry_timestamp": "2026-02-07T08:51:09.093735+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-01-31T08:51:09.093735+00:00"
     },
     "1321893632587989026": {
         "tokens": [
@@ -8488,17 +8478,7 @@
         "last_claim_timestamp": "2026-02-02T08:18:30.780940+00:00"
     },
     "1443759106362966148": {
-        "tokens": [
-            {
-                "token": "SUBSCRIBER-7WL6-20260202",
-                "expiry_timestamp": "2026-02-07T08:25:37.675500+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-02-02T08:25:37.675500+00:00",
-        "current_token": "SUBSCRIBER-7WL6-20260202",
-        "token_expiry_timestamp": "2026-02-07T08:25:37.675500+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-02-02T08:25:37.675500+00:00"
     },
     "1386236373438038108": {
         "tokens": [
@@ -8815,17 +8795,7 @@
         "last_claim_timestamp": "2026-02-04T04:17:20.002769+00:00"
     },
     "1374002436334682306": {
-        "tokens": [
-            {
-                "token": "BEGINNER-Q8SM-20260204",
-                "expiry_timestamp": "2026-02-07T08:24:05.584544+00:00",
-                "source_alias": "bassic"
-            }
-        ],
-        "last_claim_timestamp": "2026-02-04T08:24:05.584544+00:00",
-        "current_token": "BEGINNER-Q8SM-20260204",
-        "token_expiry_timestamp": "2026-02-07T08:24:05.584544+00:00",
-        "source_alias": "bassic"
+        "last_claim_timestamp": "2026-02-04T08:24:05.584544+00:00"
     },
     "1282269054370971712": {
         "tokens": [
