@@ -9332,5 +9332,19 @@
         "current_token": "INNERCIRCLE-LQAF-20260207",
         "token_expiry_timestamp": "2026-02-14T13:05:11.330207+00:00",
         "source_alias": "bassic"
+    },
+    "1449664781014536274": {
+        "tokens": [
+            {
+                "token": "cyn",
+                "expiry_timestamp": "2026-03-09T16:26:28.336126+00:00",
+                "source_alias": "vip",
+                "assigned_by_admin": 782445287855489076
+            }
+        ],
+        "current_token": "cyn",
+        "token_expiry_timestamp": "2026-03-09T16:26:28.336126+00:00",
+        "source_alias": "vip",
+        "assigned_by_admin": 782445287855489076
     }
 }
