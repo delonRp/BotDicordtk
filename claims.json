@@ -9352,5 +9352,18 @@
         "token_expiry_timestamp": "2026-03-09T16:26:47.327236+00:00",
         "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
+    },
+    "1443275113087893727": {
+        "tokens": [
+            {
+                "token": "BEGINNER-3FTO-20260207",
+                "expiry_timestamp": "2026-02-10T18:06:17.438993+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-07T18:06:17.438993+00:00",
+        "current_token": "BEGINNER-3FTO-20260207",
+        "token_expiry_timestamp": "2026-02-10T18:06:17.438993+00:00",
+        "source_alias": "bassic"
     }
 }
