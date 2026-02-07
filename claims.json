@@ -9317,5 +9317,18 @@
         "current_token": "BEGINNER-XM25-20260207",
         "token_expiry_timestamp": "2026-02-10T05:05:52.367176+00:00",
         "source_alias": "bassic"
+    },
+    "1323455482228113493": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-BRUK-20260207",
+                "expiry_timestamp": "2026-02-14T06:12:15.334452+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-07T06:12:15.334452+00:00",
+        "current_token": "INNERCIRCLE-BRUK-20260207",
+        "token_expiry_timestamp": "2026-02-14T06:12:15.334452+00:00",
+        "source_alias": "bassic"
     }
 }
