@@ -9340,11 +9340,17 @@
                 "expiry_timestamp": "2026-03-09T16:26:28.336126+00:00",
                 "source_alias": "vip",
                 "assigned_by_admin": 782445287855489076
+            },
+            {
+                "token": "cyn",
+                "expiry_timestamp": "2026-03-09T16:26:47.327236+00:00",
+                "source_alias": "bassic",
+                "assigned_by_admin": 782445287855489076
             }
         ],
         "current_token": "cyn",
-        "token_expiry_timestamp": "2026-03-09T16:26:28.336126+00:00",
-        "source_alias": "vip",
+        "token_expiry_timestamp": "2026-03-09T16:26:47.327236+00:00",
+        "source_alias": "bassic",
         "assigned_by_admin": 782445287855489076
     }
 }
