@@ -9365,5 +9365,18 @@
         "current_token": "BEGINNER-3FTO-20260207",
         "token_expiry_timestamp": "2026-02-10T18:06:17.438993+00:00",
         "source_alias": "bassic"
+    },
+    "1454061048217993358": {
+        "tokens": [
+            {
+                "token": "INNERCIRCLE-LHDK-20260208",
+                "expiry_timestamp": "2026-02-15T01:06:58.058307+00:00",
+                "source_alias": "bassic"
+            }
+        ],
+        "last_claim_timestamp": "2026-02-08T01:06:58.058307+00:00",
+        "current_token": "INNERCIRCLE-LHDK-20260208",
+        "token_expiry_timestamp": "2026-02-15T01:06:58.058307+00:00",
+        "source_alias": "bassic"
     }
 }
